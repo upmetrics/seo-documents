@@ -11,15 +11,15 @@
 
 ---
 
-## Page Health: 3/10
+## Page Health: 5/10
 
 | Status | Count | Issues |
 |--------|:-----:|--------|
-| **Critical** | 2 | Page NOT indexed by Google, no organic traffic |
-| Needs Improvement | 4 | CTA variety, resource CTA missing, meta title weak, related content not set |
+| **Needs Attention** | 3 | Page on page 2 (position 12.9), CTA variety issue, resource CTA missing |
+| Needs Improvement | 3 | Meta title weak, related content not set, content freshness (mixed 2025/2026 refs) |
 | Good | 3 | Internal links solid, slug clean, categories correct |
 
-**The biggest issue: Google has crawled this page but chose NOT to index it.** Until indexing is resolved, all other SEO optimizations will have limited impact. However, fixing on-page issues may help Google reconsider indexing on the next crawl.
+**Key opportunity: Page is indexed and ranking at position 12.9 (page 2).** With 86 impressions and 4.7% CTR over 3 months, this page needs on-page improvements to push from page 2 to page 1. The engagement metrics are excellent (76.7% engagement rate) — the content quality is there, it just needs better SEO signals.
 
 ---
 
@@ -50,32 +50,32 @@
 - **Published:** 2025-10-24 | **Last Modified:** 2026-03-23
 - **Content Freshness:** References "2025" in IBISWorld stat and "2026" in heading — mixed year references
 
-### Search Performance (GSC — since publish, Oct 2025)
+### Search Performance (GSC — 3 months)
 
 | Metric | Value |
 |--------|-------|
 | **Total Clicks** | 4 |
-| **Total Impressions** | ~60 |
-| **CTR** | ~6.7% |
-| **Avg Position** | ~50+ (most queries on page 5+) |
-| **Index Status** | **CRAWLED — NOT INDEXED** |
+| **Total Impressions** | 86 |
+| **CTR** | 4.7% |
+| **Avg Position** | 12.9 (page 2) |
+| **Index Status** | **Indexed** ✓ |
 | **Last Crawled** | 2026-02-28 (mobile) |
 | **Structured Data** | None detected (no FAQ schema, no Article schema) |
-| **90-day Trend** | Impressions ↓ declining to 0 in March 2026 |
+| **90-day Trend** | Impressions showing intermittent activity — position fluctuating |
 
 **Top Queries (all-time):**
 
 | Query | Impressions | Clicks | Position |
 |-------|:-----------:|:------:|:--------:|
 | starting a landscaping business | 28 | 0 | 76.0 |
-| how to start a small landscaping business | 3 | 0 | 49.0 |
-| hourly landscaping liability insurance | 3 | 0 | 97.7 |
-| upgrade landscaping business | 3 | 0 | 86.7 |
 | how to start a landscaping business in 2025 | 2 | 0 | 11.0 |
+| how to start a small landscaping business | 3 | 0 | 49.0 |
 | landscaping business start up cost | 1 | 0 | 1.0 |
 | how to start a landscaping design biz | 1 | 0 | 1.0 |
+| hourly landscaping liability insurance | 3 | 0 | 97.7 |
+| upgrade landscaping business | 3 | 0 | 86.7 |
 
-**Key Insight:** The page has appeared at position 1 for two long-tail queries but with only 1 impression each. The main target query "starting a landscaping business" shows position 76 — far from page 1. The "not indexed" status is the root cause of near-zero organic visibility.
+**Key Insight:** The page is indexed with an average position of 12.9 — sitting on page 2 of Google. It has position 1 for two long-tail queries (low volume). The main opportunity is pushing from page 2 to page 1 for core queries like "how to start a landscaping business" through on-page improvements, better meta title/description for CTR, and stronger internal linking.
 
 ### Engagement (GA4 — last 30 days)
 
@@ -515,7 +515,7 @@
 | **Verdict** | ✓ Clean, keyword-rich, appropriate length |
 | **Recommendation** | **Skip — no change needed** |
 
-The slug is well-formed and contains the target keyword. Since the page isn't indexed yet, there's no ranking risk, but the current slug is already optimal.
+The slug is well-formed and contains the target keyword. At position 12.9, changing the slug would risk losing current rankings and require a 301 redirect. No change needed.
 
 ---
 ---
@@ -591,20 +591,14 @@ The slug is well-formed and contains the target keyword. Since the page isn't in
 | 1 | **Business insurance types for landscapers** | Step 4, insurance breakdown | No dedicated page exists — consider creating `/blog/small-business-insurance-guide` |
 | 2 | **Seasonal business planning** | Step 3 (cash buffer), Mistakes #5 (slow season) | No seasonal planning guide exists — could expand `/blog/update-business-plan` |
 
-### Critical: Indexing Issue
+### Ranking Opportunity
 
-**This page's #1 problem is NOT on-page SEO — it's that Google has crawled but NOT indexed it.**
+**The page sits at position 12.9 (page 2) with 86 impressions over 3 months.** On-page improvements — especially meta title/description optimization (Task 5) and internal link strengthening — can help push it to page 1.
 
-Possible causes:
-1. **Content similarity** — The landscaping template page (`/business-plan-examples/landscaping`) may be competing. Google might see both pages as too similar.
-2. **Internal link equity** — The page may not have enough inbound internal links from other high-authority Bizplanr pages.
-3. **Google's quality threshold** — New domains and pages sometimes need more signals before Google indexes them.
-
-**Recommended actions (outside this tool's scope):**
-- Request indexing via Google Search Console
-- Add internal links TO this page from other high-traffic Bizplanr posts
-- Ensure the page is in the XML sitemap (confirmed: it is)
+**Additional actions (outside this tool's scope):**
+- Add internal links TO this page from other high-traffic Bizplanr posts (e.g., link from the cleaning business guide, construction guide)
 - Consider adding FAQ schema for rich results potential
+- Update the IBISWorld stat year reference from 2025 to current data
 
 ---
 

@@ -104,17 +104,55 @@ Engagement metrics above site averages — positive signal for a new page.
 
 ### New Link Suggestions
 
-| # | Anchor Text | Target URL | Section | Placement Context |
-|:-:|-------------|------------|---------|-------------------|
-| 1 | "organizational chart" | `/blog/organizational-structure-business-plan` | Management & Organization | "...Use a **flow chart** to show the managerial hierarchy." |
-| 2 | "preparing a business plan" | `/blog/how-to-write-a-business-plan-complete-guide` | How to Use This Guide | "If you're **preparing a business plan** for a lender or investor..." |
-| 3 | "startup cost" | `/download/startup-costs-worksheet` | Financial Plan | "**Startup cost** and use-of-funds tables" in the list |
-| 4 | "bars" | `/blog/how-to-start-bar-business` | Market Analysis > Competitive Environment | "...such as **bars**, cafes, cinemas, or at-home entertainment." |
-| 5 | "marketing strategy" | `/blog/marketing-strategy-business-plan` | Marketing and Customer Attraction | "...early **marketing** focuses on local visibility..." (minor text adjust) |
-| 6 | "forecast sales" | `/blog/how-to-forecast-sales-for-business` | Financial Plan > Revenue Generation | Near "Revenue should be tied to capacity, operating hours..." (minor text adjust) |
-| 7 | "financial forecasting" | `/features/financial-forecasting` | Financial Plan > Capacity Assumptions | Near "assumptions are grounded in reality." (Sales/Features link, minor text adjust) |
+> **#1** — `organizational chart` → `/blog/organizational-structure-business-plan`
+>
+> **Section:** Management & Organization
+> **In context:** "Avoid vague language here. Reviewers want to know who's accountable when something goes wrong. Best practice? Use a flow **chart** to show the managerial hierarchy."
 
-**Notes:** #1-#4 wrap existing text. #5-#7 require minor text adjustments. #7 is a Sales/Features link.
+---
+
+> **#2** — `preparing a business plan` → `/blog/how-to-write-a-business-plan-complete-guide`
+>
+> **Section:** How to Use This Guide
+> **In context:** "Next, decide who the plan is for. If you're **preparing a business plan** for a lender or investor, pay close attention to the revenue logic, cost structure, and break-even explanations."
+
+---
+
+> **#3** — `startup cost` → `/download/startup-costs-worksheet`
+>
+> **Section:** Financial Plan
+> **In context:** The Financial Plan section lists what a full financial section must include: "...Projected income statements, Cash flow statements, Balance sheets, **Startup cost** and use-of-funds tables, A written assumptions summary..."
+
+---
+
+> **#4** — `bars` → `/blog/how-to-start-bar-business`
+>
+> **Section:** Market Analysis > Competitive Environment
+> **In context:** "Include your direct competitors, such as other lounges nearby your location, and indirect competitors such as **bars**, cafes, cinemas, or at-home entertainment."
+
+---
+
+> **#5** — `marketing strategy` → `/blog/marketing-strategy-business-plan`
+>
+> **Section:** Marketing and Customer Attraction
+> **In context:** "Start how? By clarifying that early **marketing** focuses on local visibility, not broad advertising. Lounges rely heavily on nearby residents, workers, and existing evening foot traffic."
+> **Note:** Minor text adjust — change "marketing" to "marketing strategy" in the anchor.
+
+---
+
+> **#6** — `forecast sales` → `/blog/how-to-forecast-sales-for-business`
+>
+> **Section:** Financial Plan > Revenue Generation
+> **In context:** "Don't jump straight into numbers. First, explain the logic. Revenue should be tied to capacity, operating hours, and how long customers typically stay. If the reader understands the logic, the numbers will feel more believable."
+> **Note:** Minor text adjust — add "forecast sales" mention near revenue logic paragraph.
+
+---
+
+> **#7** — `financial forecasting` → `/features/financial-forecasting` *(Sales/Features)*
+>
+> **Section:** Financial Plan > Capacity and Usage Assumptions
+> **In context:** "Explain how usage differs between weekdays and weekends. Lounges are rarely busy all day, and pretending otherwise raises red flags. Acknowledge slower periods and explain how peak hours make up for them. This section builds trust by showing that assumptions are grounded in reality."
+> **Note:** Minor text adjust — add brief mention of Upmetrics financial forecasting tools.
 
 ---
 
@@ -131,9 +169,18 @@ Engagement metrics above site averages — positive signal for a new page.
 
 ### New CTA Suggestions
 
-| # | CTA Type | Placement (after section) | Headline | Button | Notes |
-|:-:|----------|--------------------------|----------|--------|-------|
-| 1 | Type 12 (Yellow Tip) | After "Risks and Mitigation" | "Tip: Want a structured starting point for your lounge plan?" | Try Upmetrics | Fills ~1,500 word gap between CTA #3 and Elementor |
+> **#1** — Yellow Tip (Type 12) | After "Risks and Mitigation"
+>
+> **Placed after:** "...The goal is to show that the business has room to adjust without immediate financial stress. Keep the tone grounded. Avoid listing extreme or unlikely risks. Focus on the issues that typically affect lounge businesses and show how they're managed through everyday decisions."
+>
+> **CTA Preview:**
+> ```
+> ┌─────────────────────────────────────────────────────────┐
+> │ 💡 Tip: Want a structured starting point for your       │
+> │ lounge plan? Try Upmetrics →                            │
+> └─────────────────────────────────────────────────────────┘
+> ```
+> Fills the ~1,500 word gap between the Financial Plan CTA and the Elementor CTA at the end.
 
 ---
 

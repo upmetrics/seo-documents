@@ -107,6 +107,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#1** — `organizational chart` → `/blog/organizational-structure-business-plan`
 >
 > **Section:** Management & Organization
+>
 > **In context:** "Avoid vague language here. Reviewers want to know who's accountable when something goes wrong. Best practice? Use a flow **chart** to show the managerial hierarchy."
 
 ---
@@ -114,6 +115,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#2** — `preparing a business plan` → `/blog/how-to-write-a-business-plan-complete-guide`
 >
 > **Section:** How to Use This Guide
+>
 > **In context:** "Next, decide who the plan is for. If you're **preparing a business plan** for a lender or investor, pay close attention to the revenue logic, cost structure, and break-even explanations."
 
 ---
@@ -121,6 +123,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#3** — `startup cost` → `/download/startup-costs-worksheet`
 >
 > **Section:** Financial Plan
+>
 > **In context:** The Financial Plan section lists what a full financial section must include: "...Projected income statements, Cash flow statements, Balance sheets, **Startup cost** and use-of-funds tables, A written assumptions summary..."
 
 ---
@@ -128,6 +131,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#4** — `bars` → `/blog/how-to-start-bar-business`
 >
 > **Section:** Market Analysis > Competitive Environment
+>
 > **In context:** "Include your direct competitors, such as other lounges nearby your location, and indirect competitors such as **bars**, cafes, cinemas, or at-home entertainment."
 
 ---
@@ -135,6 +139,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#5** — `marketing strategy` → `/blog/marketing-strategy-business-plan`
 >
 > **Section:** Marketing and Customer Attraction
+>
 > **In context:** "Start how? By clarifying that early **marketing** focuses on local visibility, not broad advertising. Lounges rely heavily on nearby residents, workers, and existing evening foot traffic."
 > **Note:** Minor text adjust — change "marketing" to "marketing strategy" in the anchor.
 
@@ -143,6 +148,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#6** — `forecast sales` → `/blog/how-to-forecast-sales-for-business`
 >
 > **Section:** Financial Plan > Revenue Generation
+>
 > **In context:** "Don't jump straight into numbers. First, explain the logic. Revenue should be tied to capacity, operating hours, and how long customers typically stay. If the reader understands the logic, the numbers will feel more believable."
 > **Note:** Minor text adjust — add "forecast sales" mention near revenue logic paragraph.
 
@@ -151,6 +157,7 @@ Engagement metrics above site averages — positive signal for a new page.
 > **#7** — `financial forecasting` → `/features/financial-forecasting` *(Sales/Features)*
 >
 > **Section:** Financial Plan > Capacity and Usage Assumptions
+>
 > **In context:** "Explain how usage differs between weekdays and weekends. Lounges are rarely busy all day, and pretending otherwise raises red flags. Acknowledge slower periods and explain how peak hours make up for them. This section builds trust by showing that assumptions are grounded in reality."
 > **Note:** Minor text adjust — add brief mention of Upmetrics financial forecasting tools.
 

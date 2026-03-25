@@ -4,36 +4,34 @@
 |-------|-------|
 | **URL** | https://upmetrics.co/blog/business-plan-cover-letter |
 | **Post ID** | 23627 |
-| **Post Type** | Blog Post (`post`) |
-| **Report Date** | 2026-03-24 |
-| **GSC Data Range** | 2025-12-24 to 2026-03-22 (90 days) |
-| **GA4 Data Range** | Last 30 days |
+| **Report Date** | 2026-03-25 |
+| **Data Range** | GSC: 28 days / GA4: 30 days / Trend: 90 days |
 
 ---
 
 ## B. Page Health Score & Action Summary
 
-### Page Health: 4/10
+**Health Score: 4/10** — Critical issues with traffic, freshness, and internal linking
 
-| Status | Count | Details |
-|--------|:-----:|---------|
-| Critical | 2 | Outdated content (2023 dates), zero clicks in 28 days |
-| Needs Improvement | 5 | Thin internal linking, weak meta title, missing CTAs, no resource CTA, no related content |
-| Good | 2 | Indexed with FAQ schema, decent engagement rate on limited traffic |
+| Status | Count |
+|--------|:-----:|
+| Critical | 3 |
+| Needs Improvement | 4 |
+| Good | 2 |
 
-### Action Summary Table
+### Action Summary
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|---|------|--------|--------|---------------|------------|---------------|
-| 1 | Internal Links | High | Medium | 3 links (all informational) | Add 5 new links (mix info + sales) | Add #1-#5 |
-| 2 | CTAs | High | Medium | 1 download link CTA only | Add 1 banner CTA + 1 inline CTA | Add #1-#2 |
-| 3 | Resource CTA | Medium | Quick Win | None set | Set Business Plan Template | Approve |
-| 4 | Related Content | Medium | Quick Win | None set | Add 4 related items | Approve #1-#4 |
-| 5 | Meta Title/Desc | High | Quick Win | Generic question title, weak desc | Rewrite for CTR at position ~10-20 | Approve |
-| 6 | Image Alt Text | Low | Quick Win | 1 image, generic alt | Update with keyword-rich alt | Approve |
-| 7 | URL Slug | Low | Quick Win | `business-plan-cover-letter` | Keep — slug is clean and keyword-focused | Skip |
-| 8 | Headings | Medium | Medium | H2/H3 structure OK, but no keyword in H2s | Minor keyword additions to 2 headings | Approve |
-| 9 | Categories | Low | Quick Win | Planning | Keep Planning, add Funding | Approve |
+|:-:|------|:------:|:------:|---------------|------------|---------------|
+| 1 | Internal Links | High | Medium | 3 links (1 informational, 2 branded/product) | Add 5-6 contextual links; fix link balance | Approve |
+| 2 | CTAs | Medium | Medium | 1 download link CTA + Elementor end CTA | Add 1 investor-themed banner CTA | Approve |
+| 3 | Resource CTA | Medium | Quick Win | Set to Investor Pitch Templates | Change to Business Plan Template (more relevant) | Approve |
+| 4 | Related Content | Medium | Quick Win | Not set | Set 4 related items | Approve |
+| 5 | Meta Title/Desc | High | Quick Win | Generic title, no focus keyphrase | Rewrite title + description for CTR | Approve |
+| 6 | Image Alt Text | Low | Quick Win | 1 image — alt text too generic | Improve alt text | Approve |
+| 7 | URL Slug | Low | High | `business-plan-cover-letter` (good) | Skip — slug is clean | Skip |
+| 8 | Headings | Medium | Medium | Outdated year refs in examples (2023) | Flag for content refresh | Approve |
+| 9 | Categories | Low | Quick Win | Planning | Add Funding as secondary | Approve |
 
 ---
 
@@ -44,80 +42,70 @@
 | Field | Value |
 |-------|-------|
 | **Title** | How to Write a Business Plan Cover Letter? |
-| **Category** | Planning |
-| **Word Count** | ~1,800 |
-| **Published** | Feb 2, 2023 |
-| **Last Modified** | Dec 12, 2023 |
-| **Content Freshness** | Outdated — examples contain 2023 dates (Feb 2023, Mar 2023, Apr 2023). No 2024/2025/2026 references. |
+| **Post Type** | Blog Post (`post`) |
+| **Categories** | Planning |
+| **Word Count** | ~1,800 (content) / ~3,200 (with examples) |
+| **Published** | 2023-02-02 |
+| **Last Modified** | 2023-12-12 |
+| **Content Freshness** | Stale — examples reference 2023 dates. No 2024-2026 updates. Over 2 years old. |
 
-### Search Performance (GSC)
-
-| Metric | Value |
-|--------|-------|
-| **Total Clicks (28d)** | 0 |
-| **Total Impressions (28d)** | ~100 |
-| **Avg CTR** | 0% |
-| **Avg Position** | ~15 (across all queries) |
-| **Index Status** | Submitted and indexed (last crawl: Mar 5, 2026) |
-| **Rich Results** | Breadcrumbs, FAQ schema |
-| **Canonical** | Correct (self-referencing) |
-
-**Top Queries:**
+### Search Performance (GSC — Last 28 Days)
 
 | Query | Impressions | Clicks | CTR | Position |
-|-------|:----------:|:------:|:---:|:--------:|
-| business plan cover letter | 26 | 0 | 0% | 19.6 |
-| cover letter for business loan application | 16 | 0 | 0% | 16.1 |
+|-------|:-----------:|:------:|:---:|:--------:|
+| business plan cover letter | 27 | 0 | 0% | 19.3 |
+| cover letter for business loan application | 15 | 0 | 0% | 16.2 |
 | business plan cover letter sample | 12 | 0 | 0% | 11.1 |
 | business plan cover letter example | 11 | 0 | 0% | 9.4 |
-| cover letter for business plan | 10 | 0 | 0% | 17.3 |
+| cover letter for business plan | 11 | 0 | 0% | 16.7 |
 
-**90-Day Trend: Declining**
-- First 30 days (Dec 24 - Jan 22): ~33 impressions/day avg, 4 clicks total
-- Last 30 days (Feb 22 - Mar 22): ~12 impressions/day avg, 0 clicks
-- Impressions dropped ~64%. Page is losing visibility.
+**Total (28 days):** ~103 impressions, 0 clicks, 0% CTR
 
-**Referring Pages (from GSC Inspect):** Only 1 internal page links to this post — `/blog/confidentiality-statement-for-business-plan`. Very low internal link equity.
+**90-Day Trend:** Declining. First 30 days (Dec 25 - Jan 23): ~1,018 impressions, 4 clicks. Last 30 days (Feb 22 - Mar 22): ~305 impressions, 0 clicks. Impressions dropped ~70%.
 
-### Engagement (GA4)
+**Index Status:** Submitted and indexed. Last crawled 2026-03-05 (mobile). Canonical correct.
 
-| Metric | This Page | Site Avg (Top 50) | vs. Avg |
-|--------|:---------:|:-----------------:|:-------:|
-| Sessions (30d) | 7 | ~580 | Far below |
-| Engagement Rate | 71.4% | ~53% | Above |
-| Bounce Rate | 28.6% | ~47% | Better |
-| Avg Engagement Duration | 8.6s/session | ~45s | Below (small sample) |
-| Active Users | 3 | ~350 | Far below |
+**Structured Data:** Breadcrumbs + FAQ schema detected (PASS).
 
-Traffic is critically low. The above-average engagement rate is from a tiny sample (7 sessions) and not statistically meaningful.
+### Engagement (GA4 — Last 30 Days)
+
+| Metric | This Page | Site Avg (Top 50) | vs. Site |
+|--------|:---------:|:-----------------:|:--------:|
+| Sessions | 8 | 856 | Far below |
+| Engagement Rate | 62.5% | 57.3% | Above |
+| Bounce Rate | 37.5% | 42.7% | Better |
+| Active Users | 4 | — | Very low |
+| Avg. Engagement Time | 7.5s/session | — | Low |
+
+Page engagement rate is slightly above average, but absolute traffic is extremely low (8 sessions in 30 days). The content itself holds readers, but the page isn't getting found.
 
 ### Internal Link Equity
 
-| Direction | Count | Notes |
-|-----------|:-----:|-------|
-| Outbound internal links | 3 | All informational (business proposal, homepage, AI generator) |
-| Inbound internal links | ~1 | Only confidentiality-statement links here (per GSC referrals) |
-| Sales/Features links | 0 | No product/feature page links |
+| Metric | Value |
+|--------|-------|
+| Outbound internal links | 3 |
+| Known inbound links | `/blog/confidentiality-statement-for-business-plan` (GSC referral) |
+| Internal link status | Under-linked — needs more contextual links |
 
 ---
 
 ## D. Task-by-Task Suggestions
 
-### Task 1: Internal Links
+---
 
-**Current State:** 3 internal links, all informational. Zero sales/features links. For a ~1,800 word post, target is 5-7 links.
+### Task 1: Internal Links
 
 #### Existing Link Audit
 
 | # | Anchor Text | Target URL | Status |
-|---|-------------|------------|--------|
-| 1 | business proposal | /blog/how-to-write-a-business-proposal | Good |
-| 2 | Upmetrics business planning app | / (homepage) | Good — branded mention |
-| 3 | AI business plan generator | /ai-tools/free-ai-business-plan-generator | Good |
+|:-:|-------------|------------|:------:|
+| 1 | business proposal | `/blog/how-to-write-a-business-proposal` | Good |
+| 2 | Upmetrics business planning app | `/` (homepage) | Good — branded homepage link |
+| 3 | AI business plan generator | `/ai-tools/free-ai-business-plan-generator` | Good |
 
-All 3 existing links are well-placed and relevant. No broken links or competitor links found.
+**Current balance:** 1 informational + 2 product/branded = 33%/67% — too sales-heavy for a blog post (target: 60-70% informational).
 
-**Balance:** 3 informational links, 0 sales/features. Target ratio for blog posts: ~2:1 (info:sales). Need to add both informational and sales links.
+**No broken links or competitor links found.**
 
 #### New Link Suggestions
 
@@ -129,19 +117,19 @@ All 3 existing links are well-placed and relevant. No broken links or competitor
 
 ---
 
-> **#2** — `secure funding` → `/blog/how-to-get-funding-for-a-business`
+> **#2** — `business plan introduction` → `/blog/business-plan-introduction`
 >
 > **Section:** What is a business plan cover letter?
 >
-> **In context:** "you need a cover letter to accompany your business plan to **secure funding** or a business loan."
+> **In context:** "A business plan cover letter is a formal document that accompanies your business plan and introduces you and your business venture to potential investors or lenders." **Note:** Requires minor text addition — add a sentence: "It complements your **business plan introduction** by providing a personal, direct appeal to the reader."
 
 ---
 
-> **#3** — `seeking investment` → `/blog/how-to-find-investors-for-startup`
+> **#3** — `find investors` → `/blog/how-to-find-investors-for-startup`
 >
-> **Section:** Why is a business plan cover letter important?
+> **Section:** 3. Make a strong start
 >
-> **In context:** "Acts as an asset when you're **seeking investment** by offering valuable information and piquing investors' interest to read your detailed plan."
+> **In context:** "It should explain clearly as to why your business is a good investment opportunity." **Note:** Requires minor text addition — add: "If you're still deciding who to approach, here's how to **find investors** for your startup."
 
 ---
 
@@ -149,148 +137,139 @@ All 3 existing links are well-placed and relevant. No broken links or competitor
 >
 > **Section:** Tips for writing a formal cover letter
 >
-> **In context:** This requires a small text addition at the end of the tips list.
->
-> **Note:** Requires adding a bullet: "Consider including a **confidentiality statement** if the business plan contains sensitive financial or strategic data."
+> **In context:** After the last bullet about mentioning past investors, add: "Also, consider attaching a **confidentiality statement** to protect sensitive business information."
 
 ---
 
-> **#5** — `what is a pitch deck` → `/blog/what-is-a-pitch-deck`
+> **#5** — `business plan format` → `/blog/business-plan-format`
 >
-> **Section:** Close with an acknowledgment (Step 5)
+> **Section:** Tips for writing a formal cover letter
 >
-> **In context:** "request a meeting to discuss things further"
->
-> **Note:** Requires adding a sentence after "request a meeting to discuss things further": "If you're also preparing a **pitch deck** alongside your plan, ensure both documents tell a consistent story."
+> **In context:** "These tips and a good design will help you create a professional-looking cover letter to keep your investors interested." **Note:** Requires minor text addition — add: "For more on structuring the plan itself, see our guide on **business plan format**."
 
 ---
 
-### Task 2: CTA Placements
+> **#6** — `what investors want` → `/blog/what-investors-want-from-your-business`
+>
+> **Section:** 4. Support your statements
+>
+> **In context:** "Claims made without evidence don't mean much. You need to provide some form of data or facts to prove that you're worth the risk." **Note:** Requires minor text addition — add: "Understanding **what investors want** from your business makes this much easier."
 
-**Current State:** 1 CTA total — a Download Link (Type 1) for Investor Pitch Templates, placed after the definition section. The post also has an `[elementor-template id="44970"]` at the very end.
+---
 
-For a ~1,800 word post, target is 1-2 CTAs. The existing download link is well-placed but the post lacks a conversion-focused CTA.
+### Task 2: CTAs
 
 #### Existing CTA Audit
 
-| # | CTA Type | Placement | Status | Notes |
-|---|----------|-----------|--------|-------|
-| 1 | Type 1 (Download Link) | After "What is a business plan cover letter?" | Good | Relevant resource — investor pitch templates match the topic |
-| 2 | Elementor Template | End of post | Good | Site-wide CTA — do not modify |
+| # | CTA Type | Location | Status | Notes |
+|:-:|----------|----------|:------:|-------|
+| 1 | Download Link (Type 1) | After "What is a business plan cover letter?" | Needs Fix | Links to Investor Pitch Templates — loosely relevant. Should match Resource CTA (Task 3). |
+| 2 | Elementor Template `[44970]` | End of content | Good | Site-wide end CTA, keep as-is |
+
+**2 tip blocks** (`upm-blog-tip`) exist but these are editorial, not CTAs.
 
 #### New CTA Suggestions
 
-> **#1** — Flex Banner: Investor-Ready Plan (Type 8) | After "Tips for writing a formal cover letter"
+> **#1** — Flex Banner: Investor-Ready (Type 8) | After "5. Close with an acknowledgment"
 >
-> **Placed after:** "These tips and a good design will help you create a professional-looking cover letter to keep your investors interested."
+> **Placed after:** "And that's everything a cover letter must include! But before you start writing your cover letter, check the next section."
 >
 > **CTA Preview:**
 > ```
-> +----------------------------------------------------------+
-> |  Still working on the plan behind the cover letter?       |
-> |                                                           |
-> |  Build an investor-ready business plan this weekend       |
-> |                                                           |
-> |  [ Start Planning Now ]                  AI Business Plan |
-> +----------------------------------------------------------+
+> ┌─────────────────────────────────────────────────────────┐
+> │  A good cover letter means nothing without a solid plan  │
+> │                                                          │
+> │  Get your investor-ready plan done this weekend           │
+> │                                                          │
+> │  [ Start Planning Now ]                                  │
+> │                                       🖼 AI Business Plan│
+> └─────────────────────────────────────────────────────────┘
 > ```
 
 ---
 
-> **#2** — Yellow Tip Alert (Type 12) | After "4. Support your statements" section
+> **#2** — Update existing Download Link CTA (after "What is..." section)
 >
-> **Placed after:** the upm-blog-tip about USP and competitive advantage
+> **Current:** → Download Now: Investor Pitch Template
 >
-> **CTA Preview:**
-> ```
-> +----------------------------------------------------------+
-> | Tip: Need help structuring your business plan before      |
-> | writing the cover letter? Try our AI Business Plan        |
-> | Generator to create a solid first draft.                  |
-> +----------------------------------------------------------+
-> ```
+> **Suggested:** Change URL to match the Resource CTA selection (Task 3). If Task 3 approves Business Plan Template, update this to: `→ Download Now: Free Business Plan Template` → `/download/business-plan-template`
 
 ---
 
 ### Task 3: Downloadable Resource CTA
 
-**Current State:** No Resource Hero CTA set on this post.
+**Current:** Investor Pitch Templates (`/download/investor-pitch-templates`)
 
-**Recommendation:** Set the **Business Plan Template** download as the resource CTA. This is the most relevant resource for readers writing a business plan cover letter — they likely need a plan template too.
+**Suggested:** Free Business Plan Template (`/download/business-plan-template`, ID 7295)
 
-| Field | Value |
-|-------|-------|
-| **Resource** | Free Business Plan Template (ID: varies) |
-| **Resource URL** | https://upmetrics.co/download/business-plan-template-for-students |
-| **resource_link_text** | `Download Template` |
-| **heading** | `Free Business Plan Template` |
-| **Combined display** | Download Template: Free Business Plan Template (~43 chars) |
+**Rationale:** The article is about writing a cover letter for a business plan — the reader's primary need is a complete business plan, not a pitch deck. The free business plan template is the most relevant download and drives 336 sessions/month (GA4).
 
-**Alternative:** Investor Pitch Templates (`/download/investor-pitch-templates`) — already linked as inline CTA in content, so this would create duplication. Business Plan Template is the better choice.
+**Implementation:**
+```
+post_id: 23627
+resource_url: https://upmetrics.co/download/business-plan-template
+heading: "Free Business Plan Template"
+resource_link_text: "Download Template"
+```
+Combined display: **Download Template: Free Business Plan Template** (47 chars)
 
 ---
 
 ### Task 4: Related Content
 
-**Current State:** No related content set.
+| # | Title | Post Type | URL | Relevance |
+|:-:|-------|-----------|-----|-----------|
+| 1 | How to Write a Compelling Business Plan Introduction | Post | `/blog/business-plan-introduction` | Direct — intro is the section right after the cover letter |
+| 2 | Writing a Business Plan Confidentiality Statement | Post | `/blog/confidentiality-statement-for-business-plan` | Direct — another document that accompanies a business plan |
+| 3 | How to Write a Business Plan Conclusion? | Post | `/blog/business-plan-conclusion` | Direct — another complementary plan section |
+| 4 | How to Format a Business Plan in 10 Easy Steps | Post | `/blog/business-plan-format` | Complementary — formatting the plan the cover letter accompanies |
 
-**Suggested 4 items (ranked by relevance):**
-
-| # | Post | Post ID | Type | Relevance |
-|---|------|:-------:|------|-----------|
-| 1 | Writing a Business Plan Confidentiality Statement | 6141 | post | Directly related — another formal document that accompanies a business plan |
-| 2 | How to Write a Business Concept | 92056 | post | Complementary — concept development precedes plan + cover letter |
-| 3 | What Is a Pitch Deck? Everything You Need to Know | 84221 | post | Complementary — another investor-facing document |
-| 4 | What are Funding Rounds? (Key Stages for Founders) | 91714 | post | Context — understanding funding stages helps tailor the cover letter |
-
-**Deduplication check:** None of these URLs appear in Task 1 (internal links) or Task 3 (resource CTA).
+**Note:** Items #2 and #4 also appear as internal link suggestions (Task 1 #4, #5). Per dedup rules, if both tasks are approved, I'll remove the duplicates from Task 4 and replace them. Alternative replacements: `/blog/business-plan-outline` (ID 15426) and `/blog/how-to-find-investors-for-startup` (ID 82959).
 
 ---
 
 ### Task 5: Meta Title & Description
 
-**Current vs. Suggested:**
+#### Current vs. Suggested
 
 | Field | Current | Suggested | Chars |
 |-------|---------|-----------|:-----:|
-| **Meta Title** | How to Write a Business Plan Cover Letter? | Business Plan Cover Letter: How to Write One [+ Examples] | 57 |
-| **Meta Description** | (Using excerpt) Making a cover letter for your business plan? This blog post teaches you how to do that and offers tips to write effectively. | Write a business plan cover letter that gets investors to read your plan. Step-by-step guide with 3 real examples and a ready-to-use template. | 155 |
-| **Focus Keyphrase** | (Not set) | business plan cover letter | — |
+| **Meta Title** | How to Write a Business Plan Cover Letter? | Business Plan Cover Letter: How to Write One (w/ Examples) | 58 |
+| **Meta Description** | *(likely auto-generated from excerpt)* | Learn how to write a business plan cover letter that gets investors to read your plan. Includes step-by-step guide, template, and 3 real examples. | 150 |
+| **Focus Keyphrase** | *(not set)* | business plan cover letter | — |
 
-**SERP Preview:**
+#### SERP Preview
+
 ```
-Business Plan Cover Letter: How to Write One [+ Examples]
-https://upmetrics.co/blog/business-plan-cover-letter
-Write a business plan cover letter that gets investors to read
-your plan. Step-by-step guide with 3 real examples and a
-ready-to-use template.
+Business Plan Cover Letter: How to Write One (w/ Examples)
+https://upmetrics.co › blog › business-plan-cover-letter
+Learn how to write a business plan cover letter that gets investors
+to read your plan. Includes step-by-step guide, template, and 3 ...
 ```
 
-**Other SEO Fields:**
+#### Other SEO Fields
 
-| Field | Status | Action |
-|-------|--------|--------|
-| Canonical URL | Correct (self-referencing) | No change |
-| OG Title | Not set | Set to match meta title |
-| OG Description | Not set | Set to match meta description |
+| Field | Status |
+|-------|--------|
+| Canonical URL | Correct — self-referencing |
+| OG Title | Set to match meta title |
+| OG Description | Set to match meta description |
 
 ---
 
 ### Task 6: Image Alt Text
 
-**Current State:** 1 image in content.
-
 | # | Image | Current Alt | Suggested Alt | Chars |
-|---|-------|-------------|---------------|:-----:|
-| 1 | business-plan-cover-letter.png | business plan cover letter | steps to write a business plan cover letter for investors | 57 |
+|:-:|-------|-------------|---------------|:-----:|
+| 1 | business-plan-cover-letter.png | business plan cover letter | sample business plan cover letter layout with header and greeting | 65 |
 
 ---
 
 ### Task 7: URL Slug
 
-**Current slug:** `business-plan-cover-letter`
+**Current:** `business-plan-cover-letter`
 
-**Assessment:** Clean, keyword-focused, 4 words. No changes needed. The page ranks at position 10-20 for its target queries — changing the slug would risk losing what little visibility it has.
+**Assessment:** Clean, keyword-focused, 4 words. No changes needed. The page ranks at position 9-19 for various queries — a slug change would risk losing what indexing progress exists.
 
 **Recommendation:** Skip.
 
@@ -298,39 +277,41 @@ ready-to-use template.
 
 ### Task 8: Heading Structure
 
-**Current structure:**
-- H2: What is a business plan cover letter? (inside featured snippet div)
-- H2: Why is a business plan cover letter important?
-- H2: How to write a business plan cover letter?
-- H3: 1. Create a header
-- H3: 2. Address the recipient
-- H3: 3. Make a strong start
-- H3: 4. Support your statements
-- H3: 5. Close with an acknowledgment
-- H2: Tips for writing a formal cover letter for your business plan
-- H2: Upmetrics' business plan cover letter template
-- H2: Business Plan Cover Letter Example
-- H3: Cover letter example 1 / 2 / 3
-- H2: Tailor a cover letter to send with your business plan
+| Level | Text | Status |
+|:-----:|------|:------:|
+| H2 | What is a business plan cover letter? | Good |
+| H2 | Why is a business plan cover letter important? | Good |
+| H2 | How to write a business plan cover letter? | Good |
+| H3 | 1. Create a header | Good |
+| H3 | 2. Address the recipient | Good |
+| H3 | 3. Make a strong start | Good |
+| H3 | 4. Support your statements | Good |
+| H3 | 5. Close with an acknowledgment | Good |
+| H2 | Tips for writing a formal cover letter for your business plan | Good |
+| H2 | Upmetrics' business plan cover letter template | Good |
+| H2 | Business Plan Cover Letter Example | Good |
+| H3 | Cover letter example 1 | OK |
+| H3 | Cover letter example 2 | OK |
+| H3 | Cover Letter Example 3 | OK — capitalization inconsistent |
+| H2 | Tailor a cover letter to send with your business plan | Good |
+
+**Structure:** Proper hierarchy (H2 → H3). No skipped levels. Primary keyword appears in multiple H2s. No H1 in content (H1 is the post title, managed by WordPress).
 
 **Issues:**
+1. Example subheadings have inconsistent capitalization ("Cover letter example" vs "Cover Letter Example").
+2. Content under examples references 2023 dates — needs refresh for 2026.
 
-| # | Current Heading | Issue | Suggested Change |
-|---|----------------|-------|-----------------|
-| 1 | How to write a business plan cover letter? | Duplicates H1/title exactly | Write a Cover Letter for Your Business Plan (Step-by-Step) |
-| 2 | Upmetrics' business plan cover letter template | Could be more descriptive | Business Plan Cover Letter Template (Ready to Use) |
-
-All other headings are well-structured. The H2-H3 hierarchy is correct with no skipped levels.
+**Recommendation:** Minor — fix capitalization. Flag year references for a future content refresh (not an on-page task).
 
 ---
 
-### Task 9: Category / Taxonomy
+### Task 9: Category Assignment
 
 **Current:** Planning
 
-**Recommendation:** Add **Funding** as a secondary category. The article is fundamentally about presenting a business plan to investors/lenders for funding. This dual categorization improves discoverability.
+**Suggested:** Planning + Funding
 
-**Action:** Set categories to `["Planning", "Funding"]`
+**Rationale:** The article directly addresses writing a cover letter to secure investment/loans. Adding "Funding" as a secondary category reflects this dual intent. Max 2 categories for blog posts.
 
 ---
 
@@ -339,14 +320,14 @@ All other headings are well-structured. The H2-H3 hierarchy is correct with no s
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3. Skip #4, #5 (require text additions).
-Task 2 (CTAs): Add #1 after Tips section. Add #2 after Step 4.
-Task 3 (Resource CTA): Approve business-plan-template-for-students.
-Task 4 (Related Content): Approve #1-#4.
-Task 5 (Meta Title/Desc): Approve title + description + keyphrase + OG fields.
-Task 6 (Image Alt Text): Approve.
+Task 1 (Internal Links): Add #1, #2, #3, #4, #5, #6.
+Task 2 (CTAs): Add #1. Update existing CTA per #2.
+Task 3 (Resource CTA): Approve business-plan-template.
+Task 4 (Related Content): Approve #1-#4 (auto-replace duplicates if Task 1 links overlap).
+Task 5 (Meta Title/Desc): Approve suggested title, description, and keyphrase.
+Task 6 (Image Alt Text): Approve #1.
 Task 7 (URL Slug): Skip.
-Task 8 (Headings): Approve #1 and #2.
+Task 8 (Headings): Fix capitalization on example 3 heading.
 Task 9 (Categories): Approve Planning + Funding.
 ```
 

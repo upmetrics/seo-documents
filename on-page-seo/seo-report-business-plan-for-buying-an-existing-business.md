@@ -1,129 +1,134 @@
-# SEO On-Page Report: Business Plan For Buying an Existing Business
+# SEO Report: Business Plan For Buying an Existing Business
 
 | Field | Value |
 |-------|-------|
 | **URL** | https://upmetrics.co/blog/business-plan-for-buying-an-existing-business |
 | **Post ID** | 69012 |
+| **Post Type** | Blog Post (`post`) |
 | **Report Date** | 2026-03-30 |
-| **GSC Data Range** | 2025-12-30 to 2026-03-27 (90 days) |
+| **GSC Data Range** | Last 28 days (2026-03-02 to 2026-03-30) |
 | **GA4 Data Range** | Last 30 days |
+| **90-day Trend** | 2025-12-30 to 2026-03-28 |
 
 ---
 
-## B. Page Health Score & Action Summary
-
-### Page Health: 4/10
+## Page Health Score: 4.5 / 10
 
 | Status | Count | Details |
 |--------|:-----:|---------|
-| Critical | 3 | Zero clicks, no inline internal links, no CTAs |
-| Needs Improvement | 4 | Declining rankings, low engagement, no resource CTA, outdated content |
-| Good | 2 | Indexed with FAQ schema, proper heading structure |
+| **Critical** | 2 | Zero clicks with declining rankings; no custom CTAs in content |
+| **Needs Improvement** | 3 | Very few internal links (5); meta description too long (199 chars); below-average engagement |
+| **Minor** | 1 | Thin content (~1,400 words for this topic) |
+| **Good** | 3 | Proper heading structure; correct category; FAQ + Breadcrumb schema |
 
-### Action Summary
-
-| # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|:-:|------|--------|--------|---------------|------------|---------------|
-| 1 | Internal Links | **High** | Medium | 4 internal links (all in read-link blocks), 0 inline contextual links | Add 5-7 inline contextual links to relevant Upmetrics content | Approve #1-#7 |
-| 2 | CTAs | **High** | Medium | 0 content CTAs (only Elementor end-of-post) | Add 2 strategically placed CTAs | Approve #1-#2 |
-| 3 | Resource CTA | **Medium** | Quick Win | No resource CTA set | Attach Business Plan Template download | Approve |
-| 4 | Related Content | **Medium** | Quick Win | Unknown — likely empty | Set 4 related content items | Approve #1-#4 |
-| 5 | Meta Title/Desc | **High** | Quick Win | Generic title, may lack hook | Optimize for CTR with [2026] hook | Approve |
-| 6 | Image Alt Text | **Low** | Quick Win | 1 image, descriptive alt exists | Minor improvement | Approve |
-| 7 | URL Slug | **Low** | High | Long slug but includes keyword | Skip — not worth redirect risk | Skip |
-| 8 | Headings | **Medium** | Quick Win | Proper hierarchy, but generic H3s | Improve 2-3 H3s for keyword relevance | Approve |
-| 9 | Categories | **Low** | Quick Win | Planning (correct) | Keep current category | Skip |
+**Deductions:** -2 (zero clicks, declining rankings) · -1 (no custom CTAs) · -1 (too few internal links) · -0.5 (meta description overflow) · -0.5 (thin content) · -0.5 (below-average engagement)
 
 ---
 
-## C. Page Overview
+## Action Summary
+
+| # | Task | Impact | Effort | Current State | Suggestion | Dependencies | Your Decision |
+|:-:|------|--------|--------|---------------|------------|:------------:|---------------|
+| 1 | Internal Links | **High** | Medium | 5 links (3 in read-link divs) | Add 7 contextual body links | None | Approve #1-#7 |
+| 2 | CTAs | **High** | Medium | 0 custom CTAs (only Elementor) | Add 2 CTAs (1 tip + 1 banner) | None | Approve #1, #2 |
+| 3 | Resource CTA | **Medium** | Quick Win | Not set | Set Business Plan Template | None | Approve |
+| 4 | Related Content | **Medium** | Quick Win | Not set | Set 4 related items | Task 1 dedup | Approve #1-#4 |
+| 5 | Meta Title & Desc | **High** | Quick Win | Title bland (no hook); desc 199 chars | New title + description + keyphrase | None | Approve all |
+| 6 | Image Alt Text | **Low** | Quick Win | 1 image, generic alt | More descriptive alt text | Task 1 content update | Approve |
+| 7 | URL Slug | **Low** | High | Good slug, 46 chars | Skip — slug is fine, position ~26 | Redirect needed | Skip |
+| 8 | Headings | **Low** | Quick Win | Good structure, 1 vague H3 | Clarify H3 #4 | Task 1 content update | Approve |
+| 9 | Categories | **N/A** | Quick Win | Planning | Correct — no change | None | Skip |
+
+---
+
+## Page Overview
 
 ### Basic Info
 
 | Field | Value |
 |-------|-------|
 | **Title** | Business Plan For Buying an Existing Business |
+| **URL** | /blog/business-plan-for-buying-an-existing-business |
 | **Post Type** | Blog Post (`post`) |
-| **Categories** | Planning |
-| **Word Count** | ~1,466 |
+| **Category** | Planning |
+| **Word Count** | ~1,400 |
 | **Published** | 2024-09-10 |
 | **Last Modified** | 2024-09-10 |
-| **Content Freshness** | Stale — no updates in 18+ months. No outdated year references, but content has not been refreshed since original publish. |
+| **Content Freshness** | Evergreen — no dated references found |
 
-### Search Performance (GSC — 90 days)
+### Search Performance (GSC — last 28 days)
 
 | Metric | Value |
 |--------|-------|
-| **Total Clicks** | ~20 |
-| **Total Impressions** | ~4,100 |
-| **Avg CTR** | ~0.5% |
-| **Avg Position** | ~20 |
+| **Total Clicks** | 0 |
+| **Total Impressions** | ~300 |
+| **Avg CTR** | 0% |
+| **Index Status** | Submitted and indexed (last crawl: 2026-03-27, mobile) |
+| **Rich Results** | FAQ schema + BreadcrumbList (PASS) |
 
 **Top Queries:**
 
-| Query | Impressions | Clicks | Position | CTR |
-|-------|:----------:|:------:|:--------:|:---:|
-| business acquisition business plan | 124 | 0 | 26.3 | 0% |
-| acquisition business plan | 34 | 0 | 28.0 | 0% |
-| business acquisition plan | 32 | 0 | 49.3 | 0% |
-| business plan for merger and acquisition | 15 | 0 | 86.1 | 0% |
-| business purchaser planning | 14 | 0 | 60.4 | 0% |
-| buying a business plan | 14 | 0 | 42.9 | 0% |
-| business plan for buying an existing business | 9 | 0 | 6.7 | 0% |
-| buying a existing business | 7 | 0 | 33.1 | 0% |
-| business plan for buying a business | 6 | 0 | 14.5 | 0% |
-| business plan for existing business | 6 | 0 | 33.8 | 0% |
+| # | Query | Clicks | Impressions | CTR | Position |
+|:-:|-------|:------:|:-----------:|:---:|:--------:|
+| 1 | business acquisition business plan | 0 | 124 | 0% | 26.3 |
+| 2 | acquisition business plan | 0 | 34 | 0% | 28.0 |
+| 3 | business acquisition plan | 0 | 32 | 0% | 49.3 |
+| 4 | business plan for merger and acquisition | 0 | 15 | 0% | 86.1 |
+| 5 | buying a business plan | 0 | 14 | 0% | 42.9 |
+| 6 | business purchaser planning | 0 | 14 | 0% | 60.4 |
+| 7 | business plan for buying an existing business | 0 | 9 | 0% | 6.7 |
+| 8 | business plan for buying a business | 0 | 6 | 0% | 14.5 |
+| 9 | business plan for existing business | 0 | 6 | 0% | 33.8 |
 
-**90-Day Trend: Declining**
-- **Jan (first 30 days):** ~1,750 impressions, avg position ~17, ~10 clicks
-- **Mar (last 30 days):** ~800 impressions, avg position ~29, ~2 clicks
-- Impressions dropped ~54%, position worsened by ~12 spots, clicks nearly vanished
+**90-day Trend:**
 
-**Index Status:** Submitted and indexed (confirmed via Performance data + Inspect API). Last crawled 2026-03-27 (mobile).
+| Period | Impressions | Clicks | Avg Position | Trend |
+|--------|:-----------:|:------:|:------------:|-------|
+| Dec 30 – Jan 28 | ~1,770 | 10 | ~17 | — |
+| Mar 1 – Mar 28 | ~1,000 | 3 | ~27 | **Declining** |
+| **Change** | **-44%** | **-70%** | **-10 spots** | Needs attention |
 
-**Structured Data:** Breadcrumbs + FAQ schema detected.
+### Engagement (GA4 — last 30 days)
 
-### Engagement (GA4 — 30 days)
-
-| Metric | This Page | Site Avg (Top 50) | Status |
-|--------|:---------:|:-----------------:|:------:|
-| Sessions | 27 | ~560 | Far below |
-| Engagement Rate | 44.4% | ~56% | Below avg |
-| Bounce Rate | 55.6% | ~44% | Above avg (bad) |
-| Engaged Sessions | 12 | — | Low |
+| Metric | This Page | Site Average | Status |
+|--------|:---------:|:------------:|--------|
+| Sessions | 27 | ~550 | **Far Below** |
+| Engagement Rate | 44.4% | ~52% | **Below** |
+| Bounce Rate | 55.6% | ~48% | **Below** |
+| Avg Engagement Duration | 6s | — | Low |
 | Active Users | 11 | — | Low |
 
 ### Internal Link Equity
 
 | Metric | Value |
 |--------|-------|
-| Outbound internal links | 4 (all in styled read-link blocks) + 1 homepage |
-| Inline contextual links | 0 |
-| Inbound internal links | Likely low — page not appearing in GSC top pages |
+| Outbound internal links | 5 (3 in read-link divs, 1 inline, 1 homepage) |
+| Outbound external links | 7 (all authority sources) |
+| Inbound internal links | Likely low (page not in top 50 GSC pages) |
 
 ---
 
-## D. Task-by-Task Suggestions
+## Task 1: Internal Links
 
----
+### Existing Link Audit
 
-### Task 1: Internal Linking
-
-**Current state:** 5 internal links total — 4 in styled `read-link` blocks and 1 branded homepage link in the conclusion. **Zero inline contextual links in body paragraphs.** This is a significant gap. The read-link blocks provide some equity, but search engines value contextual links within paragraph text much more highly.
-
-**Existing Link Audit:**
+**Internal Links (5):**
 
 | # | Anchor Text | Target URL | Status |
-|:-:|-------------|------------|--------|
-| 1 | Reasons Why You Need a Business Plan | `/blog/why-you-need-a-business-plan` | Good |
-| 2 | How to update your business plan? | `/blog/updating-your-business-plan` | Good |
-| 3 | financial forecasting software | `/features/financial-forecasting` | Good |
-| 4 | Common business plan mistakes to avoid | `/blog/common-business-plan-mistakes-to-avoid` | Good |
-| 5 | Upmetrics | `/` (homepage) | Good — branded mention |
+|:-:|-------------|-----------|--------|
+| 1 | Reasons Why You Need a Business Plan | `/blog/why-you-need-a-business-plan` | **Good** |
+| 2 | How to update your business plan? | `/blog/updating-your-business-plan` | **Good** |
+| 3 | financial forecasting software | `/features/financial-forecasting` | **Good** (Sales) |
+| 4 | Common business plan mistakes to avoid | `/blog/common-business-plan-mistakes-to-avoid` | **Good** |
+| 5 | Upmetrics | `/` (homepage) | **Good** (branded) |
 
-**Balance:** 3 Informational / 1 Sales / 1 Homepage. Need more inline links with a ~2:1 info-to-sales ratio.
+**External Links (7):** All point to authority sources (score.org, hbr.org, nypost.com, cio.com, linkedin.com, wholefoodsmarket.com). No competitor domains detected. All **Good**.
 
-**New Link Suggestions:**
+**Current balance:** 3 Informational + 1 Sales + 1 Homepage. Very few body links — most are in read-link divs outside the main text flow.
+
+---
+
+### New Link Suggestions
 
 > **#1** — `exit strategy` → `/blog/exit-strategies-for-business`
 >
@@ -133,7 +138,15 @@
 
 ---
 
-> **#2** — `secure financing` → `/blog/how-to-get-funding-for-a-business`
+> **#2** — `cash flow forecast` → `/blog/how-to-forecast-cash-flow`
+>
+> **Section:** Ignoring cash flow management
+>
+> **In context:** "So, develop a **cash flow forecast** to ensure the business maintains liquidity for day-to-day operations and avoid unexpected expenses."
+
+---
+
+> **#3** — `secure financing` → `/blog/how-to-get-a-startup-business-loan-with-no-money`
 >
 > **Section:** Why do you need a plan for purchasing a business?
 >
@@ -141,233 +154,215 @@
 
 ---
 
-> **#3** — `cash flow statements` → `/blog/how-to-forecast-cash-flow`
->
-> **Section:** 4. The initial balances
->
-> **In context:** "It involves reviewing financial statements like balance sheets, income statements, and **cash flow statements** to spot any issues like decreasing revenues or high debts."
-
----
-
-> **#4** — `target market` → `/blog/how-to-find-your-target-market`
+> **#4** — `target market, competitors` → `/blog/how-to-find-your-target-market`
 >
 > **Section:** 1. Consider starting with the existing business plan
 >
 > **In context:** "It ultimately helps you understand the **target market**, competitors, and other opportunities."
+>
+> **Note:** Wrap only "target market" (2 words) — do not include "competitors" in the anchor.
 
 ---
 
-> **#5** — `cash flow forecast` → `/blog/what-is-cash-flow-forecasting`
+> **#5** — `financial statements` → `/blog/create-cash-flow-statement`
 >
-> **Section:** Ignoring cash flow management
+> **Section:** 4. The initial balances
 >
-> **In context:** "So, develop a **cash flow forecast** to ensure the business maintains liquidity for day-to-day operations."
+> **In context:** "It involves reviewing **financial statements** like balance sheets, income statements, and cash flow statements to spot any issues like decreasing revenues or high debts."
 
 ---
 
-> **#6** — `legal structure` → `/blog/legal-structure-of-business`
+> **#6** — `growth goals` → `/blog/business-growth-plan`
 >
-> **Section:** 2. Assess existing liabilities and legal issues
+> **Section:** Introduction
 >
-> **In context:** "It includes reviewing outstanding debts, pending lawsuits, tax obligations, and compliance with regulations."
->
-> **Note:** Requires minor text edit — add "including the business's **legal structure**" to the sentence.
+> **In context:** "This plan helps you understand the business's value, foresee potential risks, and set clear **growth goals**."
 
 ---
 
-> **#7** — `growth plan` → `/blog/business-growth-plan`
+> **#7** — `write a business plan` → `/blog/how-to-write-a-business-plan-complete-guide`
 >
-> **Section:** 8. Update your existing plan to make it better
+> **Section:** Introduction
 >
-> **In context:** "Review the original plan for areas to improve, such as expanding into new markets, launching new products, investing in new equipment, or enhancing operations."
+> **In context:** "In this guide, we'll cover creating a business plan for buying an existing business."
 >
-> **Note:** Requires minor text edit — adjust to "...or enhancing operations with a focused **growth plan**."
+> **Note:** Minor text edit — change "creating a business plan" to "how to **write a business plan**" to create a natural anchor. Alternatively, wrap "business plan" in the Key Takeaways bullet: "Develop a revised **business plan** that outlines your vision" (fewer text changes).
 
 ---
 
-### Task 2: CTA Placements
+## Task 2: CTAs
 
-**Current state:** 0 content CTAs. Only the `[elementor-template id="44970"]` at the very end. This is a missed opportunity — the post discusses planning and financial preparation, with natural CTA insertion points.
-
-**Existing CTA Audit:**
+### Existing CTA Audit
 
 | # | CTA Type | Placement | Status | Notes |
 |:-:|----------|-----------|--------|-------|
-| 1 | Elementor Template | End of post | Good | Site-wide generic CTA — do not duplicate |
+| 1 | Elementor Template (`id="44970"`) | End of post | **Good** | Site-wide generic CTA — do not duplicate |
 
-**New CTA Suggestions:**
+**No custom CTAs in the content body.** For a ~1,400-word post, 1-2 custom CTAs are recommended.
 
-> **#1** — Yellow Tip Alert (Type 12) | After "4. The initial balances"
+---
+
+### New CTA Suggestions
+
+> **#1** — Yellow Tip (Type 12) | After "6. Contingency and exit strategy planning"
 >
-> **Placed after:** "Knowing the financial situation clearly allows you to negotiate better terms and ensures a successful acquisition."
+> **Placed after:** "...These strategies help you prepare for unexpected situations, minimizing potential losses while protecting your assets and investment."
 >
 > **CTA Preview:**
 > ```
-> ┌─────────────────────────────────────────────────────────────┐
-> │ Tip: Need help building financial projections for your      │
-> │ acquisition? Try our AI Business Plan Generator →           │
-> └─────────────────────────────────────────────────────────────┘
+> ┌─────────────────────────────────────────────────────────┐
+> │ Tip: Need a structured starting point for your          │
+> │ acquisition plan? Try our AI Business Plan Generator →  │
+> └─────────────────────────────────────────────────────────┘
 > ```
 >
 > **HTML:**
 > ```html
-> <div class="yellow-alert"><strong>Tip: </strong>Need help building financial projections for your acquisition? Try our <a href="https://upmetrics.co/ai-tools/free-ai-business-plan-generator">AI Business Plan Generator</a> to create a structured plan with built-in financials.</div>
+> <div class="yellow-alert"><strong>Tip: </strong>Need a structured starting point for your acquisition plan? Try our <a href="https://upmetrics.co/ai-tools/free-ai-business-plan-generator">AI Business Plan Generator</a> to build a draft based on your inputs.</div>
 > ```
 
 ---
 
 > **#2** — Flex Banner: AI Writing (Type 6) | After "8. Update your existing plan to make it better"
 >
-> **Placed after:** The bullet list ending with "Alignment with goals" (before the "Learn more" read-link block)
+> **Placed after:** the bullet list ending with "Alignment with goals" — before the "Learn more: How to update your business plan" read-link div.
 >
 > **CTA Preview:**
 > ```
-> ┌─────────────────────────────────────────────────────────────┐
-> │  Already have the seller's plan?                            │
-> │                                                             │
-> │  Import it into Upmetrics and rewrite it with AI            │
-> │                                                             │
-> │  [ Start Planning Now ]                                     │
-> │                                          🖼 AI Writing      │
-> └─────────────────────────────────────────────────────────────┘
+> ┌─────────────────────────────────────────────────────────┐
+> │  Already have the old plan?                             │
+> │                                                         │
+> │  Import it into Upmetrics and let AI update it for you  │
+> │                                                         │
+> │  [ Start Planning Now ]                                 │
+> │                                          🖼 AI Writing  │
+> └─────────────────────────────────────────────────────────┘
 > ```
 >
 > **HTML:**
 > ```html
 > <div class="upm_blog_bg_cta flex-cta-banner flex-col-reverse">
 > <div>
-> Already have the seller's plan?
-> <p class="title h2">Import it into Upmetrics and rewrite it with AI</p>
+> Already have the old plan?
+> <p class="title h2">Import it into Upmetrics and let AI update it for you</p>
 > <a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Start Planning Now</a>
 > </div>
 > <div class="cta_img_wrapper"><img src="https://upmetrics.co/wp-content/uploads/2025/06/ai-writing-200.svg" alt="AI Writing" width="200" height="170" /></div>
 > </div>
 > ```
+>
+> **Note:** This CTA is placed ~400 words before the Elementor template CTA, maintaining safe spacing. The copy directly connects to the section topic (updating an existing plan).
 
 ---
 
-### Task 3: Downloadable Resource CTA
+## Task 3: Downloadable Resource CTA
 
-**Current state:** No resource CTA set on this post.
+| Field | Current | Suggested |
+|-------|---------|-----------|
+| **Resource** | Not set | `/download/business-plan-template` (ID: 7295) |
+| **Heading** | — | Free Business Plan Template |
+| **Link Text** | — | Download Template |
+| **Combined Display** | — | Download Template: Free Business Plan Template (48 chars) |
 
-**Suggestion:** Attach the **Free Business Plan Template** — the most downloaded template on the site (604 sessions/month on the download page). Highly relevant since the article is about creating a business plan for an acquisition.
-
-| Field | Value |
-|-------|-------|
-| **Resource** | Free Business Plan Template |
-| **Resource URL** | `https://upmetrics.co/download/business-plan-template` |
-| **Resource Link Text** | `Download Template` |
-| **Heading** | `Free Business Plan Template` |
-| **Combined Display** | Download Template: Free Business Plan Template (~47 chars) |
+**Rationale:** The most directly useful resource for someone planning a business acquisition. A general business plan template gives them a structured starting point to customize for the acquisition.
 
 ---
 
-### Task 4: Related Content
+## Task 4: Related Content
 
-**Current state:** Unknown — likely empty or outdated.
+**Current:** Not set. Suggest **4 items** (no duplicates with Task 1 or Task 3):
 
-**Suggested 4 items (ranked by relevance):**
+| # | Title | URL | Post ID | Post Type |
+|:-:|-------|-----|:-------:|-----------|
+| 1 | How to Use a Business Plan | `/blog/how-to-use-a-business-plan` | 68953 | Post |
+| 2 | Plan vs Actual Analysis | `/blog/plan-vs-actual-analysis` | 69096 | Post |
+| 3 | What Do You Need for a Business Loan | `/blog/what-do-you-need-for-a-business-loan` | 81668 | Post |
+| 4 | How to Plan a Major Business Purchase | `/blog/purchase-planning-for-small-businesses` | 105831 | Post |
 
-| # | Title | Post Type | URL | Why |
-|:-:|-------|-----------|-----|-----|
-| 1 | How to Write a Business Plan: 10 Easy Steps | Blog Post | `/blog/how-to-write-a-business-plan-complete-guide` | Core how-to guide — perfect next step for someone needing a plan |
-| 2 | 7 Effective Business Plan Exit Strategies | Blog Post | `/blog/exit-strategies-for-business` | Directly mentioned topic — exit strategy planning |
-| 3 | How to Forecast Cash Flow in 7 Simple Steps | Blog Post | `/blog/how-to-forecast-cash-flow` | Financial due diligence — core acquisition skill |
-| 4 | Business Plan Checklist | Download | `/download/business-plan-checklist` | Practical companion resource |
-
-**Note:** Exit strategies URL is also used as internal link #1 (Task 1). Per dedup rules, if approved in Task 1, replace Related Content #2 with an alternative: **How to Create a Business Growth Plan** (`/blog/business-growth-plan`).
+**Cross-deduplication check:** None of these URLs appear in Task 1 (internal links) or Task 3 (resource CTA). PASS.
 
 ---
 
-### Task 5: Meta Title & Description
+## Task 5: Meta Title & Description
 
-**Current vs. Suggested:**
+### Current vs. Suggested
 
-| Field | Current | Suggested | Chars |
-|-------|---------|-----------|:-----:|
-| **Meta Title** | Business Plan For Buying an Existing Business | Business Plan for Buying a Business [2026 Guide] | 49 |
-| **Meta Description** | *(likely auto-generated from excerpt)* | Planning to buy an existing business? Follow this step-by-step guide to write a solid acquisition business plan that covers financials, risks, and growth. | 153 |
-| **Focus Keyphrase** | *(likely not set)* | business acquisition business plan | — |
+| Field | Current | Chars | Suggested | Chars |
+|-------|---------|:-----:|-----------|:-----:|
+| **Title** | Business Plan For Buying an Existing Business | 47 | Business Plan for Buying a Business: Step-by-Step [2026] | 55 |
+| **Description** | Ready to buy an existing business? Learn how to build a business plan that considers potential risks, explores growth, and ensures a smooth and profitable transition. Start planning for success today! | 199 | Planning to buy an existing business? Follow these 8 steps to create an acquisition business plan that covers due diligence, finances, and transition. | 151 |
+| **Focus Keyphrase** | Not set | — | business plan for buying a business | 35 |
 
-**SERP Preview:**
+### SERP Preview
+
 ```
-Business Plan for Buying a Business [2026 Guide]
+Business Plan for Buying a Business: Step-by-Step [2026]
 https://upmetrics.co › blog › business-plan-for-buying-an-existing-business
-Planning to buy an existing business? Follow this step-by-step guide
-to write a solid acquisition business plan that covers financials,
-risks, and growth.
+Planning to buy an existing business? Follow these 8 steps to create
+an acquisition business plan that covers due diligence, finances, ...
 ```
 
-**Rationale:** The current title doesn't differentiate from competitors. Adding [2026 Guide] signals freshness and increases CTR. The meta description is action-oriented with the primary keyword early.
-
-**Additional SEO Fields:**
+### Other SEO Fields
 
 | Field | Status | Action |
 |-------|--------|--------|
-| Canonical URL | Set correctly | No change |
-| OG Title | Set to meta title | Update to match |
-| OG Description | Set to meta description | Update to match |
+| Canonical URL | Matches page URL | No change |
+| OG Title | Set to suggested title | Update |
+| OG Description | Set to suggested description | Update |
 
 ---
 
-### Task 6: Image Alt Text
+## Task 6: Image Alt Text
 
-**Current state:** 1 image in content.
-
-| # | Image | Current Alt | Suggested Alt | Status |
-|:-:|-------|-------------|---------------|--------|
-| 1 | how-to-plan-for-buying-an-existing-business.webp | "how to plan for buying an existing business" | "8 steps to plan for buying an existing business" | Minor tweak |
+| # | Image File | Current Alt | Suggested Alt | Chars |
+|:-:|-----------|-------------|---------------|:-----:|
+| 1 | how-to-plan-for-buying-an-existing-business.webp | how to plan for buying an existing business | 8-step infographic showing how to plan for buying an existing business | 70 |
 
 ---
 
-### Task 7: URL Slug
+## Task 7: URL Slug
 
-**Current slug:** `business-plan-for-buying-an-existing-business` (46 chars, 8 words)
+| Field | Value |
+|-------|-------|
+| **Current Slug** | `business-plan-for-buying-an-existing-business` |
+| **Length** | 46 chars |
+| **Contains Keyword** | Yes |
+| **GSC Position** | ~26 (declining) |
+| **Risk Level** | Moderate |
 
-The slug is slightly long but contains the target keyword. Given the page is indexed and ranking (position 6.7 for the exact match query), **changing the slug is not recommended.** The risk of losing existing rankings outweighs the marginal benefit of a shorter slug.
-
-**Recommendation: Skip.**
-
----
-
-### Task 8: Heading Structure
-
-**Current structure:**
-- H2: Why do you need a plan for purchasing a business?
-- H2: How to plan for buying an existing business
-  - H3: 1. Consider starting with the existing business plan
-  - H3: 2. Assess existing liabilities and legal issues
-  - H3: 3. Review existing contracts and agreements
-  - H3: 4. The initial balances
-  - H3: 5. Customer retention and transition
-  - H3: 6. Contingency and exit strategy planning
-  - H3: 7. Prepare a structured transition plan
-  - H3: 8. Update your existing plan to make it better
-- H2: Mistakes to avoid while writing a business plan for buying a business
-  - H3: Failing to personalize the business plan
-  - H3: Underestimating customer feedback
-  - H3: Ignoring cash flow management
-  - H3: Neglecting supplier and vendor relationships
-  - H3: Lacking clear communication
-- H2: Plan for your new business using Upmetrics
-
-**Issues:**
-
-| # | Heading | Issue | Suggested Fix |
-|:-:|---------|-------|---------------|
-| 1 | H3: "4. The initial balances" | Vague — doesn't convey financial due diligence | "4. Review the financial statements" |
-| 2 | H3: "8. Update your existing plan to make it better" | Wordy, weak keyword presence | "8. Update the business plan for growth" |
-| 3 | H2: "Plan for your new business using Upmetrics" | Too promotional for an H2 | Keep as-is (conclusion section — acceptable) |
+**Recommendation: SKIP.** The slug is clean, contains the keyword, and is a reasonable length. Changing it at this point would require a 301 redirect and risks further ranking loss during the transition period — not worth it while the page is already declining.
 
 ---
 
-### Task 9: Category / Taxonomy
+## Task 8: Heading Structure
 
-**Current:** Planning
+| Level | Current Text | Status |
+|-------|-------------|--------|
+| H2 | Why do you need a plan for purchasing a business? | **Good** |
+| H2 | How to plan for buying an existing business | **Good** |
+| H3 | 1. Consider starting with the existing business plan | **Good** |
+| H3 | 2. Assess existing liabilities and legal issues | **Good** |
+| H3 | 3. Review existing contracts and agreements | **Good** |
+| H3 | 4. The initial balances | **Needs Fix** — vague |
+| H3 | 5. Customer retention and transition | **Good** |
+| H3 | 6. Contingency and exit strategy planning | **Good** |
+| H3 | 7. Prepare a structured transition plan | **Good** |
+| H3 | 8. Update your existing plan to make it better | **Good** |
+| H2 | Mistakes to avoid while writing a business plan for buying a business | **Good** |
+| H3 | (5 mistake sub-headings) | **Good** |
+| H2 | Plan for your new business using Upmetrics | **Good** |
 
-**Assessment:** Correct. This post is about planning for a business acquisition — "Planning" is the right primary category. No additional category needed.
+**Suggestion:** Change H3 #4 from "The initial balances" to **"4. Review the initial financial balances"** — clearer and includes "financial" for keyword relevance.
 
-**Recommendation: Keep current.** No change.
+---
+
+## Task 9: Category / Taxonomy
+
+| Field | Current | Suggested |
+|-------|---------|-----------|
+| **Category** | Planning | Planning |
+
+**No change needed.** "Planning" is the correct category for an acquisition planning guide.
 
 ---
 
@@ -376,15 +371,15 @@ The slug is slightly long but contains the target keyword. Given the page is ind
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3, #4, #5. Skip #6, #7.
+Task 1 (Internal Links): Add #1, #2, #3, #4, #5, #6, #7.
 Task 2 (CTAs): Add #1, #2.
-Task 3 (Resource CTA): Approve Business Plan Template.
+Task 3 (Resource CTA): Approve business-plan-template.
 Task 4 (Related Content): Approve #1-#4.
-Task 5 (Meta Title/Desc): Approve title, description, keyphrase.
+Task 5 (Meta Title/Desc): Approve title, description, and keyphrase.
 Task 6 (Image Alt Text): Approve.
 Task 7 (URL Slug): Skip.
-Task 8 (Headings): Approve #1, #2.
-Task 9 (Categories): Skip — keep current.
+Task 8 (Headings): Approve H3 #4 change.
+Task 9 (Categories): Skip — no change needed.
 ```
 
 Or simply: **"Approve all"** / **"Approve all except Task X"**

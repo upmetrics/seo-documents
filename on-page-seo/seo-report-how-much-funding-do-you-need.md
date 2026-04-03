@@ -1,59 +1,65 @@
-# SEO Suggestion Report: How Much Funding Do You Need?
+# SEO On-Page Report — How Much Funding Do You Need?
 
 | Field | Value |
 |-------|-------|
 | **URL** | https://upmetrics.co/blog/how-much-funding-do-you-need |
 | **Post ID** | 78631 |
-| **Post Type** | Blog Post (`post`) |
-| **Report Date** | 2026-04-02 |
-| **GSC Data Range** | 2026-01-01 → 2026-03-30 |
-| **GA4 Data Range** | 30-day (Report A) / 90-day (Report E) |
+| **Post Type** | Blog Post |
+| **Published** | 2025-02-18 |
+| **Report Date** | 2026-04-03 |
+| **GSC Data Range** | 2025-02-18 → 2026-03-31 |
 
 ---
 
-## Page Health Score: 5/10
+## Page Health Score: 5.5 / 10
 
 | Status | Count | Items |
-|--------|------:|-------|
-| Critical | 2 | No promotional CTAs, meta SEO fields not configured |
-| Needs Improvement | 3 | Thin content (~750 words), external link replacement, image alt text |
-| Good | 4 | Indexed & crawled, URL slug, existing internal links, category |
+|--------|:-----:|-------|
+| **Critical** | 1 | Missing SEO meta fields (title, description, keyphrase) |
+| **Needs Improvement** | 5 | External link, weak anchor, Elementor template ID, heading keyword, image alt |
+| **Good** | 4 | Content structure, CTA placement, category, internal link depth |
 
-**Note:** Thin content (~750 words) is the most likely root cause of poor organic rankings. This post is competing against comprehensive guides with 2,000+ words. Adding 500–800 words across the existing sections would meaningfully improve rankings. That's a separate editorial task — not handled here — but flagged as the #1 priority.
+**Why 5.5:** The content is solid and well-structured, but the page has no Yoast SEO fields set at all — title, description, and focus keyphrase are all blank. This is the single biggest blocker to organic performance. The page has been live for 14 months and has accumulated only 12 impressions and zero clicks. Fixing SEO fields + adding 3 new internal links + setting the resource CTA will have the biggest immediate impact.
 
 ---
 
 ## Action Summary Table
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|---|------|:------:|:------:|---------------|-----------|---------------|
-| 1 | Internal Links | High | Medium | 5 links; 1 Forbes "cash burn" external | Add 3 new links; fix Forbes → internal | |
-| 2 | CTA Placements | High | Quick Win | 0 promotional CTAs in body | Add 2 body CTAs (Type 8 + Type 12) | |
-| 3 | Resource CTA | High | Quick Win | None set | Startup Fundraising Checklist | |
-| 4 | Related Content | Medium | Quick Win | Not set | 4 relevant funding posts | |
-| 5 | Meta Title/Desc | Medium | Quick Win | Not configured (defaults) | New title + description + focus keyphrase | |
-| 6 | Image Alt Text | Low | Quick Win | Generic alt text (1 image) | Keyword-specific alt | |
-| 7 | URL Slug | Skip | — | `/blog/how-much-funding-do-you-need` | Slug is clean, no change needed | Skip |
-| 8 | Headings | Low | Quick Win | H3 has "runaway" typo; H2 #1 weak | Fix typo; improve 2 headings | |
-| 9 | Categories | Low | Quick Win | Funding only | Add Starting as secondary | |
+|---|------|:------:|:------:|---------------|------------|:-------------:|
+| 1 | **Internal Links — new** | High | Medium | 5 content links | Add 3 new links (equity dilution, revenue projections, securing capital) | Approve |
+| 2 | **Internal Links — fix** | Medium | Quick Win | Forbes external link + 1-word anchor | Replace Forbes with /blog/funding-rounds; fix "cash burn" anchor | Approve |
+| 3 | **CTAs — new** | Medium | Medium | 1 large CTA (flex-banner) | Add Type 4 Financial Forecasting CTA after the 4-step framework | Approve |
+| 4 | **CTAs — elementor** | Medium | Quick Win | id="46013" | Verify — standard template is 44970; may need updating | Verify first |
+| 5 | **Resource CTA (Task 3)** | High | Quick Win | Not set | Set Startup Fundraising Checklist Template | Approve |
+| 6 | **Related Content (Task 4)** | Medium | Quick Win | Not set | Set 4 relevant funding posts | Approve |
+| 7 | **Meta Title/Desc (Task 5)** | High | Quick Win | **Not set at all** | Set title, description, focus keyphrase, canonical, OG fields | Approve |
+| 8 | **Image Alt Text (Task 6)** | Low | Quick Win | Generic alt on main infographic | Update to keyword-focused alt | Approve |
+| 9 | **Headings (Task 8)** | Low | Quick Win | H2 "A simple framework..." lacks keyword | Rephrase to include funding keyword | Approve |
+| 10 | **URL Slug (Task 7)** | Low | Skip | how-much-funding-do-you-need | Clean slug, no change needed | Skip |
+| 11 | **Category (Task 9)** | Low | Skip | Funding | Correct — no change needed | Skip |
 
 ---
 
-## Task 1: Internal Links
+## Task 1: Internal Linking
+
+**Current link count:** 5 content links + 1 branded homepage = 6 internal links
 
 ### Existing Link Audit
 
 | # | Anchor Text | Target URL | Status |
-|---|-------------|-----------|--------|
+|---|-------------|------------|--------|
 | 1 | startup costs | /startup-costs | **Good** |
-| 2 | key milestones | /blog/essential-business-milestones | **Good** |
-| 3 | convince investors to invest | /blog/how-to-convince-investors-that-your-business-is-ready-to-scale-up | **Good** |
-| 4 | When you shouldn't raise funding | /blog/when-you-shouldnt-raise-funding | **Good** (read-link block) |
-| 5 | Upmetrics | / | **Good** (branded homepage) |
-| 6 | pre-revenue stage | Forbes (external) | **Keep** — credible external source |
-| 7 | cash burn | Forbes (external) | **Fix** → replace with internal |
+| 2 | cash burn | /blog/cash-burn-rate | **Needs Fix** — 1-word anchor violates 2-word minimum |
+| 3 | key milestones | /blog/essential-business-milestones | **Good** |
+| 4 | convince investors to invest | /blog/how-to-convince-investors-that-your-business-is-ready-to-scale-up | **Good** |
+| 5 | When you shouldn't raise funding | /blog/when-you-shouldnt-raise-funding | **Good** (read-link) |
+| 6 | Upmetrics | / | **Good** (branded homepage) |
+| EXT | pre-revenue stage | Forbes external link | **Needs Fix** — replace with internal |
 
-**Current:** 5 internal links / ~750 words. Link #7 (Forbes external "cash burn") should be swapped for an internal link to our dedicated article on the same topic.
+**Fix #2:** Expand anchor from "cash burn" → "cash burn rate" (wrap one more word from the existing sentence).
+
+> **Context for fix:** "Relying on best-case revenue projections without a buffer can result in **cash burn rate** sooner than expected."
 
 ---
 
@@ -61,53 +67,48 @@
 
 > **#1** — `equity dilution` → `/blog/debt-vs-equity-financing`
 >
-> **Section:** Key Mistakes Founders Make
+> **Section:** Key mistakes founders make while raising capital
 >
 > **In context:** "Raising more than necessary will result in **equity dilution**, wasteful spending, and increased expectations from investors. Not to forget, there'll be a loss of decisive freedom and control over your business."
->
-> **Type:** Informational | Wraps existing text ✓
 
 ---
 
-> **#2** — `cash flow forecasts` → `/blog/cash-flow-forecasting-best-practice`
+> **#2** — `revenue projections` → `/blog/how-to-forecast-sales-for-business`
 >
-> **Section:** Breaking Down Your Funding Needs — Factor in Milestones
+> **Section:** Calculate the monthly burn and runway needs
 >
-> **In context:** "Now, factor these costs into your **cash flow forecasts** to determine how much funding is required to execute these milestones without putting strain on your runway."
->
-> **Type:** Informational | Wraps existing text ✓
+> **In context:** "Relying on best-case **revenue projections** without a buffer can result in cash burn sooner than expected."
 
 ---
 
-> **#3** — `financial forecasting tool` → `/features/financial-forecasting` ⭐ High-conversion
+> **#3** — `securing capital` → `/blog/how-to-get-funding-for-a-business`
 >
-> **Section:** Conclusion (Upmetrics promo paragraph)
+> **Section:** If you're pre-revenue: Raise an amount you need to prove demand
 >
-> **In context:** "Upmetrics's **financial forecasting tool** allows you to build projections for up to 10 years, test different scenarios, and build detailed financial statements from scratch."
->
-> **Type:** Sales/Features | Wraps existing text ✓
+> **In context:** "Investors at this stage care about validation. Your focus should be on **securing capital** to reach a point where customers are paying and you have proof of traction."
 
 ---
 
-> **Fix #1** — Replace Forbes "cash burn" link → `/blog/cash-burn-rate`
+> **#4 (Update)** — Replace Forbes external link on `pre-revenue stage` → `/blog/funding-rounds`
 >
-> **Section:** Breaking Down — Monthly Burn Rate
+> **Section:** If you're pre-revenue
 >
-> **In context:** "Relying on best-case revenue projections without a buffer can result in **cash burn** sooner than expected."
+> **Original:** `<a href="https://www.forbes.com/..." rel="noopener" target="_blank">pre-revenue stage</a>`
 >
-> **Action:** Replace `href="https://www.forbes.com/councils/forbesfinancecouncil/..."` with `href="https://upmetrics.co/blog/cash-burn-rate"` (keep anchor text unchanged, remove `target="_blank"`)
-
----
+> **Modified:** `<a href="https://upmetrics.co/blog/funding-rounds">pre-revenue stage</a>`
+>
+> **Note:** Replaces external Forbes link with internal page on funding stages. Keeps same anchor text — no content change needed.
 
 <details>
-<summary>Considered but skipped (4 pages)</summary>
+<summary>Considered but skipped (5 pages)</summary>
 
 | Page | Reason Skipped |
 |------|----------------|
-| How to Get Funding for a Business | No natural anchor text match in content |
-| What are Funding Rounds? | "funding rounds" phrase not in content |
-| Top 11 Funding Challenges | Topic not discussed in this post's sections |
-| How to Find Investors | Lower topical match than approved suggestions |
+| What are Funding Rounds? | Used in Link #4 (Forbes replacement) |
+| How to Find Investors | Lower priority — no strong verbatim anchor found in body text |
+| What is a Fair % for an Investor? | Relevant but "equity dilution" (#1) covers the same section |
+| How to Handle Investor Rejection | Off-topic for this content's scope |
+| Break-Even Analysis | Weakly relevant — no anchor match in content |
 
 </details>
 
@@ -117,191 +118,157 @@
 
 ### Existing CTA Audit
 
-| # | Type | Placement | Status | Notes |
-|---|------|-----------|--------|-------|
-| 1 | `.upm-blog-note` | After burn rate section | **Good** — informational note, not a promo CTA | Leave as-is |
-| 2 | `.m-30px-tb.read-link` | End of Key Mistakes section | **Good** — editorial link to related post | Leave as-is |
-| 3 | Elementor template `id="46013"` | End of post | **Good** — end-of-post CTA present ✓ | Leave as-is |
-
-**Current:** 0 promotional CTAs in body. For a post targeting founders making fundraising decisions, this is a missed conversion opportunity.
+| # | CTA Type | Placement | Status | Notes |
+|---|----------|-----------|--------|-------|
+| 1 | Flex Banner (Type 8) — "Build the financial plan investors actually want to see" | After "3. If you're scaling" H3, before "Breaking down your funding needs" H2 | **Good** | Right type, relevant topic, well-spaced |
+| 2 | Read-link — "When you shouldn't raise funding" | Before conclusion H2 | **Good** | Lightweight, relevant internal signal |
+| 3 | Elementor template id="46013" | End of post | **Verify** | Standard template is id="44970" — check if 46013 is the correct variant for this post type or needs updating |
 
 ---
 
-### New CTA Suggestions
+### New CTA Suggestion
 
-> **#1** — Type 8: Investor-Ready Plan | After "A simple framework to get you started"
+> **#1** — Flex Banner: Financial Forecasting (Type 4) | After "4. Buffer for unexpected challenges"
 >
-> **Placed after:** "Now, what to raise for is only part of the equation—you also need to determine exactly how much capital it will take to get there."
-> *(This is the last line before the H2 "Breaking down your funding needs" — a natural pause point)*
+> **Placed after:** "That's it. After accounting for startup costs, burn rate, milestone expenses, and a buffer for uncertainty, you should now have a realistic funding target—one that's based on actual business needs, not guesswork."
 >
 > **CTA Preview:**
 > ```
-> ┌─────────────────────────────────────────────────────────┐
-> │  Know your number before you ask                        │
-> │                                                         │
-> │  Build the financial plan investors actually want       │
-> │                                                         │
-> │  [ Start Planning ]              🖼 AI Business Plan   │
-> └─────────────────────────────────────────────────────────┘
+> ┌──────────────────────────────────────────────────────────────┐
+> │  Now put those numbers into a real financial model           │
+> │                                                              │
+> │  Build your cash flow, burn rate & projections              │
+> │  in Upmetrics — no spreadsheets needed                       │
+> │                                                              │
+> │  [ Start for Free ]                               📊 Chart   │
+> └──────────────────────────────────────────────────────────────┘
 > ```
-> **Angle:** Risk reduction / investor-readiness — after the reader grasps the framework, before the detailed breakdown.
 >
 > **HTML:**
 > ```html
 > <div class="upm_blog_bg_cta flex-cta-banner flex-col-reverse">
 > <div>
-> Know your number before you ask
-> <p class="title h2">Build the financial plan investors actually want to see</p>
-> <a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Start Planning</a>
+> Now put those numbers into a real financial model
+> <p class="title h2">Build your cash flow, burn rate &amp; projections in one place</p>
+> <a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Start for Free</a>
 > </div>
-> <div class="cta_img_wrapper"><img src="https://upmetrics.co/wp-content/uploads/2025/06/ai-business-plan.svg" alt="AI Business Plan" width="200" height="170" /></div>
+> <div class="cta_img_wrapper"><img src="https://upmetrics.co/wp-content/uploads/2025/06/financial-forecasting-200.svg" alt="Financial forecasting" width="200" height="170" /></div>
 > </div>
 > ```
-
----
-
-> **#2** — Type 12: Yellow Tip Alert | After "2. Calculate the monthly burn and runaway needs"
 >
-> **Placed after:** "If yours is a scaling business, insights into historic cash flow can give you an understanding of monthly cash burn. However, do account for fluctuations in spending, such as increased hiring, higher marketing costs, or seasonal dips in revenue, as these can impact runway and fundraising timelines."
-> *(Immediately after the `.upm-blog-note` callout box)*
->
-> **CTA Preview:**
-> ```
-> ┌─────────────────────────────────────────────────────────┐
-> │ 💡 Tip: Project your exact burn rate and runway in      │
-> │ minutes with Upmetrics →                                │
-> └─────────────────────────────────────────────────────────┘
-> ```
-> **Angle:** Speed / ease — the reader just learned burn rate is hard to calculate correctly. This tips them toward the tool.
->
-> **HTML:**
-> ```html
-> <div class="yellow-alert"><strong>Tip: </strong>Project your exact burn rate and runway automatically with <a href="https://upmetrics.co/features/financial-forecasting">Upmetrics financial forecasting</a>—no formulas needed.</div>
-> ```
+> **Why:** The reader just finished the 4-step framework for calculating their funding number. The natural next action is to actually model it. Different angle from the existing CTA (specificity/tool vs. investor-readiness). Well-spaced — existing CTA is ~450 words earlier; Elementor is ~200 words later.
 
 ---
 
 ## Task 3: Downloadable Resource CTA
 
-**Recommended:** `/download/startup-fundraising-checklist`
-**Post ID:** 7345
-**Title:** Startup Fundraising Checklist Template
-
-This is a direct match — the post teaches founders how to calculate funding needs, and this checklist is the natural action item that follows. The resource covers fundraising readiness in checklist format.
+**Recommendation:** Startup Fundraising Checklist Template
 
 | Field | Value |
 |-------|-------|
-| `resource_url` | `https://upmetrics.co/download/startup-fundraising-checklist` |
+| Resource | Startup Fundraising Checklist Template |
+| URL | https://upmetrics.co/download/startup-fundraising-checklist |
+| Post ID | 7345 |
 | `resource_link_text` | `Get Checklist` |
 | `heading` | `Startup Fundraising Checklist` |
-| Combined display | *Get Checklist: Startup Fundraising Checklist* (43 chars ✓) |
+| **Combined display** | "Get Checklist: Startup Fundraising Checklist" (45 chars ✓) |
+
+**Why:** This is the closest topic match to a funding needs article. Founders reading this post are actively planning a raise — a checklist is the logical "take action" tool to hand them. Better fit than a generic business plan template.
 
 ---
 
 ## Task 4: Related Content
 
-**Suggested items (all unclaimed, no cross-task conflicts):**
+**4 suggested items** (none overlap with Tasks 1, 2, or 3):
 
-| # | Post ID | Suggested Title | Post Title | URL |
-|---|---------|----------------|------------|-----|
-| 1 | 91714 | Funding Rounds Every Founder Should Know | What are Funding Rounds? (Key Stages for Founders) | /blog/funding-rounds |
-| 2 | 87029 | Equity vs Debt: Which Funding Path Fits? | Debt vs. Equity Financing: What's Best for Your Business? | /blog/debt-vs-equity-financing |
-| 3 | 81175 | The Fundraising Obstacles Founders Underestimate | Top 11 Funding Challenges for Small Businesses | /blog/funding-challenges |
-| 4 | 80549 | Beyond Investors: 10 Other Ways to Fund Growth | Top 10 Alternative Business Funding Methods | /blog/alternative-business-funding-methods |
-
-*Note: Items #2 uses the same URL as Task 1 New Link #1 (debt-vs-equity-financing). **If you approve Task 1 #1, swap Related Content #2 for the backup below.***
-
-**Backup #2:** Post 81725 — `/blog/what-is-a-fair-percentage-for-an-investor` → custom title: *"What Equity Should You Give Up to Investors?"*
+| # | Post | Post ID | Custom Title | Rationale |
+|---|------|:-------:|--------------|-----------|
+| 1 | What Investors Want From your Business | 79847 | What Investors Actually Look For | Directly complements "justify your ask" — reader wants to know what to prove |
+| 2 | Top 11 Funding Challenges for Small Businesses | 81175 | 11 Funding Challenges Founders Face | Natural companion to the "key mistakes" section — same audience, next question |
+| 3 | Top 10 Alternative Business Funding Methods | 80549 | Funding Without Investors | Gives readers an exit ramp if raising equity isn't the right fit |
+| 4 | How to Write a Business Plan for a Loan | 55725 | Writing a Plan That Gets the Loan | Practical next step for debt-funded founders — bridges funding need to action |
 
 ---
 
 ## Task 5: Meta Title & Description
 
-### Current State
-| Field | Value | Status |
-|-------|-------|--------|
-| Meta Title | *(not set — using post title default)* | Needs Fix |
-| Meta Description | *(not set — using excerpt default)* | Needs Fix |
-| Focus Keyphrase | *(not set)* | Needs Fix |
-| Canonical URL | `https://upmetrics.co/blog/how-much-funding-do-you-need` | ✓ Correct |
-| OG Title | *(not set)* | Needs Fix |
-| OG Description | *(not set)* | Needs Fix |
+**Current status: No SEO fields are set.** Title, description, focus keyphrase, canonical, OG — all blank. This is the highest-priority fix on this page.
 
-### Suggested
+### Meta Title
 
-| Field | Suggested | Chars |
-|-------|-----------|------:|
-| **Meta Title** | How Much Funding Do You Need? A Founder's Guide | 49 |
-| **Meta Description** | Not sure how much to raise? This guide breaks down startup costs, burn rate, and milestone planning to help you calculate the right funding amount. | 149 |
-| **Focus Keyphrase** | funding needs | — |
-| **OG Title** | How Much Funding Do You Need? A Founder's Guide | 49 |
-| **OG Description** | Use this framework to calculate startup costs, burn rate, and milestone needs—then avoid the most common fundraising mistakes. | 127 |
+| | Value | Chars |
+|--|-------|:-----:|
+| **Current** | *(not set)* | — |
+| **Suggested** | `How Much Funding Do You Need? [2026 Startup Guide]` | 51 ✓ |
 
-**SERP Preview:**
+Primary keyword "how much funding" appears in chars 1–16. Not identical to H1.
+
+### Meta Description
+
+| | Value | Chars |
+|--|-------|:-----:|
+| **Current** | *(not set)* | — |
+| **Suggested** | `Figure out exactly how much to raise for your startup. Our step-by-step framework covers burn rate, key milestones, and buffers—before you make your ask.` | 153 ✓ |
+
+Keyword "how much to raise" in first 60 chars. Active voice. Clear value prop.
+
+### SERP Preview
+
 ```
-How Much Funding Do You Need? A Founder's Guide
+How Much Funding Do You Need? [2026 Startup Guide]
 upmetrics.co › blog › how-much-funding-do-you-need
-Not sure how much to raise? This guide breaks down startup costs, burn
-rate, and milestone planning to help you calculate the right funding amount.
+Figure out exactly how much to raise for your startup. Our step-by-step
+framework covers burn rate, key milestones, and buffers—before you make...
 ```
 
-**Rationale:** Focus keyphrase `funding needs` has the highest impressions (25) at position 11 — a top-10 push is realistic with meta improvements. The title adds a useful hook ("A Founder's Guide") and stays under 60 chars.
+### Other SEO Fields
+
+| Field | Current | Suggested |
+|-------|---------|-----------|
+| Focus keyphrase | *(not set)* | `how much funding` |
+| Canonical URL | *(not set)* | `https://upmetrics.co/blog/how-much-funding-do-you-need` |
+| OG Title | *(not set)* | Same as meta title |
+| OG Description | *(not set)* | Same as meta description |
 
 ---
 
 ## Task 6: Image Alt Text
 
-| # | Image | Current Alt | Suggested Alt | Status |
-|---|-------|-------------|---------------|--------|
-| 1 | steps-to-determining-your-funding-needs.webp | steps to determining your funding needs | 4-step framework for determining startup funding needs | Update |
+| # | Image | Current Alt | Suggested Alt |
+|---|-------|-------------|---------------|
+| 1 | steps-to-determining-your-funding-needs.webp | "steps to determining your funding needs" | "steps to calculate how much funding your startup needs" |
+| 2 | ai-business-plan.svg (CTA) | "AI Business Plan" | Keep — CTA image, simple alt is appropriate |
+
+**Change:** Image #1 gets a more keyword-focused alt ("how much funding... startup") while keeping it descriptive of what the infographic shows.
 
 ---
 
-## Task 7: URL Slug — SKIP
+## Task 7: URL Slug
 
-Current slug `/blog/how-much-funding-do-you-need` is clean and contains the primary keyword. No change recommended.
+**Current:** `how-much-funding-do-you-need`
+**Recommendation: Skip** — clean, contains primary keyword, 5 words. No change warranted, and GSC has some (minimal) data here already.
 
 ---
 
 ## Task 8: Heading Structure
 
-### Current Structure
-| Level | Text | Issue |
-|-------|------|-------|
-| H2 | A simple framework to get you started | Weak — no keyword |
-| H2 | Breaking down your funding needs | ✓ Good |
-| H3 | 2. Calculate the monthly burn and **runaway** needs | **Typo** — "runaway" should be "runway" |
-| H2 | Key mistakes founders make while raising capital | ✓ Good |
-| H2 | Turn funding uncertainty into a clear strategy with Upmetrics | ✓ Good |
+**Structure check:** H2 → H3 → H4 hierarchy is correct. One H1 (post title). No skipped levels.
 
-### Suggestions
+**Issues:**
 
-> **#1** — Fix typo: H3 "runaway" → "runway"
->
-> **Current:** `2. Calculate the monthly burn and runaway needs`
-> **Suggested:** `2. Calculate the monthly burn rate and runway`
->
-> This is a typo fix. "Runaway" is incorrect; "runway" is the startup finance term.
+| # | Current | Suggested | Reason |
+|---|---------|-----------|--------|
+| H2 #1 | "A simple framework to get you started" | "How to Figure Out How Much Funding to Raise" | Current heading has zero keywords — generic |
+| H3 #5 | "2. Calculate the monthly burn and **runaway** needs" | "2. Calculate Your Monthly Burn Rate and Runway" | "Runaway" is a typo for "runway"; also adds primary noun |
+
+**Note on H2 #1:** This is a cosmetic change — the section content is strong. Only do this if you want to improve keyword density in headings.
 
 ---
 
-> **#2** — Strengthen H2 #1
->
-> **Current:** `A simple framework to get you started`
-> **Suggested:** `How Much to Raise: A Framework by Funding Stage`
->
-> More descriptive, includes the core question, and matches what search intent expects.
+## Task 9: Category Assignment
 
----
-
-## Task 9: Categories
-
-| Field | Current | Suggested |
-|-------|---------|-----------|
-| Primary Category | Funding | Funding |
-| Secondary Category | *(none)* | Starting |
-
-**Rationale:** The post addresses pre-revenue and early-stage founders making their first fundraising decision — this squarely falls under "Starting a business" as a secondary topic. Max 2 categories per rules.
+**Current:** `Funding`
+**Recommendation: Keep as-is.** "Funding" is the correct primary category. The content is 80% fundraising strategy, 20% financial calculation — not enough to warrant a second "Forecasting" category.
 
 ---
 
@@ -310,15 +277,15 @@ Current slug `/blog/how-much-funding-do-you-need` is clean and contains the prim
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3. Apply Fix #1. Skip nothing.
-Task 2 (CTAs): Add #1 and #2.
-Task 3 (Resource CTA): Approve Startup Fundraising Checklist.
-Task 4 (Related Content): Approve #1, #3, #4. Swap #2 for backup (conflict with Task 1 #1).
-Task 5 (Meta): Approve title. Approve description. Approve focus keyphrase.
-Task 6 (Image Alt): Approve update.
+Task 1 (Internal Links): Add #1, #2, #3. Apply Fix #4 (Forbes→funding-rounds). Fix anchor "cash burn" → "cash burn rate".
+Task 2 (CTAs): Add #1 after "Buffer for unexpected challenges". Elementor: [verify 46013 or replace with 44970].
+Task 3 (Resource CTA): Approve startup-fundraising-checklist.
+Task 4 (Related Content): Approve all 4 items.
+Task 5 (Meta): Approve suggested title. Approve description. Approve keyphrase "how much funding".
+Task 6 (Image Alt): Approve #1 update.
 Task 7 (Slug): Skip.
-Task 8 (Headings): Approve #1 (typo fix). Approve #2 (H2 strengthen).
-Task 9 (Categories): Approve Funding + Starting.
+Task 8 (Headings): Approve H2 #1 change. Approve H3 #5 fix (runway typo).
+Task 9 (Categories): Skip — no change.
 
-Or simply: "Approve all" / "Approve all except Task X"
+Or simply: "Approve all" / "Approve all except Task 2 Elementor"
 ```

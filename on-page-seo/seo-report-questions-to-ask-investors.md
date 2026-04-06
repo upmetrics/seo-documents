@@ -5,24 +5,21 @@
 | **Page URL** | https://upmetrics.co/blog/questions-to-ask-investors |
 | **Post ID** | 82876 |
 | **Post Type** | Blog Post (`post`) |
+| **Category** | Funding |
 | **Report Date** | 2026-04-06 |
-| **GSC Data Range** | 2026-01-05 to 2026-04-03 (90 days) |
-| **GA4 Data** | Not available (tool not connected in this session) |
-| **Brand** | Upmetrics |
+| **GSC Data Range** | 2025-01-01 – 2026-04-05 |
 
 ---
 
 ## Section B: Page Health Score + Action Summary
 
-**Health Score: 4.5 / 10**
+### Page Health Score: 4.5 / 10
 
 | Status | Count | Items |
-|--------|:-----:|-------|
-| Critical | 1 | Meta fields not set |
-| Needs Improvement | 6 | Zero organic traffic, thin inline links, no resource CTA, no ACF related posts, nav duplicate, heading inconsistency |
-| Good | 7 | URL slug, categories, Elementor end-CTA, indexed, FAQ schema, breadcrumbs, image alt |
-
-**Key finding:** This page has been live for ~11.5 months with zero clicks and only ~72 total impressions across all 90 days. The target keyword "questions to ask investors" does not appear in GSC at all — the page is showing up for off-target queries ("how to ask investors for money", "asking investors for money example") with no match to its actual content intent. Meta fields are almost certainly not set. Combined, these are the primary reasons it has not ranked.
+|--------|------:|-------|
+| Critical | 2 | No CTAs in content body; Meta title/description likely empty |
+| Needs Improvement | 3 | Sparse internal links; Duplicate URL in Related Articles nav; Heading typo |
+| Good | 4 | Index status; Elementor CTA present; Breadcrumb + FAQ schema; Correct category |
 
 ---
 
@@ -30,15 +27,15 @@
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
 |---|------|--------|--------|---------------|------------|---------------|
-| 1 | Internal Links | High | Medium | 2 inline body links; duplicate URL in nav block | Add 4 new inline links; fix nav duplicate | Approve #1–4; fix nav duplicate |
-| 2 | CTAs | High | Medium | 1 read-link CTA near end; no mid-content CTAs | Add Type 8 banner (after intro section) + Type 12 tip (mid-content) | Approve both |
-| 3 | Resource CTA | High | Quick Win | Not set | Set Startup Fundraising Checklist | Approve |
-| 4 | Related Content | Medium | Quick Win | ACF empty (manual nav block exists in content) | Set 4 ACF sidebar items | Approve all |
-| 5 | Meta Title/Desc | **Critical** | Quick Win | Not set — defaulting to post title, no description | Set title, description, focus keyphrase, OG fields | Approve all |
-| 6 | Image Alt Text | Low | Quick Win | "top 14 questions to ask investors" | Minor improvement | Approve |
-| 7 | URL Slug | None | — | "questions-to-ask-investors" (clean, good) | No change needed | Skip |
-| 8 | Headings | Low | Quick Win | "Question about funding terms" (singular) | Fix to "Questions about funding terms..." | Approve |
-| 9 | Categories | None | — | "Funding" (correct) | No change needed | Skip |
+| 1 | Internal Links | High | Medium | 1 body link for 1,510 words | Add 4 new internal links | Approve #1–4 |
+| 2 | CTA Placements | High | Medium | 0 CTAs in content | Add 2 CTAs at strategic points | Approve #1 and #2 |
+| 3 | Resource CTA | Medium | Quick Win | Not set | Set Startup Fundraising Checklist | Approve |
+| 4 | Related Content | Medium | Quick Win | Not set (ACF widget empty) | Set 4 related posts | Approve #1–4 |
+| 5 | Meta Title/Desc | High | Quick Win | Likely empty/default | New title + description targeting "questions to ask investors" | Approve |
+| 6 | Image Alt Text | Low | Quick Win | Generic alt on 1 image | More descriptive alt text | Approve |
+| 7 | URL Slug | Low | Skip | `/questions-to-ask-investors` — already clean | Keep as-is (ranking at pos 23 — risky to change) | Skip |
+| 8 | Heading Structure | Low | Quick Win | 1 H3 uses "Question" (singular) | Fix plural + minor casing | Approve |
+| 9 | Categories | None | Skip | "Funding" — correct | No change needed | Skip |
 
 ---
 
@@ -46,66 +43,67 @@
 
 ---
 
-### Task 1: Internal Linking
+## Task 1: Internal Linking
 
-**Current state:** 2 inline body links (1 read-link CTA to `/blog/funding-rounds`, 1 branded link to `/`). The content also contains a `upm-link-set` nav block at the bottom with 4 links — including a **duplicate URL** (item 3 and item 1 both point to `/blog/business-plan-for-investors`). For a 1,511-word post, 2 inline contextual links is thin.
+### Part A — Existing Link Audit
 
-#### Part A — Existing Link Audit
+**Current state:** 1 internal body link + 4 static nav links (in `upm-link-set` at bottom).
 
 | # | Anchor Text | Target URL | Status | Note |
 |---|-------------|------------|--------|------|
-| 1 | "1,245 startups" | explodingtopics.com (external) | Good | Stat citation, non-competitor |
-| 2 | "How to prepare for a funding round?" | /blog/funding-rounds | Good | Relevant read-link, but placed within ~200 words of Elementor (minor proximity issue) |
-| 3 | "Upmetrics" | / (homepage) | Good | Branded conclusion link — standard |
-| 4 | "How to Write a Business Plan for Investors?" | /blog/business-plan-for-investors | Good | Nav block item, relevant |
-| 5 | "What is a Fair Percentage for an Investor?" | /blog/what-is-a-fair-percentage-for-an-investor | Good | Nav block item, relevant |
-| 6 | "What Investors Want From your Business?" | /blog/business-plan-for-investors | **Should Fix** | Duplicate URL — items 4 and 6 both point to `/blog/business-plan-for-investors`. Replace item 6 with `/blog/what-investors-want-to-see-in-pitch-decks` |
-| 7 | "How to Handle Investor Rejection?" | /blog/how-to-handle-investor-rejection | Good | Nav block item, relevant |
+| 1 | How to prepare for a funding round? | /blog/funding-rounds | Good | Relevant, well-placed in read-link div |
+| 2 | Upmetrics | / (homepage) | Good | Standard branded link in conclusion |
+| 3 | How to Write a Business Plan for Investors? | /blog/business-plan-for-investors | Needs Fix | **Appears TWICE** in the upm-link-set nav — duplicate URL |
+| 4 | What is a Fair Percentage for an Investor? | /blog/what-is-a-fair-percentage-for-an-investor | Good | Relevant to topic |
+| 5 | How to Handle Investor Rejection? | /blog/how-to-handle-investor-rejection | Good | Relevant |
 
-**Existing inline body links: 2** (excluding nav block). Target for this word count: 3–5 total inline links.
+**Issue:** `/blog/business-plan-for-investors` is listed twice in the static Related Articles nav — items 3 and 3b ("What Investors Want From your Business?" points to the same URL as item 3). The second entry should be updated to the correct URL: `/blog/what-investors-want-from-your-business`.
+
+**Balance:** At 1,510 words, this post needs 3–5 body links. Currently has only 1. Suggested additions below.
 
 ---
 
-#### Part B — New Internal Link Suggestions
+### Part B — New Link Suggestions
 
 > **#1** — `Raising capital` → `/blog/how-to-get-funding-for-a-business`
 >
-> **Section:** You're building a relationship, not closing a sale
+> **Section:** Why does asking questions to investors matter? — Section 2
 >
-> **In context:** "It's like starting a long-term relationship. You will work with this person for years, through wins, losses, pivots, maybe even crises. Hence, asking the right questions helps you understand their style, values, and expectations. **Raising capital** isn't like selling a product."
+> **In context:** "You will work with this person for years, through wins, losses, pivots, maybe even crises. Hence, asking the right questions helps you understand their style, values, and expectations."
+>
+> **Placement:** Wrap existing text: "**Raising capital** isn't like selling a product."
+>
+> **Type:** Informational
 
 ---
 
-> **#2** — `choose the right investor` → `/blog/how-to-find-investors-for-startup`
+> **#2** — `choosing a partner` → `/blog/how-to-find-investors-for-startup`
 >
-> **Section:** Top 14 questions to ask investors (intro paragraph)
+> **Section:** Why does asking questions? — Section 1
 >
-> **In context:** "If you want to know whether an investor truly brings these qualities, you must ask the right questions. The answers will help you understand their mindset, values, and help you **choose the right investor**."
+> **In context:** "Any startup founders can memorize a deck and talk about traction. But when you start asking the potential investor thoughtful questions, it shows you're not just chasing money—you're **choosing a partner**."
+>
+> **Type:** Informational
 
 ---
 
-> **#3** — `investor meetings` → `/blog/how-to-pitch-investors`
+> **#3** — `your pitch deck` → `/blog/how-to-make-pitch-deck`
 >
-> **Section:** Questions to understand their value beyond money (intro)
+> **Section:** Question about funding terms and expectations (intro paragraph)
 >
-> **In context:** "Now, it's time to find out what they bring to the table besides funding—ask these questions during your **investor meetings** to uncover the support, connections, and expertise:"
+> **In context:** "Now, it's important to ask questions that clarify their funding terms, expectations after **your pitch deck**, and whether they're open to follow-on investments as you grow."
+>
+> **Type:** Informational
 
 ---
 
-> **#4** — `pitch deck` → `/blog/what-is-a-pitch-deck`
+> **#4** — `board seat` → `/blog/investor-contract-for-small-business`
 >
-> **Section:** Question about funding terms and expectations (intro)
+> **Section:** Q7 — What level of control do you expect post-investment?
 >
-> **In context:** "Now, it's important to ask questions that clarify their funding terms, expectations after your **pitch deck**, and whether they're open to follow-on investments as you grow."
-
----
-
-**Nav block fix:**
-Replace nav block item 6 (currently linking to `/blog/business-plan-for-investors` with anchor "What Investors Want From your Business?") with:
-- **New URL:** `/blog/what-investors-want-to-see-in-pitch-decks`
-- **New anchor:** "What Investors Want to See in Your Pitch"
-
-This removes the duplicate while keeping the nav block's 4-link structure intact.
+> **In context:** "Some investors may want a **board seat**, approval rights, or a say in major business moves. It's important to understand their expectations up front so you're not caught off guard later."
+>
+> **Type:** Informational
 
 ---
 
@@ -114,173 +112,165 @@ This removes the duplicate while keeping the nav block's 4-link structure intact
 
 | Page | Reason Skipped |
 |------|----------------|
-| What Investors Want to See in Pitch Decks | Reserved for nav block duplicate fix |
-| Debt vs. Equity Financing | No matching anchor text found in content |
-| Investor Contract for Small Business | "board seat" anchor too close (~70 words) to "pitch deck" anchor — spacing conflict |
-| 17 Small Business Financing Options | Low topical relevance to this post's specific content |
-| Build a Pitch Deck Outline | Claimed by Task 4 (Related Content) |
+| How to Write a Business Plan for Investors? | Already in static upm-link-set nav |
+| What is a Fair Percentage for an Investor? | Already in static upm-link-set nav |
+| How to Handle Investor Rejection? | Already in static upm-link-set nav |
+| What are Funding Rounds? | Already linked (read-link div) |
+| Debt vs. Equity Financing | Claimed for Task 4 (Related Content); no strong anchor text match in body |
 
 </details>
 
 ---
 
-### Task 2: CTA Placements
+## Task 2: CTA Placements
 
-**Current state:** 1 read-link CTA (before Conclusion, linking to `/blog/funding-rounds`) + Elementor end-CTA. No mid-content CTAs. The read-link is within ~200 words of Elementor — technically inside the "no CTA within 300 words of Elementor" zone, but it's a pre-existing element.
+### Part A — Existing CTA Audit
 
-#### Part A — Existing CTA Audit
-
-| # | CTA Type | Placement | Status | Notes |
-|---|----------|-----------|--------|-------|
-| 1 | Read-link div (`m-30px-tb read-link`) | Before Conclusion | Needs Improvement | Relevant and contextual, but placed ~200 words before Elementor — violates 300-word spacing rule. Consider moving earlier (after "long-term intentions" section) or keeping as-is if risk is acceptable |
-| 2 | Elementor template `[elementor-template id="44970"]` | End of content | Good | Site-wide end-CTA — correct and present |
+| # | CTA Type | Placement | Status | Note |
+|---|----------|-----------|--------|------|
+| 1 | Elementor template `[elementor-template id="44970"]` | End of post | Good | Required standard element — present |
+| — | Content CTAs | Body | **Missing** | No CTAs in the 1,510-word body — significant gap |
 
 ---
 
-#### Part B — New CTA Suggestions
+### Part B — New CTA Suggestions
 
-> **#1** — Type 8: Flex Banner (Investor-Ready Plan) | After "Why does asking questions to investors matter?" section
+> **#1** — Flex Banner: Investor-Ready Plan (Type 8) | After "Why does asking questions?" section
 >
-> **Placed after:** "Apart from being an angel investor who will invest money in your business, asking questions will let you know what else they are bringing to the table. [list...] Remember, you only find out if you ask."
+> **Placed after:** "Apart from being an angel investor who will invest money in your business, asking questions will let you know what else they are bringing to the table. [...] Remember, you only find out if you ask."
 >
-> **Angle:** Outcome — investor meeting readiness
+> **Angle:** Ease — have your plan ready before the meeting.
 >
 > **CTA Preview:**
 > ```
 > ┌──────────────────────────────────────────────────────────┐
-> │  Investors vet you — make sure you're ready             │
+> │  Got questions ready? Have your plan ready too.          │
 > │                                                          │
-> │  Walk into your investor meeting with a plan            │
-> │  they can't ignore                                       │
+> │  Build an investor-ready business plan in hours          │
 > │                                                          │
-> │  [ Build Your Plan ]               🖼 AI Business Plan  │
+> │  [ Start for Free ]                       🖼 AI Biz Plan │
 > └──────────────────────────────────────────────────────────┘
 > ```
-> **URL:** https://upmetrics.co/signup
 
 ---
 
-> **#2** — Type 12: Yellow Tip Alert | After "Questions to understand their value beyond money" section
+> **#2** — Inline Banner (Type 11) | After "Questions to understand their value beyond money" section
 >
-> **Placed after:** "Their past experience could save you time, money, and costly mistakes."
+> **Placed after:** "Ask this to see if they'll help you make smarter decisions in key areas. Their past experience could save you time, money, and costly mistakes."
 >
-> **Angle:** Specificity — names the exact tool
+> **Angle:** Specificity — make sure your plan is solid before the conversation goes deeper.
 >
 > **CTA Preview:**
 > ```
 > ┌──────────────────────────────────────────────────────────┐
-> │ 💡 Tip: Need a plan that answers investors' questions    │
-> │ before they ask? Try Upmetrics' AI Plan Generator →     │
+> │ Heading into investor meetings? Make your plan speak     │
+> │ for itself.                        [ Try Upmetrics AI ]  │
 > └──────────────────────────────────────────────────────────┘
 > ```
-> **URL:** https://upmetrics.co/features/ai-plan-generator
 
 ---
 
-### Task 3: Downloadable Resource CTA
+## Task 3: Downloadable Resource CTA
 
-**Current state:** Not set. The post has no Resource Hero CTA banner.
-
-**Suggested resource:**
+**Recommendation:** Set the Startup Fundraising Checklist as the Resource Hero CTA.
 
 | Field | Value |
 |-------|-------|
-| **Page** | Startup Fundraising Checklist Template |
-| **URL** | https://upmetrics.co/download/startup-fundraising-checklist |
-| **Post ID** | 7345 |
-| **resource_link_text** | `Get Checklist` |
-| **heading** | `Startup Fundraising Checklist` |
-| **Combined display** | "Get Checklist: Startup Fundraising Checklist" (46 chars) ✓ |
+| **Resource** | Startup Fundraising Checklist Template |
+| **Resource URL** | https://upmetrics.co/download/startup-fundraising-checklist |
+| **resource_link_text** | Get Checklist |
+| **heading** | Startup Fundraising Checklist |
+| **Combined display** | "Get Checklist: Startup Fundraising Checklist" (43 chars) ✓ |
 
-**Why this resource:** A startup fundraising checklist is the natural companion to a post about investor due diligence. Readers preparing their investor questions will also want a structured checklist covering all pre-fundraising steps. High contextual relevance.
+**Why:** A founder reading about what to ask investors is actively preparing for a fundraising round. A fundraising checklist is the most natural complement — it's the "what to bring to the meeting" counterpart to "what to ask at the meeting."
+
+**Backup option:** Investor Pitch Templates (`/download/investor-pitch-templates`) if you prefer a pitch-focused resource.
 
 ---
 
-### Task 4: Related Content
+## Task 4: Related Content (ACF)
 
-**Current state:** ACF Related Posts field is empty. The `upm-link-set` nav block at the bottom of the content contains 4 related article links (manually coded HTML), but the ACF sidebar widget is separate.
+**Note:** The current "Related Articles" section is a static `upm-link-set` HTML nav block embedded in the content — it is **not** the ACF Related Posts widget. The ACF sidebar widget appears to be **empty**. Setting these will populate the sidebar widget independently.
+
+**Also flagging:** `/blog/business-plan-for-investors` appears **twice** in the static upm-link-set nav (once as "How to Write a Business Plan for Investors?" and once as "What Investors Want From your Business?" which points to the wrong URL). The second link should point to `/blog/what-investors-want-from-your-business`.
 
 **Suggested ACF Related Posts (4 items):**
 
-| # | Post ID | Title | Custom Display Title | URL |
-|---|---------|-------|----------------------|-----|
-| 1 | 87029 | Debt vs. Equity Financing: What's Best for Your Business? | Debt vs. Equity: Which Suits You? | /blog/debt-vs-equity-financing |
-| 2 | 81637 | 6 Things to Look Out for in Investor's Contract for Small Business | Red Flags in Investor Contracts | /blog/investor-contract-for-small-business |
-| 3 | 87444 | Build a Pitch Deck Outline That Gets Investor Attention | Build a Pitch Deck That Gets Attention | /blog/pitch-deck-outlline |
-| 4 | 80549 | Top 10 Alternative Business Funding Methods | 10 Ways to Fund Without an Investor | /blog/alternative-business-funding-methods |
-
-**Rationale:** All 4 complement the "investor prep" journey without duplicating the nav block. Items 1 and 2 cover what happens after you find an investor (deal terms, equity). Items 3 and 4 cover adjacent decisions (pitching, alternative funding). None overlap with Tasks 1–3.
+| # | Post ID | Title | Custom Display Title | Relevance |
+|---|---------|-------|---------------------|-----------|
+| 1 | 79847 | What Investors Want From your Business | What Investors Actually Look For | High |
+| 2 | 96035 | What Investors Want to See in Pitch Decks That Get Funded | What Your Pitch Deck Must Include | High |
+| 3 | 87029 | Debt vs. Equity Financing: What's Best for Your Business? | Debt or Equity: What's Right for You? | Medium |
+| 4 | 78166 | When You Shouldn't Raise Funding | Should You Even Be Raising Right Now? | Medium |
 
 ---
 
-### Task 5: Meta Title & Description
+## Task 5: Meta Title & Description
 
-**Current state:** SEO fields returned empty from WordPress — meta title, description, and focus keyphrase are almost certainly not set. This is the highest-priority fix for organic ranking.
+**Current state:** SEO fields were not returned by the API — strongly indicates Yoast meta title and description are **empty**, defaulting to WordPress-generated values.
 
-**GSC insight:** The page has 0 clicks and only ~72 total impressions over 90 days. The target keyword "questions to ask investors" does not appear in the top 20 GSC queries. The page is surfacing for intent-mismatched queries ("how to ask investors for money") suggesting Google hasn't matched it to its true target keyword.
+**Focus keyphrase:** `questions to ask investors` (496 impressions, pos 23.1 — primary opportunity)
 
-#### Current vs. Suggested
+**Secondary keyphrase:** `questions to ask investors in first meeting` (160 impressions, pos 8.4 — near page 1, incorporate into title)
+
+### Current vs. Suggested
 
 | Field | Current | Suggested | Chars |
-|-------|---------|-----------|:-----:|
-| **Meta Title** | Not set (defaulting to post title) | `Questions to Ask Investors — 14 That Founders Overlook` | 55 |
-| **Meta Description** | Not set | `Before signing with any investor, ask these 14 questions to gauge their style, support, and long-term fit. Find the right partner, not just funding.` | 149 |
-| **Focus Keyphrase** | Not set | `questions to ask investors` | — |
-| **Canonical URL** | Not set | `https://upmetrics.co/blog/questions-to-ask-investors` | — |
-| **OG Title** | Not set | `14 Questions Every Founder Should Ask Investors` | 48 |
-| **OG Description** | Not set | `Not all money is smart money. Here are the 14 questions that reveal whether an investor is truly aligned with your vision and long-term goals.` | 143 |
+|-------|---------|-----------|-------|
+| **Meta Title** | (default) "14 Key Questions to Ask Investors for Long-Term Success" | `14 Questions to Ask Investors in First Meeting \| Upmetrics` | 57 |
+| **Meta Description** | (empty) | `Not all investors are the right fit. These 14 questions help founders vet potential partners — before you sign anything or shake hands.` | 139 |
+| **Focus Keyphrase** | (empty) | `questions to ask investors` | — |
+| **Canonical URL** | (default) | `https://upmetrics.co/blog/questions-to-ask-investors` | — |
+| **OG Title** | (empty) | `14 Questions to Ask Investors in First Meeting` | 47 |
+| **OG Description** | (empty) | `Not all investors are the right fit. Use these 14 questions to find a partner who truly believes in your vision.` | 113 |
 
-#### SERP Preview
+### SERP Preview
 
 ```
-Questions to Ask Investors — 14 That Founders Overlook
-https://upmetrics.co/blog/questions-to-ask-investors
-Before signing with any investor, ask these 14 questions to gauge
-their style, support, and long-term fit. Find the right partner,
-not just funding.
+14 Questions to Ask Investors in First Meeting | Upmetrics
+upmetrics.co › blog › questions-to-ask-investors
+Not all investors are the right fit. These 14 questions help
+founders vet potential partners — before you sign anything
+or shake hands.
 ```
 
-**Note:** The current post title ("14 Key Questions to Ask Investors for Long-Term Success") is 55 chars and technically workable, but front-loading the keyword phrase ("Questions to Ask Investors") improves keyword prominence for Google's first-word weighting. The proposed title opens with the exact target keyphrase.
+**Why this title:** Incorporates both primary query ("questions to ask investors") and the best-performing variant ("in first meeting" at pos 8.4). The number "14" matches what Google shows in snippets and draws attention. Dropped "for Long-Term Success" — too vague, eats characters.
 
 ---
 
-### Task 6: Image Alt Text
-
-**Current state:** 1 image, alt = `"top 14 questions to ask investors"` — contains the keyword but uses "top 14" as a prefix instead of describing the image.
+## Task 6: Image Alt Text
 
 | # | Image | Current Alt | Suggested Alt |
 |---|-------|-------------|---------------|
-| 1 | top-14-questions-to-ask-investors.webp | `top 14 questions to ask investors` | `questions to ask investors — infographic organized by category` |
+| 1 | top-14-questions-to-ask-investors.webp | `top 14 questions to ask investors` | `infographic listing 14 questions founders should ask investors before partnering` |
 
-Minor improvement. Current alt is passable; suggested version is more descriptive and drops the "top" ranking prefix that reads like marketing copy.
-
----
-
-### Task 7: URL Slug
-
-**Current slug:** `questions-to-ask-investors` — clean, keyword-rich, 26 characters.
-
-**Recommendation: No change.** Slug is already well-optimized. Changing it would require a 301 redirect with no meaningful ranking benefit.
+**Note:** Current alt is fine for discoverability but doesn't describe the image (it's an infographic). The updated version is descriptive and includes the keyphrase naturally.
 
 ---
 
-### Task 8: Heading Structure
+## Task 7: URL Slug
 
-**Current issues:**
-- One H3 uses singular "Question" while all others use plural "Questions" — inconsistency.
-- No other structural issues (H2/H3/H4 hierarchy is correct, no level-skipping).
+**Current slug:** `questions-to-ask-investors` — 4 words, clean, contains primary keyword.
 
-| # | Current Heading | Suggested Fix | Tag |
-|---|-----------------|---------------|-----|
-| 1 | "Question about funding terms and expectations" | "Questions about funding terms and expectations" | H3 |
-
-One-word fix: "Question" → "Questions". Consistent with all other H3 subheadings.
+**Recommendation: Skip.** The page is indexed and has impressions at position 23. Changing the slug risks losing existing ranking signals and requires a 301 redirect setup. The current slug is already good — there's no improvement significant enough to justify the risk.
 
 ---
 
-### Task 9: Categories
+## Task 8: Heading Structure
 
-**Current:** `Funding` — correct. No change needed.
+**Current structure:** H2 → H3 → H4 (logical for a list-format post). No H1 skip issues.
+
+| # | Current | Suggested | Issue |
+|---|---------|-----------|-------|
+| 1 | `Question about funding terms and expectations` (H3) | `Questions about Funding Terms and Expectations` | Singular "Question" doesn't match — this section covers 3 questions. Minor casing fix too. |
+
+All H4s (14 question headings) are clean. No other heading issues.
+
+---
+
+## Task 9: Categories
+
+**Current:** Funding ✓ — correct and appropriate. No change needed.
 
 ---
 
@@ -289,15 +279,15 @@ One-word fix: "Question" → "Questions". Consistent with all other H3 subheadin
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Approve #1, #2, #3, #4. Fix nav duplicate with what-investors-want-to-see-in-pitch-decks.
-Task 2 (CTAs): Approve #1 (Type 8 banner). Approve #2 (Yellow Tip).
-Task 3 (Resource CTA): Approve startup-fundraising-checklist.
-Task 4 (Related Content): Approve all 4 items.
-Task 5 (Meta Title/Desc): Approve title. Approve description. Approve keyphrase. Approve canonical. Approve OG.
+Task 1 (Internal Links): Approve #1, #2, #3, #4. Fix duplicate in upm-link-set (update "What Investors Want" link to /blog/what-investors-want-from-your-business).
+Task 2 (CTAs): Approve #1 and #2.
+Task 3 (Resource CTA): Approve Startup Fundraising Checklist.
+Task 4 (Related Content): Approve #1–4.
+Task 5 (Meta Title/Desc): Approve suggested title. Approve description. Set keyphrase. Set OG fields.
 Task 6 (Image Alt Text): Approve.
 Task 7 (URL Slug): Skip.
 Task 8 (Headings): Approve H3 fix.
-Task 9 (Categories): Skip.
+Task 9 (Categories): Skip — already correct.
 
-Or simply: "Approve all" / "Approve all except Task 7 and Task 9"
+Or simply: "Approve all except Task 7 and Task 9"
 ```

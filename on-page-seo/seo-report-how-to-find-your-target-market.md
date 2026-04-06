@@ -66,29 +66,17 @@
 
 ### New Link Suggestions
 
-> **#1** — `secondary research` → `https://upmetrics.co/blog/free-and-paid-sources-of-industry-reports`
->
-> **Section:** Step 3 — Research what else your ideal customers are using
->
-> **In context:** "Start with **secondary research**. Gather industry reports, consumer trend studies, and published surveys to get a broad overview of your customers and the market."
->
-> **Type:** Informational | Anchor wraps existing text — zero text changes needed.
-
----
-
-> **#2** — `industry reports` → `https://upmetrics.co/blog/free-and-paid-sources-of-industry-reports`
+> **#1** — `industry reports` → `https://upmetrics.co/blog/free-and-paid-sources-of-industry-reports`
 >
 > **Section:** Step 3 — Research what else your ideal customers are using
 >
 > **In context:** "Start with secondary research. Gather **industry reports**, consumer trend studies, and published surveys to get a broad overview of your customers and the market."
 >
 > **Classification:** Informational | Anchor wraps existing text — zero text changes needed.
->
-> ⚠️ **Note:** #1 and #2 target the same URL and are in the same sentence — implement **one or the other, not both**. "secondary research" is the broader, more descriptive anchor; "industry reports" is more specific. Pick whichever reads more naturally to you in context.
 
 ---
 
-> **#3** — `competitive edge` → `https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively`
+> **#2** — `competitive edge` → `https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively`
 >
 > **Section:** Step 5 — Look at who your competitors target (and ignore)
 >
@@ -296,7 +284,7 @@ business plan.
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1 OR #2 (same URL — pick one), add #3. Keep all existing links.
+Task 1 (Internal Links): Add #1, #2. Keep all existing links.
 Task 2 (CTAs): Add CTA #1 after Goals. Add CTA #2 after buyer persona image. [Investigate / change / keep] Elementor template ID.
 Task 3 (Resource CTA): Keep existing.
 Task 4 (Related Content): Approve all 4 replacements.

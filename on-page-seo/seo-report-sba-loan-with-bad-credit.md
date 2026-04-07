@@ -1,541 +1,279 @@
-# SEO On-Page Report: SBA Loan with Bad Credit
+# SEO Suggestion Report: How to Get an SBA Loan with Bad Credit
 
-| | |
-|---|---|
-| **URL** | https://upmetrics.co/blog/sba-loan-with-bad-credit |
-| **Post ID** | 88131 · Type: `post` |
-| **Report Generated** | 2026-03-23 17:00 |
-| **GSC Data Range** | 2025-12-23 to 2026-03-21 (90 days) |
-| **GA4 Data Range** | 30 days ago to yesterday |
-
----
-
-## Page Health: 4/10
-
-| Status | Count | Tasks |
-|--------|:-----:|-------|
-| Critical | 3 | Duplicate CTAs, weak meta title (67 chars), zero clicks on primary queries |
-| Needs Improvement | 4 | Internal links sparse, image alt text poor, no resource CTA, no related content |
-| Good | 2 | URL slug clean, category correct (Funding) |
+| Field | Value |
+|-------|-------|
+| **Page URL** | https://upmetrics.co/blog/sba-loan-with-bad-credit |
+| **Post ID** | 88131 |
+| **Post Type** | Blog Post (`post`) |
+| **Report Date** | 2026-04-07 |
+| **GSC Data Range** | July 2025 – April 4, 2026 |
+| **Word Count** | ~2,777 |
 
 ---
 
-## Action Summary — Your Decisions
+## Section B: Page Health Score + Action Summary
+
+### Page Health Score: 4 / 10
+
+| Status | Count | Items |
+|--------|-------|-------|
+| Critical | 2 | No Yoast SEO fields set; Missing Elementor end-of-post CTA |
+| Needs Improvement | 5 | Duplicate CTAs; Internal link overuse (/services/sba-lending 3x); Generic anchor "Business plan"; 3 poor image alts; Grammatically wrong H3 |
+| Good | 4 | Indexed + crawled; FAQ schema detected; Correct category; Clean slug |
+
+**GSC Snapshot (primary keyword "sba loan with bad credit"):** 655 impressions, position 35.9, 0.15% CTR — essentially invisible. Page has been live ~10 months with no meaningful click traction. Every on-page fix is high-leverage at this stage.
+
+---
+
+### Action Summary Table
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|:-:|------|:------:|:------:|---------------|-----------|---------------|
-| 1 | Internal Links | High | Medium | 4 body links + 2 read-links (all informational) | 5 new opportunities (add sales/features balance) | Add #__, #__. Fix #__. |
-| 2 | CTA Placements | High | Medium | 2 identical CTAs (SBA Lending) | Replace 1st CTA, keep 2nd, add 1 new | Approve / Modify |
-| 3 | Resource CTA | Medium | Quick Win | None set | Startup Fundraising Checklist | Approve / Skip |
-| 4 | Related Content | Medium | Quick Win | None set | 4 SBA-related items | Approve / Skip |
-| 5 | Meta Title/Desc | High | Quick Win | Title 67 chars (over limit), no meta desc | New title + description | Approve / Modify |
-| 6 | Image Alt Text | Low | Quick Win | 5 images, 3 with poor/generic alt text | 3 updates | Approve all / Skip |
-| 7 | URL Slug | — | — | Clean slug, but page at position 25+ | No change recommended | Skip (recommended) |
-| 8 | Heading Structure | Low | Quick Win | H1 ok, 1 H3 grammar issue | 1 heading fix | Approve / Skip |
-| 9 | Categories | — | — | "Funding" — correct | No change needed | Skip |
+|---|------|--------|--------|---------------|------------|---------------|
+| 1 | Internal Links | High | Medium | 3 body links, 2 read-links; /services/sba-lending over-represented | Add 4 new links; fix 2 existing; remove 1 duplicate link | Approve all |
+| 2 | CTA Placements | High | Medium | 2 identical legacy CTAs; Elementor template MISSING | Replace both CTAs with different types; add Elementor at end | Approve all |
+| 3 | Resource CTA | Medium | Quick Win | Not set | Set to Free Business Plan Template | Approve |
+| 4 | Related Content | Medium | Quick Win | Not set | Add 4 related posts | Approve all |
+| 5 | Meta Title/Desc | High | Quick Win | NOT SET — using raw post title/no description | Set optimized title, description, keyphrase, OG fields | Approve all |
+| 6 | Image Alt Text | Medium | Quick Win | 3/5 non-CTA images have poor/meaningless alts | Update 4 image alts (skip #3 which is already acceptable) | Approve all |
+| 7 | URL Slug | Low | — | `sba-loan-with-bad-credit` — already optimal | Skip — slug contains exact target keyword, no change needed | Skip |
+| 8 | Headings | Low | Quick Win | H3 has grammatical error; no heading mentions primary keyword | Fix 1 H3 heading grammar | Approve |
+| 9 | Category | — | — | ["Funding"] — correct | No change needed | Skip |
 
 ---
 
-## Page Overview
+## Section C: Task-by-Task Suggestions
 
-### Basic Info
-- **URL:** https://upmetrics.co/blog/sba-loan-with-bad-credit
-- **Post Type:** Blog Post (`post`)
-- **Title (H1):** How to Get an SBA Loan with Bad Credit
-- **Categories:** Funding
-- **Content Length:** ~2,800 words | Est. reading time: 12 min
-- **Last Modified:** 2025-07-25 (8 months ago — consider content refresh)
-- **Content Freshness:** No year references found — content is evergreen but no freshness signals
-
-### Search Performance (GSC — 90 days)
-- **Total Clicks:** 7 | **Impressions:** ~3,400 | **CTR:** 0.2% | **Avg Position:** ~25
-- **90-day Trend:** Impressions ↓ 40% (1,491 → 892) | Position ↑ improved from ~30 to ~22 | Clicks → flat
-- **Index Status:** Indexed ✓ | Last crawled: 2026-03-22 | Canonical correct
-- **Structured Data:** FAQ schema ✓ | Breadcrumbs ✓ | Article schema — not checked
-
-Top Queries:
-
-| Query | Clicks | Impressions | CTR | Position |
-|-------|:------:|:-----------:|:---:|:--------:|
-| can i get a sba loan with bad credit | 0 | 37 | 0% | 41.8 |
-| bad credit sba loans | 0 | 18 | 0% | 43.7 |
-| can i get an sba loan with bad credit | 0 | 8 | 0% | 38.8 |
-| can you get a sba loan with bad credit | 0 | 8 | 0% | 43.5 |
-| can i get a business loan with a 400 credit score | 0 | 4 | 0% | 49 |
-| can you get an sba loan with bad credit | 0 | 4 | 0% | 50 |
-
-**Analysis:** The page is indexed and appearing in search results but at very poor positions (30-50). Zero clicks on SBA-specific queries. The position is slowly improving but still far from page 1. This page needs significant on-page improvements to climb.
-
-### Engagement (GA4 — last 30 days)
-
-| Metric | This Page | Site Average | vs. Avg |
-|--------|:---------:|:------------:|:-------:|
-| Sessions | 44 | ~600 | ↓ 93% below |
-| Bounce Rate | 54.5% | ~45% | ↑ 10% worse |
-| Engagement Rate | 45.4% | ~55% | ↓ 10% worse |
-| Avg. Session Duration | ~65s | ~90s | ↓ 28% worse |
-
-### Internal Link Equity
-- **Existing internal links (body):** 4 links to other Upmetrics pages
-- **Existing "read more" links:** 2 styled read-link blocks
-- **All links are Informational** — zero Sales/Features links (imbalanced)
-- **No competitor domain links found** ✓
-
----
 ---
 
 ## Task 1: Internal Links
 
-### Link Distribution Map
+**Current state:** 3 body editorial links, 2 read-link CTA boxes. The URL `/services/sba-lending` appears 3 times total (2 CTAs + 1 body link) — excessive repetition. The "Business plan" anchor in a bullet list is too generic. No links to key SBA-topic companion pages.
 
-| Section | ~Words | Current Links | Action |
-|---------|:------:|---------------|--------|
-| Introduction | 300 | ✓ External: Reddit, SBA.gov | — |
-| Can you really get an SBA loan? | 350 | ✓ CTA #1 (SBA Lending) · Read-link to /blog/how-to-write-a-business-plan-for-a-loan | — |
-| How SBA loans work | 500 | ✓ Read-link to /blog/what-do-you-need-for-a-business-loan | + Add **#6** |
-| Types of SBA loans for low-credit | 600 | — No links (gap) | + Add **#7**, **#8** |
-| Steps to get an SBA loan | 500 | ✓ /blog/sba-business-plan (inline) · CTA #2 | + Add **#9** |
-| What does approval look like? | 400 | ✓ /blog/what-is-business-plan (inline) | + Add **#10** |
-| Alternate funding options | 450 | — No links (gap) | + Add **#11** |
-| Need extra help? (conclusion) | 150 | ✓ /services/sba-lending (inline) | — |
+### Existing Link Audit
 
-**Recommended link count:** 5-7 for ~2,800 words. Currently: 4 body links + 2 read-links = 6. Suggesting 5 new for total ~9-11 (user picks).
+| # | Anchor Text | Target URL | Status |
+|---|-------------|------------|--------|
+| 1 | "SBA business plan templates" | /blog/sba-business-plan | **Good** |
+| 2 | "Business plan" | /blog/what-is-business-plan | **Needs improvement** — 2-word anchor in a bullet list item; generic and link placement is weak. Suggest removing (link is redundant with read-link to "how-to-write-a-business-plan-for-a-loan"). |
+| 3 | "SBA loan assistance" | /services/sba-lending | **Should remove** — this URL already appears in 2 CTAs. A 3rd link to the same destination at the end of the conclusion is excessive and the surrounding copy reads promotional. Remove the hyperlink; keep the phrase as plain text. |
+| 4 | "Steps to write a business plan for a loan" | /blog/how-to-write-a-business-plan-for-a-loan | **Good** (read-link) |
+| 5 | "Checklist for business loan requirements" | /blog/what-do-you-need-for-a-business-loan | **Good** (read-link) |
 
-### Part A — Existing Link Audit
-
-> **#1** · `"SBA business plan templates"` → /blog/sba-business-plan
-> Section: Steps > "Build a solid business plan" · Status: **Good** — relevant anchor, natural placement
+**Note:** 3 external links (Reddit, SBA.gov, AnnualCreditReport.com) — all fine.
 
 ---
 
-> **#2** · `"Business plan"` → /blog/what-is-business-plan
-> Section: "What does approval look like?" · Status: **Good** — contextual mention in a bullet list
+### New Link Suggestions
 
----
-
-> **#3** · `"Steps to write a business plan for a loan"` → /blog/how-to-write-a-business-plan-for-a-loan
-> Section: After "Can you really get an SBA loan?" · Type: Read-link block · Status: **Good** — relevant companion article
-
----
-
-> **#4** · `"Checklist for business loan requirements"` → /blog/what-do-you-need-for-a-business-loan
-> Section: After "How SBA loans work" · Type: Read-link block · Status: **Good** — complements loan process discussion
-
----
-
-> **#5** · `"SBA loan assistance"` → /services/sba-lending
-> Section: Conclusion · Status: **Good** — natural sales mention at closing, appropriate placement
-
-**Summary:** All 5 existing links + 2 read-links are good. No fixes needed.
-
-**Current link balance:** Informational: 4 (100%) · Sales/Features: 0 (0%) — heavily imbalanced. Read-links + /services/sba-lending partially offset but body content needs Sales/Features links.
-
-### Part B — New Link Suggestions
-
-**Target balance after changes:** Informational: 60-70% · Sales/Features: 30-40%
-
----
-
-> **#6** · **HIGH RELEVANCE** · Informational · Quick Win
+> **#1** — `how SBA loans work` → `/blog/what-is-an-sba-loan`
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "SBA-approved banks, credit unions, and online lenders" |
-> | **Anchor Type** | Natural/Contextual |
-> | **Link to** | /blog/best-sba-lenders |
-> | **Text Change** | None — wraps existing text |
-> | **Context** | Table row: "**Who Lends It** — **[SBA-approved banks, credit unions, and online lenders]**" |
-> | **GA Data** | Not in top 50 — check separately |
-> | **Why** | Exact text match in the 7(a) loan table. Reader wanting lender recommendations gets them instantly. |
-
----
-
-> **#7** · **HIGH RELEVANCE** · Informational · Quick Win
+> **Section:** Intro (before first H2)
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "SBA Loan Requirements" |
-> | **Anchor Type** | Natural/Contextual |
-> | **Link to** | /blog/sba-loan-requirements |
-> | **Text Change** | Minor — add sentence after "Types of SBA loans" intro paragraph |
-> | **Context** | After "those are the ones you should focus on." add: "Before applying, review the full **[SBA loan requirements]** to know what lenders expect." |
-> | **Why** | Directly relevant — readers evaluating loan types need to know requirements. High topical match. |
+> **In context:** "The key is understanding **how SBA loans work**, what options exist for low-credit borrowers, and how to strengthen your application."
 
 ---
 
-> **#8** · **HIGH RELEVANCE** · Informational · Quick Win
+> **#2** — `community banks and credit unions` → `/blog/best-sba-lenders`
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "what is an SBA loan" |
-> | **Anchor Type** | Natural/Contextual |
-> | **Link to** | /blog/what-is-an-sba-loan |
-> | **Text Change** | None — wraps existing text in H2 section intro |
-> | **Context** | "First thing you need to know: The SBA doesn't hand you the money." — Nearby text discusses SBA basics. Wrap "SBA loans" or add parenthetical: "If you're new to SBA financing, start with our guide on **[what is an SBA loan]**." |
-> | **Why** | Foundation article for readers unfamiliar with SBA loans. Strong internal cluster link. |
-
----
-
-> **#9** · **MEDIUM RELEVANCE** · Informational · Quick Win
+> **Section:** "Can you really get an SBA loan with bad credit?"
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "how long does it take to get an SBA loan" |
-> | **Anchor Type** | Long-tail |
-> | **Link to** | /blog/how-long-does-it-take-to-get-an-sba-loan |
-> | **Text Change** | Minor — add one sentence in "Steps to get an SBA loan" section |
-> | **Context** | After step 6 ("Get your financial documents in order"), add: "Wondering **[how long does it take to get an SBA loan]**? Timeline varies by loan type, but preparation speeds things up." |
-> | **Why** | Natural next question for readers following the steps. Keeps reader in the SBA content cluster. |
+> **In context:** "You'll need to find lenders who focus on the whole picture, not just your credit score. **Community banks and credit unions** are often more flexible than the big national banks."
 
 ---
 
-> **#10** · **MEDIUM RELEVANCE** · Informational · Quick Win
+> **#3** — `cash flow` → `/blog/how-to-forecast-cash-flow`
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "how to get a business loan with bad credit" |
-> | **Anchor Type** | Long-tail |
-> | **Link to** | /blog/how-to-get-a-business-loan-with-bad-credit |
-> | **Text Change** | None — wraps existing concept |
-> | **Context** | In "Consider alternate funding options" intro: "There are other ways to get business funding" → wrap nearby text or add: "For a broader view, see our guide on **[how to get a business loan with bad credit]** beyond SBA programs." |
-> | **GA Data** | 696 sessions · 84.1% engagement (site avg: 55%) — high-performing page |
-> | **Why** | Sibling article covering broader bad-credit lending. Very high engagement rate — strong link target. |
-
----
-
-> **#11** · **MEDIUM RELEVANCE** · Sales/Features · Quick Win
+> **Section:** "Can you really get an SBA loan with bad credit?"
 >
-> | Field | Value |
-> |-------|-------|
-> | **Anchor** | "business plan software" |
-> | **Anchor Type** | Partial match |
-> | **Link to** | /features/ai-business-plan-generator |
-> | **Text Change** | Minor — natural mention in "Build a solid business plan" step |
-> | **Context** | After "include real numbers that show you've done your homework" add: "If you need help, **[business plan software]** like Upmetrics can generate your financials automatically." |
-> | **GA Data** | 377 sessions · 62.6% engagement |
-> | **Why** | Adds a Sales/Features link to balance the ratio. Contextually fits — readers are told to build a business plan, this offers a tool. |
-
-### Task 1 Summary
-
-| Metric | Value |
-|--------|-------|
-| Existing links | 5 body + 2 read-links (all good, no fixes) |
-| New opportunities | 6 (#6-#11) |
-| After changes (if all approved) | ~11 links total |
-| Balance (after) | Informational: 9 (~82%) · Sales/Features: 2 (~18%) |
-| Distribution | Links across 6 of 7 sections |
+> **In context:** "If your score's shaky, build your case with **cash flow**, craft a solid business plan, collateral, and experience. That's how many of us still manage to pull it off."
 
 ---
+
+> **#4** — `get business funding` → `/blog/alternative-business-funding-methods`
+>
+> **Section:** "Consider alternate funding options"
+>
+> **In context:** "There are other ways to **get business funding**—some faster, some riskier, but worth considering when you need cash to keep things moving."
+
+<details>
+<summary>Considered but skipped (5 pages)</summary>
+
+| Page | Reason Skipped |
+|------|----------------|
+| SBA Loan Requirements (/blog/sba-loan-requirements) | No clear 2-5 word verbatim paragraph anchor; "strengthen your application" is a topic mismatch for a requirements page |
+| SBA Loan Denied (/blog/sba-loan-denied) | Content doesn't include any "denied" or "rejected" language in paragraph text — no natural anchor |
+| Business Loan With Bad Credit (/blog/how-to-get-a-business-loan-with-bad-credit) | Sister post on very similar topic — cross-linking would signal topical overlap to search engines; claimed for Related Content (Task 4) |
+| Debt vs. Equity Financing (/blog/debt-vs-equity-financing) | "debt-to-income ratio" only appears in a bullet list item, not paragraph text; also a topic mismatch |
+| SBDCs (/blog/small-business-development-centers-sbdc) | SBDCs not mentioned in content; CDFIs only appear in a bullet list |
+
+</details>
+
 ---
 
 ## Task 2: CTA Placements
 
-### CTA Placement Map
+### Existing CTA Audit
 
-| Section | ~Words | CTA State |
-|---------|:------:|-----------|
-| Introduction + Key Takeaways | 300 | — |
-| Can you really get an SBA loan? | 350 | ✓ Existing **CTA-A** — cta-template-ai (SBA Lending) |
-| How SBA loans work | 500 | — |
-| Types of SBA loans for low-credit | 600 | — Gap — could fit a lightweight CTA |
-| Steps to get an SBA loan | 500 | ✓ Existing **CTA-B** — cta-template-ai (IDENTICAL to CTA-A) |
-| What does approval look like? | 400 | — |
-| Alternate funding options | 450 | — |
-| Need extra help? (conclusion) | 150 | — (no Elementor template detected) |
-
-### Part A — Existing CTA Audit
-
-> **CTA-A** · `cta-template cta-template-ai` — After "Can you really get an SBA loan?" section
->
-> | Field | Value |
-> |-------|-------|
-> | **Type** | Custom (non-standard — not from CTA templates) |
-> | **Headline** | "Bad credit is killing your funding dreams?" |
-> | **Sub** | "Let Us Connect You With Trusted SBA Partners" |
-> | **Button** | "Get connected with Experts" → /services/sba-lending |
-> | **Image** | ai-assistant-blog-image-1 (generic product image — doesn't match SBA topic) |
->
-> **Assessment:** **Replace** — This CTA is fine for a services page but doesn't match CTA template standards. The same CTA appears twice in the post (CTA-B is identical), which is a major issue. Suggest replacing with a Type 8 (Investor-Ready Plan) or Type 2 (Inline Help) that promotes the business plan tool — since the article repeatedly emphasizes business plans as key to approval.
+| # | CTA Type | Placement | Status | Notes |
+|---|----------|-----------|--------|-------|
+| 1 | Legacy `cta-template-ai` — "Let Us Connect You With Trusted SBA Partners" | After H2 "Can you really get an SBA loan with bad credit?" | **Replace** | Legacy format not in standard CTA library; contextually appropriate destination (/services/sba-lending) but needs standard template |
+| 2 | Legacy `cta-template-ai` — "Let Us Connect You With Trusted SBA Partners" | After "Build a solid business plan" step | **Replace** | Exact duplicate of CTA #1 — same class, same headline, same URL, same image. Violates CTA variety rule. Replace with different type and different conversion angle. |
+| Elementor | `[elementor-template id="44970"]` | End of post | **MISSING — Critical** | Every Upmetrics blog post should end with this template. Adds the standard site-wide conversion CTA. |
 
 ---
 
-> **CTA-B** · `cta-template cta-template-ai` — After "Build a solid business plan" step
->
-> | Field | Value |
-> |-------|-------|
-> | **Identical to CTA-A** | Same headline, subtitle, button, link, image |
->
-> **Assessment:** **Keep but modify** — Placement is good (right after telling readers to build a business plan). But copy should differ from CTA-A. Update to a different message focused on the business plan angle.
+### New CTA Suggestions
 
-### Part B — New CTA Suggestions
-
-> **CTA-NEW-1** · **HIGH RELEVANCE** · Replace CTA-A · After "Can you really get an SBA loan?"
+> **#1** — Type 3 (Delivery Block) | Replace CTA #1 | After "Can you really get an SBA loan with bad credit?"
 >
-> **Type:** Type 8 — Flex Banner: Investor-Ready Plan (Image Right)
-> **Why:** Section establishes that a solid business plan can overcome bad credit. This CTA directly offers the tool to build one.
+> **Placed after:** "So yeah—it's tough, but you just need to show strength in other areas. If your score's shaky, build your case with cash flow, craft a solid business plan, collateral, and experience. That's how many of us still manage to pull it off. And you will too."
 >
-> **Preview:**
+> **CTA Preview:**
 > ```
-> ┌──────────────────────────────────────────────────────┐
-> │                          │  ┌──────────────────┐    │
-> │  Lenders care about your │  │                  │    │
-> │  plan more than your     │  │  [AI Biz Plan]   │    │
-> │  credit score            │  │                  │    │
-> │                          │  └──────────────────┘    │
-> │  Build a lender-ready    │                          │
-> │  business plan today     │                          │
-> │  [Start Your Plan →]     │                          │
-> └──────────────────────────────────────────────────────┘
+> ┌─────────────────────────────────────────────────────────┐
+> │       Don't go through SBA applications alone           │
+> │                                                         │
+> │   Our SBA experts have helped founders just like        │
+> │   you get funded — even with credit challenges.         │
+> │                                                         │
+> │            [ Connect with SBA Experts ]                 │
+> └─────────────────────────────────────────────────────────┘
 > ```
->
-> | Field | Value |
-> |-------|-------|
-> | **Eyebrow** | Lenders care about your plan more than your credit score |
-> | **Headline** | Build a lender-ready business plan today |
-> | **Button** | Start Your Plan |
-> | **Link** | https://upmetrics.co/signup |
-> | **Image** | ai-business-plan.svg |
->
-> **Spacing:** First CTA in post · ~650 words from top
+> **Angle:** Social proof. **Link:** /services/sba-lending
 
 ---
 
-> **CTA-MODIFY-B** · **HIGH RELEVANCE** · Modify CTA-B · After "Build a solid business plan" step
+> **#2** — Type 7 (AI Writing, Image Left) | Replace CTA #2 | After "2) Build a solid business plan"
 >
-> **Type:** Type 2 — Inline Help (lightweight text CTA)
-> **Why:** Reader was just told to build a business plan. A lightweight inline recommendation feels like a natural tip, not an ad. Switching from the heavy banner CTA-B to a text CTA adds variety.
+> **Placed after:** "Even if your credit's weak, a great plan can make a lender think twice. You can use SBA business plan templates to get started, but make sure you customize everything to fit your specific situation and include real numbers that show you've done your homework."
 >
-> | Field | Value |
-> |-------|-------|
-> | **CTA Text** | Need help putting your business plan together for a lender? Upmetrics makes it easy with AI-assisted financials and 400+ templates. |
-> | **Link Text** | Create your lender-ready plan |
-> | **Link** | https://upmetrics.co/cta/help |
->
-> **Spacing:** ~800 words after CTA-NEW-1
+> **CTA Preview:**
+> ```
+> ┌────────────────────────────────────────────────────────────┐
+> │  🖼 AI Writing  │  First draft in under 10 minutes         │
+> │                 │                                          │
+> │                 │  Build a lender-ready business plan      │
+> │                 │  that shows lenders you mean business.   │
+> │                 │                                          │
+> │                 │  [ Start for Free ]                      │
+> └────────────────────────────────────────────────────────────┘
+> ```
+> **Angle:** Speed. **Link:** /signup
 
 ---
 
-> **CTA-NEW-2** · **MEDIUM RELEVANCE** · After "Alternate funding options" · **Quick Win**
+> **#3 (Recommended)** — Add `[elementor-template id="44970"]` as the very last line of the content
 >
-> **Type:** Type 3 — Delivery Block (Centered Banner)
-> **Why:** Strong closer near end of content. Reader has explored all funding options — this is the conversion push.
->
-> **Preview:**
-> ```
-> ┌──────────────────────────────────────────────────────┐
-> │              Whatever loan you choose,               │
-> │          you'll need a solid business plan            │
-> │                                                      │
-> │       Draft yours in minutes with Upmetrics AI       │
-> │              [Get Started Free →]                    │
-> └──────────────────────────────────────────────────────┘
-> ```
->
-> | Field | Value |
-> |-------|-------|
-> | **Headline** | Whatever loan you choose, you'll need a solid business plan |
-> | **Subtitle** | Draft yours in minutes with Upmetrics AI |
-> | **Button** | Get Started Free |
-> | **Link** | https://upmetrics.co/cta/help |
->
-> **Spacing:** ~1,200 words after CTA-MODIFY-B · ~150 words before conclusion
-
-### Task 2 Summary
-
-| Metric | Value |
-|--------|-------|
-| Existing CTAs | 2 (both identical — major issue) |
-| After changes | 3 CTAs (1 banner + 1 inline text + 1 delivery block) — all different types |
-| CTA variety | ✓ Three different formats |
+> **This is the standard end-of-post CTA required on all Upmetrics blog posts. It is currently missing.**
 
 ---
+
+> **#4 (Optional)** — Type 12 (Yellow Tip) | After "4) Provide positive cash flow or revenue"
+>
+> **Placed after:** "Show your income over the past 6–12 months—it doesn't have to be perfect, just steady and heading in the right direction."
+>
+> **CTA Preview:**
+> ```
+> ┌─────────────────────────────────────────────────────────────────┐
+> │ 💡 Tip: Need a cash flow statement for your SBA application?    │
+> │ Upmetrics auto-generates one from your inputs — no spreadsheets │
+> │ needed. → Create your financial plan                            │
+> └─────────────────────────────────────────────────────────────────┘
+> ```
+> **Angle:** Ease. **Link:** /cta/help
+
 ---
 
 ## Task 3: Downloadable Resource CTA
 
-**Current state:** No resource CTA set on this post.
+**Not currently set.** The post strongly emphasizes building a solid business plan as the #1 compensating factor for bad credit — a business plan template is the most directly useful resource to attach.
 
-**Recommendation:** Set the **Startup Fundraising Checklist** as the downloadable resource.
+**Recommended:** `/download/business-plan-template`
+- Title: "Free Business Plan Template – Download PDF, Word & Google Docs"
+- **heading:** `Free Business Plan Template`
+- **resource_link_text:** `Download Template`
+- **Combined display:** "Download Template: Free Business Plan Template" (47 chars ✅)
 
-| Field | Value |
-|-------|-------|
-| **Resource** | Startup Fundraising Checklist |
-| **URL** | https://upmetrics.co/download/startup-fundraising-checklist |
-| **Post ID** | 7345 |
-| **Why** | Directly relevant — readers seeking SBA loans need to prepare their funding documents. A fundraising checklist helps them organize what they need before approaching lenders. |
-| **Heading** | Startup Fundraising Checklist |
-| **resource_link_text** | Download Checklist |
-| **Combined display** | Download Checklist: Startup Fundraising Checklist (48 chars ✓) |
-
-**Deduplication:** This URL will be excluded from Task 4 (Related Content).
-
----
 ---
 
 ## Task 4: Related Content
 
-**Current state:** No related content items set.
+**Not currently set.** Suggested 4 items (all from pages not claimed by Tasks 1/3):
 
-**Recommendation:** 4 items from the SBA content cluster.
+| # | Post | Post ID | Custom Title | Why |
+|---|------|---------|--------------|-----|
+| 1 | SBA Loan Requirements | 87765 | "What Do SBA Lenders Actually Look For?" | Natural next question after reading this post |
+| 2 | SBA Loan Denied? | 105453 | "If Your SBA Application Gets Rejected" | High intent — readers want to know what happens if denied |
+| 3 | Business Loan With Bad Credit | 81933 | "Bad Credit? Here Are Your Broadest Loan Options" | Complementary: covers non-SBA loan alternatives for bad credit |
+| 4 | SBA Loan to Buy a Business | 105873 | "Using an SBA Loan to Buy a Business" | Related SBA use case — natural companion post |
 
-| # | Post | ID | Type | Why |
-|:-:|------|:--:|------|-----|
-| 1 | SBA Loan Denied? 10 Reasons Why and What to Do Next | 105453 | post | Covers what happens after denial — natural next read for worried borrowers |
-| 2 | Top SBA Lenders: Where Real Approvals Happen | 89179 | post | Readers need to know WHERE to apply — complements "how to get approved" |
-| 3 | SBA Loan Requirements: What You Need to Qualify | 87765 | post | Requirements guide — pairs naturally with bad credit strategies |
-| 4 | How Long Does It Take to Get an SBA Loan | 87451 | post | Timeline expectations — common follow-up question |
-
-**Deduplication check:**
-- /download/startup-fundraising-checklist (Task 3) — not in this list ✓
-- /blog/best-sba-lenders (Task 1, #6) — listed here as #2. **Conflict:** URL appears in both Task 1 (body link) and Task 4 (related). Per dedup rules, Task 1 wins. **Resolution:** Replace #2 with **/blog/how-to-get-a-business-loan-with-bad-credit** (ID 81933) — sibling article covering broader bad-credit options.
-
-**Final Related Content list (after dedup):**
-
-| # | Post | ID |
-|:-:|------|:--:|
-| 1 | SBA Loan Denied? 10 Reasons Why and What to Do Next | 105453 |
-| 2 | How to Get a Business Loan With Bad Credit | 81933 |
-| 3 | SBA Loan Requirements: What You Need to Qualify | 87765 |
-| 4 | How Long Does It Take to Get an SBA Loan | 87451 |
-
-**Note:** #10 from Task 1 links to /blog/how-to-get-a-business-loan-with-bad-credit. If user approves both Task 1 #10 AND Task 4 #2, there's a conflict. In that case, drop Task 4 #2 and replace with /blog/what-is-an-sba-loan (ID 87588).
-
----
 ---
 
 ## Task 5: Meta Title & Description
 
-### Meta Title
+**Current state: NOT SET** — WordPress is using the raw post title as the meta title with no description or focus keyphrase configured.
 
-| | Value | Chars |
-|---|-------|:-----:|
-| **CURRENT H1** | How to Get an SBA Loan with Bad Credit | 38 ✓ |
-| **CURRENT META** | (likely auto-generated from H1 — check Yoast) | ~38+ |
-| **SUGGESTED** | **How to Get an SBA Loan with Bad Credit [2026 Guide]** | 53 ✓ |
+### Suggested Values
 
-**Changes:** Added [2026 Guide] freshness hook. Primary keyword front-loaded. Under 60 chars.
-
-### Meta Description
-
-| | Value | Chars |
-|---|-------|:-----:|
-| **CURRENT** | (excerpt used as fallback — 280+ chars, too long) | 280+ |
-| **SUGGESTED** | **Bad credit doesn't mean no SBA loan. Learn which programs accept lower scores, how to strengthen your application, and what lenders really look for.** | 152 ✓ |
-
-### Focus Keyphrase
-
-| | Value |
-|---|-------|
-| **CURRENT** | Unknown |
-| **SUGGESTED** | sba loan bad credit |
-
-### Other SEO Fields
-
-| Field | Status |
-|-------|--------|
-| **Canonical URL** | ✓ Correctly set |
-| **OG Title** | Set to match meta title |
-| **OG Description** | Set to match meta description |
+| Field | Current | Suggested | Chars |
+|-------|---------|-----------|-------|
+| **Meta Title** | "How to Get an SBA Loan with Bad Credit" (raw) | `SBA Loan with Bad Credit: 6 Steps That Actually Work` | 53 ✅ |
+| **Meta Description** | Not set | `Bad credit doesn't have to kill your SBA loan application. Discover which programs accept lower scores and the 6 steps that improve your odds.` | 145 ✅ |
+| **Focus Keyphrase** | Not set | `sba loan with bad credit` | — |
+| **Canonical URL** | Auto (correct) | No change needed | — |
+| **OG Title** | Not set | `SBA Loan with Bad Credit: 6 Steps That Actually Work` | 53 ✅ |
+| **OG Description** | Not set | Same as meta description | 145 ✅ |
 
 ### SERP Preview
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│ How to Get an SBA Loan with Bad Credit [2026 Guide]         │
-│ https://upmetrics.co › blog › sba-loan-with-bad-credit      │
-│ Bad credit doesn't mean no SBA loan. Learn which programs   │
-│ accept lower scores, how to strengthen your application,    │
-│ and what lenders really look for.                           │
-└─────────────────────────────────────────────────────────────┘
+SBA Loan with Bad Credit: 6 Steps That Actually Work
+upmetrics.co › blog › sba-loan-with-bad-credit
+Bad credit doesn't have to kill your SBA loan application. Discover which
+programs accept lower scores and the 6 steps that improve your odds.
 ```
 
----
+**Rationale:** Primary keyword leads the title. "6 Steps" signals a structured, actionable guide — CTR lifter vs. surrounding SERP results which likely just say "SBA loan with bad credit guide." Position 36 with 655 impressions means even a modest CTR improvement (1% → 2%) would nearly double clicks.
+
 ---
 
 ## Task 6: Image Alt Text
 
-| # | Image File | Current Alt | Suggested Alt | Change? |
-|:-:|-----------|-------------|---------------|:-------:|
-| 1 | ambitious-echo4890.webp | "ambitious echo4890" | "Reddit comment about SBA loan eligibility with bad credit" | **Yes** |
-| 2 | sba-loan-approval.webp | "sba loan approval" | Good — descriptive enough | No |
-| 3 | ai-assistant-blog-image-1 (CTA) | "ai assistant blog" | "Upmetrics AI business plan assistant" | **Yes** (×2 — same image in both CTAs) |
-| 4 | steps-to-get-an-sba-loan-with-bad-credit.webp | "steps to get an sba loan with bad credit" | Good — matches content | No |
-| 5 | jerome-maldonado.webp | "jerome maldonado" | "SBA loan success story example" | **Yes** |
-| 6 | sba-alternate-funding-options.webp | "sba alternate funding options" | Good — descriptive | No |
+| # | Image File | Current Alt | Suggested Alt |
+|---|------------|-------------|---------------|
+| 1 | ambitious-echo4890.webp | "ambitious echo4890" ❌ | `Reddit user myth that SBA requires 650 credit score minimum` |
+| 2 | sba-loan-approval.webp | "sba loan approval" ❌ | `three factors lenders evaluate for SBA loan approval: cash flow, collateral, and business experience` |
+| 3 | steps-to-get-an-sba-loan-with-bad-credit.webp | "steps to get an sba loan with bad credit" ✅ | Keep as-is — acceptable |
+| 4 | jerome-maldonado.webp | "jerome maldonado" ❌ | `Jerome Maldonado quote about getting SBA loan approval despite poor credit history` |
+| 5 | sba-alternate-funding-options.webp | "sba alternate funding options" ❌ | `comparison of 5 alternative business funding options for when SBA loans aren't available` |
 
-**3 images need alt text updates.** Quick win — these are simple text changes.
+**Note:** CTA images (ai-assistant-blog-image x2) are inside CTA blocks — not content images, skip.
 
----
 ---
 
 ## Task 7: URL Slug
 
-| | Value |
-|---|-------|
-| **Current** | `sba-loan-with-bad-credit` |
-| **Assessment** | Clean, keyword-focused, 5 words — good slug |
-| **Recommendation** | **No change** — slug is already optimized |
+**Current slug:** `sba-loan-with-bad-credit`
 
----
+This is already optimal — it matches the primary keyword exactly and is 4 clean words. **No change recommended.**
+
 ---
 
 ## Task 8: Heading Structure
 
-### Current Headings
+**One fix needed:**
 
-| Tag | Text | Issue? |
-|-----|------|--------|
-| H1 | How to Get an SBA Loan with Bad Credit | ✓ Good |
-| H2 | Can you really get an SBA loan with bad credit? | ✓ Good |
-| H2 | How SBA loans work (even if your credit isn't perfect) | ✓ Good |
-| H2 | Types of SBA loans available for low-credit borrowers | ✓ Good |
-| H2 | Steps to get an SBA loan with bad credit | ✓ Good |
-| H2 | What does approval look like with poor credit? | ✓ Good |
-| H3 | How low credit score affect interest rates and loan terms? | **Grammar** — "score" should be "scores" |
-| H3 | How do lenders assess "Creditworthiness"? | ✓ Good |
-| H2 | Consider alternate funding options | ✓ Good |
-| H2 | Need extra help? | ✓ Good |
+| # | Current H3 | Issue | Suggested Fix |
+|---|------------|-------|---------------|
+| 1 | "How low credit score affect interest rates and loan terms?" | Grammatically incorrect — subject-verb agreement error | `How a Low Credit Score Affects Interest Rates and Loan Terms` |
 
-**1 heading fix needed:**
-
-> **#H1** · **Quick Win**
->
-> | | Text |
-> |---|------|
-> | **BEFORE** | How low credit score affect interest rates and loan terms? |
-> | **AFTER** | How do low credit scores affect interest rates and loan terms? |
+All other headings are logically structured. The duplicate H3 headings for "SBA 7(a) loan" and "SBA Microloan" in two separate sections are intentional (first section = overview, second = low-credit lens) — no change needed.
 
 ---
----
 
-## Task 9: Categories
+## Task 9: Category
 
-| | Value |
-|---|-------|
-| **Current** | Funding |
-| **Assessment** | ✓ Correct — article is about SBA loans and financing options |
-| **Recommendation** | No change needed |
-
----
----
-
-## Cross-Task Insights
-
-### URL Overlap Resolution
-
-| URL | Task 1 | Task 3 | Task 4 | Conflict? |
-|-----|:------:|:------:|:------:|:---------:|
-| /blog/best-sba-lenders | **#6** | — | Excluded | ✓ Resolved — Task 1 wins |
-| /download/startup-fundraising-checklist | — | **Selected** | Excluded | ✓ Resolved |
-| /blog/how-to-get-a-business-loan-with-bad-credit | **#10** | — | **#2** | ⚠ Potential — if both approved, drop Task 4 #2 |
-| /blog/sba-loan-requirements | — | — | **#3** | ✓ No conflict |
-
-### Content Gaps
-
-| # | Topic | Where Mentioned | Suggestion |
-|:-:|-------|-----------------|------------|
-| 1 | **Business credit score vs personal credit score** | Multiple sections discuss "credit score" generically | Create dedicated guide at `/blog/business-credit-score` |
-| 2 | **SBA loan interest rates** | Mentioned in "approval" section but no detailed breakdown | Expand existing content or create `/blog/sba-loan-interest-rates` |
+**Current:** ["Funding"] — correct for SBA loans content. **No change needed.**
 
 ---
 
@@ -544,15 +282,15 @@ Top Queries:
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #6, #7, #8, #9, #10, #11. No fixes needed.
-Task 2 (CTAs): Replace CTA-A with CTA-NEW-1. Modify CTA-B to Inline Help. Add CTA-NEW-2.
-Task 3 (Resource CTA): Approve startup-fundraising-checklist.
+Task 1 (Internal Links): Approve #1, #2, #3, #4. Fix link #2 (remove Business plan). Remove link #3 (SBA loan assistance body link).
+Task 2 (CTAs): Approve #1, #2, #3 (Elementor). Add Optional #4 (Yellow Tip).
+Task 3 (Resource CTA): Approve business-plan-template.
 Task 4 (Related Content): Approve items #1-#4.
-Task 5 (Meta Title/Desc): Approve suggested title. Approve description. Set keyphrase.
-Task 6 (Image Alt Text): Approve all 3 updates.
-Task 7 (URL Slug): Skip — already clean.
+Task 5 (Meta Title/Desc): Approve all fields.
+Task 6 (Image Alt Text): Approve all 4 updates (skip #3).
+Task 7 (URL Slug): Skip — already optimal.
 Task 8 (Headings): Approve H3 grammar fix.
 Task 9 (Categories): Skip — already correct.
-```
 
-Or simply: **"Approve all"** / **"Approve all except Task ___"**
+Or simply: "Approve all" / "Approve all except Task 7 and Task 9"
+```

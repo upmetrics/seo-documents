@@ -78,13 +78,13 @@
 
 ---
 
-> **#2** — `financial projections` → `/blog/write-financial-section-startup-business-plan` *(Recommended)*
+> **#2** — `financial projections` → `/blog/financial-projections-business-plan` *(Recommended)*
 >
 > **Section:** Step 9 — Draft a comprehensive business plan
 >
 > **In context:** "If the plan is to get funding or a loan, then you include the **financial projections** and assumptions supported by the details your audience expects."
 >
-> **Why:** This is the most contextually precise link in the post — exact phrase, perfect topic match (the linked post is specifically about writing the financial section). High engagement (66%) and directly useful next step.
+> **Why:** This is the most contextually precise link in the post — exact phrase, perfect topic match (the linked post is specifically about financial projections). High engagement (66%) and directly useful next step.
 
 ---
 

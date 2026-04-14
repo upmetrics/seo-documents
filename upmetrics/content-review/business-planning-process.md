@@ -18,14 +18,14 @@ The draft has a strong advisor voice and solid anecdotes in the first half, but 
 |-----|----------|-------------|-------|---------|
 | 6/10 | 5/10 | 6/10 | 6/10 | 6/10 |
 
-**Issue Count:** P0: 14 | P1: 14 | P2: 2
-**P0 Breakdown:** WRONG: 13 | MISSING: 0 | WEAK: 1
+**Issue Count:** P0: 17 | P1: 16 | P2: 1
+**P0 Breakdown:** WRONG: 16 | MISSING: 0 | WEAK: 1
 
 **Issues by Category:**
 
 | SEO | ACCURACY | ANALYSIS | LANGUAGE | FLOW | FORMAT | SCOPE | LINKS | IMAGE | GAP | US |
 |-----|----------|----------|----------|------|--------|-------|-------|-------|-----|-----|
-| 3 | 2 | 5 | 10 | 4 | 3 | 2 | 1 | 0 | 0 | 0 |
+| 3 | 2 | 5 | 11 | 5 | 4 | 2 | 1 | 0 | 0 | 0 |
 
 ---
 
@@ -42,7 +42,7 @@ The draft has a strong advisor voice and solid anecdotes in the first half, but 
 
 **WRONG** (factual/arithmetic errors — fix first):
 1. **Break-even formula is wrong** — "Figure Out How You'll Make Money" — Divide fixed costs by contribution, not by price. Real break-even is 2M ÷ 300 ≈ 6,667 (not 4,000).
-2. **"Michael" has no antecedent** — "Analyse and Study the Market" — The Chewy setup paragraph was triplicated and then auto-deleted; restore a clean one-sentence intro AND fact-check that the story is about Ryan Cohen (the usual attribution), not Michael.
+2. **"Michael" has no antecedent** — "Analyse and Study the Market" — The Chewy setup sentence is triplicated ("Take Chewy, for example." x3) AND the follow-up starts with "But Michael realised…" without naming who Michael is. Delete the two extra copies, then fact-check attribution (usually Ryan Cohen, not Michael).
 3. **"Apple" anchor links to Upmetrics homepage** — "Define Your Core Idea" — Deceptive link. Remove the link on "Apple" or move it to a relevant phrase.
 4. **Meta title promises "9 Steps" but doc has 11** — Fix the count or update the meta.
 5. **H1 casing inconsistent** — "Business Planning process" (lowercase "process") should be title case.
@@ -53,8 +53,11 @@ The draft has a strong advisor voice and solid anecdotes in the first half, but 
 10. **"simply be something disguised"** — "disguised" is the opposite of the intended meaning (distinctive).
 11. **"Introduce in a single market"** — missing object.
 12. **"Achieve revenues of $100K or 500 active users"** — "or" confuses the goal; should be two separate targets.
-13. **Two verbatim duplicate paragraphs** — in "Testing if People Actually Want It" and "Keep Reviewing and Updating Your Strategy" — delete the second occurrence in each.
-14. **Near-duplicate revenue-stream advice** — "Figure Out How You'll Make Money" — two consecutive paragraphs say the same thing.
+13. **Two verbatim duplicate paragraphs** — in "Testing if People Actually Want It" and "Keep Reviewing and Updating Your Strategy" — recommend deleting the second occurrence in each (flagged as comments — writer decides).
+14. **Near-duplicate revenue-stream advice** — "Figure Out How You'll Make Money" — two consecutive paragraphs say the same thing; recommend deleting one.
+15. **Triplicated "Take Chewy, for example."** — "Analyse and Study the Market" — opening sentence accidentally repeated three times.
+16. **Orphaned "Infographics" / "Infographic" placeholder labels** — "Testing" and "Make Rough Financials" sections — lone words left from draft stage; replace with the actual infographic or delete.
+17. **"People are now" orphaned fragment** — "Identify an Opportunity" section — truncated draft stub, never completed.
 
 **WEAK** (too shallow — deepen third):
 1. **Startup cost example ($500/$600/$200/$150)** — Too small to feel real for the stated audience. Scale up or label as a freelance example.
@@ -174,10 +177,7 @@ Images were not individually audited in this review (subagent skipped). Before p
 
 ## ITEMS NOT PLACED IN DOCX
 
-| # | Target Section | Issue | Action Required |
-|---|---------------|-------|-----------------|
-| 1 | Testing if People Actually Want It (and Make Rough Financials) | Stray "Infographic"/"Infographics" labels were already auto-deleted in the formatting pass, so the planned suggestion comment had no anchor. No action needed — just replace them with the real assets before publish. |
-| 2 | FAQs | Tracked change "financial modelling" → "financial modeling" could not be split across runs. Apply manually in the FAQ answer about ChatGPT/Upmetrics. |
+All 34 comments and 9 tracked changes applied cleanly. No manual items required.
 
 ---
 

@@ -18,14 +18,14 @@ The draft has a strong advisor voice and solid anecdotes in the first half, but 
 |-----|----------|-------------|-------|---------|
 | 6/10 | 5/10 | 6/10 | 6/10 | 6/10 |
 
-**Issue Count:** P0: 17 | P1: 16 | P2: 1
-**P0 Breakdown:** WRONG: 16 | MISSING: 0 | WEAK: 1
+**Issue Count:** P0: 19 | P1: 16 | P2: 1
+**P0 Breakdown:** WRONG: 18 | MISSING: 0 | WEAK: 1
 
 **Issues by Category:**
 
 | SEO | ACCURACY | ANALYSIS | LANGUAGE | FLOW | FORMAT | SCOPE | LINKS | IMAGE | GAP | US |
 |-----|----------|----------|----------|------|--------|-------|-------|-------|-----|-----|
-| 3 | 2 | 5 | 11 | 5 | 4 | 2 | 1 | 0 | 0 | 0 |
+| 3 | 2 | 5 | 11 | 5 | 4 | 2 | 1 | 2 | 0 | 0 |
 
 ---
 
@@ -162,11 +162,17 @@ All 9 existing links go to upmetrics.co domains and resolve correctly. No outbou
 
 ## IMAGE SUMMARY
 
-**Total:** 2 images | **Issues:** 0 confirmed
+**Total:** 2 images | **Issues:** 2 (both flagged inline in docx)
 
-Images were not individually audited in this review (subagent skipped). Before publishing, confirm both images have descriptive alt text tied to the primary keyword or the section they illustrate.
+**image1.png (TOC infographic):**
+- Step 6 reads "Choose your office wall color before planning" — a placeholder/joke step that is not in the article. Replace with a real step.
+- Footer is dual-branded "Bizplanr | upmetrics" — should be Upmetrics-only for this article. Regenerate.
+- Missing the article's "Keep Reviewing and Updating Your Strategy" step.
 
-**Sections needing visuals:**
+**image2.png (Validation steps):**
+- Third bullet in the image reads "Pay Attention to Pain Points" but the article's third validation bullet is "Listen for frustration." Align the two so they say the same thing.
+
+**Sections needing additional visuals:**
 
 | Section | Recommendation |
 |---------|----------------|

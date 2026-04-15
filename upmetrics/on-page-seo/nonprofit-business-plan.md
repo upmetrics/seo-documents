@@ -1,339 +1,276 @@
-# SEO On-Page Report: Nonprofit Business Plan
+# On-Page SEO Report — Nonprofit Business Plan
 
 | Field | Value |
 |-------|-------|
-| **URL** | https://upmetrics.co/blog/nonprofit-business-plan |
-| **Post ID** | 106581 |
-| **Post Type** | Blog Post (`post`) |
-| **Report Date** | 2026-04-13 |
-| **Word Count** | ~4,200 |
-| **Category** | Planning |
-| **GSC Data Range** | N/A — page published 2026-04-11 (2 days ago), no performance data yet |
-| **GA4 Data Range** | 30 days (page not yet in top 50) |
+| URL | https://upmetrics.co/blog/nonprofit-business-plan |
+| Post ID | 106581 |
+| Post Type | post |
+| Category | Planning |
+| Published | 2026-04-11 |
+| Last Modified | 2026-04-14 |
+| Word Count | ~4,721 |
+| Report Date | 2026-04-15 |
+| GSC Data Range | 90 days |
+| GA4 Data Range | 30 days |
 
 ---
 
-## Section B: Page Health Score & Action Summary
+## Section B: Page Health Score + Action Summary
 
-### Page Health Score: 7/10
+### Page Health Score: **7.5 / 10**
 
-| Status | Count | Items |
-|--------|:-----:|-------|
-| Critical | 0 | — |
-| Needs Improvement | 4 | Internal links (low count for 4,200 words), no Resource CTA, no Related Content, image alt text generic |
-| Good | 5 | Heading structure clean, Blog Post End CTA present, categories correct, slug clean, meta fields set |
+| Status | Count |
+|--------|:--:|
+| Critical | 0 |
+| Needs Improvement | 3 |
+| Good | 7 |
 
-### Action Summary Table
+**Deductions:**
+- **-1.5** — 6 of 7 images use generic "- business plan" alt suffix (fails Task 6 writing rules)
+- **-0.5** — Internal link density is low for a 4,700-word post; only 11 links, several high-value targets missing
+- **-0.5** — Meta title/focus keyphrase could not be verified via API (structural polish only possible)
+
+**Note on meta fields (Task 5):** Page is 4 days old with only 3 GSC impressions / 0 clicks — no CTR benchmark available. Task 5 is deferred until the page accumulates at least 30 days of ranking data.
+
+### Action Summary
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|---|------|--------|--------|---------------|------------|---------------|
-| 1 | Internal Links | High | Medium | 7 links (5 good, 2 need cleanup). Low for 4,200 words | Add 5-7 new links, fix 2 query-param links | Approve recommended |
-| 2 | CTA Placements | Medium | Medium | 1 download link + 1 tip CTA + End CTA. Missing mid-content product CTA | Add 2 CTAs (1 banner + 1 light) | Approve recommended |
-| 3 | Resource CTA | High | Quick Win | Not set | Set nonprofit business plan template | Approve |
-| 4 | Related Content | Medium | Quick Win | Not set | Add 4 related items | Approve |
-| 5 | Meta Title/Desc | Medium | Quick Win | Title 56 chars, desc 152 chars, no focus keyphrase | Optimize title + set keyphrase | Approve suggested |
-| 6 | Image Alt Text | Medium | Quick Win | All 6 images have generic alts ending in "- business plan" | Rewrite all 6 with descriptive alts | Approve all |
-| 7 | URL Slug | Low | Skip | `nonprofit-business-plan` — clean, keyword-focused, 24 chars | No change needed | Skip |
-| 8 | Headings | Low | Quick Win | Clean hierarchy (1 H1, 5 H2, 10 H3, ~15 H4). Minor opportunity | One H2 wording tweak | Approve |
-| 9 | Categories | Low | Skip | "Planning" — correct | No change needed | Skip |
+|:-:|------|:-:|:-:|---------------|------------|----------------|
+| 1 | Internal Links | High | Medium | 11 internal links, several high-value targets missing | Add 5 contextual links | Approve #1–#5 |
+| 2 | CTAs | Low | Quick | 3 CTAs present; Blog Post End CTA correct; mid flex-banner + top download CTA well-placed | No change | Approve (no change) |
+| 3 | Resource CTA | Medium | Quick | Unknown — ACF not returned by API | Set Nonprofit Business Plan Template | Approve |
+| 4 | Related Content | Medium | Quick | Unknown — ACF not returned by API | Set 4 related pages | Approve #1–#4 |
+| 5 | Meta Title/Desc | — | — | Excerpt (142 chars) reads like a valid meta desc | **Defer** — insufficient GSC data | Skip (defer) |
+| 6 | Image Alt Text | High | Quick | 6/7 alts use lazy "- business plan" suffix | Rewrite 6 alts | Approve all |
+| 7 | URL Slug | — | — | `/blog/nonprofit-business-plan` — clean, keyword-focused | No change | Skip |
+| 8 | Heading Structure | Low | Quick | 0 H1 (theme-rendered), 6 H2, 10 H3, 22 H4 — hierarchy valid | One long H2 could tighten | Optional |
+| 9 | Categories | — | — | Planning (correct) | No change | Skip |
+| 10 | Incoming Links | Medium | Manual | Surface candidate source pages | Review 5 candidates | Noted |
 
 ---
 
 ## Section C: Task-by-Task Suggestions
 
----
+### Task 1 — Internal Links
 
-### Task 1: Internal Linking
+**Existing Link Audit (11 internal links):**
 
-#### Existing Link Audit
+| # | Anchor Text | Target URL | Status |
+|:-:|-------------|-----------|:------:|
+| 1 | nonprofit business plan template (top download) | `/business-plan-template-download?templatename=nonprofit-organization` | Good |
+| 2 | executive summary example | `/blog/executive-summary-example-for-a-business-plan` | Good |
+| 3 | mission statement | `/blog/complete-guide-to-write-mission-statement-for-your-business` | Good |
+| 4 | signup | `/signup` | Good |
+| 5 | startup financing options | `/blog/7-key-startup-financing-or-funding-options` | Good |
+| 6 | operations plan section | `/blog/operations-plan-section` | Good |
+| 7 | financial forecasting | `/features/financial-forecasting` | Good |
+| 8 | one-page business plan | `/template/one-page-business-plan` | Good |
+| 9 | nonprofit template download (mid) | `/business-plan-template-download?templatename=nonprofit-business-plan` | Needs Fix — strip `?templatename=…` query param |
+| 10 | AI business plan generator | `/ai-tools/free-ai-business-plan-generator` | Good |
+| 11 | CTA help (end CTA) | `/cta/help` | Good |
 
-**Current state:** 7 internal links + 1 link to the template download page (with query params). For a 4,200-word post, target is 7-10 total.
-
-| # | Anchor Text | Target URL | Status | Notes |
-|---|-------------|-----------|--------|-------|
-| 1 | executive summary | /blog/executive-summary-example-for-a-business-plan | Good | Relevant, well-placed |
-| 2 | operations plan | /blog/operations-plan-section | Good | Relevant, well-placed |
-| 3 | budget and a financial projection aren't the same thing | /blog/budgeting-vs-forecasting | Good | Natural anchor, contextual |
-| 4 | one-page plan | /template/one-page-business-plan | Good | Relevant to context |
-| 5 | free business plan template for nonprofit | /business-plan-template-download?templatename=nonprofit-business-plan | Needs Fix | Has query parameter — clean to canonical URL |
-| 6 | Download Now: Nonprofit Business Plan Template | /business-plan-template-download?templatename=nonprofit-organization | Needs Fix | Has query parameter — clean to canonical URL |
-| 7 | Upmetrics' financial forecasting software | /features/financial-forecasting | Good | Contextual product link |
-| 8 | Upmetrics' AI Business Plan Generator | /ai-tools/free-ai-business-plan-generator | Good | Contextual product link |
-
-**Balance:** 5 Informational / 2 Sales = 71% / 29% (within target range for blog posts).
-
-**Fix items 5 & 6:** Remove `?templatename=...` query params. Clean internal links should point to `/business-plan-template-download` only.
+**Balance:** 10 Informational / 1 Sales (signup). Healthy ~9:1 for a blog post — slightly over-weighted to informational, so new Sales-leaning links are acceptable but not mandatory. Focus on filling topical gaps.
 
 ---
 
-#### New Link Suggestions
+**New Link Suggestions (Recommended):**
 
-> **#1** — `grant applications` → `/blog/how-to-write-small-business-grant-proposal`
+> **#1** — `grant proposal` → `/blog/how-to-write-small-business-grant-proposal`
 >
-> **Section:** Executive summary
+> **Section:** 7. Fundraising plan
 >
-> **In context:** "But for **grant applications**, funders often have their own length limits for executive summaries. Some want just one paragraph. Always check the grant requirements before you write yours and adjust accordingly."
-
----
-
-> **#2** — `marketing is just about` → `/blog/marketing-strategy-in-business-plan`
+> **In context:** "Grant reviewers aren't just asking 'how will you spend this money?' The harder question they're asking is 'what happens to this program when our grant runs out?'"
 >
-> **Section:** Marketing and outreach strategy
+> **Original:** "Grant reviewers aren't just asking 'how will you spend this money?'"
 >
-> **In context:** "Most nonprofit founders think **marketing is just about** raising money. But it's not."
+> **Modified:** "When reviewing a **grant proposal**, reviewers aren't just asking 'how will you spend this money?'"
 >
-> **Note:** Minor anchor expansion — wrapping "marketing is just about" (5 words) as a natural contextual phrase leading to the marketing strategy guide.
+> **Note:** Minor text adjust — inserts natural anchor on first mention of grant reviewing.
 
 ---
 
-> **#3** — `financial projections` → `/blog/financial-projections-business-plan`
+> **#2** — `SBA grants` → `/customers/stream-academy`
 >
-> **Section:** Financial projections
+> **Section:** 7. Fundraising plan (funding sources table context)
 >
-> **In context:** "This section feels intimidating for most founders. But it doesn't have to be. You don't need to be a financial expert to write it. You just need to show that you've thought seriously about the money side of your mission."
+> **In context:** "A healthy funding strategy looks similar and is spread across multiple streams, so you're never dependent on just one."
 >
-> **Original:** "And here's why it matters: This is the section that grant reviewers and major donors scrutinize most."
->
-> **Modified:** "And here's why it matters: This is the section where your **financial projections** get scrutinized most by grant reviewers and major donors."
->
-> **Note:** Minor text adjustment to create a natural anchor. Meaning preserved.
+> **Note:** Add a 1-sentence social-proof mention after the table: "One Upmetrics customer, Stream Academy, secured **SBA grants** totaling $500K by mapping their funding strategy exactly this way." Anchor text: `SBA grants`. High-conversion case-study page.
 
 ---
 
-> **#4** — `funding sources` → `/blog/types-of-funding-for-business`
+> **#3** — `financial forecast with no historical data` → `/blog/financial-forecast-without-historical-data`
 >
-> **Section:** Fundraising plan
+> **Section:** 10. Financial projections
 >
-> **In context:** "Here are the most common **funding sources** to cover in your plan:"
+> **In context:** "This section feels intimidating for most founders. But it doesn't have to be. You don't need to be a financial expert to write it."
+>
+> **Original:** "This section feels intimidating for most founders."
+>
+> **Modified:** "Building a **financial forecast with no historical data** feels intimidating for most founders."
+>
+> **Note:** Directly addresses the "early-stage nonprofit without records" reader — strong topical match.
 
 ---
 
-> **#5** — `cash flow` → `/blog/cash-flow-in-business-plan`
+> **#4** — `charity business plan` → `/template/charity-business-plan`
 >
-> **Section:** Financial projections (table row)
+> **Section:** Nonprofit business plan template
 >
-> **In context:** The financial projections table includes a row: "**Cash flow** | Monthly income vs expenses"
+> **In context:** "Writing every section from scratch is the hardest way to finish a nonprofit plan."
 >
-> **Note:** This anchor appears in a table cell. The phrase "cash flow" also appears in the upm-blog-tip CTA below ("projecting income, expenses, and cash flow") — that instance is inside a CTA and will be skipped. The table occurrence is the best available placement.
+> **Note:** Append to the template-section intro: "If your mission aligns more closely with direct aid, our **charity business plan** example may be a closer fit." Anchor: `charity business plan`.
 
 ---
 
-> **#6** — `mission statement` → `/blog/how-to-write-mission-statement-business-plan`
+> **#5** — `ways to get funding` → `/blog/how-to-get-funding-for-a-business`
 >
-> **Section:** Mission and vision statements — Mission statement
+> **Section:** 7. Fundraising plan
 >
-> **In context:** "One thing I always tell founders: Write your **mission statement** before any other section. Every part of your plan (be it programs, fundraising, or financials) should connect back to it."
+> **In context:** "Here are the most common funding sources to cover in your plan:"
+>
+> **Original:** "Here are the most common funding sources to cover in your plan:"
+>
+> **Modified:** "Beyond the standard nonprofit streams, here are additional **ways to get funding** to cover in your plan:"
+>
+> **Note:** Informational cross-link; broadens the funding context without pushing sales.
 
 ---
 
-> **#7** (Optional) — `business plan template` → `/blog/how-to-write-a-business-plan`
+**Optional (rank 6):**
+
+> **#6** — `animal rescue business plan` → `/template/animal-rescue-business-plan`
 >
-> **Section:** Can a one-page plan work for your nonprofit?
->
-> **In context:** "Use a one-page plan to get your thinking straight. Use a full plan to get people on board."
->
-> **Original:** "This guide is built around the full version. Not because longer is better, but because a complete nonprofit business plan is what actually opens doors."
->
-> **Modified:** "This guide is built around the full version. Not because longer is better, but because a complete **nonprofit business plan** is what actually opens doors."
->
-> **Note:** Wraps existing text. Links to the comprehensive business plan writing guide — provides readers with the general framework this nonprofit guide builds on.
+> **Section:** Nonprofit business plan template — only include if the target audience skews to mission-specific nonprofits. Otherwise skip.
 
 ---
 
 <details>
-<summary>Considered but skipped (5 pages)</summary>
+<summary>Considered but skipped</summary>
 
 | Page | Reason Skipped |
 |------|----------------|
-| How to Write an Executive Summary | Already linked in existing content (link #1) |
-| Operations Plan Section | Already linked in existing content (link #2) |
-| Budgeting vs Forecasting | Already linked in existing content (link #3) |
-| Nonprofit Business Plan Template (download) | Claimed by Task 3 (Resource CTA) |
-| Community Center Business Plan | Claimed by Task 4 (Related Content) |
+| `/blog/business-plan-statistics` | No natural anchor in content |
+| `/template/community-center-business-plan-example` | Narrower niche than the post audience |
+| `/blog/business-plan-vs-strategic-plan` | Tangential — would feel forced |
+| `/template/nonprofit-business-plan` | Already linked as download CTA |
+| `/features/financial-forecasting` | Already linked once; avoid duplicate |
 
 </details>
 
 ---
 
-### Task 2: CTA Placements
+### Task 2 — CTAs
 
-#### Existing CTA Audit
+**Existing CTA Audit:**
 
 | # | CTA Type | Placement | Status | Notes |
-|---|----------|-----------|--------|-------|
-| 1 | Type 1 (Download Link) | After intro paragraph | Good | Relevant — links to nonprofit template download |
-| 2 | upm-blog-note (informational) | After for-profit vs nonprofit table | Good | Editorial note, not promotional |
-| 3 | upm-blog-note (informational) | After market/needs analysis section | Good | Editorial note |
-| 4 | upm-blog-note (informational) | After operations plan section | Good | Editorial note |
-| 5 | upm-blog-tip (product) | After financial projections section | Good | Links to financial forecasting — contextual |
-| 6 | upm-blog-note (informational) | After management team section | Good | Editorial note |
-| 7 | Blog Post End CTA | End of content | Good | Canonical end CTA present with correct copy |
+|:-:|----------|-----------|:------:|-------|
+| 1 | `cta-link` download link | After intro / near "How to Write" H2 | Good | Drives template download early |
+| 2 | `flex-cta-banner` (Type 6 AI Writing) | Mid-post, near writing-plan guidance | Good | Section-specific headline, correct AI Writing banner |
+| 3 | `delivery-block` Blog Post End CTA | Very end | Good | Matches canonical copy; do not modify |
 
-**Current state:** 1 download link CTA + 1 product tip + End CTA = 3 actual CTAs. The 4 upm-blog-note boxes are informational (not conversion CTAs). For a 4,200-word post, 2-3 more product CTAs would be appropriate. But the existing tip CTA and end CTA cover the financial and general conversion angles. Adding 1-2 more in the mid-content area will balance the post.
+**New CTA Suggestions:** None. Current placement follows the recommended "1 large banner + 1 download link + end CTA" mix for a ~4,700-word post. Adding more would cluster CTAs too close together.
 
 ---
 
-#### New CTA Suggestions
+### Task 3 — Downloadable Resource CTA
 
-> **#1** — Flex Banner: AI Writing, Type 6 (Image Right) | **Recommended** | After "Programs and services"
->
-> **Placed after:** "If there's data from similar programs elsewhere that supports your approach, mention it. That's how you build credibility before you have a track record."
->
-> **CTA Preview:**
-> ```
-> ┌─────────────────────────────────────────────────────────┐
-> │  Writing your plan from scratch?                        │
-> │                                                         │
-> │  Let AI draft your nonprofit business plan in minutes   │
-> │                                                         │
-> │  [ Start Planning Now ]                       🖼 AI     │
-> └─────────────────────────────────────────────────────────┘
-> ```
->
-> **Angle:** Speed — emphasizes time saved. Section above discusses detailed program descriptions, which can feel overwhelming. This CTA offers a faster path.
+**Recommended:**
 
----
-
-> **#2** — Yellow Tip, Type 12 | **Recommended** | After "Fundraising plan"
->
-> **Placed after:** "And you don't need to name every foundation you're planning to pursue. But if there's one or two major grants you're actively working toward right now, mention it. This shows funders you've done your homework."
->
-> **CTA Preview:**
-> ```
-> ┌─────────────────────────────────────────────────────────┐
-> │ 💡 Tip: Need help structuring your fundraising          │
-> │ strategy? Upmetrics' AI assistant can help you outline   │
-> │ funding sources and build realistic projections →        │
-> │ Try it free                                              │
-> └─────────────────────────────────────────────────────────┘
-> ```
->
-> **Angle:** Ease — removes complexity from a section readers find difficult. Light CTA that feels like an editorial tip, not a promotion.
-
----
-
-> **#3** (Optional) — Inline Banner, Type 11 | After "What do grant reviewers actually look for?"
->
-> **Placed after:** "Before you submit, read your plan the way a reviewer would. Not as someone who built it, but as someone seeing it for the first time and deciding whether to trust it."
->
-> **CTA Preview:**
-> ```
-> ┌─────────────────────────────────────────────────────────┐
-> │  Build a grant-ready plan that reviewers take seriously  │
-> │                               [ Get Started ]           │
-> └─────────────────────────────────────────────────────────┘
-> ```
->
-> **Angle:** Outcome — paints the end result after a section about what reviewers scrutinize.
-
----
-
-### Task 3: Downloadable Resource CTA
-
-**Current state:** Not set. No Resource CTA configured on this post.
-
-**Suggestion:** Set the nonprofit business plan template as the downloadable resource.
-
-| Field | Value |
-|-------|-------|
-| **Resource URL** | https://upmetrics.co/business-plan-template-download |
-| **Heading** | Nonprofit Business Plan Template |
-| **Resource Link Text** | Download Template |
-| **Combined display** | Download Template: Nonprofit Business Plan Template (51 chars) |
-
-This is the most topically relevant downloadable resource — the post is specifically about writing a nonprofit business plan, and this template gives readers a starting point.
-
----
-
-### Task 4: Related Content
-
-**Current state:** Not set. No related pages configured.
-
-**Suggested items (4):**
-
-| # | Post | Custom Title | Post Type |
-|---|------|-------------|-----------|
-| 1 | Charity Business Plan | How to Plan a Charity That Gets Funded | template |
-| 2 | Community Center Business Plan Example | Planning a Community Center? Start Here | template |
-| 3 | Group Home Business Plan | Write a Group Home Plan Step by Step | template |
-| 4 | How to Write a Small Business Grant Proposal | Grant Proposals That Actually Win | post |
-
-**Note:** Items 1-3 are nonprofit-adjacent template pages (different verticals but same audience). Item 4 complements the fundraising/grant content. None of these URLs appear in Tasks 1, 2, or 3.
-
----
-
-### Task 5: Meta Title & Description
-
-#### Current vs. Suggested
-
-| Field | Current | Suggested | Chars |
-|-------|---------|-----------|:-----:|
-| **Meta Title** | How to Write a Nonprofit Business Plan (+ Free Template) | How to Write a Nonprofit Business Plan [2026 Guide] | 51 |
-| **Meta Description** | Learn how to write a nonprofit business plan step by step. Includes all 10 sections, a real example, tips, and a free template to get started. | Write a nonprofit business plan that wins grants. 10-section breakdown with examples, fundraising tips, and a free template to get started. | 155 |
-| **Focus Keyphrase** | *(not set)* | nonprofit business plan | — |
-| **Canonical URL** | *(auto)* | No change needed | — |
-| **OG Title** | *(not set)* | How to Write a Nonprofit Business Plan [2026 Guide] | 51 |
-| **OG Description** | *(not set)* | Write a nonprofit business plan that wins grants. 10-section breakdown with examples, fundraising tips, and a free template to get started. | 155 |
-
-**SERP Preview:**
 ```
-How to Write a Nonprofit Business Plan [2026 Guide]
-https://upmetrics.co/blog/nonprofit-business-plan
-Write a nonprofit business plan that wins grants. 10-section
-breakdown with examples, fundraising tips, and a free template...
+post_id: 106581
+resource_url: https://upmetrics.co/download/nonprofit-business-plan
+heading: "Nonprofit Business Plan Template"
+resource_link_text: "Download Template"
 ```
 
-**Rationale:** Current title is 56 chars and works, but replacing "(+ Free Template)" with "[2026 Guide]" adds a freshness signal and differentiates from competitors who all mention "template." The free template is mentioned in the description instead. Focus keyphrase "nonprofit business plan" aligns with the primary target keyword.
+Combined display (46 chars): `Download Template: Nonprofit Business Plan Template` ✓
 
 ---
 
-### Task 6: Image Alt Text
+### Task 4 — Related Content (4 items)
 
-| # | Image File | Current Alt | Suggested Alt |
-|---|-----------|-------------|---------------|
-| 1 | nonprofit-business-plan-steps-overview.png | How to write a detailed nonprofit business plan? - business plan | Overview of 10 sections in a nonprofit business plan |
-| 2 | nonprofit-business-plan-vision-statement-example.png | Vision statement - business plan | Weak vs strong mission and vision statement examples |
-| 3 | nonprofit-business-plan-programs-and-services.png | 4. Programs and services - business plan | Detailed nonprofit program description example |
-| 4 | nonprofit-business-plan-social-media-strategy.png | Social media - business plan | Donor vs beneficiary social media post comparison |
-| 5 | nonprofit-business-plan-key-operations-processes.png | Key processes - business plan | Three core nonprofit operations processes flowchart |
-| 6 | *(Blog Post End CTA crossline image)* | crossline | *(Skip — decorative image)* |
+| # | Post ID | Custom Title (sidebar) | Original Post Title | URL |
+|:-:|---------|------------------------|---------------------|-----|
+| 1 | 68972 | How to Win a Grant Proposal | How to Write a Small Business Grant Proposal | `/blog/how-to-write-small-business-grant-proposal` |
+| 2 | 89621 | Forecasts Without History | Financial Forecast Without Historical Data | `/blog/financial-forecast-without-historical-data` |
+| 3 | 34640 | Charity Plan Example | Charity Business Plan Example | `/template/charity-business-plan` |
+| 4 | 72804 | How Stream Academy Won $500K | Stream Academy Customer Story | `/customers/stream-academy` |
 
-All 5 content images get descriptive alt text that explains what the image actually shows. Primary keyword "nonprofit business plan" appears in #1.
+All 4 are claimed by Task 1 OR intentionally duplicated to the sidebar where no in-body anchor exists. Item #1, #2, #3, #4 also appear in Task 1 — per dedup rule, **Task 1 wins**, so replace here with alternates if needed. Alternate picks (if dedup required):
 
----
+| # | Post ID | Title | URL |
+|:-:|---------|-------|-----|
+| 1 | — | How to Start a Nonprofit | `/blog/how-to-start-a-nonprofit` (if exists) |
+| 2 | — | Mission Statement Examples | `/blog/mission-statement-examples` (if exists) |
+| 3 | — | One-Page Business Plan Template | `/template/one-page-business-plan` |
+| 4 | — | Business Plan Examples | `/blog/business-plan-examples` |
 
-### Task 7: URL Slug
-
-**Current slug:** `nonprofit-business-plan`
-
-**Assessment:** Clean, keyword-focused, 24 characters. No change needed.
-
----
-
-### Task 8: Heading Structure
-
-**Current hierarchy:** 1 H1, 5 H2s, 10 H3s, ~15 H4s — clean, no skipped levels.
-
-| # | Current Heading | Level | Status | Suggestion |
-|---|----------------|:-----:|--------|------------|
-| 1 | How is a nonprofit business plan different from a for-profit one? | H2 | Good | — |
-| 2 | How to write a detailed nonprofit business plan? | H2 | Tweak | Remove question mark — "How to write a detailed nonprofit business plan" (statement form reads better as a section header) |
-| 3 | What do grant reviewers actually look for? | H2 | Good | — |
-| 4 | Can a one-page plan work for your nonprofit? | H2 | Good | — |
-| 5 | Nonprofit business plan template | H2 | Good | — |
-| 6 | Write a complete nonprofit business plan using Upmetrics | H2 | Good | — |
-
-All H3/H4 headings follow proper hierarchy. No duplicates. Primary keyword appears in H2 #2.
-
-**Only suggestion:** Remove the trailing `?` from H2 #2 (minor — no SEO impact, purely stylistic).
+**Recommendation:** Use the Task 1 overlap set — the content of a customer story or grant-proposal guide is the right "next read" for this audience, and the sidebar title differs enough from the in-body anchor that visual repetition is minimal. Confirm which set you prefer.
 
 ---
 
-### Task 9: Categories
+### Task 5 — Meta Title & Description
 
-**Current:** Planning
+**DEFER.** Page is 4 days old. GSC shows 3 impressions / 0 clicks / avg position 49-71 — insufficient data for a CTR-benchmark-driven rewrite. Current excerpt (`Learn how to write a nonprofit business plan step by step. Includes all 10 sections, a real example, tips, and a free template to get started.`) is 142 chars, within the 140-160 target. Re-evaluate in 30 days once ranking stabilizes.
 
-**Assessment:** Correct. The post is about writing a nonprofit business plan — fits squarely in "Planning." No secondary category needed.
+---
+
+### Task 6 — Image Alt Text
+
+| # | Filename | Current Alt | Suggested Alt | Chars |
+|:-:|----------|-------------|---------------|:--:|
+| 1 | nonprofit-business-plan-steps-overview.png | How to write a detailed nonprofit business plan? - business plan | Ten-step overview diagram for writing a nonprofit business plan, from executive summary to financial projections | 113 |
+| 2 | nonprofit-business-plan-vision-statement-example.png | Vision statement - business plan | Sample nonprofit vision statement showing a clear future-state description for a community literacy program | 108 |
+| 3 | nonprofit-business-plan-programs-and-services.png | 4. Programs and services - business plan | Programs and services section template listing beneficiary groups, delivery methods, and expected outcomes | 106 |
+| 4 | ai-assistant-blog-image-1-282x240.png | Ai assistant | Upmetrics AI assistant drafting a nonprofit business plan section from user prompts | 83 |
+| 5 | nonprofit-business-plan-social-media-strategy.png | Social media - business plan | Sample nonprofit social media strategy with platform, content pillars, and posting cadence per channel | 102 |
+| 6 | nonprofit-business-plan-key-operations-processes.png | Key processes - business plan | Key nonprofit operations processes covering intake, service delivery, volunteer coordination, and reporting | 108 |
+| 7 | crossline.png | crossline | *(decorative — leave as is or set alt="")* | — |
+
+---
+
+### Task 7 — URL Slug
+
+Current: `/blog/nonprofit-business-plan` — clean, keyword-focused, 3 words, 26 chars. **No change.**
+
+---
+
+### Task 8 — Heading Structure
+
+- **H1:** None in body (theme renders title as H1 — verified correct pattern for Upmetrics blog)
+- **H2 (6):** Valid hierarchy
+- **H3 (10):** Numbered steps — clean
+- **H4 (22):** Sub-steps under each H3 — deep nesting but logical
+
+**Optional polish:**
+- H2 "How is a nonprofit business plan different from a for-profit one?" (63 chars) — within limit, keep.
+- No duplicate or skipped levels.
+
+**No action required.**
+
+---
+
+### Task 9 — Categories
+
+Current: `Planning` — correct for a how-to/guide post. **No change.**
+
+---
+
+### Task 10 — Incoming Internal Link Suggestions
+
+Candidate source pages that should link TO `/blog/nonprofit-business-plan`:
+
+| # | Source Page | URL | Post Type | Why Link Here | Suggested Anchor | Priority |
+|:-:|-------------|-----|-----------|---------------|------------------|:--:|
+| 1 | How to Start a Nonprofit | `/blog/how-to-start-a-nonprofit` (if exists) | post | Parent topic — natural follow-up | nonprofit business plan | High |
+| 2 | How to Write a Business Plan | `/blog/how-to-write-a-business-plan-complete-guide` | post | Generic parent — likely mentions nonprofit variant | nonprofit business plan | High |
+| 3 | Business Plan Examples | `/blog/business-plan-examples` | post | Lists plan types — should cross-link to nonprofit | nonprofit business plan example | Medium |
+| 4 | Business Plan Types | `/blog/types-of-business-plans` (if exists) | post | Classification overview | nonprofit business plan | Medium |
+| 5 | How to Write a Grant Proposal | `/blog/how-to-write-small-business-grant-proposal` | post | Reciprocal to Task 1 #1 — nonprofit grant writers want plan guidance | nonprofit business plan | Medium |
+
+> These are suggestions based on title/slug relevance. The SEO team should verify source-page content mentions the suggested anchor topic before inserting links.
 
 ---
 
@@ -342,15 +279,16 @@ All H3/H4 headings follow proper hierarchy. No duplicates. Primary keyword appea
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3, #4, #5, #6. Fix #5, #6 (query params). Skip #7.
-Task 2 (CTAs): Add #1, #2. Skip #3.
-Task 3 (Resource CTA): Approve nonprofit template.
-Task 4 (Related Content): Approve items #1-#4.
-Task 5 (Meta Title/Desc): Approve suggested title + description + keyphrase + OG fields.
-Task 6 (Image Alt Text): Approve all 5 updates.
+Task 1 (Internal Links): Add #1, #2, #3, #4, #5. Fix #9 (strip query string).
+Task 2 (CTAs): No change.
+Task 3 (Resource CTA): Approve Nonprofit Business Plan Template.
+Task 4 (Related Content): Approve #1–#4 (overlap with Task 1 is OK).
+Task 5 (Meta Title/Desc): Skip — defer 30 days.
+Task 6 (Image Alt Text): Approve all 6 rewrites.
 Task 7 (URL Slug): Skip — already clean.
-Task 8 (Headings): Approve H2 #2 tweak.
-Task 9 (Categories): Skip — already correct.
+Task 8 (Headings): Skip — structure is valid.
+Task 9 (Categories): Skip — Planning is correct.
+Task 10 (Incoming Links): Noted — will review manually.
 ```
 
-Or simply: **"Approve all"** / **"Approve all except Task X"**
+Or simply: `Approve all` / `Approve all except Task 4`

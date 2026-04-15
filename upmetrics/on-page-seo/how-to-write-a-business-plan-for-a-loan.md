@@ -36,7 +36,7 @@
 
 | # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
 |:--:|------|:--:|:--:|---------------|------------|---------------|
-| 1 | Internal Links | Medium | Medium | 9 existing — all relevant | Keep all; add 2 recommended + 2 optional | Add #1, #2 |
+| 1 | Internal Links | Medium | Medium | 9 existing — all relevant | Keep all; add 2 recommended + 1 optional (all targets verified) | Add #1, #2 |
 | 2 | CTA Placements | Medium | Medium | 1 banner + 1 note + Elementor end CTA | Add 1-2 light CTAs in upper sections | Add #1 |
 | 3 | Resource CTA | High | Quick Win | Not set | Attach SBA-ready business plan template | Approve |
 | 4 | Related Content | Medium | Quick Win | Not set | Set 4 related items (SBA + loan cluster) | Approve |
@@ -71,52 +71,48 @@
 
 #### New Link Suggestions
 
-> **#1 (Recommended)** — `SBA 7(a) loan` → `/blog/what-is-an-sba-loan`
+All targets below verified to exist via `list-posts` slug lookup.
+
+> **#1 (Recommended)** — `SBA 7(a) loan` → `/blog/what-is-an-sba-loan` (ID 87588)
 >
-> **Section:** Executive summary (example block)
+> **Section:** 1. Executive summary (example block)
 >
 > **In context:** "We operate three retail bakeries generating $720K in annual revenue with 18% profit margins. We're seeking a $100,000 **SBA 7(a) loan** to expand production capacity. Our projected DSCR post-loan is 1.6x, ensuring stable repayment."
 
 ---
 
-> **#2 (Recommended)** — `executive summary` → `/blog/executive-summary-business-plan`
+> **#2 (Recommended)** — `SBA and bank-led loans` → `/blog/sba-loan-requirements` (ID 87765)
 >
-> **Section:** 1. Executive summary (opening paragraph)
+> **Section:** What do lenders and banks expect (intro)
 >
-> **Original:** "The executive summary in your business plan will tell the lenders what your business does, how healthy it is, and why the loan you're asking for makes financial sense."
+> **Original:** "From what I've seen across both SBA and bank-led loans, they focus on the same fundamentals but weigh them differently."
 >
-> **Modified:** "The **executive summary** in your business plan will tell the lenders what your business does, how healthy it is, and why the loan you're asking for makes financial sense."
+> **Modified:** "From what I've seen across both **SBA and bank-led loans**, they focus on the same fundamentals but weigh them differently."
 >
-> **Note:** Wraps existing phrase with zero text change.
+> **Note:** Wraps existing phrase with zero text change. Conflicts with Task 4 (same URL) — if approved here, Task 4 item #2 needs a replacement. Priority per CLAUDE.md: Task 1 wins.
 
 ---
 
-> **#3 (Optional)** — `break-even point` → `/blog/break-even-analysis`
+> **#3 (Optional)** — `small business loan applications` → `/blog/what-do-you-need-for-a-business-loan` (ID 81668)
 >
-> **Section:** 4) Interpret key ratios (Tips section)
+> **Section:** 1. Executive summary (Fed Reserve callout)
 >
-> **In context:** "Include DSCR, current ratio, and **break-even point**—but add one-line explanations. 'DSCR 1.5x indicates 50% coverage above debt obligations.'"
-
----
-
-> **#4 (Optional)** — `use of funds` → `/blog/how-to-write-funding-request-business-plan`
+> **In context:** "According to the Federal Reserve's Small Business Credit Survey (2023), unclear repayment plans and weak financial documentation are among the top reasons **small business loan applications** get delayed or denied."
 >
-> **Section:** 1. Executive summary (bulleted list)
->
-> **Original:** "**Use of funds:** Where the money will go and why it matters."
->
-> **Note:** Wrap the phrase "Use of funds" in the bulleted list. Verify target page exists before implementing; alternative target is /blog/how-to-write-a-business-plan-complete-guide#funding-request (already linked, so skip if unverifiable).
+> **Note:** Conflicts with Task 4 (same URL) — same priority rule applies.
 
 <details>
-<summary>Considered but skipped (5 pages)</summary>
+<summary>Candidates rejected — non-existent or unsuitable</summary>
 
-| Page | Reason Skipped |
-|------|----------------|
-| /blog/market-analysis-in-business-plan | Already linked |
-| /blog/financial-projections-business-plan | Already linked |
-| /blog/how-to-write-a-business-plan-complete-guide | Already linked |
-| /blog/sba-loan-requirements | Better fit for Task 4 (Related Content) — no natural body-text anchor |
-| /download/3-year-business-plan | Claimed by Task 3 (Resource CTA) |
+| Candidate | Reason |
+|-----------|--------|
+| `/blog/executive-summary-business-plan` | **Does not exist** — no dedicated executive-summary guide on the blog |
+| `/blog/break-even-analysis` | **Does not exist** as a post — only a draft accounting-term at a different URL |
+| `/blog/how-to-write-funding-request-business-plan` | **Does not exist** — no dedicated funding-request post |
+| `/blog/market-analysis-in-business-plan` | Already linked |
+| `/blog/financial-projections-business-plan` | Already linked |
+| `/blog/how-to-write-a-business-plan-complete-guide` | Already linked |
+| `/download/3-year-business-plan` | Claimed by Task 3 (Resource CTA) |
 
 </details>
 
@@ -308,7 +304,7 @@ The SEO team should verify the suggested anchor exists in each source page befor
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2. Skip #3, #4.
+Task 1 (Internal Links): Add #1, #2. Skip #3.
 Task 2 (CTAs): Add #1. Skip #2.
 Task 3 (Resource CTA): Approve Option A (3-Year Business Plan Template).
 Task 4 (Related Content): Approve all 4.

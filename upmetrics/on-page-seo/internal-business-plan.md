@@ -2,251 +2,310 @@
 
 | Field | Value |
 |-------|-------|
-| URL | https://upmetrics.co/blog/internal-business-plan |
-| Post ID | 106714 |
-| Post Type | post |
-| Category | Planning |
-| Word Count | ~2,630 |
-| Published | 2026-04-15 |
-| Modified | 2026-04-15 |
-| Report Date | 2026-04-15 |
-| GSC Data Range | N/A — page not yet indexed (brand new) |
-| GA4 Data Range | N/A — page not yet tracked (brand new) |
+| **URL** | https://upmetrics.co/blog/internal-business-plan |
+| **Post ID** | 106714 |
+| **Post Type** | post |
+| **Published** | 2026-04-15 |
+| **Modified** | 2026-04-15 |
+| **Report Date** | 2026-04-16 |
+| **Word Count** | ~2,650 |
+| **Primary Keyword** | internal business plan |
+| **GSC Data Window** | 1 day (post published 2026-04-15 — no query data yet) |
+| **GA4 Data Window** | 30 days (Report A) / 90 days (Report E) |
 
 ---
 
-## Section B — Page Health Score & Action Summary
+## Section B — Page Health & Action Summary
 
-### Page Health Score: 7 / 10
+### Page Health Score: **7 / 10**
 
 | Status | Count |
 |--------|:--:|
-| Critical | 1 |
-| Needs Improvement | 9 |
-| Good | 6 |
+| Critical | 0 |
+| Needs Improvement | 3 |
+| Good | 9 |
 
 **Deductions:**
-- **-2 (Critical)** — all 8 content images have alt text that is too short (<60 chars), reducing accessibility/image-search value. Applied once as -2, plus -1 for the count beyond 3 images (capped).
-- **-0.5 (Minor)** — meta title is near-identical to H1 and lacks a differentiation hook.
-- **-0.5 (Minor)** — one external link to a third-party PDF (ucop.edu) could be replaced with an internal equivalent.
+- **-1** Meta title is identical to the H1 (missed CTR opportunity)
+- **-0.5** OG title exceeds 60 characters (truncates on social shares)
+- **-1** 5 of 8 content image alts are too short / vague (under 60 chars)
+- **-0.5** SMART framework currently links to an external PDF when an internal alternative exists
 
-### Action Summary
+### Action Summary Table
 
 | # | Task | Impact | Effort | Current State | Suggestion | Dependencies | Your Decision |
-|:-:|------|--------|--------|---------------|-----------|-------------|--------------|
-| 1 | Internal Links | High | Medium | 6 editorial internal links (healthy) | Add 2 new links + replace 1 external with internal | None | Approve all |
-| 2 | CTAs | Low | Quick Win | 2 yellow tips + 1 read-link + end CTA (4 total) | No new CTAs; minor variety note on duplicate Yellow Tip type | None | Approve audit (no action) |
-| 3 | Resource CTA | High | Quick Win | Not set | Set to Operations Plan Template | None | Approve |
-| 4 | Related Content | High | Quick Win | Not set | Set 4 related pages | T1 + T3 dedup done | Approve |
-| 5 | Meta Title/Desc | Low | Quick Win | Title identical to H1; description OK | Add "(w/ Example)" hook to title; keep description | None | Approve minor polish |
-| 6 | Image Alt Text | High | Quick Win | 8/8 content images under 60 chars | Rewrite all 8 alts to 100-125 chars | None | Approve all |
-| 7 | URL Slug | — | — | /blog/internal-business-plan | Already clean; no change | — | Skip |
-| 8 | Headings | Low | Quick Win | Hierarchy is clean; curly quotes in one H2 | Optional: strip curly quotes from "actually" H2 | None | Skip (minor) |
-| 9 | Category | — | — | "Planning" | Correct; no change | — | Skip |
-| 10 | Incoming Links | Medium | Medium | New page, no inbound links | 5 source-page candidates for SEO team to action | Manual | Noted — SEO team action |
+|:--:|------|:--:|:--:|---------------|------------|--------------|---------------|
+| 1 | Internal Links | High | Medium | 6 internal links present (floor of target range); 1 external where internal exists | Replace 1 external + add 4 new inline links → 11 total internal | — | Add #1-#4, fix #7 |
+| 2 | CTAs | Medium | Quick Win | 2 tip blocks + 1 read-more + canonical end CTA; no heavy banner | Add 1 light Yellow Tip after Financial Projections section | — | Add #1 |
+| 3 | Resource CTA | High | Quick Win | Not set | Set **One Page Business Plan Template** (aligns with the "5-10 page" thesis) | — | Approve |
+| 4 | Related Content | Medium | Quick Win | Not set | 4 related items across blog + guides | — | Approve |
+| 5 | Meta Title & Desc | High | Quick Win | Title is identical to H1; OG title 64 chars | Rewrite meta title (distinct from H1), trim OG title, polish description | — | Approve |
+| 6 | Image Alt Text | Medium | Quick Win | All 8 content alts present but vague (5 under 60 chars) | Rewrite all 8 with specific, descriptive alts | — | Approve all |
+| 7 | URL Slug | — | — | `internal-business-plan` — clean, keyword-focused | Leave alone | — | Skip |
+| 8 | Heading Structure | — | — | 6 H2s, clean hierarchy, primary kw in 4 H2s | Optional minor polish on 1 colloquial H3 | — | Skip (optional only) |
+| 9 | Categories | — | — | "Planning" assigned | Leave alone | — | Skip |
+| 10 | Incoming Links | Medium | Manual | N/A | 5 data-backed source page suggestions for SEO team | — | Noted — manual review |
 
 ---
 
 ## Section C — Task-by-Task Suggestions
 
-### Task 1 — Internal Linking
+### TASK 1: Internal Links
 
-#### Existing Link Audit
+**Current state:** 6 internal links, 2 external links. Existing internal link set is healthy (at the 7-10 floor for 2,650 words). One external link (SMART framework PDF) has a strong internal alternative and should be swapped. Four new inline links below add topical depth without clustering.
+
+#### Part A — Existing Link Audit
 
 | # | Anchor Text | Target URL | Status | Notes |
-|:-:|------------|-----------|--------|-------|
-| 1 | Upmetrics | /signup | Good | Branded mention inside Yellow Tip — natural |
-| 2 | executive summary | /blog/executive-summary-example-for-a-business-plan | Good | Direct topic match |
-| 3 | 9-Step business planning process (guide) | /blog/business-planning-process | Good | Read-link module placement |
-| 4 | collaborate on the plan | /features/business-plan-collaboration | Good | Natural product mention in collaboration section |
-| 5 | Upmetrics | /signup | Good | Branded homepage/trial mention in conclusion |
-| 6 | Try building yourself a free plan first → | /ai-tools/free-ai-business-plan-generator | Good | Soft alternative CTA, natural placement |
-| 7 | this HBR report backs my claim | harvardbusiness.org | Good | Authority external source — keep |
-| 8 | SMART framework | ucop.edu (external PDF) | Needs Improvement | Replace with internal `/blog/write-smart-goals` — keeps link equity on-site |
+|:--:|-------------|------------|--------|-------|
+| 1 | Upmetrics | /signup | Good | Branded mention inside tip block (line ~87) |
+| 2 | executive summary | /blog/executive-summary-example-for-a-business-plan | Good | Perfect anchor-to-target match |
+| 3 | 9-Step business planning process (guide) | /blog/business-planning-process | Good | Read-more block, natural placement |
+| 4 | collaborate on the plan | /features/business-plan-collaboration | Good | Feature link placed in team-collaboration context |
+| 5 | Upmetrics | /signup | Good | Branded mention in closing paragraph |
+| 6 | Try building yourself a free plan first → | /ai-tools/free-ai-business-plan-generator | Good | End-of-post option link |
+| 7 | SMART framework | https://www.ucop.edu/.../How+to+write+SMART+Goals+v2.pdf (external) | Needs improvement | Swap to internal `/blog/write-smart-goals` — stronger topical match and passes link equity internally |
+| 8 | this HBR report backs my claim | harvardbusiness.org (external) | Good | Authoritative external citation, not a competitor — keep |
 
-**Current internal link count:** 6 editorial + 1 Blog End CTA = 7 | **External:** 2 (1 recommended to replace) | **Balance (editorial only):** 4 Informational + 2 Sales/Features ≈ 2:1 ✓
+**No links to competitor domains detected.**
 
----
+#### Part B — New Link Suggestions
 
-#### New Link Suggestions
-
-> **#1 (Recommended)** — `SMART framework` → `/blog/write-smart-goals` (**replaces existing ucop.edu external link**)
->
-> **Section:** Goals and Objectives
->
-> **Original:** "List your goals, then put a name next to each one. Basically, what you're doing is setting goals and assigning roles (who's responsible for making that happen). I'd also recommend using the **SMART framework** here as it forces specificity."
->
-> **Modified:** Same text, but the anchor now points to `/blog/write-smart-goals` instead of the ucop.edu PDF.
->
-> **Note:** Replaces external link with Upmetrics' own SMART goals guide — keeps link equity internal and gives the reader a branded, in-context next step instead of an external PDF download.
-
----
-
-> **#2 (Recommended)** — `traditional business plan` → `/blog/how-to-write-a-business-plan-complete-guide`
+> **#1** — `traditional business plan` → `/blog/how-to-write-a-business-plan-complete-guide`
 >
 > **Section:** How is it any different from a traditional (external) plan?
 >
-> **In context:** "Who's reading the business plan is the biggest difference, I'd say. Your **traditional business plan** is often read by investors, lenders, and bank officers who don't know your business and need to be convinced it's worth being able to make monetary decisions."
+> **In context:** "Who's reading the business plan is the biggest difference, I'd say. Your **traditional business plan** is often read by investors, lenders, and bank officers who don't know your business and need to be convinced it's worth being able to make monetary decisions. Every section, every word is designed to persuade."
+>
+> **Type:** Informational | **Recommended**
 
 ---
 
-> **#3 (Recommended)** — `growth-oriented plan` → `/blog/business-growth-plan`
+> **#2** — `market research` → `/blog/industry-analysis-vs-market-analysis`
 >
-> **Section:** Marketing and Sales Strategy (for growth-oriented plan)
+> **Section:** Market and Competitive Analysis
 >
-> **In context:** "Again, an optional section for those working on a **growth-oriented plan**. Include when your plan covers growth, a new product, or a channel shift."
+> **In context:** "When using internally, this section isn't about decorated **market research** (like an investor plan); it exists here to provide context to your team to make good decisions. Cover who you're competing with, where you're positioned, and what threats the team should be aware of."
+>
+> **Type:** Informational | **Recommended**
 
 ---
 
-**Considered but skipped (5 pages):**
+> **#3** — `org chart` → `/blog/organizational-structure-business-plan`
+>
+> **Section:** Team Structure and Responsibilities
+>
+> **In context:** "Unlike a traditional plan, you don't need an **org chart** here. What your team actually needs to know is who makes which decisions and who to go to when something falls outside their lane."
+>
+> **Type:** Informational | **Recommended**
+
+---
+
+> **#4** — `revenue targets` → `/blog/financial-projections-business-plan`
+>
+> **Section:** Financial Projections and Budget
+>
+> **In context:** "Don't just show **revenue targets** &mdash; show each team what they're working with and what they're accountable for. Budget transparency cuts down on the 'why did that get approved' conversations."
+>
+> **Type:** Informational | **Recommended**
+
+**Balance check after changes:** 8 informational + 3 sales/features (signup ×2 deduped + collaboration + ai-tools counted as sales-lite) &rarr; ~70% informational / 30% sales, within the 60-70 / 30-40 target for blog posts.
+
+**Considered but skipped (4 pages):**
 
 | Page | Reason Skipped |
 |------|----------------|
-| /blog/executive-summary-example-for-a-business-plan | Already linked in the body |
-| /blog/business-planning-process | Already linked via read-link module |
-| /features/business-plan-collaboration | Already linked (sales) |
-| /template/coffee-shop-business-plan | Claimed by Task 4 (Related Content) — fictitious sample in body is a different context |
-| /features/financial-forecasting | No natural anchor in content; forcing it would feel promotional |
+| How to Write an Operations Plan Section | "Operations plan" only appears as a heading, never in paragraph prose — no valid anchor. Moved to Task 4. |
+| What is a Business Plan | Redundant with business-planning-process already linked in the content. Moved to Task 4. |
+| Types of Business Plans | Topic not explicitly discussed in body prose. Moved to Task 4. |
+| Business Plan vs. Business Proposal | Article contrasts internal vs. external/traditional, never mentions "proposal." Moved to Task 4. |
 
 ---
 
-### Task 2 — CTA Placements
+### TASK 2: CTA Placements
 
-#### Existing CTA Audit
+**Current state:** 4 existing CTA-like blocks. Mix is light and editorial — not over-promotional.
+
+#### Part A — Existing CTA Audit
 
 | # | CTA Type | Placement | Status | Notes |
-|:-:|----------|-----------|--------|-------|
-| 1 | Yellow Tip (Type 12) | After intro, before H3 "How is it any different..." | Good | Informational callout, not promotional — fits |
-| 2 | Yellow Tip (Type 12) | Mid-post after AI assist mention | Good (variety note) | Duplicates CTA type — see note |
-| 3 | Read-link (Type 7) | After writing-process bullet list | Good | Natural read-more placement |
-| 4 | Blog Post End CTA (canonical) | Very end of content | Good | Canonical copy & URL intact — matches registry |
+|:--:|----------|-----------|--------|-------|
+| 1 | Yellow Tip (upm-blog-tip) | After intro — brevity message (5-10 pages) | Good | Context-specific advice, no link — editorial feel |
+| 2 | Yellow Tip (upm-blog-tip) | Start of "How to write..." section — links to /signup | Good | Natural product mention where readers are ready to act |
+| 3 | Read-More Link (m-30px-tb read-link) | End of "How to write..." section | Good | Routes to 9-step planning process — complementary topic |
+| 4 | Blog Post End CTA (delivery-block) | End of post | Good | Canonical headline present and intact — **no modification needed** |
 
-**Variety note:** Two Yellow Tips in one post bends the "never use the same CTA type twice" rule, but both are lightweight and serve different intents (one informational, one product mention). Acceptable given the total CTA count is appropriate for 2,630 words (target: 2-3 custom CTAs + end CTA). No new CTAs recommended.
+**Two upm-blog-tip blocks** exist. The CTA variety rule says never repeat the same type, but these two have materially different purposes (pure tip vs. product mention) and both are light-touch. Acceptable in this case.
 
-**Optional polish:** Convert Tip #2 into a Type 11 Inline Banner to differentiate — would add visual variety without adding density. Marked as Optional only; keeping as-is is fine.
+#### Part B — New CTA Suggestion
 
----
+> **#1** — Yellow Tip (Type 12) | After "Financial Projections and Budget" section
+>
+> **Placed after:** "Budget transparency cuts down on the 'why did that get approved' conversations. And, review numbers every quarter instead of just looking at them at the start of the year."
+>
+> **CTA Preview:**
+> ```
+> +---------------------------------------------------------+
+> | Tip: Re-forecasting every quarter by hand? Upmetrics    |
+> | auto-updates your projections as actuals come in ->     |
+> +---------------------------------------------------------+
+> ```
+>
+> **Angle:** Specificity (names the exact feature — auto-update forecasting). Differs from existing tip angles (brevity advice, first-draft automation). | **Recommended**
 
-### Task 3 — Downloadable Resource CTA
-
-**Recommendation:** Set Resource Hero CTA to the Operations Plan Template.
-
-| Field | Value |
-|-------|-------|
-| resource_url | https://upmetrics.co/download/operations-plan-template |
-| heading | Operations Plan Template |
-| resource_link_text | Download Template |
-| Combined display | Download Template: Operations Plan Template (44 chars ✓) |
-
-**Rationale:** The Operations Plan section is called out in the article as one of the core building blocks of an internal plan ("usually the most referenced one once the plan is in use"). The Operations Plan Template directly supports the execution-focused angle of an internal plan — a closer topical match than the generic business plan template.
-
----
-
-### Task 4 — Related Content
-
-Set 4 related pages (replaces existing). All 4 are NOT linked in body or Task 3 — cross-task dedup clean.
-
-| # | Related Title (custom) | Post ID | Target URL | Post Type | Why |
-|:-:|------------------------|:--:|-----------|-----------|-----|
-| 1 | Business Plans vs Strategic Plans | 60227 | /blog/business-plan-vs-strategic-plan | post | Natural companion — internal plans sit between these two |
-| 2 | Forecast Sales Like You Mean It | 76107 | /blog/how-to-forecast-sales-for-business | post | Supports the Financial Projections section |
-| 3 | A Coffee Shop Plan Example | 6430 | /template/coffee-shop-business-plan | template | Mirrors the Brew & Ground sample in the article |
-| 4 | AI Prompts Every Team Should Keep | 105437 | /blog/chatgpt-prompts-for-business | post | Extends the "AI to assist" mention |
+**Placement rationale:** Financial Projections is the third "must have" section but has no nearby CTA. Adding a light tip here preserves the editorial feel, avoids clustering (next CTA is the end CTA ~1 full section away), and ties directly to the pain point in the preceding paragraph ("review numbers every quarter").
 
 ---
 
-### Task 5 — Meta Title & Description
+### TASK 3: Downloadable Resource / Tool Attachment
 
-**Classification:** Minor polish — page is brand new, no GSC data to flag an underperforming query. Suggesting one small hook add to differentiate from the H1.
+**Current state:** Not set.
+
+**Suggested resource:** `One Page Business Plan Template` (post_id 7341, `/download/one-page-business-plan-template`).
+
+**Why:** The article's central thesis is that internal plans should be 5-10 pages — short, direct, and get-to-the-point. The One Page Business Plan Template perfectly reinforces that message. It's a more distinctive match than the generic "Business Plan Template."
+
+**Implementation parameters:**
+
+| Parameter | Value | Chars |
+|-----------|-------|:--:|
+| `post_id` | 106714 | — |
+| `resource_url` | https://upmetrics.co/download/one-page-business-plan-template | — |
+| `heading` | `One Page Business Plan Template` | 31 |
+| `resource_link_text` | `Download Template` | 17 |
+| **Combined display** | `Download Template: One Page Business Plan Template` | **50** ✓ |
+
+---
+
+### TASK 4: Related Content
+
+**Current state:** Not set.
+
+**Suggested set of 4 (replaces any existing):**
+
+| # | Post ID | Target | Custom Title | Chars |
+|:--:|:--:|--------|--------------|:--:|
+| 1 | 20000 | /blog/operations-plan-section | How to Write an Operations Plan | 32 |
+| 2 | 6145 | /blog/types-of-business-plans | Business Plan Types, Side by Side | 33 |
+| 3 | 77811 | /blog/what-is-business-plan | Business Plans, Explained Simply | 32 |
+| 4 | 61578 | /blog/business-plan-vs-business-proposal | Business Plan vs. Business Proposal | 35 |
+
+All titles under 50 chars, contextual hooks, no duplicates with Task 1 or Task 3 targets.
+
+---
+
+### TASK 5: Meta Title & Description Optimization
+
+**Part A — Performance audit:** Post is 1 day old. GSC has returned **zero query data** for this URL so far — the CTR-vs-position benchmark check is not applicable. The rewrite below is driven by **structural issues**, not CTR data:
+
+1. Current meta title is **identical to the H1** (violates differentiation rule).
+2. OG title is **64 characters** (exceeds the 60-char social cap).
+3. Meta description mentions "mistakes to avoid," but the article has no dedicated mistakes section — minor alignment issue worth refreshing.
+
+**Part B — Current vs. Suggested:**
 
 | Field | Current | Chars | Suggested | Chars | Notes |
 |-------|---------|:--:|-----------|:--:|-------|
-| Meta Title | Internal Business Plan: What to Include and How to Write It | 59 | Internal Business Plan: What to Include (w/ Example) | 52 | Adds "(w/ Example)" hook; no longer identical to H1 |
-| Meta Description | Learn how to write an internal business plan that keeps your team aligned. Includes key sections, step-by-step process, and mistakes to avoid. | 143 | (keep current) | 143 | Kw in first 40 chars ✓, soft CTA present, within length |
-| Focus Keyphrase | (unknown) | — | internal business plan | — | Primary topic of the post |
-| Canonical | https://upmetrics.co/blog/internal-business-plan | — | (keep) | — | Clean |
-| OG Title | (unknown) | — | (match meta title) | — | — |
-| OG Description | (unknown) | — | (match meta description) | — | — |
+| Meta Title | Internal Business Plan: What to Include and How to Write It | 60 | Internal Business Plan: 7 Sections Every Team Needs | 51 | Differs from H1; number hook; kw in first 23 chars |
+| Meta Description | Learn how to write an internal business plan that keeps your team aligned. Includes key sections, step-by-step process, and mistakes to avoid. | 142 | Write a short internal business plan your team will actually use. Get the 7 core sections, when to include each, plus a sample plan to copy from. | 144 | Kw in first 30 chars; 3-part formula; removes unsupported "mistakes" claim |
+| Focus Keyphrase | internal business plan | — | internal business plan | — | Keep — no GSC data yet |
+| Canonical URL | /blog/internal-business-plan | — | (unchanged) | — | OK |
+| OG Title | How to Write an Internal Business Plan (That Your Team Will Use) | 64 | How to Write an Internal Business Plan (+ Sample) | 49 | Under 60 chars; mentions sample included in article |
+| OG Description | (same as meta description) | 142 | (use new meta description) | 144 | Align with refreshed description |
 
 **SERP Preview (suggested):**
 
 ```
-─────────────────────────────────────────────────────
-upmetrics.co › blog › internal-business-plan
-Internal Business Plan: What to Include (w/ Example)
-Learn how to write an internal business plan that keeps your
-team aligned. Includes key sections, step-by-step process,
-and mistakes to avoid.
-─────────────────────────────────────────────────────
+-----------------------------------------------------
+upmetrics.co > blog > internal-business-plan
+Internal Business Plan: 7 Sections Every Team Needs
+Write a short internal business plan your team will actually
+use. Get the 7 core sections, when to include each, plus a
+sample plan to copy from.
+-----------------------------------------------------
 ```
 
-**Differentiator note:** The "(w/ Example)" tag signals a concrete sample plan inside — most competing titles on "internal business plan" are either definitional ("What is an internal business plan?") or generic how-to. Promising an example is a click hook.
+**Differentiator note:** The number "7 Sections" signals scannable structure — most competing titles on "internal business plan" lean on "complete guide" or "template" phrasing, so the specific section count is a cleaner differentiator.
 
 ---
 
-### Task 6 — Image Alt Text Audit
+### TASK 6: Image Alt Text Audit
 
-**Summary:**
+**Image Audit Summary:**
 
 | Status | Count | Action |
 |--------|:--:|--------|
-| Needs Improvement | 8 | Rewrite alt (current alt <60 chars — too vague) |
-| Decorative — Correct | 1 | No action (crossline divider inside end CTA) |
-| **Total images** | **9** | — |
+| Critical &mdash; Missing | 0 | &mdash; |
+| Critical &mdash; Empty (wrong) | 0 | &mdash; |
+| Needs Improvement | 8 | Rewrite alt text |
+| Good | 0 | &mdash; |
+| Decorative &mdash; Correct | 1 | No action (crossline.png in end CTA) |
+| **Total content images** | **8** | &mdash; |
+
+All 8 content images have alt text present, but 5 of 8 are under 60 chars and the rest are generic. Rewrites below add specificity (what the image *shows*, not just what it *depicts*).
 
 #### Detailed Audit
 
-| # | src (filename) | Status | Current Alt | Chars | Suggested Alt | Chars |
-|:-:|----------------|--------|-------------|:--:|---------------|:--:|
-| 1 | internal-business-plan-internal-vs-external-plan | Needs Improvement | Internal vs external business plan comparison diagram | 52 | Comparison diagram showing how internal and external business plans differ by audience length and purpose | 108 |
-| 2 | internal-business-plan-when-to-create | Needs Improvement | When to create an internal business plan use cases | 50 | Five moments when an internal business plan helps: product launch, annual planning, restructuring, pivot, onboarding | 117 |
-| 3 | goals-and-objectives | Needs Improvement | Goals and objectives table for internal business plan | 53 | Internal plan goals table pairing each objective with an owner, deadline, and measurable target | 97 |
-| 4 | internal-business-plan-marketing-sales-strategy | Needs Improvement | Marketing and sales strategy breakdown | 38 | Sample marketing strategy breakdown with hyperlocal channels, budget splits, and customer acquisition targets | 109 |
-| 5 | internal-business-plan-team-structure | Needs Improvement | Team structure and responsibilities table | 41 | Team structure table showing three core owners, their roles, and decision rights for the San Antonio expansion | 112 |
-| 6 | internal-business-plan-expansion-budget | Needs Improvement | Expansion budget breakdown table | 32 | Coffee shop expansion budget breakdown totaling $185,000 across buildout, equipment, staffing, and launch marketing | 116 |
-| 7 | internal-business-plan-revenue-projections | Needs Improvement | Revenue projections table by month | 34 | Monthly revenue projections for the San Antonio location showing break-even at month 3 and ramp through month 6 | 112 |
-| 8 | internal-business-plan-milestones-kpis | Needs Improvement | Milestones and KPIs tracking table | 34 | Milestones and KPI tracking table with quarterly checkpoints for the San Antonio launch and Dallas planning | 108 |
+| # | src (filename) | Status | Current Alt | Suggested Alt | Chars | Notes |
+|:--:|----------------|--------|-------------|---------------|:--:|-------|
+| 1 | internal-business-plan-internal-vs-external-plan | Needs Improvement | Internal vs external business plan comparison diagram | Side-by-side comparison of internal vs external business plans: audience, tone, length, and purpose | 100 | Diagram — names the 4 dimensions |
+| 2 | internal-business-plan-when-to-create | Needs Improvement | When to create an internal business plan use cases | Five triggers for an internal business plan: launches, planning cycles, restructures, pivots, leadership onboarding | 114 | Lists the 5 triggers |
+| 3 | goals-and-objectives | Needs Improvement | Goals and objectives table for internal business plan | Sample internal plan goals-and-objectives table with each goal paired with its assigned owner and target date | 110 | Includes primary kw |
+| 4 | internal-business-plan-marketing-sales-strategy | Needs Improvement | Marketing and sales strategy breakdown | Launch marketing and sales strategy for a San Antonio coffee shop showing channels, owners, and tactics by quarter | 116 | Chart &mdash; describes actual content |
+| 5 | internal-business-plan-team-structure | Needs Improvement | Team structure and responsibilities table | Three-person team structure table for the San Antonio expansion listing roles, responsibilities, and decision rights | 118 | Describes actual rows |
+| 6 | internal-business-plan-expansion-budget | Needs Improvement | Expansion budget breakdown table | San Antonio expansion budget breakdown totaling $185K across buildout, equipment, marketing, and staffing line items | 117 | Includes key figure |
+| 7 | internal-business-plan-revenue-projections | Needs Improvement | Revenue projections table by month | Monthly revenue projections for the San Antonio location showing break-even at month 3 and $45K target by month 6 | 115 | Names the key data points |
+| 8 | internal-business-plan-milestones-kpis | Needs Improvement | Milestones and KPIs tracking table | Quarterly milestones and KPIs table tracking launch, break-even, customer count, and scale-readiness benchmarks | 112 | Lists the tracked KPIs |
 
-**Notes:** All suggested alts are 97-117 chars (within 60-125 window). No banned openers, no banned AI words, no duplicates. Primary keyword "internal business plan" intentionally used in alts #2 and #3 only (1-2 uses, per rule).
-
----
-
-### Task 7 — URL Slug
-
-**Current:** `/blog/internal-business-plan` — 3 words, primary keyword front-loaded, clean. **No change recommended.**
+**Keyword check:** Primary keyword "internal business plan" appears in alt #3 only (1 of 8) — well under the 2-alt cap. No duplicates. No banned openers or AI words.
 
 ---
 
-### Task 8 — Heading Structure
+### TASK 7: URL Slug Optimization
 
-- Exactly 1 H1 (post title) ✓
-- Clean H2 → H3 hierarchy, no skipped levels ✓
-- Primary keyword "internal business plan" appears in 3 of 5 main H2s ✓
-- No duplicate headings ✓
+**Current slug:** `internal-business-plan` (3 words, 22 chars)
 
-**Minor optional polish:** The H2 `What does your internal business plan "actually" include?` uses curly smart quotes. Consider swapping to straight ASCII (`"actually"`) for encoding consistency. Low priority.
+**Assessment:** Clean, keyword-focused, under the 60-char cap, no special characters, no double hyphens. **Leave alone.**
 
 ---
 
-### Task 9 — Category / Taxonomy
+### TASK 8: Heading Structure Audit
 
-**Current:** Planning — matches content intent (business-plan-planning guide). No change.
+**Structure:** 1 H1 (page title, theme-controlled), 6 H2s, 16 H3s. Primary keyword appears in 4 of 6 H2s. Hierarchy is clean — no skipped levels.
+
+**Duplicate H3s:** The sample plan wrapper (`upm_light_bg`, starting line ~108) repeats main H3s ("Executive Summary", "Goals and Objectives", "Market and Competitive Analysis", etc.). This is **intentional** — the sample is a self-contained mini-document. **Acceptable, no action needed.**
+
+**Optional minor polish:**
+
+| # | Current Heading | Suggested | Rationale |
+|:--:|-----------------|-----------|-----------|
+| 1 | How is it any different from a traditional (external) plan? | Internal vs. Traditional (External) Business Plan | Shorter, clearer, keyword-forward — optional only |
 
 ---
 
-### Task 10 — Incoming Internal Link Suggestions
+### TASK 9: Category / Taxonomy Assignment
 
-Source pages on upmetrics.co that should link TO `/blog/internal-business-plan`. All source URLs are verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to search within the source page — the actual anchor depends on what text exists in that page's content.
+**Current:** `Planning`
 
-| # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Priority |
-|:-:|------------|-----|:--:|-----------|--------------|-----------------|:--:|
-| 1 | How to Write a Business Plan: 10 Easy Steps + Examples | /blog/how-to-write-a-business-plan-complete-guide | 6056 | post | Parent guide — natural to reference internal-plan variant when distinguishing plan types | internal business plan | High |
-| 2 | Business Planning Process | /blog/business-planning-process | 6247 | post | Discusses planning cadence — internal plan is the downstream artifact | internal business plan | High |
-| 3 | Business Plan Vs Strategic Plan | /blog/business-plan-vs-strategic-plan | 60227 | post | Direct conceptual neighbor — "internal plan" bridges these two | internal business plan | High |
-| 4 | How to Create a Business Growth Plan | /blog/business-growth-plan | 83417 | post | Growth plans overlap with market-expansion internal plans | internal business plan | Medium |
-| 5 | How to Write SMART Goals | /blog/write-smart-goals | 6135 | post | Goals/objectives are a core section of any internal plan | internal business plan | Medium |
+**Assessment:** Correct category. Article is strategic/operational content about business planning. **Leave alone.**
 
-> Every source URL above is verified in WordPress (real post_id). The SEO team should open each source page, locate a natural mention of "internal plan" / "internal business plan" in body copy, and wrap it as an internal link to `/blog/internal-business-plan`. If no natural mention exists yet, a 1-2 sentence addition in the relevant section is acceptable.
+---
+
+### TASK 10: Incoming Internal Link Suggestions
+
+**Goal:** Source pages on the site that should link TO this post. SEO team reviews and implements manually. Every URL below is verified in WordPress with a real `post_id`.
+
+| # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Traffic | Priority |
+|:--:|------------|-----|:--:|-----------|--------------|-----------------|:--:|:--:|
+| 1 | How to Write a Business Plan: 10 Easy Steps + Examples | /blog/how-to-write-a-business-plan-complete-guide | 6056 | post | Parent pillar — naturally introduces plan types; discusses team alignment | internal business plan | High (top-traffic pillar) | High |
+| 2 | The Different Types of Business Plans | /blog/types-of-business-plans | 6145 | post | Article enumerates plan types; internal plan is one of them | internal business plan | Moderate | High |
+| 3 | Business Planning Process: Create a Business Plan That Works | /blog/business-planning-process | 6247 | post | Process guide mentions internal alignment; parent-topic bridge | internal business plan | High | Medium |
+| 4 | What is a Business Plan: Definition, Use Cases, Resources & More | /blog/what-is-business-plan | 77811 | post | Definitional parent; reasonable place to link out to plan-type variants | internal vs external plan | Moderate | Medium |
+| 5 | Business Plan vs. Business Proposal | /blog/business-plan-vs-business-proposal | 61578 | post | Contrast article mentions different plan purposes; natural place to route readers who want internal-specific guidance | write an internal plan | Low-Moderate | Medium |
+
+> Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to search within the source page &mdash; the actual anchor depends on what text exists in that page's content.
+
+**Note:** This target page has no reciprocal conflicts with Task 1 — the recommendations above point TO this page from other pages on the site (opposite direction from Task 1).
 
 ---
 
@@ -255,16 +314,16 @@ Source pages on upmetrics.co that should link TO `/blog/internal-business-plan`.
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Approve #1, #2, #3.
-Task 2 (CTAs): Approve audit — no action.
-Task 3 (Resource CTA): Approve Operations Plan Template.
+Task 1 (Internal Links): Add #1, #2, #3, #4. Fix #7 (replace external SMART PDF with /blog/write-smart-goals).
+Task 2 (CTAs): Add #1 Yellow Tip after Financial Projections section.
+Task 3 (Resource CTA): Approve One Page Business Plan Template.
 Task 4 (Related Content): Approve items #1-#4.
-Task 5 (Meta Title/Desc): Approve suggested title. Keep current description. Set focus keyphrase.
-Task 6 (Image Alt Text): Approve all 8 updates.
-Task 7 (URL Slug): Skip — already clean.
-Task 8 (Headings): Skip (or approve curly-quote fix).
-Task 9 (Categories): Skip — already correct.
-Task 10 (Incoming Links): Noted — SEO team will action manually.
+Task 5 (Meta Title/Desc): Approve all suggested fields (title, description, OG title, OG desc). Keep focus keyphrase.
+Task 6 (Image Alt Text): Approve all 8 rewrites.
+Task 7 (URL Slug): Skip - current slug is clean.
+Task 8 (Headings): Skip - optional polish only.
+Task 9 (Categories): Skip - Planning is correct.
+Task 10 (Incoming Links): Noted - will review manually.
 ```
 
-Or simply: **"Approve all"** / **"Approve all except Task 8"**
+Or simply: `Approve all recommended`

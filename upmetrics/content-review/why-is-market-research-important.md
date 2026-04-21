@@ -206,5 +206,5 @@ Two [Important] comments could not be auto-anchored by `apply_review.py` (tool b
 
 | Document | URL |
 |----------|-----|
-| Review Summary | https://github.com/upmetrics-seo/seo-reports/blob/master/upmetrics/content-review/why-is-market-research-important.md |
+| Review Summary | https://github.com/upmetrics/seo-documents/blob/master/upmetrics/content-review/why-is-market-research-important.md |
 | Reviewed Document | https://docs.google.com/document/d/1z6muCISjAf9NY_uzu5A7aW9QOLOfo5H3/edit |

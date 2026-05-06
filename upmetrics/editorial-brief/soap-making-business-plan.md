@@ -1,12 +1,12 @@
 # Editorial Brief: Soap Making Business Plan: Funding-Ready Sample (Marigold Lane Soap Co., LLC)
 
-**Date:** 2026-04-30 (revised 2026-05-06; v3 second-audit fixes 2026-05-06)
+**Date:** 2026-04-30 (v3 2026-05-06; v4 hours-based DL methodology 2026-05-06)
 **Prepared by:** Content Strategist (AI-Assisted)
 **Content Type:** Sample Business Plan
 **WordPress Post Type:** template
 **Note on URL:** This brief is for an UPDATE to the existing post at `/template/soap-making-business-plan` (Post ID 27679). The existing page is a how-to guide; this brief reframes the URL as a funding-ready sample plan. Use the **Page Draft** tool with `Update this:` to publish — do NOT use `Draft this:`.
 
-> **Revision note (v3, 2026-05-06):** Second audit identified 9 additional issues (Y2 capacity using 53 weeks, capacity buffer % miscalculated, gift set ASP math, marketing growth unexplained, 45-day inventory tight, mold transition unbudgeted, Ch 7.1 / 7.4 / 7.7 narrative gaps for Y2/Y3 scaling). All 9 fixed. See "Revision History" at the end of this brief. All numbers in Section 6B re-validated end-to-end (revenue ties to channel × volume, BS balances every year, Cash Flow ending cash = BS cash, RE rolls correctly, depreciation tracks PP&E, loan amortization tracks the schedule, contribution margin > 0, break-even uses the standard finance formula, capacity buffer formula `(capacity − forecast) / forecast` consistent across years).
+> **Revision note (v4, 2026-05-06):** Third audit flagged a direct-labor methodology gap (Ch 7.7 staffing said hours × rate = $22,200/$25,900 in Y2/Y3, but the P&L used "10% of revenue" = $21,830/$25,759 — a $370 / $141 mismatch disclosed as "within rounding"). **Fixed in v4: DL is now a real headcount cost (hours × rate × 50 weeks) directly in the P&L; the DL-as-percent-of-revenue figure drifts naturally to 10.00% / 10.17% / 10.05%.** Cascade through P&L → CF → BS → break-even. v3 (second audit) fixed 9 prior issues including Y2 capacity formula, capacity-buffer formula consistency, gift-set ASP math, marketing growth explanation, 45→60 day inventory, mold transition budget, and operations narrative gaps. v2 fixed 13 first-audit issues. Full change log in "Revision History" at end of brief. All numbers in Section 6B re-validated end-to-end (revenue ties to channel × volume, BS balances every year, Cash Flow ending cash = BS cash, RE rolls correctly, depreciation tracks PP&E, loan amortization tracks the schedule, contribution margin > 0, break-even uses the standard finance formula at Y2 steady-state, capacity buffer formula `(capacity − forecast) / forecast` consistent across years).
 
 ---
 
@@ -57,7 +57,7 @@
 
 ### Thesis Statement
 
-> Marigold Lane Soap Co., LLC seeks an $85,000 SBA 7(a) microloan to launch a cold-process handmade-soap manufacturer in Ashford Falls, Vermont, projecting $185,000 in Year 1 revenue, **$22,426 in Year 1 net income**, and a **27.2% margin of safety** above break-even (standard sales-formula calculation).
+> Marigold Lane Soap Co., LLC seeks an $85,000 SBA 7(a) microloan to launch a cold-process handmade-soap manufacturer in Ashford Falls, Vermont, projecting $185,000 in Year 1 revenue, **$22,426 in Year 1 net income**, and a **27.0% margin of safety** above break-even (standard sales-formula calculation).
 
 ### Key Messages
 
@@ -65,7 +65,7 @@
 2. Cold-process soap has a four-to-six-week cure cycle, which dictates production capacity and inventory days — the operations plan reflects this reality, not a generic manufacturing schedule.
 3. Year 1 financials assume 22% materials cost, 10% direct labor, 67.1% gross margin, and a $42,000 owner member-draw — conservative, defensible, and aligned with industry benchmarks for craft soap manufacturers. **Marigold Lane is a single-member Vermont LLC and a disregarded entity for federal tax purposes — Sarah takes member distributions ("draws"), not W-2 salary, and pays self-employment tax personally on her 1040. There is no employer-side payroll tax on the owner draw.**
 4. FDA and Vermont state regulatory compliance is a real cost line and a real risk. The plan addresses true-soap vs. cosmetic classification, labeling rules, and product-liability insurance head-on.
-5. The Year 1 break-even is **18,212 units / $134,769** revenue — well below the Year 1 forecast of 25,000 units / $185,000, giving Marigold Lane a **27.2% margin of safety** above break-even using the standard formula `(Sales − BE Sales) / Sales`.
+5. The Year 1 break-even is **18,262 units / $135,139** revenue — well below the Year 1 forecast of 25,000 units / $185,000, giving Marigold Lane a **27.0% margin of safety** above break-even using the standard formula `(Sales − BE Sales) / Sales`.
 
 ---
 
@@ -208,9 +208,9 @@
 |--------|--------|--------|--------|
 | Bar-equivalent units sold | 25,000 | 29,500 | 34,810 |
 | Total Revenue | $185,000 | $218,300 | $257,594 |
-| Gross Profit | $124,135 | $146,479 | $172,846 |
-| Net Income (Pre-Tax) | $22,426 | $44,439 | $62,478 |
-| Ending Cash | $90,809 | $132,793 | $192,019 |
+| Gross Profit | $124,135 | $146,076 | $172,692 |
+| Net Income (Pre-Tax) | $22,426 | $44,036 | $62,324 |
+| Ending Cash | $90,809 | $132,357 | $191,449 |
 
 ### Channel Mix (Year 1 — same proportional mix Y2 and Y3)
 
@@ -273,7 +273,7 @@
 | Bar-equivalent units sold | Y1: 25,000; Y2: 29,500; Y3: 34,810 |
 | Year-over-year revenue growth | 18% per year (Y2 = Y1 × 1.18; Y3 = Y2 × 1.18) — applied to units; price held constant |
 | Direct materials cost | 22% of revenue (oils, lye, fragrances, colorants, labels, packaging — blended across channels) |
-| Direct labor cost (production assistant) | 10% of revenue (PT assistant: 20 hrs/week × 50 production weeks @ $18.50/hr = $18,500 in Y1; scales proportionally with revenue in Y2 and Y3) |
+| Direct labor cost (production assistant) | **Hours × rate** (NOT a % of revenue plug — direct labor is a real headcount cost). PT assistant: $18.50/hr × 50 production weeks. Hours scale with the production schedule (Ch 7.4 + 7.7): **Y1 20 hrs/week → $18,500 (10.00% of revenue); Y2 24 hrs/week → $22,200 (10.17%); Y3 28 hrs/week → $25,900 (10.05%)**. The DL-as-percent-of-revenue figure drifts naturally because hours grow in step-changes while revenue grows continuously. |
 | Payroll tax rate (employer side) | 9% applied to direct labor only (NOT to owner draw — single-member LLC is a disregarded entity, no employer payroll tax on member distributions; Sarah pays self-employment tax personally on her 1040) |
 | Owner draw (member distribution, NOT W-2 salary) | Y1: $42,000; Y2: $48,000; Y3: $54,000 |
 | AR collection (DSO) | Net 30 on wholesale + B&B revenue (combined 18.92% of total revenue); 0 days on DTC + farmers' market (immediate payment) |
@@ -311,11 +311,11 @@
 | **Total Revenue** | 185,000 | 218,300 | 257,594 |
 | **COGS** | | | |
 | Direct materials (22% of revenue) | 40,700 | 48,026 | 56,671 |
-| Direct labor (10% of revenue) | 18,500 | 21,830 | 25,759 |
-| Payroll taxes on direct labor (9% of DL) | 1,665 | 1,965 | 2,318 |
-| **Total COGS** | 60,865 | 71,821 | 84,748 |
-| **Gross Profit** | **124,135** | **146,479** | **172,846** |
-| Gross Margin | 67.1% | 67.1% | 67.1% |
+| Direct labor (PT hours × $18.50 × 50 wks) | 18,500 | 22,200 | 25,900 |
+| Payroll taxes on direct labor (9% of DL) | 1,665 | 1,998 | 2,331 |
+| **Total COGS** | 60,865 | 72,224 | 84,902 |
+| **Gross Profit** | **124,135** | **146,076** | **172,692** |
+| Gross Margin | 67.1% | 66.9% | 67.0% |
 | **Operating Expenses** | | | |
 | Owner draw (member distribution) | 42,000 | 48,000 | 54,000 |
 | Commercial kitchen rent | 14,400 | 14,400 | 14,400 |
@@ -331,11 +331,11 @@
 | Licenses & permits (one-time) | 1,500 | – | – |
 | Professional setup services (one-time) | 1,500 | – | – |
 | **Total Operating Expenses** | 89,600 | 90,430 | 99,300 |
-| **EBITDA** | 34,535 | 56,049 | 73,546 |
+| **EBITDA** | 34,535 | 55,646 | 73,392 |
 | Depreciation | 5,100 | 5,100 | 5,100 |
-| **EBIT** | 29,435 | 50,949 | 68,446 |
+| **EBIT** | 29,435 | 50,546 | 68,292 |
 | Interest expense (from loan amortization) | 7,009 | 6,510 | 5,968 |
-| **Net Income (Pre-Tax)** | **22,426** | **44,439** | **62,478** |
+| **Net Income (Pre-Tax)** | **22,426** | **44,036** | **62,324** |
 
 > **Note on owner compensation:** No employer-side payroll tax line exists because Marigold Lane is a single-member LLC (disregarded entity). Sarah's $42,000/$48,000/$54,000 is a member draw, not a W-2 salary. Self-employment tax (~15.3% on the first ~$169K and 2.9% above that) is paid by Sarah personally on her Form 1040 — it is not a business expense and does not appear on the company P&L. If Marigold Lane elects S-Corp treatment in a future year (a common move at this revenue level for tax efficiency), the structure shifts to "reasonable salary + distributions" with employer payroll tax applied to the salary portion. That election is not in the Y1–Y3 model.
 
@@ -345,25 +345,25 @@
 
 | | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |-|-----------|-----------|-----------|
-| **Beginning Cash** | 67,600 | 90,809 | 132,793 |
+| **Beginning Cash** | 67,600 | 90,809 | 132,357 |
 | **Operating Activities** | | | |
-| Net income (pre-tax) | 22,426 | 44,439 | 62,478 |
+| Net income (pre-tax) | 22,426 | 44,036 | 62,324 |
 | Depreciation (non-cash add-back) | 5,100 | 5,100 | 5,100 |
 | Change in accounts receivable (increase = outflow) | (2,877) | (518) | (611) |
-| Change in inventory (increase = outflow) | (3,205) | (1,801) | (2,125) |
-| Change in accounts payable (increase = inflow) | 5,003 | 900 | 1,063 |
+| Change in inventory (increase = outflow) | (3,205) | (1,867) | (2,084) |
+| Change in accounts payable (increase = inflow) | 5,003 | 933 | 1,042 |
 | Change in prepaid expenses (decrease = inflow) | 2,400 | 0 | 0 |
-| **Net Cash from Operations** | 28,847 | 48,120 | 65,905 |
+| **Net Cash from Operations** | 28,847 | 47,684 | 65,771 |
 | **Investing Activities** | | | |
 | Capital expenditures | 0 | 0 | 0 |
 | **Net Cash from Investing** | 0 | 0 | 0 |
 | **Financing Activities** | | | |
 | Loan principal repayment | (5,638) | (6,136) | (6,679) |
 | **Net Cash from Financing** | (5,638) | (6,136) | (6,679) |
-| **Net Change in Cash** | 23,209 | 41,984 | 59,226 |
-| **Ending Cash** | **90,809** | **132,793** | **192,019** |
+| **Net Change in Cash** | 23,209 | 41,548 | 59,092 |
+| **Ending Cash** | **90,809** | **132,357** | **191,449** |
 
-> **Validation:** Ending Cash ties to BS Cash for every year. Y1 $90,809 ✓ / Y2 $132,793 ✓ / Y3 $192,019 ✓.
+> **Validation:** Ending Cash ties to BS Cash for every year. Y1 $90,809 ✓ / Y2 $132,357 ✓ / Y3 $191,449 ✓.
 
 ### Opening Balance Sheet (at Launch — May 2026, before operations begin)
 
@@ -387,47 +387,49 @@
 
 | Assets | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
-| Cash | 90,809 | 132,793 | 192,019 |
+| Cash | 90,809 | 132,357 | 191,449 |
 | Accounts receivable (Net 30 on wholesale + B&B = 18.92% of revenue) | 2,877 | 3,395 | 4,006 |
-| Inventory (60 days × annualized COGS) | 10,005 | 11,806 | 13,931 |
+| Inventory (60 days × annualized COGS) | 10,005 | 11,872 | 13,956 |
 | Prepaid expenses | 0 | 0 | 0 |
 | Net PP&E (Gross PP&E − accumulated depreciation) | 28,100 | 23,000 | 17,900 |
-| **Total Assets** | **131,791** | **170,994** | **227,856** |
+| **Total Assets** | **131,791** | **170,624** | **227,311** |
 
 | Liabilities | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |------------|-----------|-----------|-----------|
-| Accounts payable (Net 30 on total COGS) | 5,003 | 5,903 | 6,966 |
+| Accounts payable (Net 30 on total COGS) | 5,003 | 5,936 | 6,978 |
 | SBA 7(a) microloan balance | 79,362 | 73,226 | 66,547 |
-| **Total Liabilities** | **84,365** | **79,129** | **73,513** |
+| **Total Liabilities** | **84,365** | **79,162** | **73,525** |
 
 | Equity | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
 | Paid-in capital | 25,000 | 25,000 | 25,000 |
-| Retained earnings (cumulative net income, less owner draws — but draws already flow through P&L as OpEx, so RE = cumulative NI) | 22,426 | 66,865 | 129,343 |
-| **Total Owner's Capital** | **47,426** | **91,865** | **154,343** |
+| Retained earnings (cumulative net income, less owner draws — but draws already flow through P&L as OpEx, so RE = cumulative NI) | 22,426 | 66,462 | 128,786 |
+| **Total Owner's Capital** | **47,426** | **91,462** | **153,786** |
 
-> **Validation:** Total Assets = Total Liabilities + Owner's Capital for every year. Y1: 131,791 = 84,365 + 47,426 ✓ / Y2: 170,994 = 79,129 + 91,865 ✓ / Y3: 227,856 = 73,513 + 154,343 ✓.
+> **Validation:** Total Assets = Total Liabilities + Owner's Capital for every year. Y1: 131,791 = 84,365 + 47,426 ✓ / Y2: 170,624 = 79,162 + 91,462 ✓ / Y3: 227,311 = 73,525 + 153,786 ✓.
 
 > **Note on retained earnings + draws:** Because the owner draw is already deducted as an OpEx line in the P&L, retained earnings simply equals cumulative pre-tax net income. No separate "owner-draw distribution" line is needed against equity. (If the owner draw were treated below-the-line as a distribution rather than as an OpEx, RE would be higher and equity would be reduced by the cumulative draws — the math is equivalent.)
 
 ### Break-Even Analysis
 
+> Break-even uses **Year 2 (steady-state) per-unit costs** since DL is a fixed step-cost tied to staffing hours, not a constant percentage of revenue.
+
 | Item | Value |
 |------|-------|
 | Blended revenue per bar-equivalent unit | $7.40 |
-| Variable cost per unit — direct materials (22%) | $1.628 |
-| Variable cost per unit — direct labor (10%) | $0.740 |
-| Variable cost per unit — payroll tax on direct labor (0.9% of revenue = 9% × 10%) | $0.067 |
-| **Total variable cost per unit** | **$2.435** |
-| **Contribution margin per unit** | **$4.965** |
-| **Contribution margin (%)** | **67.1%** |
+| Variable cost per unit — direct materials (22% of revenue) | $1.628 |
+| Variable cost per unit — direct labor (Y2 DL $22,200 ÷ 29,500 units) | $0.7525 |
+| Variable cost per unit — payroll tax on direct labor (9% of DL/unit) | $0.0677 |
+| **Total variable cost per unit** | **$2.4483** |
+| **Contribution margin per unit** | **$4.9517** |
+| **Contribution margin (%)** | **66.9%** |
 | Annual fixed operating costs (Year 2 ongoing OpEx, ex one-time and ex depreciation) | $90,430 |
-| **Break-even units per year** | **18,212 units** |
-| **Break-even units per month** | **1,518 units** |
-| **Break-even revenue (annual)** | **$134,769** |
-| **Margin of safety (standard formula: (Sales − BE Sales) / Sales)** | **27.2%** |
+| **Break-even units per year** | **18,262 units** |
+| **Break-even units per month** | **1,522 units** |
+| **Break-even revenue (annual)** | **$135,139** |
+| **Margin of safety (standard formula: (Sales − BE Sales) / Sales)** | **27.0%** |
 
-> **Validation:** Break-even units = $90,430 ÷ $4.965 = 18,212 ✓. Year 1 forecast (25,000 units / $185,000) exceeds break-even by 6,788 units / $50,231 — a **27.2% margin of safety** (standard finance formula: $50,231 ÷ $185,000). Marigold Lane crosses break-even in approximately **month 9–10 of Year 1** (cumulative contribution catches fixed costs).
+> **Validation:** Break-even units = $90,430 ÷ $4.9517 = 18,262 ✓. Year 1 forecast (25,000 units / $185,000) exceeds break-even by 6,738 units / $49,861 — a **27.0% margin of safety** (standard finance formula: $49,861 ÷ $185,000). Marigold Lane crosses break-even in approximately **month 9–10 of Year 1** (cumulative contribution catches fixed costs).
 
 ---
 ---
@@ -498,7 +500,7 @@
 #### H2: Chapter 1 — Executive Summary
 > ~600 words, 6–8 paragraphs | 🔴 MUST HAVE
 > 🎯 Our angle: Open with the funding ask, the founder, and the Year 1 numbers in three crisp sentences.
-> 🪝 Suggested hook: "Marigold Lane Soap Co., LLC, founded May 2026 in Ashford Falls, Vermont, requests an $85,000 SBA 7(a) microloan to launch a cold-process handmade soap manufacturer projecting $185,000 in Year 1 revenue, $22,426 in Year 1 net income, and a 27.2% margin of safety above break-even."
+> 🪝 Suggested hook: "Marigold Lane Soap Co., LLC, founded May 2026 in Ashford Falls, Vermont, requests an $85,000 SBA 7(a) microloan to launch a cold-process handmade soap manufacturer projecting $185,000 in Year 1 revenue, $22,426 in Year 1 net income, and a 27.0% margin of safety above break-even."
 > 🚫 Avoid: Don't make this aspirational marketing copy. Don't open with industry market sizing. Don't use "passion," "journey," or "dream."
 > 📖 Reference: We do better than Refs 1–2 by opening with the loan ask and three financial highlights.
 
@@ -712,9 +714,10 @@ Subsections:
 > ~140 words |
 > **Sarah Keller (Owner-Operator)** — Monday–Friday + Saturday market, ~40+ hours all years. Full responsibility for batch design, quality, sales, finance. **Year 1 owner draw: $42,000** (Y2: $48,000; Y3: $54,000). No W-2 salary — single-member LLC takes member distributions.
 > **Production Assistant (PT)** — hours scale with year's production schedule (Ch 7.4). All paid at $18.50/hr.
-> - **Year 1: 20 hrs/week** = Mon–Wed 10:00 AM – 3:00 PM (5 hrs × 3 = 15 hrs production help) + Thu 10:00 AM – 3:00 PM (5 hrs packing & shipping). 50 weeks × 20 hrs × $18.50 = **$18,500** (= 10% of Y1 revenue, matches direct-labor assumption).
-> - **Year 2: 24 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (6 × 3 = 18 hrs production) + Thu 10:00 AM – 4:00 PM (6 hrs packing). Wednesday extension adds late-afternoon batch help. 50 wks × 24 hrs × $18.50 = **$22,200** (≈ 10% of Y2 revenue $218.3K = $21,830 — within rounding tolerance).
-> - **Year 3: 28 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (18 hrs) + **Thu 9:00 AM – 3:00 PM (6 hrs — half production help on the Thu morning batch, half packing)** + Fri 10:00 AM – 2:00 PM (4 hrs admin/order processing). 50 wks × 28 hrs × $18.50 = **$25,900** (≈ 10% of Y3 revenue $257.6K = $25,759 — within rounding tolerance).
+> - **Year 1: 20 hrs/week** = Mon–Wed 10:00 AM – 3:00 PM (5 hrs × 3 = 15 hrs production help) + Thu 10:00 AM – 3:00 PM (5 hrs packing & shipping). 50 weeks × 20 hrs × $18.50 = **$18,500** (= 10.00% of Y1 revenue $185,000).
+> - **Year 2: 24 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (6 × 3 = 18 hrs production) + Thu 10:00 AM – 4:00 PM (6 hrs packing). Wednesday extension adds late-afternoon batch help. 50 wks × 24 hrs × $18.50 = **$22,200** (= 10.17% of Y2 revenue $218,300).
+> - **Year 3: 28 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (18 hrs) + **Thu 9:00 AM – 3:00 PM (6 hrs — half production help on the Thu morning batch, half packing)** + Fri 10:00 AM – 2:00 PM (4 hrs admin/order processing). 50 wks × 28 hrs × $18.50 = **$25,900** (= 10.05% of Y3 revenue $257,594).
+> The DL line in the P&L (Ch 9.4) uses these hours-based dollar amounts directly — DL is a real headcount cost, not a percentage plug.
 > Hire #2 (Year 3 contingency) only if volume exceeds plan by 20%+.
 
 ##### H3: 7.8 Suppliers & Sourcing
@@ -770,25 +773,25 @@ Subsections:
 > ~80 words + 1 table | Embed verbatim. Straight-line, full first-year convention. Total annual depreciation $5,100 across all years. Net PP&E declines from $33,200 to $17,900.
 
 ##### H3: 9.4 3-Year Income Statement (P&L)
-> ~150 words + 1 table | Embed verbatim. Commentary: (1) Revenue $185K → $218K → $258K. (2) Gross margin holds at 67.1%. (3) EBITDA grows $34,535 → $56,049 → $73,546. (4) Net Income (pre-tax): **$22,426 → $44,439 → $62,478**. (5) One-time startup expenses ($8,000) hit Year 1 only. (6) Owner draw appears as an OpEx line — the disregarded-entity tax treatment is the reason there is no payroll-tax line on the draw.
+> ~150 words + 1 table | Embed verbatim. Commentary: (1) Revenue $185K → $218K → $258K. (2) Gross margin: 67.1% / 66.9% / 67.0% — slight Y2 dip because direct labor hours grow in step-changes (Y1 20 hrs/wk → Y2 24) faster than revenue grows continuously, so DL/revenue ratio briefly ticks above 10%. (3) EBITDA grows $34,535 → $55,646 → $73,392. (4) Net Income (pre-tax): **$22,426 → $44,036 → $62,324**. (5) One-time startup expenses ($8,000) hit Year 1 only. (6) Owner draw appears as an OpEx line — the disregarded-entity tax treatment is the reason there is no payroll-tax line on the draw.
 
 ##### H3: 9.5 Cash Flow Statement
-> ~150 words + 1 table | Embed verbatim. Commentary: (1) Operating cash flow grows $28,847 → $48,120 → $65,905. (2) Working capital changes — AR builds slowly because only ~19% of revenue (wholesale + B&B) carries Net 30 terms; inventory builds faster because the 60-day raw-materials + cure-cycle assumption ties up cash as production scales. (3) No new capex in the 3-year forecast — Year 3 35-lb mold transition uses molds already in the original $14,000 startup equipment package. (4) Loan principal repayment grows $5,638 → $6,136 → $6,679 (amortization shifts toward principal each year). (5) Ending Cash: **$90,809 → $132,793 → $192,019**.
+> ~150 words + 1 table | Embed verbatim. Commentary: (1) Operating cash flow grows $28,847 → $47,684 → $65,771. (2) Working capital changes — AR builds slowly because only ~19% of revenue (wholesale + B&B) carries Net 30 terms; inventory builds faster because the 60-day raw-materials + cure-cycle assumption ties up cash as production scales. (3) No new capex in the 3-year forecast — Year 3 35-lb mold transition uses molds already in the original $14,000 startup equipment package. (4) Loan principal repayment grows $5,638 → $6,136 → $6,679 (amortization shifts toward principal each year). (5) Ending Cash: **$90,809 → $132,357 → $191,449**.
 
 ##### H3: 9.6 Opening Balance Sheet
 > ~80 words + 1 table | Embed verbatim. Opening cash $67,600 = $59,600 working capital reserve + $8,000 cash float for one-time launch expenses. Total assets $110,000 = total liabilities + equity ($110,000) — balanced.
 
 ##### H3: 9.7 Balance Sheets (Years 1–3)
-> ~100 words + 1 table | Embed verbatim. Commentary: (1) Cash grows every year ($90,809 → $132,793 → $192,019). (2) Loan balance declines $79,362 → $66,547. (3) Retained earnings build cumulatively: $22,426 → $66,865 → $129,343. (4) Total assets grow $131,791 → $170,994 → $227,856. (5) Owner's equity goes from $47,426 to $154,343 — the business builds real equity over three years.
+> ~100 words + 1 table | Embed verbatim. Commentary: (1) Cash grows every year ($90,809 → $132,357 → $191,449). (2) Loan balance declines $79,362 → $66,547. (3) Retained earnings build cumulatively: $22,426 → $66,462 → $128,786. (4) Total assets grow $131,791 → $170,624 → $227,311. (5) Owner's equity goes from $47,426 to $153,786 — the business builds real equity over three years.
 
 ##### H3: 9.8 Break-Even Analysis
-> ~110 words + 1 table | Embed verbatim. Contribution margin per bar = $4.965 (67.1%). Annual fixed costs $90,430. **Break-even: 18,212 units / $134,769 / 1,518 units per month.** Year 1 forecast (25,000 units / $185,000) exceeds break-even by 6,788 units / $50,231. **Margin of safety using the standard finance formula `(Sales − BE Sales) / Sales = 27.2%`.** Marigold Lane crosses break-even in approximately month 9–10 of Year 1.
+> ~110 words + 1 table | Embed verbatim. Contribution margin per bar = $4.9517 (66.9%, calculated at Y2 steady-state DL/unit). Annual fixed costs $90,430. **Break-even: 18,262 units / $135,139 / 1,522 units per month.** Year 1 forecast (25,000 units / $185,000) exceeds break-even by 6,738 units / $49,861. **Margin of safety using the standard finance formula `(Sales − BE Sales) / Sales = 27.0%`.** Marigold Lane crosses break-even in approximately month 9–10 of Year 1.
 
 ##### H3: 9.9 Funding Request & Use of Loan Proceeds
 > ~100 words | Reiterate funding: $85,000 SBA 7(a) microloan, 10-year term, 8.5% fixed APR, $1,053.88/month. **Use of Loan Proceeds (the loan portion of the $110K total):** $14,000 equipment + $8,000 vehicle + $5,000 leasehold improvements + $4,200 furniture + $2,000 computer + $6,800 inventory + $2,400 insurance prepay + $8,000 one-time launch expenses + $34,600 working capital = $85,000. Sarah's $25,000 owner equity supplies the remainder of the working capital reserve ($25,000), bringing total opening cash to $59,600 + $8,000 float = $67,600. Reference [SBA 7(a) Loan Program](https://www.sba.gov/funding-programs/loans/7a-loans).
 
 > 🖼️ Visual: 3-year revenue / GP / NI stacked bar chart.
-> 💡 ProTip: Bankers cross-check that Cash Flow ending cash = Balance Sheet cash for every year. Marigold Lane's tables are pre-validated — Y1 $90,809 ✓ / Y2 $132,793 ✓ / Y3 $192,019 ✓.
+> 💡 ProTip: Bankers cross-check that Cash Flow ending cash = Balance Sheet cash for every year. Marigold Lane's tables are pre-validated — Y1 $90,809 ✓ / Y2 $132,357 ✓ / Y3 $191,449 ✓.
 
 ---
 
@@ -805,7 +808,7 @@ Subsections:
 > ~150 words | 🔴 MUST HAVE
 >
 > Restate the thesis in fresh language.
-> Summarize 3 takeaways: (1) the four-channel revenue model (DTC 40% / FM 30% / Wholesale 20% / B&B 10% by units); (2) the **27.2% margin of safety** above break-even; (3) the chemistry-grounded operations + regulatory plan that competitors skip.
+> Summarize 3 takeaways: (1) the four-channel revenue model (DTC 40% / FM 30% / Wholesale 20% / B&B 10% by units); (2) the **27.0% margin of safety** above break-even; (3) the chemistry-grounded operations + regulatory plan that competitors skip.
 > Forward-looking statement: where Marigold Lane goes after Year 3 (storefront, additional product lines).
 > CTA: link to [the AI Plan Generator](https://upmetrics.co/features/ai-plan-generator) and to [other industry sample plans](https://upmetrics.co/sample-business-plans).
 
@@ -837,7 +840,7 @@ Subsections:
 3. ✅ **Checklist Summary** — No.
 4. 💡 **Key Takeaway Callout Boxes** — Yes — 3 — end of Ch 3 (market sizing), Ch 7 (capacity buffer), Ch 9 (financial strength).
 5. ⚡ **Pull Quote** — No.
-6. 📈 **Data Callout / Stat Highlight** — Yes — 3 — Ch 1 (funding ask + Y1 NI), Ch 3 ($2.41B → $4.17B), Ch 9 (27.2% margin of safety).
+6. 📈 **Data Callout / Stat Highlight** — Yes — 3 — Ch 1 (funding ask + Y1 NI), Ch 3 ($2.41B → $4.17B), Ch 9 (27.0% margin of safety).
 
 ---
 
@@ -856,7 +859,7 @@ Subsections:
 - **A standalone Regulatory & Compliance chapter.** FDA, CPSC, true-soap exemption (21 CFR 701.20), Vermont state, Prop 65, insurance — all covered.
 - **Channel-by-channel revenue model with reconciled volumes.** Four channels with explicit unit volumes and prices that sum exactly to 25,000 units / $185,000. Wholesale-margin compression is built into the blended ASP and gross margin.
 - **A real cure-cycle in the operations plan.** The 4–6 week cure cycle drives the **60-day inventory assumption** (cure cycle + 18–32 days raw-materials buffer), the production capacity math that scales by year (Y1 7 batches/wk × 80 = 28,000 / Y2 8 batches/wk × 80 = 32,000 / Y3 9 batches/wk × 93 = 41,850), and the cash flow timing.
-- **Standard finance formula for margin of safety.** `(Sales − BE Sales) / Sales = 27.2%`, cross-checked against the unit-based formula. No non-standard KPI definitions.
+- **Standard finance formula for margin of safety.** `(Sales − BE Sales) / Sales = 27.0%`, calculated at Y2 steady-state contribution margin. No non-standard KPI definitions.
 
 ---
 ---
@@ -874,6 +877,27 @@ unlock, unleash, harness, leverage (verb), elevate, delve, dive into, deep dive,
 ---
 
 ## Revision History
+
+**v4 — 2026-05-06 (third audit — direct labor methodology).** Reviewer flagged a methodology gap: the staffing schedule in Ch 7.7 derived PT labor from hours × rate ($22,200 in Y2, $25,900 in Y3), but the P&L in Ch 9.4 was using "10% of revenue" as a plug ($21,830 in Y2, $25,759 in Y3). Gap of $370 in Y2 and $141 in Y3 was disclosed as "within rounding" but a banker would notice both numbers and ask. **Fix: Direct labor is now treated as a real headcount cost — hours × rate × 50 weeks — directly in the P&L, with the DL-as-percent-of-revenue figure allowed to drift naturally to 10.00% / 10.17% / 10.05%.** Cascade through P&L → COGS → GP → EBITDA → NI → CF → BS → break-even. All math re-validated end-to-end.
+
+| Change | Y1 | Y2 | Y3 |
+|--------|----|----|----|
+| Direct labor | $18,500 (unchanged) | $21,830 → **$22,200** | $25,759 → **$25,900** |
+| Payroll tax on DL | $1,665 (unchanged) | $1,965 → **$1,998** | $2,318 → **$2,331** |
+| Total COGS | $60,865 (unchanged) | $71,821 → **$72,224** | $84,748 → **$84,902** |
+| Gross Profit | $124,135 (unchanged) | $146,479 → **$146,076** | $172,846 → **$172,692** |
+| Gross Margin | 67.1% (unchanged) | 67.1% → **66.9%** | 67.1% → **67.0%** |
+| EBITDA | $34,535 (unchanged) | $56,049 → **$55,646** | $73,546 → **$73,392** |
+| Net Income | $22,426 (unchanged) | $44,439 → **$44,036** | $62,478 → **$62,324** |
+| Inventory (60d × COGS) | $10,005 (unchanged) | $11,806 → **$11,872** | $13,931 → **$13,956** |
+| AP (30d × COGS) | $5,003 (unchanged) | $5,903 → **$5,936** | $6,966 → **$6,978** |
+| Ending Cash | $90,809 (unchanged) | $132,793 → **$132,357** | $192,019 → **$191,449** |
+| BS Total Assets | $131,791 (unchanged) | $170,994 → **$170,624** | $227,856 → **$227,311** |
+| Break-even units | 18,212 → **18,262** | | |
+| Break-even revenue | $134,769 → **$135,139** | | |
+| Margin of safety | 27.2% → **27.0%** | | |
+
+All BS years still balance. CF Ending Cash = BS Cash for every year. The "within rounding" disclaimers in Ch 7.7 staffing have been removed — DL ties to hours-based dollars exactly.
 
 **v3 — 2026-05-06 (second audit).** Second-round reviewer audit identified 9 additional issues. All 9 fixed:
 

@@ -1,12 +1,12 @@
 # Editorial Brief: Soap Making Business Plan: Funding-Ready Sample (Marigold Lane Soap Co., LLC)
 
-**Date:** 2026-04-30 (revised 2026-05-06 — all math validated)
+**Date:** 2026-04-30 (revised 2026-05-06; v3 second-audit fixes 2026-05-06)
 **Prepared by:** Content Strategist (AI-Assisted)
 **Content Type:** Sample Business Plan
 **WordPress Post Type:** template
 **Note on URL:** This brief is for an UPDATE to the existing post at `/template/soap-making-business-plan` (Post ID 27679). The existing page is a how-to guide; this brief reframes the URL as a funding-ready sample plan. Use the **Page Draft** tool with `Update this:` to publish — do NOT use `Draft this:`.
 
-> **Revision note (2026-05-06):** This version replaces the original v1 brief. The full financial model, channel mix, production capacity, and account-count narrative were rebuilt to fix internal inconsistencies. Specific changes documented at the bottom of this brief under "Revision History." All numbers in Section 6B have been validated end-to-end (revenue ties to channel × volume, BS balances every year, Cash Flow ending cash = BS cash, RE rolls correctly, depreciation tracks PP&E, loan amortization tracks the schedule, contribution margin > 0, break-even uses the standard finance formula).
+> **Revision note (v3, 2026-05-06):** Second audit identified 9 additional issues (Y2 capacity using 53 weeks, capacity buffer % miscalculated, gift set ASP math, marketing growth unexplained, 45-day inventory tight, mold transition unbudgeted, Ch 7.1 / 7.4 / 7.7 narrative gaps for Y2/Y3 scaling). All 9 fixed. See "Revision History" at the end of this brief. All numbers in Section 6B re-validated end-to-end (revenue ties to channel × volume, BS balances every year, Cash Flow ending cash = BS cash, RE rolls correctly, depreciation tracks PP&E, loan amortization tracks the schedule, contribution margin > 0, break-even uses the standard finance formula, capacity buffer formula `(capacity − forecast) / forecast` consistent across years).
 
 ---
 
@@ -210,7 +210,7 @@
 | Total Revenue | $185,000 | $218,300 | $257,594 |
 | Gross Profit | $124,135 | $146,479 | $172,846 |
 | Net Income (Pre-Tax) | $22,426 | $44,439 | $62,478 |
-| Ending Cash | $93,310 | $135,744 | $195,502 |
+| Ending Cash | $90,809 | $132,793 | $192,019 |
 
 ### Channel Mix (Year 1 — same proportional mix Y2 and Y3)
 
@@ -228,7 +228,7 @@
 
 | Expense | Amount |
 |---------|--------|
-| Soap-making equipment (mixers, molds, curing racks, scales, immersion blender, cutter) | $14,000 |
+| Soap-making equipment (mixers, **30-lb and 35-lb wood molds (multiple of each size)**, curing racks, scales, immersion blender, electric cutter) | $14,000 |
 | Vehicle (used cargo van for deliveries and farmers' market) | $8,000 |
 | Furniture & fixtures (workbenches, packaging stations, shelving) | $4,200 |
 | Office computer & equipment | $2,000 |
@@ -278,7 +278,7 @@
 | Owner draw (member distribution, NOT W-2 salary) | Y1: $42,000; Y2: $48,000; Y3: $54,000 |
 | AR collection (DSO) | Net 30 on wholesale + B&B revenue (combined 18.92% of total revenue); 0 days on DTC + farmers' market (immediate payment) |
 | AP payment (DPO) | Net 30 on **total COGS** |
-| Inventory days on hand | 45 days × **annualized total COGS** — captures both raw-materials inventory and finished-goods inventory in 4–6 week cure |
+| Inventory days on hand | 60 days × **annualized total COGS** — covers the full cure cycle (28–42 days) plus an 18–32 day raw-materials buffer (reorder cadence ~21 days). 60 days is at the conservative end of what cure-dependent product lenders typically expect (60–75 days). |
 | Loan: lender | SBA 7(a) microloan via Vermont community bank |
 | Loan: principal amount | $85,000 |
 | Loan: term | 10 years (120 months) |
@@ -322,7 +322,7 @@
 | Insurance (general + product liability) | 2,400 | 2,520 | 2,650 |
 | Accounting & legal services | 2,400 | 2,520 | 2,650 |
 | Phone & utilities | 1,800 | 1,890 | 1,985 |
-| Ongoing marketing | 9,000 | 11,000 | 13,000 |
+| Ongoing marketing (Y2 +22% / Y3 +18% — see note below) | 9,000 | 11,000 | 13,000 |
 | Vehicle / fuel / delivery | 3,600 | 3,800 | 4,000 |
 | Production supplies & consumables | 2,400 | 2,500 | 2,625 |
 | Repairs & maintenance | 1,200 | 1,300 | 1,365 |
@@ -339,29 +339,31 @@
 
 > **Note on owner compensation:** No employer-side payroll tax line exists because Marigold Lane is a single-member LLC (disregarded entity). Sarah's $42,000/$48,000/$54,000 is a member draw, not a W-2 salary. Self-employment tax (~15.3% on the first ~$169K and 2.9% above that) is paid by Sarah personally on her Form 1040 — it is not a business expense and does not appear on the company P&L. If Marigold Lane elects S-Corp treatment in a future year (a common move at this revenue level for tax efficiency), the structure shifts to "reasonable salary + distributions" with employer payroll tax applied to the salary portion. That election is not in the Y1–Y3 model.
 
+> **Note on Year 2 marketing growth (22% vs. revenue growth of 18%):** The 4-percentage-point gap is intentional. Year 2 marketing of $11,000 (vs. $9,000 in Year 1) funds (a) an expanded Q4 paid push ($2,500 in Year 2 vs. $1,500 in Year 1) as the brand has 12 months of organic following to retarget, and (b) one trade-show appearance (~$800) to support the wholesale-account ramp from 6 to ~10 retailers. Year 3 marketing growth (+18%) tracks revenue growth precisely.
+
 ### Cash Flow Statement
 
 | | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |-|-----------|-----------|-----------|
-| **Beginning Cash** | 67,600 | 93,310 | 135,744 |
+| **Beginning Cash** | 67,600 | 90,809 | 132,793 |
 | **Operating Activities** | | | |
 | Net income (pre-tax) | 22,426 | 44,439 | 62,478 |
 | Depreciation (non-cash add-back) | 5,100 | 5,100 | 5,100 |
 | Change in accounts receivable (increase = outflow) | (2,877) | (518) | (611) |
-| Change in inventory (increase = outflow) | (704) | (1,351) | (1,593) |
+| Change in inventory (increase = outflow) | (3,205) | (1,801) | (2,125) |
 | Change in accounts payable (increase = inflow) | 5,003 | 900 | 1,063 |
 | Change in prepaid expenses (decrease = inflow) | 2,400 | 0 | 0 |
-| **Net Cash from Operations** | 31,348 | 48,570 | 66,437 |
+| **Net Cash from Operations** | 28,847 | 48,120 | 65,905 |
 | **Investing Activities** | | | |
 | Capital expenditures | 0 | 0 | 0 |
 | **Net Cash from Investing** | 0 | 0 | 0 |
 | **Financing Activities** | | | |
 | Loan principal repayment | (5,638) | (6,136) | (6,679) |
 | **Net Cash from Financing** | (5,638) | (6,136) | (6,679) |
-| **Net Change in Cash** | 25,710 | 42,434 | 59,758 |
-| **Ending Cash** | **93,310** | **135,744** | **195,502** |
+| **Net Change in Cash** | 23,209 | 41,984 | 59,226 |
+| **Ending Cash** | **90,809** | **132,793** | **192,019** |
 
-> **Validation:** Ending Cash ties to BS Cash for every year. Y1 $93,310 ✓ / Y2 $135,744 ✓ / Y3 $195,502 ✓.
+> **Validation:** Ending Cash ties to BS Cash for every year. Y1 $90,809 ✓ / Y2 $132,793 ✓ / Y3 $192,019 ✓.
 
 ### Opening Balance Sheet (at Launch — May 2026, before operations begin)
 
@@ -385,9 +387,9 @@
 
 | Assets | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
-| Cash | 93,310 | 135,744 | 195,502 |
+| Cash | 90,809 | 132,793 | 192,019 |
 | Accounts receivable (Net 30 on wholesale + B&B = 18.92% of revenue) | 2,877 | 3,395 | 4,006 |
-| Inventory (45 days × annualized COGS) | 7,504 | 8,855 | 10,448 |
+| Inventory (60 days × annualized COGS) | 10,005 | 11,806 | 13,931 |
 | Prepaid expenses | 0 | 0 | 0 |
 | Net PP&E (Gross PP&E − accumulated depreciation) | 28,100 | 23,000 | 17,900 |
 | **Total Assets** | **131,791** | **170,994** | **227,856** |
@@ -500,7 +502,7 @@
 > 🚫 Avoid: Don't make this aspirational marketing copy. Don't open with industry market sizing. Don't use "passion," "journey," or "dream."
 > 📖 Reference: We do better than Refs 1–2 by opening with the loan ask and three financial highlights.
 
-Cover (in order): (1) the company at a glance — name, location, legal structure (single-member Vermont LLC), founding date, owner; (2) the funding ask — $85K SBA microloan + $25K owner equity = $110K total; (3) the products — cold-process bar soap sold across four channels; (4) the customer — eco-conscious women aged 28–55 in Vermont and surrounding New England, plus regional gift retailers and B&Bs; (5) Sarah Keller's qualifications in two sentences; (6) the Financial Highlights table embedded as a 3-year snapshot; (7) why the lender should be confident — 27.2% margin of safety above break-even, positive net income from Year 1, ending cash growing every year ($93K → $136K → $196K).
+Cover (in order): (1) the company at a glance — name, location, legal structure (single-member Vermont LLC), founding date, owner; (2) the funding ask — $85K SBA microloan + $25K owner equity = $110K total; (3) the products — cold-process bar soap sold across four channels; (4) the customer — eco-conscious women aged 28–55 in Vermont and surrounding New England, plus regional gift retailers and B&Bs; (5) Sarah Keller's qualifications in two sentences; (6) the Financial Highlights table embedded as a 3-year snapshot; (7) why the lender should be confident — 27.2% margin of safety above break-even, positive net income from Year 1, ending cash growing every year ($91K → $133K → $192K).
 
 > 🖼️ Visual: Inline Markdown table — Financial Highlights (5 rows × 3 years) from Section 6B. Alt text: "Marigold Lane Soap Co. financial highlights showing Year 1 to Year 3 revenue, gross profit, net income, and ending cash."
 > 💡 ProTip: Include one short paragraph titled "Use of Funds" mapping the $110K — see the Use of Funds table in Section 6B.
@@ -611,9 +613,10 @@ Subsections:
 > **Year 1 volume: 14,000 bar-equivalents — 6,500 DTC online singles ($9 ASP, $58,500) + 7,500 farmers' market ($8 ASP, $60,000) = $118,500 revenue.** Cure time: 4–6 weeks before sale.
 
 ##### H3: 5.2 Gift Sets & Curated Collections (DTC Online + Holiday Retail)
-> ~120 words | Three set SKUs: 3-bar Sampler ($28 = $9.33/bar), 6-bar Wellness Box ($48 = $8.00/bar), Custom Build-Your-Own (4 bars, $35 = $8.75/bar). Packaged in branded kraft boxes with hand-tied jute ribbon.
-> **Year 1 volume: 700 sets sold (~5 bars/set average) = 3,500 bar-equivalents. Blended set price ≈ $9.00/bar-equivalent. Gift set revenue ≈ $31,500** (within the DTC online channel total of $90,000 — singles $58,500 + sets $31,500 = $90,000 ✓).
-> Q4 (Oct–Dec) accounts for ~45% of gift set revenue.
+> ~120 words | Three set SKUs, all priced at exactly **$9.00 per bar-equivalent** for math-clean channel reconciliation: **3-bar Sampler $27, 4-bar Build-Your-Own $36, 6-bar Wellness Box $54**. Packaged in branded kraft boxes with hand-tied jute ribbon.
+> **Year 1 mix: 100 × 3-bar + 200 × 4-bar + 400 × 6-bar = 700 sets / 3,500 bar-equivalents / $31,500 revenue.** Math: (100 × $27) + (200 × $36) + (400 × $54) = $2,700 + $7,200 + $21,600 = $31,500 ✓. Bar count: 300 + 800 + 2,400 = 3,500 ✓.
+> Within the DTC online channel total of $90,000 — singles 6,500u × $9 = $58,500 + sets $31,500 = $90,000 ✓.
+> Q4 (Oct–Dec) accounts for ~57% of gift set sales (Wellness Box drives Q4 — already reflected in the mix).
 
 ##### H3: 5.3 Wholesale Program (Vermont & New England Retailers)
 > ~140 words | Wholesale price: $4.50/bar (50% off $9 MSRP). Minimum opening order: $400 (88 bars). Reorder minimum: $200 (44 bars). Net 30 invoicing.
@@ -671,22 +674,33 @@ Subsections:
 > 🚫 Avoid: Don't skim the required subsections.
 
 ##### H3: 7.1 Production Process (Cold-Process Workflow)
-> ~150 words | Seven-step process: (1) Recipe verification (saponification calculator). (2) Ingredient prep — oils to 100°F, lye solution cooled to 100°F. (3) Mixing to "trace." (4) Pour into 30 lb wood molds. (5) 24-hour saponification, then unmold and cut. (6) Cure on wire racks for 4–6 weeks (humidity-controlled curing room). (7) Quality inspection, label, package.
+> ~150 words | Seven-step process: (1) Recipe verification (saponification calculator). (2) Ingredient prep — oils to 100°F, lye solution cooled to 100°F. (3) Mixing to "trace." (4) Pour into wood molds — **30-lb molds (primary in Years 1–2, ~80 sellable bars/batch) or 35-lb molds (primary in Year 3, ~93 sellable bars/batch). Both mold sizes are part of the original $14,000 startup equipment package — no new capex required for the Year 3 size transition.** (5) 24-hour saponification, then unmold and cut. (6) Cure on wire racks for 4–6 weeks (humidity-controlled curing room). (7) Quality inspection, label, package.
 
-##### H3: 7.2 Production Capacity & Batch Math (REVISED — reconciles to forecast)
-> ~140 words |
-> **Year 1 base capacity:** 7 batches/week × 80 sellable bars/batch × 50 production weeks = **28,000 sellable bars/year**.
-> **Year 1 forecast: 25,000 bar-equivalents** — leaves a **10.7% capacity buffer** for rejects, delays, or seasonal spikes.
-> Each batch: 30 lb yields ~84 raw bars after cutting and trimming; ~5% reject rate (cracks, color separation, off-scent caught during 24-hr post-pour and 4-week cure inspections) → **80 sellable bars per batch**.
-> **Year 2 (29,500 forecast):** runs 7 batches/week × 80 bars × 53 weeks (extending production into 2 weeks previously taken as downtime) = 29,680 capacity.
-> **Year 3 (34,810 forecast):** transition to 35-lb molds yielding 93 sellable bars per batch + 9 batches/week × 50 weeks = **41,850 sellable bars/year capacity** — **16.8% buffer**.
-> Capacity expansion path: same facility footprint supports through Year 3; storefront opening (Year 3 goal) is independent of production capacity.
+##### H3: 7.2 Production Capacity & Batch Math (REVISED — all years feasible, no 53-week year)
+> ~150 words | All capacity uses 50 production weeks/year (the standard year — 2 weeks reserved for downtime, holidays, equipment maintenance, and Sarah's PTO). Buffer is calculated as `(capacity − forecast) / forecast`.
+>
+> **Year 1:** 7 batches/week × 80 sellable bars/batch (30-lb molds) × 50 production weeks = **28,000 sellable bars/year capacity**. Forecast 25,000 → **12.0% buffer**.
+> Each batch: 30 lb yields 84 raw bars after cutting and trimming; 5% reject rate (cracks, color separation, off-scent caught during 24-hr post-pour and 4-week cure inspections) → **80 sellable bars per batch**.
+>
+> **Year 2:** 8 batches/week × 80 sellable bars/batch (still 30-lb molds) × 50 weeks = **32,000 sellable bars/year capacity**. Forecast 29,500 → **8.5% buffer**. Adding the 8th weekly batch is enabled by extending Wednesday's production day by 1.5 hours (see Ch 7.4).
+>
+> **Year 3:** 9 batches/week × 93 sellable bars/batch (35-lb molds) × 50 weeks = **41,850 sellable bars/year capacity**. Forecast 34,810 → **20.2% buffer**. Adding the 9th weekly batch is enabled by adding a Thursday morning production block; transitioning to 35-lb molds (already in startup equipment, see Ch 7.3) raises per-batch yield from 80 to 93 sellable bars.
+>
+> Capacity expansion path: same facility footprint supports through Year 3; **no new capex** in any of the three years for the capacity ramp; storefront opening (Year 3 goal) is independent of production capacity.
 
 ##### H3: 7.3 Facility & Equipment
-> ~80 words | 1,200 sq ft commercial kitchen lease at 47 Mill Street. Equipment: $14,000 mixers/molds/racks/scales/blender/cutter; $5,000 leasehold improvements; $4,200 furniture/fixtures. Curing room (~200 sq ft) with humidity control. Dedicated packaging station near loading dock.
+> ~80 words | 1,200 sq ft commercial kitchen lease at 47 Mill Street. Equipment: $14,000 (mixers, **30-lb and 35-lb wood molds — multiple of each size, both available from launch**, curing racks, scales, immersion blender, electric cutter); $5,000 leasehold improvements; $4,200 furniture/fixtures. Curing room (~200 sq ft) with humidity control. Dedicated packaging station near loading dock.
 
 ##### H3: 7.4 Operating Days & Hours (REQUIRED)
-> ~80 words | Production: Monday–Wednesday, 9:00 AM – 4:00 PM (3 days × ~2.3 batches/day = 7 batches/week). Curing: continuous, no labor. Online order fulfillment & wholesale packing: Thursday, 9:00 AM – 3:00 PM. Friday: administrative, wholesale outreach, social content, accounting (Sarah only). Saturday: Burlington Farmers' Market (May–October), 8:00 AM – 1:00 PM. Closed Sundays.
+> ~120 words | Production schedule scales with the year's batch count. Active labor: ~2.5 hours per batch (mixing, pouring, cleaning); curing is passive overnight + 4–6 weeks unattended.
+>
+> **Year 1 (7 batches/week):** Production Monday–Wednesday, 9:00 AM – 4:00 PM (~2.3 batches/day). Online order fulfillment & wholesale packing: Thursday, 9:00 AM – 3:00 PM. Friday: administrative work (Sarah only). Saturday: Burlington Farmers' Market (May–October), 8:00 AM – 1:00 PM.
+>
+> **Year 2 (8 batches/week):** Same Mon–Wed structure with **Wednesday extended to 5:30 PM** (+1.5 hrs) to accommodate the 8th batch. All other days unchanged.
+>
+> **Year 3 (9 batches/week):** Mon–Wed 9 AM – 4 PM, **plus Thursday morning production block 9:00 AM – 12:30 PM (+3.5 hrs, 1 batch using a 35-lb mold)**. Thursday afternoon (12:30 – 3:00 PM) shifts to fulfillment + packing. Friday admin and Saturday market unchanged.
+>
+> Closed Sundays in all years.
 
 ##### H3: 7.5 Order Scheduling & Booking Logic (REQUIRED)
 > ~110 words | DTC online ships 2× per week (Tue + Thu). Order cutoff: 11:59 PM Mon for Tue ship; 11:59 PM Wed for Thu ship. Wholesale: opening order $400 minimum (88 bars), reorder $200 minimum (44 bars), 2-week lead time, monthly invoicing Net 30 via QuickBooks. B&B custom: 80-bar minimum run, 4-week lead time (label approval week 1, production weeks 2–3, ship week 4), 50% deposit + balance Net 30. Farmers' market sales: cash, card (Square), or Venmo — no orders held.
@@ -694,10 +708,13 @@ Subsections:
 ##### H3: 7.6 Daily / Weekly Operational Workflow (REQUIRED)
 > ~150 words | Walk through a typical Tuesday production day. 9:00 AM open, review batch schedule. 9:15 AM recipe verification + ingredient weigh-out (30 min). 9:45 AM heat oils, prep lye, cool to 100°F (35 min, parallel work). 10:20 AM mix, blend to trace, scent and color, pour first batch (40 min). 11:00 AM clean, start second batch. 12:30 PM lunch. 1:00 PM pour third batch; PT assistant unmolds and cuts Friday's batches in parallel. 2:30 PM QC on cut bars, transfer to curing rack. 3:15 PM clean equipment, restock, log batch numbers/weights. 3:45 PM review tomorrow's schedule. 4:00 PM close. Monday and Wednesday follow the same pattern with different scents/molds (~2.3 batches/day average → 7 batches/week).
 
-##### H3: 7.7 Staffing Schedule (REQUIRED — RECONCILED)
-> ~110 words |
-> **Sarah Keller (Owner-Operator)** — Monday–Friday, ~40+ hours, full responsibility for batch design, quality, sales, and finance. **Year 1 owner draw: $42,000** (Y2: $48,000; Y3: $54,000). No W-2 salary — single-member LLC takes member distributions.
-> **Production Assistant (PT)** — Monday–Wednesday 10:00 AM – 3:00 PM (5 hrs × 3 = 15 hrs production help) + Thursday 10:00 AM – 3:00 PM (5 hrs packing & shipping) = **20 hrs/week × 50 production weeks @ $18.50/hr = $18,500/year** (matches the 10% direct-labor assumption in the financial model). Year 2: ~24 hrs/week ($21,830). Year 3: ~28 hrs/week ($25,759).
+##### H3: 7.7 Staffing Schedule (REQUIRED — scales with production schedule)
+> ~140 words |
+> **Sarah Keller (Owner-Operator)** — Monday–Friday + Saturday market, ~40+ hours all years. Full responsibility for batch design, quality, sales, finance. **Year 1 owner draw: $42,000** (Y2: $48,000; Y3: $54,000). No W-2 salary — single-member LLC takes member distributions.
+> **Production Assistant (PT)** — hours scale with year's production schedule (Ch 7.4). All paid at $18.50/hr.
+> - **Year 1: 20 hrs/week** = Mon–Wed 10:00 AM – 3:00 PM (5 hrs × 3 = 15 hrs production help) + Thu 10:00 AM – 3:00 PM (5 hrs packing & shipping). 50 weeks × 20 hrs × $18.50 = **$18,500** (= 10% of Y1 revenue, matches direct-labor assumption).
+> - **Year 2: 24 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (6 × 3 = 18 hrs production) + Thu 10:00 AM – 4:00 PM (6 hrs packing). Wednesday extension adds late-afternoon batch help. 50 wks × 24 hrs × $18.50 = **$22,200** (≈ 10% of Y2 revenue $218.3K = $21,830 — within rounding tolerance).
+> - **Year 3: 28 hrs/week** = Mon–Wed 10:00 AM – 4:00 PM (18 hrs) + **Thu 9:00 AM – 3:00 PM (6 hrs — half production help on the Thu morning batch, half packing)** + Fri 10:00 AM – 2:00 PM (4 hrs admin/order processing). 50 wks × 28 hrs × $18.50 = **$25,900** (≈ 10% of Y3 revenue $257.6K = $25,759 — within rounding tolerance).
 > Hire #2 (Year 3 contingency) only if volume exceeds plan by 20%+.
 
 ##### H3: 7.8 Suppliers & Sourcing
@@ -756,13 +773,13 @@ Subsections:
 > ~150 words + 1 table | Embed verbatim. Commentary: (1) Revenue $185K → $218K → $258K. (2) Gross margin holds at 67.1%. (3) EBITDA grows $34,535 → $56,049 → $73,546. (4) Net Income (pre-tax): **$22,426 → $44,439 → $62,478**. (5) One-time startup expenses ($8,000) hit Year 1 only. (6) Owner draw appears as an OpEx line — the disregarded-entity tax treatment is the reason there is no payroll-tax line on the draw.
 
 ##### H3: 9.5 Cash Flow Statement
-> ~150 words + 1 table | Embed verbatim. Commentary: (1) Operating cash flow grows $31,348 → $48,570 → $66,437. (2) Working capital changes are modest because only ~19% of revenue (wholesale + B&B) carries Net 30 terms — DTC and farmers' market are immediate-pay. (3) No new capex in the 3-year forecast. (4) Loan principal repayment grows $5,638 → $6,136 → $6,679 (amortization shifts toward principal each year). (5) Ending Cash: **$93,310 → $135,744 → $195,502**.
+> ~150 words + 1 table | Embed verbatim. Commentary: (1) Operating cash flow grows $28,847 → $48,120 → $65,905. (2) Working capital changes — AR builds slowly because only ~19% of revenue (wholesale + B&B) carries Net 30 terms; inventory builds faster because the 60-day raw-materials + cure-cycle assumption ties up cash as production scales. (3) No new capex in the 3-year forecast — Year 3 35-lb mold transition uses molds already in the original $14,000 startup equipment package. (4) Loan principal repayment grows $5,638 → $6,136 → $6,679 (amortization shifts toward principal each year). (5) Ending Cash: **$90,809 → $132,793 → $192,019**.
 
 ##### H3: 9.6 Opening Balance Sheet
 > ~80 words + 1 table | Embed verbatim. Opening cash $67,600 = $59,600 working capital reserve + $8,000 cash float for one-time launch expenses. Total assets $110,000 = total liabilities + equity ($110,000) — balanced.
 
 ##### H3: 9.7 Balance Sheets (Years 1–3)
-> ~100 words + 1 table | Embed verbatim. Commentary: (1) Cash grows every year. (2) Loan balance declines $79,362 → $66,547. (3) Retained earnings build cumulatively: $22,426 → $66,865 → $129,343. (4) Total assets grow $131,791 → $170,994 → $227,856. (5) Owner's equity goes from $47,426 to $154,343 — the business builds real equity over three years.
+> ~100 words + 1 table | Embed verbatim. Commentary: (1) Cash grows every year ($90,809 → $132,793 → $192,019). (2) Loan balance declines $79,362 → $66,547. (3) Retained earnings build cumulatively: $22,426 → $66,865 → $129,343. (4) Total assets grow $131,791 → $170,994 → $227,856. (5) Owner's equity goes from $47,426 to $154,343 — the business builds real equity over three years.
 
 ##### H3: 9.8 Break-Even Analysis
 > ~110 words + 1 table | Embed verbatim. Contribution margin per bar = $4.965 (67.1%). Annual fixed costs $90,430. **Break-even: 18,212 units / $134,769 / 1,518 units per month.** Year 1 forecast (25,000 units / $185,000) exceeds break-even by 6,788 units / $50,231. **Margin of safety using the standard finance formula `(Sales − BE Sales) / Sales = 27.2%`.** Marigold Lane crosses break-even in approximately month 9–10 of Year 1.
@@ -771,7 +788,7 @@ Subsections:
 > ~100 words | Reiterate funding: $85,000 SBA 7(a) microloan, 10-year term, 8.5% fixed APR, $1,053.88/month. **Use of Loan Proceeds (the loan portion of the $110K total):** $14,000 equipment + $8,000 vehicle + $5,000 leasehold improvements + $4,200 furniture + $2,000 computer + $6,800 inventory + $2,400 insurance prepay + $8,000 one-time launch expenses + $34,600 working capital = $85,000. Sarah's $25,000 owner equity supplies the remainder of the working capital reserve ($25,000), bringing total opening cash to $59,600 + $8,000 float = $67,600. Reference [SBA 7(a) Loan Program](https://www.sba.gov/funding-programs/loans/7a-loans).
 
 > 🖼️ Visual: 3-year revenue / GP / NI stacked bar chart.
-> 💡 ProTip: Bankers cross-check that Cash Flow ending cash = Balance Sheet cash for every year. Marigold Lane's tables are pre-validated — Y1 $93,310 ✓ / Y2 $135,744 ✓ / Y3 $195,502 ✓.
+> 💡 ProTip: Bankers cross-check that Cash Flow ending cash = Balance Sheet cash for every year. Marigold Lane's tables are pre-validated — Y1 $90,809 ✓ / Y2 $132,793 ✓ / Y3 $192,019 ✓.
 
 ---
 
@@ -838,7 +855,7 @@ Subsections:
 - **Single-member LLC tax treatment done correctly.** Owner takes member draws (not W-2 salary). No employer-side payroll tax on the draw. Self-employment tax noted as a personal-1040 obligation, not a business expense. Most published sample plans get this wrong.
 - **A standalone Regulatory & Compliance chapter.** FDA, CPSC, true-soap exemption (21 CFR 701.20), Vermont state, Prop 65, insurance — all covered.
 - **Channel-by-channel revenue model with reconciled volumes.** Four channels with explicit unit volumes and prices that sum exactly to 25,000 units / $185,000. Wholesale-margin compression is built into the blended ASP and gross margin.
-- **A real cure-cycle in the operations plan.** The 4–6 week cure cycle drives the 45-day inventory assumption, the production capacity math (28,000 base bars/year capacity, 25,000 forecast), and the cash flow timing.
+- **A real cure-cycle in the operations plan.** The 4–6 week cure cycle drives the **60-day inventory assumption** (cure cycle + 18–32 days raw-materials buffer), the production capacity math that scales by year (Y1 7 batches/wk × 80 = 28,000 / Y2 8 batches/wk × 80 = 32,000 / Y3 9 batches/wk × 93 = 41,850), and the cash flow timing.
 - **Standard finance formula for margin of safety.** `(Sales − BE Sales) / Sales = 27.2%`, cross-checked against the unit-based formula. No non-standard KPI definitions.
 
 ---
@@ -858,7 +875,23 @@ unlock, unleash, harness, leverage (verb), elevate, delve, dive into, deep dive,
 
 ## Revision History
 
-**v2 — 2026-05-06.** Reviewer audit identified 13 issues across the financial model, channel mix, production capacity, account counts, owner-compensation tax treatment, and KPI formulas. All 13 issues fixed in this revision. Specific changes:
+**v3 — 2026-05-06 (second audit).** Second-round reviewer audit identified 9 additional issues. All 9 fixed:
+
+| # | Issue | Fix |
+|---|-------|-----|
+| 1 | Y2 capacity used 53 weeks (mathematically impossible) | Y2 now 8 batches/week × 80 sellable bars × 50 production weeks = **32,000 capacity** (8.5% buffer over forecast 29,500). Adding the 8th batch is enabled by extending Wednesday's production day by 1.5 hrs |
+| 2 | Y1 capacity buffer claimed 10.7% (used wrong formula) | Restated as **12.0%** using consistent formula `(capacity − forecast) / forecast`: (28,000 − 25,000) / 25,000 = 12.0% |
+| 3 | Y3 capacity buffer claimed 16.8% | Restated as **20.2%**: (41,850 − 34,810) / 34,810 = 20.2% |
+| 4 | Ch 7.4 (Operating Days) didn't address Y3's 9 batches/week | Operating Hours section rewritten to scale: Y1 Mon–Wed 9–4; Y2 same with Wed extended to 5:30; Y3 Mon–Wed 9–4 + **Thursday morning production block 9:00–12:30** for the 9th batch |
+| 5 | Y3 35-lb mold transition had no budget | Resolved by **including both 30-lb and 35-lb wood molds (multiple of each size) in the original $14,000 startup equipment**. Stated explicitly in Startup Costs, Ch 7.1, and Ch 7.3. No new capex required for the Year 3 size transition |
+| 6 | Ch 7.1 (Production Process) said "30 lb wood molds" — contradicted Y3 transition | Updated to "30-lb molds (primary in Years 1–2, ~80 sellable bars/batch) or 35-lb molds (primary in Year 3, ~93 sellable bars/batch). Both available from launch" |
+| 7 | Gift set ASP math was tight ($28/$48/$35 didn't reconcile to $9/bar avg) | **Repriced gift sets to $9/bar exact**: 3-bar Sampler $27, 4-bar Custom $36, 6-bar Wellness Box $54. Mix locked to 100/200/400 sets = 700 sets / 3,500 bar-equivalents / $31,500 — math closes exactly |
+| 8 | Marketing budget grew 22% Y1→Y2 vs revenue 18% — unexplained | Added explicit explanation in P&L footnote: Y2's $11K marketing funds expanded Q4 paid push (+$1K) and one wholesale trade-show appearance (+$0.8K) to support the 6→10 retailer ramp. Y3 growth tracks revenue at 18% |
+| 9 | 45-day inventory was tight against the 28–42 day cure cycle | Increased to **60 days × annualized total COGS** — covers cure cycle plus 18–32 days raw-materials buffer. At the conservative end of the 60–75 day band lenders typically expect for cure-dependent products. Rebuilt Y1–Y3 inventory, AP, and cash flow tables. Total Assets unchanged (cash decrease offsets inventory increase); Net Income unchanged |
+
+**Cascade impact of fix 9 (60-day inventory):** Y1 inventory $7,504 → $10,005 (+$2,501); Y2 $8,855 → $11,806 (+$2,951); Y3 $10,448 → $13,931 (+$3,483). Ending cash decreases by the same amount each year: Y1 $93,310 → **$90,809**; Y2 $135,744 → **$132,793**; Y3 $195,502 → **$192,019**. Net Income, EBITDA, and BS Total Assets unchanged. All BS years still balance ✓. Cash Flow Ending Cash = BS Cash for every year ✓.
+
+**v2 — 2026-05-06 (first audit).** First-round reviewer audit identified 13 issues across the financial model, channel mix, production capacity, account counts, owner-compensation tax treatment, and KPI formulas. All 13 issues fixed:
 
 | # | Issue | Fix |
 |---|-------|-----|

@@ -92,17 +92,19 @@
 
 > Two articles serve as quality benchmarks. We cover what they cover, then improve on structure, depth, and engagement with objections they avoid.
 
-### Reference 1: LivePlan — "Reasons Why You Need a Business Plan"
+### Reference 1: LivePlan — "15 Reasons Why You Need a Business Plan in 2026"
 
 **Note:** liveplan.com is in `$COMPETITOR_DOMAINS`. The article is a structural reference only — **never link to it from our article**. The URL is recorded here for the writer's reference but must not appear in the published post or in any anchor text.
 
 | Field | Value |
 |-------|-------|
 | URL (do NOT link from article) | https://www.liveplan.com/blog/planning/reasons-why-you-need-a-business-plan |
-| Word Count | ~1,800 words |
-| Strengths | Comprehensive — covers most reasons a beginner would search for. Encouraging tone. Familiar framing for a search audience. |
-| Weaknesses | Flat 15-reason list — no organization or hierarchy, so all reasons read as equally important when they aren't. Includes filler reasons ("you'll sleep better", "it's easier than you think") that dilute the strong ones. Cites no original research — references its own prior content instead. Vague on operational follow-through (says "review monthly" without saying what to actually check). Ducks the lean-startup objection completely. |
-| Tone Notes | Warm, encouraging, second-person ("you/your"), reassuring rather than urgent. |
+| Author / Updated | Noah Parsons (COO, Palo Alto Software / LivePlan); updated 2026-02-17 |
+| Word Count | ~2,000–2,200 words ("9 min read") |
+| Structure | Intro (road-trip metaphor) → "What is the purpose of a business plan?" → "15 reasons" (flat numbered list) → "Why is a business plan important? Because it sets you up for success" closer → mini-FAQ (3 Qs: what is a plan / why plan / what if no plan). |
+| Strengths | Comprehensive — covers nearly every reason a beginner would search for. Cites three real studies (HBR 16% viability finding; *Journal of Management Studies* "30% faster growth"; *Small Business Economics* "152% more likely to start"). Acknowledges one-page / lean planning briefly in reason #3. Encouraging tone, second-person, accessible analogies (road trip / map). Mini-FAQ at the bottom is well-targeted. |
+| Weaknesses | Flat 15-reason list — all reasons read as equally weighted when they're not. Reasons #13 ("it's easier than you think") and #14 ("you'll sleep better") are reassurances, not reasons — they dilute the strong points. Citations are clustered in reason #15 ("research shows business plans work") rather than woven into the specific reasons they support, so the evidence reads like an afterthought. The 30%-faster and 152%-more-likely stats are real but loosely framed (no link to the study, no scope conditions). Doesn't engage the "just iterate" lean-startup objection directly — only mentions one-page plans as an alternative format. Says "review regularly, ideally monthly" but doesn't operationalize what to check. |
+| Tone Notes | Warm, encouraging, second-person ("you/your"), reassuring rather than urgent. Light persuasion ("if you skip writing a business plan, you're making a big mistake") without scolding. |
 
 ### Reference 2: [SBA — 5 Reasons You Need a Business Plan](https://www.sba.gov/blog/5-reasons-you-need-business-plan)
 
@@ -118,15 +120,17 @@
 **Borrow:**
 - SBA's encouraging, "you can do this" voice — match the supportive tone of both references. Do NOT shift to a contrarian or skeptical voice.
 - LivePlan's coverage breadth — make sure no reason a reader might search for is missing.
+- LivePlan's mini-FAQ at the end (what is a plan / why plan / what if no plan) — we have something similar in our FAQ section, keep that pattern.
 - SBA's clean CTA structure — point to next-step resources at the end.
 - SBA's openness about "lean vs. traditional" — extend it into a real engagement with the objection.
 
 **Avoid:**
 - Flat numbered lists that treat all reasons as equal weight — replace with stage-based grouping.
-- Filler reasons like "you'll sleep better" or "it's easier than you think" — these are reassurances, not reasons. Cut.
-- Citing the references' own prior content as evidence — go to the original studies (HBR, *Strategic Management Journal*, SBA Office of Advocacy, CB Insights).
+- Filler reasons like "you'll sleep better" (LivePlan #14) or "it's easier than you think" (LivePlan #13) — these are reassurances, not reasons. Cut.
+- Bundling all the research into one "research shows it works" reason at the end (LivePlan #15) — weave each citation inline at the specific reason it supports.
 - Vague advice like "review your plan monthly" — operationalize it: what cadence, what to check, what to update.
-- Ignoring the lean-startup objection — engage with it briefly and respectfully.
+- Treating "use a one-page plan" as the entire engagement with lean startup — go further and address the underlying "just iterate" objection respectfully.
+- Repeating LivePlan's road-trip / map analogy — it's overused in this category. Open with the HBR stat instead.
 
 ---
 
@@ -472,7 +476,7 @@ Walk through how Upmetrics reduces the most common friction points: the financia
 - **Stage-based grouping over flat listicle.** Neither reference organizes by stage — both treat all reasons as equal. Stage grouping lets the reader skip to what's theirs, which is what readers actually want.
 - **Engages the lean-startup objection openly.** SBA gestures at it; LivePlan ignores it. We give it a real H2 — concede where lean is right, draw the line where it isn't.
 - **Operationalizes "review your plan."** Both references say this and neither explains the cadence. We provide a 4-row cadence table the writer can put inline.
-- **Cites original studies, not competitor articles.** HBR (Greene & Hopp, 2017 + 2018), *Strategic Management Journal* (Delmar & Shane, 2003), SBA Office of Advocacy, CB Insights — none of which the references cite directly.
+- **Citations woven inline, not bundled at the end.** LivePlan does cite three studies (HBR 16%; *Journal of Management Studies* 30% faster; *Small Business Economics* 152% more likely to start), but they're clustered into a single "research shows it works" reason near the end. We cite original sources *inline at the point each claim is made* — HBR (Greene & Hopp, 2017) at Reason 1, the 2018 HBR follow-up at the cadence section, *Strategic Management Journal* (Delmar & Shane, 2003 — a different journal than LivePlan's "Journal of Management Studies") at Reason 2, SBA Office of Advocacy survival rates in the intro, CB Insights failure data at the failure-mode reasons.
 
 ---
 ---

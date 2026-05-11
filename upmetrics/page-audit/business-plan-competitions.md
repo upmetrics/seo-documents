@@ -1,360 +1,380 @@
 # SEO Page Audit — Business Plan Competitions
 
-**Target page:** [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions)
-**Primary keyword:** business plan competition
-**Audit date:** 2026-05-08
-**Geography:** United States (US)
-**GSC data range:** 2025-11-08 → 2026-05-05 (6 months)
+**Page:** [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions)
+**Primary Keyword:** business plan competition
+**Audit Date:** 2026-05-11
+**Brand:** Upmetrics (upmetrics.co)
+**Geography:** United States
 
 ---
 
-## 1. Executive Dashboard
+## 1. EXECUTIVE DASHBOARD
 
 ### Page Snapshot
 
-| Field | Value |
-|---|---|
-| Title tag | "The Top 20 Business Plan Competitions to get funding in 2026" (60 chars) |
-| Meta description | Present (149 chars) |
-| H1 | "The Best 20 Business Plan Competitions to Get Funding in (2026)" |
-| Word count | 2,212 (article body) |
-| Author | Upmetrics (no author bio, no photo, no Person schema with bio) |
-| Published | 2022-05-16 · Updated 2026-05-06 |
-| Schema | Article, WebPage, FAQPage, BreadcrumbList, Organization, Person, ImageObject, WebSite |
-| Canonical | Self-referencing ✅ |
-| Indexability | Indexable ✅ (no noindex) |
-| Internal links | 68 |
-| External links | 25 |
-| Downloadable templates | 4 in-content links ✅ |
-| CTA blocks | 2 |
-| Live backlinks | 1 (1 referring domain) — historical: 16 from 12 RDs (lost 11 RDs) |
+| Metric | Value |
+|--------|-------|
+| URL | [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) |
+| Primary Keyword | business plan competition |
+| Primary KW — US Search Volume | 150/mo (Ahrefs) |
+| Primary KW — Current Position | 20.5 avg (GSC, 6 mo, 182 impr, 1 click, 0.5% CTR) |
+| Primary KW — Keyword Difficulty | 19 (low) |
+| Title Tag | "The Top 20 Business Plan Competitions to get funding in 2026" (60 chars) |
+| OG Title | ⚠️ "The Best 20 Business Plan Competitions to Get Funding in ([currentyear])" — unresolved Yoast `[currentyear]` shortcode in `og:title` |
+| Meta Description | "Looking to secure funding for your business or validate your idea? Check out the top 20 business plan competitions of 2026 and learn how to win them." (149 chars) |
+| H1 | The Best 20 Business Plan Competitions to Get Funding in (2026) |
+| Word Count (article body only) | 2,212 (source: `.blog-content-area`) |
+| Internal Links | 68 in-content |
+| External Links | 25 (mostly to competition organizers — appropriate) |
+| Content Images | 1 image, 1 with alt — extremely thin for a 20-item listicle |
+| Schema Markup | BreadcrumbList ✅, FAQPage ✅, but **no Article/BlogPosting schema** ❌ |
+| Canonical Tag | [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) (self-referencing ✅) |
+| Page Type | Listicle / blog article |
+| Content Freshness | Updated May 6, 2026 ✅ (visible + meta) |
+| Author Attribution | Byline "Upmetrics" (generic brand byline — no human author, no bio, no photo) |
+| Downloadable Templates/Freebies | 4 in-content links to Upmetrics business plan template ✅ |
+| Backlinks | 1 live backlink from 1 referring domain (Ahrefs) — very low |
+| Total GSC Queries (6 mo) | 272 queries, 4 clicks, 3,950 impressions |
 
 ### Top 3 Problems
 
-1. **Severe under-performance for a low-difficulty target.** The primary keyword "business plan competition" has only KD 19 and 150 vol/mo — yet the target page sits at average position 20.3 with just 1 click and 182 impressions over 6 months. SERP intent is clear (8/10 results are individual competition homepages, plus 1 list-style guide at #4 — Growthink). Upmetrics is the same content type as Growthink and should be sitting alongside it on page 1 — but isn't. This is a clear competitive deficit, not an intent mismatch.
-2. **Backlink profile is depleted.** Only 1 live referring domain currently — the page has lost 11 of 12 historical RDs. This single signal explains most of the position-20 ceiling. Competitor Growthink ranks at #4 with only 5 RDs (DR 71), so closing even part of this gap should move the needle quickly.
-3. **Content depth is roughly half of the closest intent-match competitor.** Target = 2,212 words; Growthink (the only list-format guide on page 1) = 4,004 words and uses a richer per-competition template (Eligibility / Where Held / What Can You Win — with longer paragraphs). The target uses the same three sub-headings but with thinner detail per item, weaker external citations to the official competition pages, and zero per-competition statistics on prize amounts in a scannable table format.
+1. **Severe content depth deficit vs. only listicle competitor.** The page is 2,212 words; Growthink — the only listicle in the SERP top 10 (pos 4) — is 4,004 words and includes prize amounts, deadlines, and 19 specific dollar/data points. Our 20 competitions are described in 1-3 short lines each. Google's lone "best of" listicle slot is currently rewarded to depth, not brevity.
+2. **Cannibalization is bleeding away the few high-ranking impressions.** For the primary keyword, two OTHER Upmetrics pages also rank: [how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) at avg pos 3.5 and [business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) at avg pos 4 — both vastly outrank the target page (pos 20.5). Internal authority is fragmented across 3 URLs for the same query.
+3. **Almost zero backlink authority + broken `[currentyear]` token in `og:title`.** Only 1 live referring domain (Ahrefs) and the `og:title` exposes a literal `[currentyear]` Yoast shortcode placeholder — this likely surfaces in social-card previews and is a visible production bug.
 
 ### Traffic Opportunity
 
-The target page captured **3,960 impressions and 4 clicks (CTR 0.10%)** over 6 months. Modeling a realistic outcome: moving the primary keyword from pos 20.3 → pos 5 (Growthink-comparable) on a 150-vol/mo keyword adds ~7 clicks/mo. The bigger opportunity is the long tail — 272 queries in GSC sit at avg positions 30-70. A reasonable post-update target: **150-300 monthly clicks** within 6 months, vs the current ~1/mo. The page is undervalued, not unfixable.
+> Primary KW: 150 vol, KD 19. Page already gets 182 impressions/mo at avg pos 20.5 with 0.5% CTR — moving into the top 5 (single listicle slot Google is willing to give) realistically delivers 20-40 clicks/mo on the head term alone. Including the 270+ long-tail variants (small business competition, business idea competition, startup competitions, etc.) currently impression-only, full top-10 visibility could plausibly drive 200-400 clicks/mo. Biggest blocker is content depth + internal cannibalization, not external competition (KD=19).
 
 ---
 
-## 2. Master Action Table (SEO Actions)
+## 2. MASTER ACTION TABLE
 
-Priority-sorted. Content actions live in the Content Update Brief (`.docx`) — only SEO/technical/link/backlink actions appear here.
+| # | Priority | Category | Action | Assignee | Details | Section Ref |
+|---|----------|----------|--------|----------|---------|-------------|
+| 1 | P1 | Cannibalization | Resolve 3-page cannibalization for "business plan competition" | SEO + Content | Decide canonical winner. Recommended: keep this page as the listicle, internally link FROM [how-to-write-the-competition-section](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) and [business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) TO this page using anchor "business plan competitions" — DO NOT redirect (the two competing pages each rank for their own intents). Also de-target the bare term "business plan competition" from those two pages (remove the phrase from their title/H1/intro). | §3, §7 |
+| 2 | P1 | Meta | Rewrite title tag for CTR + capitalization consistency | Dev/SEO | Copy-paste below in "Title & Meta Copy" block | §5 |
+| 3 | P1 | Meta | Fix `og:title` — unresolved `[currentyear]` Yoast shortcode | Dev | Current `og:title` = "The Best 20 Business Plan Competitions to Get Funding in ([currentyear])". The Yoast `%%currentyear%%` token is not being rendered server-side. Inspect Yoast meta config or theme template — replace placeholder with `2026` or fix the shortcode rendering. | §5 |
+| 4 | P1 | Schema | Add `Article` (or `BlogPosting`) schema with author, publisher, datePublished, dateModified, image, headline | Dev | Page has BreadcrumbList + FAQPage but no top-level Article/BlogPosting. Use Article schema with `author.@type=Person` + a real author bio page (see §8). | §5 |
+| 5 | P1 | Content | Major content update — see Update Brief | Writer | →  Content Update Brief (.docx) covers content depth additions, EDITs, and the per-competition data table (deadline, prize, eligibility, year founded). | §6 + Update Brief |
+| 6 | P2 | Schema | Add `ItemList` schema wrapping the 20 competitions | Dev | Helps Google understand this is a ranked list — supports rich result eligibility for "best of" listicles. | §5 |
+| 7 | P2 | E-E-A-T | Replace generic "Upmetrics" byline with named human author + bio + photo | SEO + Content | Currently `author=Upmetrics`, no bio, no photo. Growthink and Upmetrics' own competing high-school-competitions page (authored by Vinay Kevadia) both signal weak/named authorship. Pick a named author with funding/startup experience; add 2-3 line bio + headshot. | §8 |
+| 8 | P2 | Internal Link | Add internal links FROM 3 specific Upmetrics pages TO target | SEO Team | See §7B for the 3 verified candidate source pages with exact anchor recommendations. | §7B |
+| 9 | P2 | Content Freshness | Verify every competition's 2026 deadline + prize amount and stamp the page with "Last verified [date]" | Writer + SEO | Several competitions on the page (e.g., 13th IOT/WT World Cup, U.Pitch) need year-specific deadline verification. | §6 / Update Brief |
+| 10 | P3 | Backlinks | Build digital-PR links targeting this URL | Link Builder | Only 1 live referring domain. Pitch to startup-publication roundups ("best startup competitions"), university entrepreneurship-center blog rolls, and HARO/SourceBottle queries about "best business plan competitions". Realistic 6-mo target: 8-15 new referring domains. | §7E |
+| 11 | P3 | External Link | Audit & verify all 25 external competition URLs (some pages on the list — e.g., HeroX IOT/WT World Cup — may be defunct/redirected) | Writer + Dev | Spot-check each linked competition page; replace broken links with the closest current equivalent or remove the entry. | §7D |
+| 12 | P3 | Internal Link | Audit the 68 in-content internal links and consolidate template/CTA links | SEO | 4 separate links to `/download/business-plan-template` within content — verify this is intentional vs. dilution. | §7A |
 
-| # | Priority | Action | Why (data) | Section ref |
-|---|---|---|---|---|
-| 1 | P1 | Rewrite title tag (see Title & Meta Copy block below) | Current title hits 60 chars but reads as a year-stamped listicle ("…in 2026"); doesn't include "best" or signal authority. SERP top results lead with "Best", "Largest", or org/competition names. | §2 Copy block |
-| 2 | P1 | Build a backlink reclamation list and outreach for at least 5 new referring domains | Only 1 live RD vs 11 lost historically. Competitor Growthink ranks #4 with 5 RDs and DR 71. RD growth is the highest-leverage lever. | §7E |
-| 3 | P1 | Resolve the `[currentyear]` placeholder leaking into og:title and twitter:title | `og:title` = "The Best 20 Business Plan Competitions to Get Funding in ([currentyear])" — `[currentyear]` is unrendered shortcode. Looks broken in social previews. | §5 |
-| 4 | P1 | Add author Person schema with `description` (bio) and `image` (photo) for "Upmetrics" or a named expert | `verified-facts.json` confirms `author_has_bio=false`, `author_has_photo=false`. SERP top 4 ranking pages all sit on .edu / branded competition orgs with strong entity signals. E-E-A-T gap is real. | §8 |
-| 5 | P1 | Rewrite meta description to lead with what the reader gets (cash prizes + curated list) instead of conditional language | Current: "Looking to secure funding for your business or validate your idea?" — opens with a question, not a value prop. Pos 20.3 + 0.10% CTR suggests the snippet isn't earning the click. | §2 Copy block |
-| 6 | P2 | Resolve cannibalization: target page at pos 60.2 for "business competition examples" while [/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) ranks at pos 7.6 for the same query | GSC cannibalization check returned 4 Upmetrics URLs for "business competition examples". The high-school-students sister page also ranks at pos 4 for "business plan competition". Decide a single canonical target per query. | §3 cannibalization |
-| 7 | P2 | Add internal links FROM 4 sister pages TO the target page (anchor: "business plan competition") | Target has only 1 live RD; internal PageRank flow from existing pages is the cheapest authority lever. Source pages already rank for related queries (cannibalization data confirms they exist). | §7B |
-| 8 | P2 | Add internal links FROM the target page to 3-5 underlinked Upmetrics resources currently in `internalLinks` (the page already has 68 internal links — most going to nav/footer; add 3-5 in-content contextual links to high-relevance bottom-of-funnel pages) | Distribute equity to template/sample-business-plans pages that already get traffic, instead of nav links. | §7A |
-| 9 | P2 | Convert FAQ markup into a per-competition Q&A pattern (Eligibility / Location / Rewards remain — but add "Application deadline" and "Past winners" as schema-eligible Q&A inside each competition block) | Existing FAQPage schema only covers 5 generic questions at the bottom. Per-competition schema increases SERP real estate and supports AI Overviews (which currently sit at pos 3 on this query). | §5 |
-| 10 | P3 | Audit 25 external links: confirm each official competition link (rbpc.rice.edu, wsu, etc.) is live, opens in new tab, and uses `rel="noopener nofollow"` if the destination is sponsored or commercial | Generic external-link hygiene — Section 7D shows several outbound link risks worth confirming manually. | §7D |
-| 11 | P3 | Add `last reviewed` byline near the H1 ("Reviewed by [name], [date]") to reinforce freshness signal | `dateModified` in schema = 2026-05-06 (current). Surface this visibly. | §8 |
-| 12 | P3 | Replace the unbranded WordPress placeholder image (`business-plan-competitions.webp`, 751×451) with a branded infographic showing prize-pool ranges across the 20 competitions | Target has only 1 content image (vs Growthink's 5 visuals). Visuals correlate with engagement and dwell time. | §6 |
+**Title & Meta Copy (ready to copy-paste):**
 
-### Title & Meta Copy block (authoritative source — used by Phase 3)
+```
+Title Tag (NEW): 20 Best Business Plan Competitions to Win in 2026 (with Prizes) [56 chars]
+Title Tag (OLD): The Top 20 Business Plan Competitions to get funding in 2026 [60 chars]
 
-**Title tag — current:**
-> "The Top 20 Business Plan Competitions to get funding in 2026" (60 chars)
+Meta Description (NEW): Compare 20 of the top business plan competitions in 2026 — prizes, eligibility, deadlines, and how to win. Includes student, undergrad, and open-stage contests. [158 chars]
+Meta Description (OLD): Looking to secure funding for your business or validate your idea? Check out the top 20 business plan competitions of 2026 and learn how to win them. [149 chars]
 
-**Title tag — recommended:**
-> "20 Best Business Plan Competitions for 2026 (With Prize $$)" (59 chars)
+og:title (FIX): replace literal "[currentyear]" with the actual year — currently the og:title reads "...Funding in ([currentyear])" which is a broken Yoast %%currentyear%% token.
+```
 
-Why: leads with the number + "Best" pattern (Growthink ranking #4 uses the same pattern); adds the prize-pool hook ("With Prize $$") that no SERP competitor surfaces; keeps the year as a freshness anchor without making the URL itself year-bound.
+**Rationale (for the title/meta rewrite):**
+- New title shifts "Best 20" to the front, adds the high-intent action verb "Win" (matches PAA #2 "how do I win a business plan competition") and tees up the "Prizes" hook competitors mention — Growthink's title is "The 20 Best Business Plan Competitions" (no hook, no year).
+- New meta description front-loads action ("Compare 20..."), surfaces the four most-clicked attributes from PAA (prizes, eligibility, deadlines, how to win), and ends with the audience qualifier (student / open-stage) — directly addressing the long-tail queries currently impression-only (e.g., "best business plan competitions for college students", 27 impressions, pos 27).
 
-**Meta description — current:**
-> "Looking to secure funding for your business or validate your idea? Check out the top 20 business plan competitions of 2026 and learn how to win them." (149 chars)
-
-**Meta description — recommended:**
-> "Compete for cash prizes from $5K to $1M+. Compare 20 active US and global business plan competitions, eligibility, deadlines, and tips to win in 2026." (151 chars — within Google's ~155 limit)
-
-Why: leads with the dollar range (the actual buyer signal), specifies "active" and "US and global" to set expectations, and replaces the wishy-washy "validate your idea" framing with concrete decision criteria (eligibility, deadlines).
+**⚠️ Content actions NOT included here:** content additions, rewrites, gap fills → all in **Content Update Brief (Section 14, .docx)**.
 
 ---
 
-## 3. Keyword & Ranking Analysis (US, last 6 months)
+## 3. KEYWORD & RANKING ANALYSIS (US)
 
-### 3A. Top 10 GSC Queries by Impressions
+### Top 10 Keywords (GSC, last 6 months)
 
-| # | Query | Clicks | Impr. | CTR | Avg pos | Read |
-|---|---|---|---|---|---|---|
-| 1 | business plan competition (PRIMARY) | 1 | 182 | 0.55% | 20.3 | Striking-distance page-2 result; closest competitor at #4 (Growthink). |
-| 2 | small business competition | 0 | 166 | 0% | 16.9 | Page 2 — high-impression query with zero click — title isn't matching this intent. |
-| 3 | business idea competition | 0 | 146 | 0% | 42.5 | Page 5 — long tail; would benefit from the H2 "How to find a business plan competition" being broadened to "business idea competitions". |
-| 4 | best business to start little competition | 0 | 120 | 0% | 44.3 | Different intent ("low-competition niche"), not a match for this page. |
-| 5 | startup idea competition | 0 | 97 | 0% | 56.4 | Long tail — page sees impression breadth without ranking power. |
-| 6 | business competition examples | 0 | 88 | 0% | 60.2 | ⚠️ Cannibalized — sister page ranks at 7.6 for this same query. |
-| 7 | new business competition application | 0 | 84 | 0% | 66.1 | Long tail. |
-| 8 | nibs worldwide business plan competition 2026 dates | 0 | 84 | 0% | 10.0 | High-intent navigational, page is on edge of page 1. Adding NIBS deadline detail in the existing #8 block could push to top 5. |
-| 9 | business plan competition ideas | 0 | 83 | 0% | 25.7 | Striking distance — would flip with stronger H2 + better intro. |
-| 10 | startup competitions | 0 | 72 | 0% | 64.5 | Different intent (broader competition list). |
+| Keyword | Impressions | Clicks | CTR | Avg Position | Trend (6 mo) |
+|---------|------------|--------|-----|-------------|-------------|
+| business plan competition | 182 | 1 | 0.5% | 20.5 | → flat (23.8 → 23.6) |
+| small business competition | 153 | 0 | 0% | 17.7 | ↓ declining (10.2 → 19.0) |
+| business idea competition | 147 | 0 | 0% | 42.4 | ↓ declining (14.9 → 29.0) |
+| best business to start little competition | 124 | 0 | 0% | 44.7 | ↓ declining (irrelevant query — misranking) |
+| startup idea competition | 97 | 0 | 0% | 56.4 | — |
+| business competition examples | 91 | 0 | 0% | 60.0 | ↑ improving (85.5 → 38.8) |
+| new business competition application | 84 | 0 | 0% | 66.1 | ↑ improving (69.5 → 19.5) |
+| nibs worldwide business plan competition 2026 dates | 84 | 0 | 0% | 10.1 | → flat (1 month of data) |
+| business plan competition ideas | 83 | 0 | 0% | 25.7 | ↑ improving (22.0 → 12.8) |
+| business plan competition examples | 69 | 0 | 0% | 21.2 | ↓ declining (16.2 → 36.2) |
 
-Total page: **272 queries, 3,960 impressions, 4 clicks, CTR 0.10%, 6 months**.
+**Headline read:** 272 unique queries, 4 clicks, 3,950 impressions in 6 months. CTR on the primary keyword is 0.5% at pos 20.5 — well below the ~2% expected at that position. The page is impression-rich and click-starved: **(a)** the title/meta is not earning clicks, and **(b)** the page is stuck in low double-digit positions where Growthink alone occupies the single listicle slot at pos 4.
 
-### 3B. Striking-Distance Keywords (positions 11-30, ≥50 impressions)
+### Striking Distance Opportunities (positions 4-20 with ≥30 impressions)
 
-Add or strengthen sections to capture these:
+| Keyword | Impressions | Clicks | Position | Opportunity |
+|---------|------------|--------|----------|-------------|
+| small business competition | 153 | 0 | 17.7 | High — 0 clicks at near-top-20. Add a dedicated "Small business plan competitions" sub-section or filter. |
+| business plan competition | 182 | 1 | 20.5 | High — the head term. Cannibalization + depth fixes should move into top 10 within 1-2 update cycles. |
+| business plan competition examples | 69 | 0 | 21.2 | High — query implies real-world case studies; add 2-3 winner pitch case studies. |
+| business plan competition ideas | 83 | 0 | 25.7 | Medium — trending up. Surface common winning industry/idea themes (HealthTech, climate, B2B SaaS). |
+| nibs worldwide business plan competition 2026 dates | 84 | 0 | 10.1 | Medium — already top-10, no clicks. Expand NIBS section with deadlines + application steps. |
 
-| Query | Pos | Impr | Action |
-|---|---|---|---|
-| business plan competition | 20.3 | 182 | Primary. Update intro + add "How to win" guide section. → §6 |
-| small business competition | 16.9 | 166 | Add an H2 "Small business plan competitions" or reframe intro to include "small business"; add 1-2 small-business-specific competitions to the list. |
-| business plan competition ideas | 25.7 | 83 | Already covered loosely; add an H2 "Business plan competition ideas (what to pitch)". |
-| nibs worldwide business plan competition 2026 dates | 10.0 | 84 | Add deadline tables to the #8 NIBS block. |
-| business plan competition examples | 21.2 | 69 | ⚠️ Cannibalized. Decide canonical page. |
-| business plan competition grant | 15 | 10 | Add "grant-style competitions" callout. |
-| nibs worldwide business plan competition | 9.6 | 20 | Same as NIBS deadlines above. |
+### Cannibalization Check
 
-### 3C. Cannibalization Check
+**⚠️ Cannibalization detected for the primary keyword "business plan competition":**
 
-For the **primary keyword** ("business plan competition"):
+| Query | Target Page Position | Competing Page URL | Competing Page Position | Recommendation |
+|-------|---------------------|-------------------|------------------------|----------------|
+| business plan competition | 20.5 (182 impr, 1 click) | [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | 3.5 (6 impr) | Internal-link FROM that page TO target with anchor "business plan competitions" near the intro; de-target the bare phrase from H1/meta/intro on the competing page (focus it on "competition section of business plan"). |
+| business plan competition | 20.5 | [https://upmetrics.co/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | 4 (1 impr) | Internal-link FROM that page TO target with anchor "business plan competitions"; clarify on that page that it is the *high-school* variant. |
 
-| URL | Clicks | Impr | Pos | Verdict |
-|---|---|---|---|---|
-| [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) | 1 | 182 | 20.3 | Target — keep as canonical. |
-| [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | 0 | 6 | 3.5 | Different topic (competitive analysis section of a business plan). Not actually cannibalizing here — different intent. Negligible. |
-| [https://upmetrics.co/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | 0 | 1 | 4.0 | Sister page for high-school-specific intent. Negligible. |
+The two competing pages outrank the target by ~17 positions on the head term but only earn 7 impressions combined — Google occasionally swaps them in for tiny slices. Consolidating internal anchors to point at the listicle should restore signal to the right URL.
 
-For "**business competition examples**" — this IS cannibalized:
-
-| URL | Impr | Pos |
-|---|---|---|
-| [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) | 88 | 60.2 |
-| [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | 34 | 7.6 |
-| [https://upmetrics.co/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | 23 | 35.9 |
-| [https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively](https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively) | 22 | 58.7 |
-
-**Recommendation:** "Business competition examples" is genuinely ambiguous — the high-ranking page (`how-to-write-the-competition-section-of-your-business-plan`, pos 7.6) is the natural winner because the query reads as "examples of the competition section". The target page should NOT chase this query. Add a short cross-link from the target to that sister page in the intro paragraph: "Looking to write the competitor analysis section of your plan instead? [See our guide](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan)." This signals intent separation to Google.
-
-### 3D. Ahrefs Organic Keywords (US, vol≥100)
-
-| Keyword | Best position | Volume |
-|---|---|---|
-| business competition | 48 | 1,000 |
-
-Only 1 keyword above the 100-volume threshold. The page is essentially not ranking for any high-volume term. The longer GSC tail confirms intent breadth — the issue is ranking depth, not topic relevance.
-
-### 3E. Primary Keyword — Difficulty & Potential
-
-| Metric | Value |
-|---|---|
-| Volume | 150 / mo (US) |
-| KD | 19 (low) |
-| CPC | $2.50 |
-| Traffic potential (Ahrefs) | 150 / mo |
-
-Low difficulty. The barrier is not competition — it's that the target page is currently outclassed by Growthink at #4.
+For all other top-5 queries, no external cannibalization was found.
 
 ---
 
-## 4. SERP & Intent Analysis
+## 4. SERP & INTENT ANALYSIS
 
-### Intent Classification
+**What Google is rewarding:**
+- **Dominant intent:** Mixed — heavily transactional/navigational, lightly informational.
+- **Content types ranking:** 9 of 10 organic results are individual competition organizer pages (Rice, WSU, NYBPC, St. Thomas, High Point, WI Governor's, Koffman/NYBPC, Kean) — universities and regional contests. Position 4 (Growthink) is the **only listicle-guide** in the SERP top 10. Position 3 is an AI Overview.
+- **What this means:** Google has decided this query is mostly people looking for a *specific* competition. It is willing to give a *single* "best of" listicle slot, currently held by Growthink. Our page competes for THAT slot, not for the whole SERP.
 
-**Intent: Informational + Navigational (mixed).** The query "business plan competition" is parsed by Google as a discovery query — searchers want to *find competitions to enter*. Google rewards two formats:
+**Intent match/mismatch:**
+- **Current page type:** Listicle / "best of" blog article.
+- **Match status:** ✅ Match — same content type as the single listicle in the SERP.
+- **Note:** The page is in the right format. The reason it is at pos 20.5, not pos 4, is depth and authority — not intent.
 
-1. **Individual competition homepages** (8/10 results) — Rice, WSU, NYBPC, St. Thomas, HighPoint, WI Governor's, Koffman/NYBPC, Kean. These are entity pages from organizations actually running competitions.
-2. **Curated lists** (1/10 results) — only Growthink's "20 Best Business Plan Competitions" guide.
-3. **AI Overview** at position 3 — synthesizes definitions + examples from the organic pages.
+**SERP Features (US, primary keyword):**
 
-### SERP Top 10
+| Feature | Present? | Who Owns It | Can We Win? | Action |
+|---------|----------|-------------|-------------|--------|
+| AI Overview | ✅ Yes (pos 3 in SERP) | Synthesized from organizer pages + listicles | Partially — aim to be cited by AIO | Add precise definition + ranked list with prize amounts at top of page; use ItemList + Article schema; cite primary sources for prize data. |
+| Featured Snippet | ❌ No | — (AIO took the slot) | Unlikely while AIO is present | Skip. |
+| PAA (People Also Ask) | ✅ Yes (6+ questions) | Various | ✅ Yes — current FAQ schema is a head start | Map existing FAQs to PAA questions and add the missing ones (see Section 6 / Update Brief). |
+| Video results | ❌ No | — | — | Not a SERP feature on this query. |
+| Image pack | ❌ No | — | — | Not a SERP feature on this query. |
 
-| Pos | URL | Title | DR | RDs | UR | Type |
-|---|---|---|---|---|---|---|
-| 1 | [https://rbpc.rice.edu/](https://rbpc.rice.edu/) | Rice Business Plan Competition - Largest and ... - Houston | 86 | 315 | 13 | Individual competition |
-| 2 | [https://entrepreneurship.wsu.edu/wsu-business-plan-competition/](https://entrepreneurship.wsu.edu/wsu-business-plan-competition/) | Business Plan Competition - WSU Center for Entrepreneurship | 87 | 7 | 5 | Individual competition |
-| 3 | — | AI Overview | — | — | — | SERP feature |
-| 4 | [https://www.growthink.com/businessplan/help-center/business-plan-competitions](https://www.growthink.com/businessplan/help-center/business-plan-competitions) | The 20 Best Business Plan Competitions | 71 | 5 | 4 | **List guide — direct intent match** |
-| 5 | [https://nybpc.org/](https://nybpc.org/) | nybpc | 31 | 180 | 7 | Individual competition |
-| 6 | [https://business.stthomas.edu/.../business-plan-competition/](https://business.stthomas.edu/schulze-school/student-engagement/competitions/business-plan-competition/) | St. Thomas Business Plan Competition | 76 | 0 | 4 | Individual competition |
-| 7 | [https://www.highpoint.edu/entrepreneurship/business-plan-competition/](https://www.highpoint.edu/entrepreneurship/business-plan-competition/) | Business Plan Competition | 72 | — | 0 | Individual competition |
-| 8 | [https://govsbizplancontest.com/](https://govsbizplancontest.com/) | WI Governor's Business Plan Contest | 31 | 211 | 5 | Individual competition |
-| 9 | [https://thekoffman.com/nybpc/](https://thekoffman.com/nybpc/) | NYBPC \| Koffman Incubator \| Binghamton N.Y. | 31 | 2 | 6 | Individual competition |
-| 10 | [https://www.kean.edu/kean-university-business-plan-competition](https://www.kean.edu/kean-university-business-plan-competition) | Kean Business Plan Competition 2026 | 73 | 2 | 4 | Individual competition |
+**PAA questions to target** (from WebSearch):
+1. What is a business plan competition? — ✅ already in FAQ
+2. How do I win a business plan competition? — ❌ missing (high-priority add)
+3. What do judges look for in a business plan competition? — ❌ missing
+4. Are business plan competitions worth it? — ❌ missing
+5. How much money can you win in a business plan competition? — ❌ missing (matches "business plan competition grant" query)
+6. Who can participate in a business plan competition? — partial (current FAQ only covers "do I need a complete business")
 
-### Mismatch Analysis
-
-The Upmetrics target page is the **same content type as Growthink** — a list-format curated guide. There is **no intent mismatch** — the target page IS what Google rewards for the "list-format" slot. The only barrier is that Growthink occupies that slot today. With one direct competitor in the list-format slot (and only DR 71 / 5 RDs), the page-1 list-format slot is genuinely contestable.
-
-### SERP Features
-
-| Feature | Present | Owner | Opportunity |
-|---|---|---|---|
-| AI Overview | ✅ | (synthesized from Rice + WSU + Growthink + entity orgs) | Strengthen entity signals on the target so it becomes a citation source for the AI Overview. |
-| Featured snippet (traditional) | ❌ | — | No traditional snippet available — AI Overview occupies that real estate. |
-| People Also Ask | ✅ | Variable | "What is a business plan competition?", "How do you win a business plan competition?", "What are examples of business plan competitions?", "How do business plan competitions work?" — target already covers 2/4 in FAQ; add the other 2. |
-| Video pack | ❌ | — | — |
-| Image pack | ❌ | — | — |
-| Knowledge panel | ❌ | — | — |
-
-### Featured snippet / AI Overview opportunity
-
-Restructure the H2 "What is a business plan competition?" section to lead with a 40-50 word definition optimized for AI Overview citation. Current intro on the section is conversational ("A business plan competition is an event that allows small businesses and startups to compete with each other and get feedback or advice on their business.") — a tighter, more entity-rich version could become the canonical citation source.
+**Featured Snippet Optimization:** Not applicable while AI Overview occupies the slot. Optimize for AIO citation instead (precise definitions, structured data, primary-source citations on prize amounts).
 
 ---
 
-## 5. Technical SEO (Failures Only)
+## 5. TECHNICAL SEO (Failures Only)
 
-| # | Issue | Status | Action |
-|---|---|---|---|
-| 5.1 | `og:title` and `twitter:title` contain `[currentyear]` shortcode literal — "The Best 20 Business Plan Competitions to Get Funding in ([currentyear])" | ❌ Fail | Replace with rendered year (or remove the parenthetical entirely). Currently shows up as broken text in social previews. |
-| 5.2 | Author "Person" schema present but `author_has_bio = false` and `author_has_photo = false` (verified) | ⚠️ Weak | Populate `description` and `image` fields on the Person schema. → See §8 for full E-E-A-T discussion. |
-| 5.3 | Title rewrite required (see §2 Title & Meta Copy block) | — | Routed to §2. |
-| 5.4 | Meta description rewrite required (see §2 Title & Meta Copy block) | — | Routed to §2. |
-| 5.5 | FAQPage schema only covers 5 generic questions at the bottom — does not extend to per-competition Q&A | ⚠️ Underutilized | Convert per-competition Eligibility / Location / Rewards into FAQPage Q&A structures. |
+| # | Issue | Current | Fix | SEO Impact |
+|---|-------|---------|-----|------------|
+| 1 | `og:title` exposes unresolved Yoast `[currentyear]` shortcode | `og:title = "The Best 20 Business Plan Competitions to Get Funding in ([currentyear])"` | Inspect Yoast `%%currentyear%%` token rendering — replace with `2026` or fix the shortcode pipeline. The page-level `<title>` renders correctly ("...in 2026"), so the bug is isolated to OG/social. | Social card previews and AIO citation snippets show a literal `[currentyear]` placeholder — undermines trust and freshness signals. |
+| 2 | No Article / BlogPosting schema | Schema types present: BreadcrumbList, FAQPage. No `Article` or `BlogPosting`. | Add `Article` (or `BlogPosting`) schema with `headline`, `author` (Person), `publisher` (Organization with logo), `datePublished` (2022-05-16), `dateModified` (2026-05-06), `image`. | Loss of `Article` rich-result eligibility; weaker E-E-A-T signals for AIO consideration. |
+| 3 | No `ItemList` schema for the 20-item list | The page IS a ranked list of 20 competitions but provides no `ItemList` markup. | Add `ItemList` schema with one `ListItem` per competition (name + URL + position). | Helps Google parse list semantics; supports enhanced list rich result on "best of" SERPs. |
+| 4 | Title and meta description copy not optimized for CTR | See Section 2 Title & Meta Copy block | → See Section 2 | At pos 20.5 the 0.5% CTR is below the ~2% benchmark — title needs a stronger value hook and the meta needs to surface deadlines/prizes/eligibility. |
+| 5 | Only 1 in-content image for a 2,212-word listicle covering 20 competitions | 1 image (`crossline.png`, decorative, near Conclusion) | Add per-competition logos (with proper attribution + permission/fair use), a hero image, and at least 1 comparison chart. Use unique alt text per logo (e.g., "Rice Business Plan Competition logo"). | Image SEO + dwell time + Google Discover eligibility. |
+| 6 | Generic brand byline "Upmetrics" with no human author bio or photo | `author=Upmetrics`, `author_has_bio=false`, `author_has_photo=false` (from `verified-facts.json`) | Assign a named human author with relevant credentials; add 2-3 line bio + headshot in the post template. | E-E-A-T — particularly important for YMYL-adjacent funding content. |
 
-**Pass/Clean (no action):**
-- Canonical self-referencing ✅
-- No noindex, no nofollow ✅
-- HTTPS ✅
-- H1 present and matches intent ✅
-- `dateModified` is current (2026-05-06) ✅
-- Schema.org Article + WebPage + BreadcrumbList all present ✅
-- 1 content image with alt text ✅
+All other technical checks passed (canonical self-referencing, no noindex/nofollow, OG/Twitter cards present, mobile viewport implied via Yoast, URL structure clean).
 
 ---
 
-## 6. Content Gaps & Competitor Depth
+## 6. CONTENT GAPS & COMPETITOR DEPTH
 
 ### 6A. Content Depth Comparison
 
-| Page | Word count | H2 count | H3 count | Internal links | External cites | Visuals/tables | Author bio |
-|---|---|---|---|---|---|---|---|
-| **Target (Upmetrics)** | 2,212 | 4 | 26 | 68 | 25 | 1 image | ❌ |
-| Growthink (#4 — direct intent match) | 4,004 | 6 | 20 | 4 | 45 | 5 visuals | ❌ |
-| LivePlan (how-to-win) | 1,812 | 13 | 0 | 14 | 5 | 5 visuals | ✅ (Tim Berry) |
-| TeenLife (teen-specific list) | 1,433 | 26 | — | 37 | 39 | 24 visuals | ✅ (Stefanie Tedards) |
+| Page | URL | Content Type | Word Count | H2s | H3s | Images | FAQs | External Citations | Downloads |
+|------|-----|-------------|-----------|-----|-----|--------|------|----|-----------|
+| **TARGET** | [upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) | listicle | **2,212** | 4 | 25 | **1** | 5 | 25 | 4 (template links) |
+| C1 (SERP pos 4) | [growthink.com/.../business-plan-competitions](https://www.growthink.com/businessplan/help-center/business-plan-competitions) | listicle | **4,004** | — | — (Growthink uses non-standard heading levels) | — | 5 | 45 | multiple template CTAs |
+| C2 (cannibal — different intent) | [upmetrics.co/.../how-to-write-the-competition-section](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | blog article | 2,158 | — | — | — | 10 | 1 | 1 (template) |
+| C3 (cannibal — HS variant) | [upmetrics.co/.../business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | listicle | **3,606** | — | — | — | 7 | 24 | 1 (template) |
+| C4 (external listicle, off-SERP) | [startupowl.com/fund/business-plan-competitions](https://startupowl.com/fund/business-plan-competitions) | blog article | **3,522** | — | — | — | 0 | 9 | — |
 
-**Read:** The target page has substantially less depth than the closest direct competitor (Growthink) — 2,212 vs 4,004 words. Crucially, Growthink has 45 external citations (links to each official competition page) while the target has only 25. **External authority links to .edu / .org competition pages are the strongest topical relevance signal Google can read on this query** — the target is leaving roughly half the citation surface area on the table.
+**Headline:** Target is 2,212 words; the 3 relevant listicle/guide competitors average **3,711 words** (Growthink 4,004; HS variant 3,606; StartupOwl 3,522). Target needs ~1,400-1,800 additional words of substance to be competitive — but **what** to add matters more than raw length; see 6B/6C.
 
-### 6B. Competitor Heading Map (intent-match competitor — Growthink)
+### 6B. Competitor Heading Map (topic coverage)
 
-| Topic / heading | Target has? | Growthink has? | Gap action |
-|---|---|---|---|
-| What is a business plan competition? | ✅ H2 (~65 words) | ✅ H2 (~65 words) | EDIT — tighten for AI Overview citation |
-| How do I find business plan competitions? | ✅ H2 (~82 words) | ✅ H2 (~82 words) | EDIT — add a discovery framework (free, .edu, industry-specific, regional) |
-| 20 popular business plan competitions (per-comp blocks) | ✅ 20 items × 3 sub-headings (Eligibility/Location/Rewards) | ✅ 20 items × 3 sub-headings (Who is Eligible/Where Held/What Can You Win) | EDIT — match Growthink's longer blocks (60-150 words per item vs target's ~30-50) |
-| Tips for Winning Business Plan Competitions | ❌ MISSING | ✅ H2 (~166 words) | 🆕 NEW SECTION — direct gap. LivePlan ranks for "how to win" with a whole article on this. Add as H2. |
-| Application deadlines table (with dates per competition) | ❌ MISSING | ❌ MISSING | 🆕 NEW SECTION — opportunity. GSC shows "nibs worldwide business plan competition 2026 dates" at pos 10 / 84 impr. |
-| Prize-pool comparison table (sortable) | ❌ MISSING | ❌ MISSING | 🆕 NEW SECTION — opportunity. No competitor has this. Differentiator. |
-| Eligibility filters (student / undergrad / grad / open / international) | Implicit per item | Implicit per item | EDIT — add a filterable summary table at the top so readers can scan in 30 seconds. |
-| FAQ — what should be in a plan for a competition | ✅ FAQPage schema | ❌ | KEEP. |
-| FAQ — preparing for a competition | ✅ | ❌ | KEEP. |
-| Strategic / pitch-deck advice (LivePlan-style "9 tips to win") | ❌ | Brief (1 H2) | 🆕 NEW or expand — LivePlan ranks for "how to win business plan competition"; even a 200-word section would capture some of that long-tail traffic. |
+| Topic / Section | C1 Growthink | C3 HS-var. | C4 StartupOwl | OURS | Action |
+|----------------|----|----|----|----|--------|
+| Definition: "What is a business plan competition?" | ✅ | ✅ | ✅ | ✅ | ✅ table stakes — keep |
+| How to find a competition | partial | ✅ | partial | ✅ | ✅ table stakes — keep |
+| Ranked list of named competitions (≥15) | ✅ | ✅ | ✅ | ✅ (20) | ✅ go deeper (add a comparison table) |
+| **At-a-glance comparison table** (prize, deadline, eligibility, location, stage) | ❌ (inline) | ✅ | ✅ | ❌ | ✗ **GAP** — must add (highest priority) |
+| **Tips for winning / How to win** section | ✅ | ❌ | ✅ | ❌ | ✗ **GAP** — must add (matches PAA + "business plan competition grant" intent) |
+| **What judges look for** (rubric / criteria) | partial | partial (in FAQ) | ✅ | ❌ | ✗ **GAP** — must add |
+| **Prize money detail** per competition (1st/2nd/3rd $) | ✅ | ✅ | ✅ | partial | ✅ go deeper — make prize amounts consistent across all 20 |
+| **Application deadlines & 2026 calendar** | ❌ | ✅ | ✅ | ❌ | ✗ **GAP** — add deadline + status (open/closed) per competition |
+| **Eligibility filtering** (student / open-stage / post-revenue) | ✅ | ✅ | ✅ | partial (Eligibility line only) | ✅ go deeper — add filter chips/index |
+| **How to prepare / application steps** per competition | ❌ | ✅ (per-comp) | ✅ (general) | ❌ | ✗ **GAP** — add a "How to apply" generic playbook |
+| **Time, cost, ROI analysis** of competing | ❌ | ❌ | ✅ | ❌ | ✗ **GAP** — add (compelling differentiator vs. Growthink) |
+| **Pros & Cons** of business plan competitions | ❌ | partial (benefits FAQ) | ✅ | partial (Conclusion only) | ✗ **GAP** — add a clean pros/cons block |
+| **Named winner case studies** (e.g., Intero Biosystems @ RBPC 2026) | ❌ | ❌ | ✅ | ❌ | ✗ **GAP** — add 2-3 winner stories (matches "business plan competition examples" query, 69 impr) |
+| **Pitch video tips** | ❌ | ❌ | ✅ | ❌ | ✗ GAP (medium) — add a sidebar/callout |
+| **Equity vs non-dilutive funding** framing | partial | ❌ | ✅ | ❌ | ✗ GAP (medium) — important for E-E-A-T |
+| **Audience filter — small business / SMB competitions** | partial | ❌ | partial | ❌ | ✗ **GAP** — directly addresses "small business competition" query (153 impr, 0 clicks) |
+| **Audience filter — student/college competitions** | ✅ | ✅ | partial | partial (some entries are student) | ✅ go deeper — add a "Best for college students" sub-list |
+| **PAA: "Are business plan competitions worth it?"** | partial | ❌ | ✅ | ❌ | ✗ GAP — add to FAQ |
+| **PAA: "How much money can you win?"** | answered by prize detail | ✅ | ✅ | ❌ | ✗ GAP — answer with $ range + median |
+| **Author bio + photo** (E-E-A-T) | partial | ✅ (Vinay Kevadia) | ✅ (Eliot Reynolds) | ❌ | ✗ GAP — see §8 |
+| **Editorial standards / methodology disclosure** | ❌ | ❌ | ✅ | ❌ | ✗ GAP (medium) — add a "How we picked these 20" note |
+| **Inline downloadable template CTAs** | ✅ | ✅ | ❌ | ✅ (4 links) | ✅ table stakes — keep, but audit redundancy (§7A) |
+| **Resource roundup / related articles at end** | ✅ | partial | ❌ | partial | ✅ go deeper |
+| **20 competition profiles** | partial (different list) | n/a (HS-specific) | partial (different list) | ✅ | ✅ UNIQUE EDGE — Upmetrics covers competitions the others miss (Pistoia, Climatech, CodeLaunch, 13th IOT/WT). Verify all 20 are current. |
 
-### 6C. Topic Gap Detail (priority order)
+### 6C. Topic Gap Detail
 
-1. **🆕 "How to Win a Business Plan Competition" H2 with 5-7 ranked tips.** LivePlan ranks for the closely related query "how to win business plan competition" with a 1,812-word article — the target captures none of that traffic today. A 300-500 word section inside the existing list page would let the page rank for both intent variants ("which competitions" + "how to win them") with one URL. Each tip should be a tight H3.
-2. **🆕 Prize-pool comparison table** at the top of the H2 "20 popular business plan competitions" section. Columns: Competition / Eligibility (student / open) / Location / Total prize / Application window. This is a cited-by-AI-Overview kind of asset and not present on any competitor.
-3. **🆕 Application deadlines table** — same competitions, just column-flipped. Captures the "nibs worldwide business plan competition 2026 dates" striking-distance query at pos 10.
-4. **EDIT all 20 competition blocks** to add a 1-line "Why it stands out" summary above Eligibility/Location/Rewards. Currently each block reads as a 3-bullet form — Growthink's read more like editorial reviews, which is partly why Growthink is on page 1.
-5. **EDIT — strengthen 20 external citations.** Each competition block should link to the official competition URL (rbpc.rice.edu, entrepreneurship.wsu.edu, etc.). Growthink has 45 external citations vs the target's 25.
+| # | Missing Topic | Covered By | Evidence Source | Priority | Recommended Action |
+|---|--------------|------------|----------------|----------|-------------------|
+| 1 | At-a-glance comparison table (Prize / Eligibility / Deadline / Format) | C3, C4 | C3 has per-competition at-a-glance table; C4 has a global comparison table | **High** | Add an HTML/Markdown table at the top of the listicle: Competition | Prize Pool | Eligibility | 2026 Deadline | Stage | Apply. Updates per refresh cycle. |
+| 2 | "How to win" / "Tips for winning" deep section | C1, C4 | C1 has dedicated section; C4 has a 3-tactic playbook | **High** | Add a 600-900 word section with 5-7 winning tactics, sourced (HBR / Steve Blank counterpoint / Paychex). Maps directly to PAA #2 and the "business plan competition grant" query. |
+| 3 | "What judges look for" / Judging rubric | C4 | C4: 5-criteria breakdown (problem statement, customer validation, market sizing, moat, team) | **High** | 300-400 word section, table format. Maps to PAA #3. |
+| 4 | Named winner case study (concrete example) | C4 | C4 cites Intero Biosystems @ RBPC 2026 with prize breakdown | **High** | Add 2-3 short winner case studies (1 paragraph each). Maps to "business plan competition examples" query (69 impr, 0 clicks). |
+| 5 | 2026 deadlines & "open vs closed" status per competition | C3, C4 | C3 has Competition Dates column; C4 has 2026 Dates column | **High** | Per-competition: add a `Deadline` and `Status` field. Add a top-of-page note "Last verified [date]". |
+| 6 | Small-business / SMB filter (not just student) | C4 partial | "small business competition" query has 153 impressions, 0 clicks, pos 17.7 | **High** | Add a sub-section "Best business plan competitions for small businesses" with 3-5 picks from the existing 20 (Get Seeded, NIBS, HATCH Pitch, etc.) + 1-2 SBA / state-level adds (e.g., WI Governor's Business Plan Contest from SERP pos 8). |
+| 7 | Time / cost / ROI analysis of entering a competition | C4 | C4 has founder-hour math + Low/High estimate table | Medium | 300-word section with a "40-60 hours per entry" benchmark, win-rate baseline (<5%), and breakeven analysis. |
+| 8 | Pros & Cons block | C4 | C4 lists tradeoffs with dollar figures | Medium | Clean pros/cons block above or below the listicle. |
+| 9 | Generic "How to apply" playbook | C3 (per-comp), C4 | C3 has per-competition application steps | Medium | 200-300 word section: register early, prepare a 90-sec to 4-min pitch video, finance model, deck, advisor letters. |
+| 10 | Equity vs non-dilutive framing | C4 | C4 notes cap-table dilution comparison | Medium | One paragraph + one sentence in intro: "All prizes here are non-dilutive". |
+| 11 | Add PAA "Are business plan competitions worth it?" | C4 | PAA + WebSearch | Medium | Add to FAQ. |
+| 12 | Add PAA "How much can you win?" | C3, C4 | PAA + WebSearch + "business plan competition grant" query | Medium | Add to FAQ; cite Rice's $1M total + median prize range. |
+| 13 | Add PAA "What do judges look for?" | C4 | PAA + WebSearch | Medium | Reuse the 5-criteria from gap #3. |
+| 14 | Methodology note ("How we picked these 20") | C4 (Editorial Standards) | E-E-A-T transparency | Low | 80-word note above the listicle. |
+| 15 | Pitch video production tips callout | C4 | C4: $30 lapel mic, multiple takes, audio over lighting | Low | A 100-word sidebar/callout box. |
+
+**Important caveat:** C2 (`how-to-write-the-competition-section…`) is a different intent and is NOT used for content gap analysis here — its only relevance is the cannibalization fix in §3. The HS-variant page (C3) is used for E-E-A-T + structural patterns only; we should NOT clone its competition list onto the target page (that would re-create cannibalization).
 
 ---
 
-## 7. Links & Backlinks
+## 7. LINKS & BACKLINKS
 
-### 7A. Internal Links — Issues / Trim
+### 7A. Internal Link Issues
 
-The page has 68 internal links, which is high for a 2,212-word article. Spot-checks suggest most are nav/footer/related-content sidebar links rather than in-content contextual links.
+The target page has 68 in-content internal links. Spot-check findings:
+- **4 separate links to `/download/business-plan-template`** within the article body. Each one is a CTA-style link with similar anchor ("Download Now: Free Business Plan Template" / "Business plan template" / etc.). Three of them are intentional CTAs in `.cta-blocks` (rendered as banners), one is inline within content. Likelihood of value loss is low (these are template/funnel CTAs, not topical interlinks) but the page's link equity is being heavily concentrated on a single destination URL. **Recommendation:** keep the in-content CTA links; consider diversifying 1-2 of them to deeper template/example pages (e.g., a `/sample-business-plans` example matching the user's stage).
+- Otherwise the in-content internal link inventory looks healthy — links go to relevant blog, template, and example pages.
 
-| Issue | Count | Action |
-|---|---|---|
-| Internal links in nav/footer/sidebar (no SEO value as on-page links) | ~50+ (estimate) | No fix needed — these are template, not content. |
-| In-content contextual internal links | Estimated <15 | Increase to 5-8 high-relevance contextual links (sample-business-plans, business-plan-template download, how-to-write-a-business-plan, etc.). |
+### 7B. Internal Links to ADD (to the target page)
 
-### 7B. Internal Links to ADD (to the target page from sister pages)
+**⚠️ Rule 12 applied:** every URL below is verified via GSC or via existing internal links on this site (sources noted).
 
-These pages already exist and rank for related queries — adding a contextual link with anchor text "business plan competition" or "list of business plan competitions" passes equity to the target. (URLs verified via GSC cannibalization data — they exist and are indexed.)
+| Anchor Text | Target URL | Where to Place | Why | Source |
+|------------|-----------|----------------|-----|--------|
+| business plan competitions | [https://upmetrics.co/blog/business-plan-competitions](https://upmetrics.co/blog/business-plan-competitions) — add link FROM [/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | Near intro, in a "Looking for a list of competitions?" callout | Resolves cannibalization for the head term (this page outranks target by 17 positions on the head query with 0 clicks) | GSC (`step1b-cannibalization.json`) |
+| business plan competitions for high school students | n/a — keep the link FROM [/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) TO target with anchor "business plan competitions (open-stage)" | Near intro of HS page | Disambiguates the two listicles in Google's eyes; restores head-term equity to the open-stage target page | GSC (`step1b-cannibalization.json`) |
+| how to write the competition section of a business plan | [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | In a new "How to write a winning business plan for a competition" section on TARGET | Tightens topic cluster; gives writers a one-click jump to the competitor-analysis methodology | C2 enrichment + scraper internal-links inventory |
+| business plan template | [https://upmetrics.co/download/business-plan-template](https://upmetrics.co/download/business-plan-template) | Keep existing 4 CTA placements (see 7A) | Funnel link to product | Existing internal link |
+| sample business plans | [https://upmetrics.co/sample-business-plans](https://upmetrics.co/sample-business-plans) | New: add inside the new "winner case studies" section | Anchors a related "by industry" example resource | Existing internal link (location: outside-content currently — promote into content) |
 
-| Source page (verified to exist) | Anchor recommendation | Why |
-|---|---|---|
-| [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | "applying to a business plan competition" | Page already gets traffic for "business competition examples"; link makes intent split clear. |
-| [https://upmetrics.co/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | "open business plan competitions for adult founders" | Sister page is high-school-specific; link the broader audience to the main list. |
-| [https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively](https://upmetrics.co/blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively) | "real business plan competitions" | Adjacent topic, weak existing connection. |
-| [https://upmetrics.co/small-business-ideas](https://upmetrics.co/small-business-ideas) | "submit your idea to a business plan competition" | Page appeared in cannibalization data ranking for "best business to start little competition" — confirmed indexed. Add 1 contextual link. |
+### 7C. Pages That Should Link TO This Page (incoming internal links)
 
-### 7C. Pages That Should Link FROM the target page (adding outbound internal links)
+**⚠️ Rule 12 applied:** sources verified via the target page's own internal-links list (these are pages the site already cross-links into the target's neighborhood) plus the GSC cannibalization data.
 
-The target's existing `internalLinks` array already includes the following — make sure each has at least one **in-content** placement (not just nav):
+| Source Page URL | Where to Add | Suggested Anchor | Source |
+|----------------|----------------------------------------|----------------------------------|--------|
+| [https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan](https://upmetrics.co/blog/how-to-write-the-competition-section-of-your-business-plan) | Intro paragraph + a "Looking for a competition to enter?" callout above the FAQ | business plan competitions | GSC cannibalization |
+| [https://upmetrics.co/blog/business-competitions-for-high-school-students](https://upmetrics.co/blog/business-competitions-for-high-school-students) | "Looking for open-stage / non-high-school competitions?" callout in intro | business plan competitions for founders & startups | GSC cannibalization |
+| [https://upmetrics.co/sample-business-plans](https://upmetrics.co/sample-business-plans) | Inside any "ready to enter a competition?" sidebar or related-resource block | Top business plan competitions in 2026 | Existing internal link inventory |
+| [https://upmetrics.co/download/business-plan-template](https://upmetrics.co/download/business-plan-template) | Bottom of the download page (related resources) | Top business plan competitions in 2026 | Existing internal link inventory |
 
-- [https://upmetrics.co/download/business-plan-template](https://upmetrics.co/download/business-plan-template) ✅ already linked 3x in content
-- [https://upmetrics.co/sample-business-plans](https://upmetrics.co/sample-business-plans) — currently links from sidebar/related; promote to in-content under "Tips for winning"
+### 7D. External Link Issues
 
-### 7D. External Links (issues only)
+The page has 25 outbound links, all of which point to competition organizer pages (RBPC, MIT 100K, NIBS, etc.) or Upmetrics social profiles. Issues to verify (spot-check during the content update):
+- **`https://www.uoic.org/`** (New Venture Championship) — domain ownership/redirect status should be verified; some past New Venture Championship listings have moved.
+- **`https://www.herox.com/IOT-WTINNOVATION21`** (13th IOT/WT World Cup) — the `INNOVATION21` slug suggests this is a 2021 challenge; needs re-verification of current relevance.
+- **`https://codelaunch.com/tag/startup-competition/`** (CodeLaunch second link) — a tag archive page is not as authoritative as the rules page; consider deduping with the existing `codelaunch.com/startups/rules/`.
+- **`https://www.facebook.com/upaborant/`, `https://twitter.com/upaborant`** — handles look mis-typed (should be `upmetricsai` / `upmetricsapp` / similar). These are footer/social links and may not be on this content area, but worth verifying.
 
-- 25 external links. The Growthink benchmark is 45. Each of the 20 competition blocks should link to the competition's **official homepage** (the same URLs that appear in the SERP). Specific targets to add or verify per the Ahrefs SERP data: [https://rbpc.rice.edu/](https://rbpc.rice.edu/), [https://entrepreneurship.wsu.edu/wsu-business-plan-competition/](https://entrepreneurship.wsu.edu/wsu-business-plan-competition/), [https://nybpc.org/](https://nybpc.org/), [https://www.kean.edu/kean-university-business-plan-competition](https://www.kean.edu/kean-university-business-plan-competition), [https://govsbizplancontest.com/](https://govsbizplancontest.com/), and the corresponding official URLs for the other 15 competitions in the list.
+| # | Anchor Text | Target URL | Issue | Fix |
+|---|------------|-----------|-------|-----|
+| 1 | (none — implicit competition link) | https://www.uoic.org/ | Verify domain ownership & content currency | Replace with closest current sponsor page (UO LCB) or remove |
+| 2 | (none — implicit competition link) | https://www.herox.com/IOT-WTINNOVATION21 | URL slug is `INNOVATION21` — likely a 2021 archive | Re-verify; replace with most recent IOT/WT competition page or remove |
+| 3 | (none) | https://codelaunch.com/tag/startup-competition/ | Duplicate-ish CodeLaunch link (already linked to `/startups/rules/`) | Dedupe |
+| 4 | (none) | https://www.facebook.com/upaborant/, https://twitter.com/upaborant | Possibly incorrect Upmetrics social handles | Confirm correct handles and update if wrong |
+
+No `COMPETITOR_DOMAINS` (LivePlan, Bplans, etc.) appear in the external link list. ✅
 
 ### 7E. Backlink Gap
 
-| Metric | Target | Growthink (intent peer at #4) |
-|---|---|---|
-| Live backlinks | 1 | (DR 71 page) |
-| Live referring domains | 1 | 5 |
-| All-time refdomains (lost) | 12 (lost 11) | — |
-| Domain rating context | (Upmetrics overall) | 71 |
+| Metric | Target Page | Top SERP Competitor (Rice, pos 1) | Top Listicle (Growthink, pos 4) |
+|--------|------------|----------------------|----------------------------------|
+| Referring Domains (live) | 1 | 317 | 5 |
+| Total Backlinks (all-time / live) | 16 all-time / 1 live | — | — |
+| URL Rating | — | 13 | 4 |
+| Domain Rating | (Upmetrics DR — out of scope) | 86 | 71 |
 
-The target page lost 11 of 12 historical referring domains. Reclamation outreach (find archive.org versions of the lost links, contact site owners) would restore 3-5 RDs immediately. Beyond reclamation, the highest-leverage backlink targets are:
-- University entrepreneurship-program pages that already link out to lists of competitions (similar to Growthink's link profile)
-- Roundup-style "resources for student founders" pages
-- Curriculum pages at small business development centers (SBDCs)
+**⚠️ Sanity note:** Ahrefs returned only `live=1`, `live_refdomains=1` for the target URL in `mode=exact`, and `all_time=16`, `all_time_refdomains=12` — so there has been some historical link decay. Worth a manual Ahrefs UI check.
 
-This is the single biggest lever in the audit.
-
----
-
-## 8. E-E-A-T & Citations
-
-### 8A. Signal Comparison (gaps only)
-
-| Signal | Target | Growthink | LivePlan | TeenLife | Action |
-|---|---|---|---|---|---|
-| Author byline | "Upmetrics" (org, not person) | Missing | ✅ Tim Berry (named expert) | ✅ Stefanie Tedards | Replace org byline with a named contributor (founder, in-house writer, or expert reviewer). |
-| Author bio | ❌ | ❌ | ✅ Brief | ✅ Brief | Add a 50-80 word bio with credentials and a link to bio page. |
-| Author photo | ❌ | ❌ | ✅ | — | Add a photo to Person schema and rendered byline. |
-| `dateModified` recent | ✅ 2026-05-06 | ✅ 2026-04-03 | ❌ | ✅ 2025-10-22 | KEEP — strongest E-E-A-T signal currently in place. Surface visibly. |
-| Cited sources (external) | 25 | 45 | 5 | 39 | Add 20+ official competition URL citations. |
-| Person schema | ✅ present | ❌ | — | — | KEEP — but populate `description` (bio) and `image` (photo). |
-
-### 8B. Citation Audit
-
-**Issues:**
-- Each of the 20 competition blocks should cite the competition's official URL. Spot-check suggests several are missing or use generic anchor text. Each block should have at minimum one outbound link to the competition's homepage with branded anchor text (e.g., "Apply at the [Rice Business Plan Competition](https://rbpc.rice.edu/)").
-- The competition blocks reference prize amounts ("$1M", "$50,000", etc.) — these need to be source-cited to the official rules page so they're verifiable.
-
-### 8C. Unsourced Claims (examples — full list will be in the Update Brief)
-
-The page makes several factual claims (specific prize amounts, specific eligibility, specific locations) that need to be traceable to the official competition page. Without official-source citations, these claims age fast and Google has no way to validate the page's authority.
+**Gap summary:**
+- We are not competing with Rice (DR 86, 317 refdomains) on link authority — we are competing with **Growthink, the only other listicle**, which has just 5 referring domains. **The link gap to overtake Growthink is small (4-7 high-quality refdomains).**
+- Realistic path: 8-15 new referring domains over the next 6 months via (a) digital PR roundups, (b) startup-publication mentions, (c) university entrepreneurship-center "resource" page placements.
+- One concrete play: pitch this page to the editor of any university blog that already runs a "business plan competition prep" post (TechCrunch's `/startup-battlefield`, MIT, Baylor, UChicago Polsky already on our outbound list — reciprocal links are reasonable to request).
 
 ---
 
-## 9. Appendix — Ahrefs API Consumption Log
+## 8. E-E-A-T & CITATIONS
 
-| Call | Endpoint | Units | Notes |
-|---|---|---|---|
-| 1 | `site-explorer-organic-keywords` | 50 | mode=exact, vol≥100, country=us. 1 row returned. |
-| 2 | `serp-overview` | 110 | top_positions=10, country=us. |
-| 3 | `keywords-explorer-overview` | 50 | volume,difficulty,cpc,traffic_potential. |
-| 4 | `site-explorer-backlinks-stats` | 50 | mode=exact, all-time + live. |
-| **Subtotal** | | **260** | (under the ~630 budget) |
-| Free | `subscription-info-limits-and-usage` | 0 | 389,385 units remaining at session start. |
-| **Total this audit** | | **260** | |
+Read from `verified-facts.json`: `author_present=true (Upmetrics)`, `author_has_bio=false`, `author_has_photo=false`, `date_visible_on_page=true (Updated May 6, 2026)`, `has_downloadable_templates=true`, `schema_types_found=[Article, WebPage, ImageObject, BreadcrumbList, WebSite, Organization, Person, BreadcrumbList, FAQPage]`. *(Note: `Article` and `Person` are listed inside nested schema graphs but no top-level Article schema block is being used to mark up the post itself — verified via `step1a-target-page.json`.)*
 
-Also: 2 WebSearch calls for SERP feature analysis and PAA/AI Overview confirmation.
+### E-E-A-T Signal Comparison (gaps only)
+
+| Signal | Target Page | Best Competitor | Gap? |
+|--------|------------|----------------|------|
+| Named human author | ❌ "Upmetrics" generic byline | ✅ Vinay Kevadia (C3, same site!), Eliot Reynolds with credentials (C4) | ✅ Yes — assign a named author |
+| Author bio (2-3 lines) | ❌ None | ✅ C3, C4 | ✅ Yes |
+| Author photo / headshot | ❌ None | ✅ C3, C4 | ✅ Yes |
+| Author credential/role (e.g., "Senior Legal Researcher") | ❌ | ✅ C4 | ✅ Yes |
+| Expert quotes / named sources | ❌ (zero external citations in body text) | ✅ C4 cites HBR, Steve Blank, MassChallenge, Paychex, SBE Council, Flowlu, Rice | ✅ Yes — needs 3-5 citations |
+| Methodology / "how we picked" disclosure | ❌ | ✅ C4 (Editorial Standards) | ✅ Yes |
+| Per-competition prize-data source citations | partial | ✅ C1 | ✅ Yes |
+| Last-verified date on the listing | ❌ (only "Updated" date) | ✅ implied via 2026 dates on C3, C4 | ✅ Yes — add "Data verified [date]" |
+
+### Citation Audit
+
+The target page has **25 outbound links to competition organizer pages** — appropriate primary sources for the named competitions. But within the article *body text*, there are **zero external citations supporting factual claims** (stats, prize amounts, win rates). All the "facts" are implicit.
+
+| Citation | URL Status | Source Quality | Issue (if any) |
+|----------|-----------|---------------|----------------|
+| (no external citation links in body text) | n/a | n/a | All 25 external links are to the competitions themselves, not to supporting sources for statements about competitions in general. Need to add citations for the "How to win" / "What judges look for" / prize-range statements added in §6. |
+
+### Unsourced Claims (in current page text)
+
+| Unsourced Claim (paraphrased; verify exact text during update) | Location | Recommended Source URL |
+|------------------------------|----------|----------------------|
+| Specific prize amounts ("up to $25,000…", "$100,000 prize…") for each competition | Per competition (H3-level Rewards bullet) | Cite each competition's own rules page (already linked — just add the citation pattern: "Prize: $X — source: rbpc.rice.edu") |
+| General benefit claims about competitions (mentorship, validation, funding) | "What is a business plan competition?" and Conclusion | Cite HBR / MassChallenge / Forbes |
+| Claims about who can participate / eligibility | "Frequently Asked Questions" → "Do I need to have a complete business…" | Cite NIBS or Rice eligibility rules pages |
+
+**→ Broken link fixes go in §2 Master Action Table. New citation recommendations go in the Content Update Brief (Section 14E annotated outline).**
 
 ---
 
-*End of SEO Audit Report. The Content Update Brief (writer-facing `.docx`) is delivered separately and contains all content actions (KEEP / EDIT / REWRITE / NEW / MOVE / REMOVE) as an annotated outline.*
+## 9. APPENDIX
 
+### Ahrefs API Consumption Log
 
+| # | Call | Endpoint | Units |
+|---|------|----------|-------|
+| 1 | Organic Keywords | `site-explorer-organic-keywords` | 50 (returned 0 keywords — min charge) |
+| 2 | SERP Overview | `serp-overview` | 110 |
+| 3 | Keyword Overview | `keywords-explorer-overview` | 50 |
+| 4 | Backlinks Stats | `site-explorer-backlinks-stats` | 50 |
+| | **Total** | | **260** |
 
+### Files saved (this audit)
 
+- `./workspace/business-plan-competitions/audit-data/step1a-target-page.json`
+- `./workspace/business-plan-competitions/audit-data/step1a-page-text.txt` (2,222 words)
+- `./workspace/business-plan-competitions/audit-data/verified-facts.json`
+- `./workspace/business-plan-competitions/audit-data/step1b-gsc-data.json` (272 queries)
+- `./workspace/business-plan-competitions/audit-data/step1b-gsc-trends.json` (2,000 query+date rows)
+- `./workspace/business-plan-competitions/audit-data/step1b-cannibalization.json` (5 queries checked)
+- `./workspace/business-plan-competitions/audit-data/step1c-organic-keywords.json`
+- `./workspace/business-plan-competitions/audit-data/step1c-serp-overview.json`
+- `./workspace/business-plan-competitions/audit-data/step1c-keyword-overview.json`
+- `./workspace/business-plan-competitions/audit-data/step1c-backlinks.json`
+- `./workspace/business-plan-competitions/audit-data/step1c-serp-features.json`
+- `./workspace/business-plan-competitions/audit-data/step1d-competitor-{1,2,3,4}.json` (enriched)
+- `./workspace/business-plan-competitions/audit-data/step1d-competitor-{1,2,3,4}-text.txt`
+
+---
 

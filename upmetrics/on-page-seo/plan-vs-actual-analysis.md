@@ -145,39 +145,48 @@ The post is 3,624 words; CTA guide target is 1–2 contextual product CTAs (excl
 
 ---
 
-#### #1 (Recommended) — Delivery Block (Blue) | Between "How to conduct a plan vs. actual analysis (Example)?" section and the upm-blog-note before "Variances"
+#### #1 (Recommended) — Flex Banner: Excel/Spreadsheet Alternative (Type 10) | Between the Dashboard subsection and the upm-blog-note before "Variances"
 
-**Placed after:** Last paragraph of the Upmetrics-method walkthrough — *"You only need to do this once. After that, every monthly sync brings your actuals straight into Upmetrics, ready to compare against the plan."* (or after the Dashboard section ending — both are reasonable; the Dashboard ending sits ~45% scroll, which is the cleaner break)
+**Placed after:** Last paragraph of the Upmetrics-method walkthrough — *"Asset charts present the value and distribution of your business's assets over time, helping you track growth or depreciation by comparing actual and forecasted data."* (~45% scroll, clean break before the "Variances" H2)
 
 **CTA Preview:**
 
 ```
 +--------------------------------------------------------------+
-| Skip the spreadsheet — let Upmetrics run plan vs. actual for |
-|                          you.                                |
+| [icon]   Stop running plan vs. actual in spreadsheets        |
 |                                                              |
-|  Connect QuickBooks or Xero, set your forecast, and we'll    |
-|        handle the variance math every month.                 |
+|          Connect Xero or QuickBooks — Upmetrics handles      |
+|          the variance for you.                               |
 |                                                              |
-|                   [ Try Upmetrics Free → ]                   |
+|          [ Try Upmetrics ]                                   |
 +--------------------------------------------------------------+
 ```
 
-**Why:** The reader just finished comparing spreadsheet vs. Upmetrics workflows. This is the *moment of decision* — placing a CTA here catches anyone who's convinced they want software but won't scroll to the end. Points to the same destination as the existing end CTA (`/cta/help`) so we reinforce the conversion path, not split it. Blue `delivery-block` matches the existing visual style.
+**Why:** Type 10 (Excel Alternative) is the canonical match for this context — the registry literally lists "After section comparing tools / manual vs. software" as its primary use case. Reader has just finished the spreadsheet walkthrough *and* the Upmetrics walkthrough. They've already seen the comparison. The CTA closes the loop. Type 10 also gives visual variety against the canonical end `delivery-block` (CTA Variety Rule satisfied — no two of the same type per post).
 
 **HTML:**
 
 ```html
-<div class="delivery-block text-center">
-<p class="delivery-text h2">Skip the spreadsheet — let Upmetrics run plan vs. actual for you.</p>
-<p class="delivery-tegline">Connect QuickBooks or Xero, set your forecast, and we'll handle the variance math every month.</p>
-<div><a class="cta-btn cta-btn-bg-blue" href="https://upmetrics.co/cta/help">Try Upmetrics Free <span class="crossline-img"><img src="https://ct.upmetrics.co/wp-content/uploads/2023/10/crossline.png" alt="crossline" width="29" height="21" /></span></a></div>
+<div class="upm_blog_bg_cta flex-cta-banner">
+<div class="cta_img_wrapper"><img src="https://upmetrics.co/wp-content/uploads/2025/06/financial-forecasting-200.svg" alt="Financial forecasting" width="180" height="153" /></div>
+<div>
+<p class="title h2">Stop running plan vs. actual in spreadsheets</p>
+Connect Xero or QuickBooks &mdash; Upmetrics handles the variance for you.
+<a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Try Upmetrics</a>
+</div>
 </div>
 ```
 
+**Copy specs:**
+- **Headline:** 7 words (under the 12-word ceiling)
+- **Subtitle:** 11 words (well under the 20-word ceiling)
+- **Button:** 2 words
+- **Destination:** `/signup` (per Type 10 registry default — direct trial signup, not `/cta/help`)
+- **Voice:** declarative, no AI-banned words (no "transform / unlock / streamline / empower")
+
 ---
 
-**Recommendation:** Add #1. The post has editorial-CTA rhythm covered (tips and notes) but no in-body product CTA — and the spreadsheet ↔ Upmetrics decision section is the single highest-intent moment in the article. One mid-article CTA + the canonical end banner is exactly within the 1–2 contextual CTA target.
+**Recommendation:** Add #1. The post has editorial-CTA rhythm covered (tips and notes) but no in-body product CTA — and the spreadsheet ↔ Upmetrics decision section is the single highest-intent moment in the article. One Type 10 mid-article CTA + the canonical end `delivery-block` is exactly within the 1–2 contextual CTA target and satisfies the Variety Rule.
 
 ---
 

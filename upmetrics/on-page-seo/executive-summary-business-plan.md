@@ -53,90 +53,113 @@
 
 **Existing audit (12 internal links):**
 
-| # | Anchor | Target | Verdict | Notes |
-|:--:|--------|--------|---------|-------|
-| 1 | read this first | how-to-write-a-business-plan-complete-guide | **Needs improvement** | Generic anchor — replace with descriptive phrase |
-| 2 | free executive summary template | download executive summary | **Should remove (move to Task 3)** | Downloadable resource — belongs in ACF Resource CTA, not inline body link |
-| 3 | business plan template | template blog-business-plan | Good | — |
-| 4 | purpose your business plan | why-you-need-a-business-plan | **Needs improvement** | Awkward phrasing — adjust anchor |
-| 5 | unique value proposition | unique-value-proposition | Good | — |
-| 6 | market analysis guide | market-analysis-in-business-plan | Good | — |
-| 7 | overview of the organizational structure | organizational-structure-business-plan | Good | — |
-| 8 | financial projections | financial-projections-business-plan | Good | High-conversion target (42 conv/90d) |
-| 9 | How to write your business plan funding request | how-to-write-funding-request-of-your-business-plan | Good | — |
-| 10 | AI business plan builder | ai-tools free-ai-business-plan-generator | Good | High-conversion target (149 conv/90d) |
-| 11 | Try Upmetrics AI Now → | homepage | Good | Branded homepage CTA in conclusion |
-| 12 | Get Started Now! | cta help redirect | Good | End-of-post CTA button |
+| # | Anchor → Target | Verdict | Notes |
+|:--:|----------------|---------|-------|
+| 1 | [read this first](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) | **Needs improvement** | Generic anchor — replace with descriptive phrase (see Fix A) |
+| 2 | [free executive summary template](https://upmetrics.co/download/executive-summary) | **Should remove (move to Task 3)** | Downloadable resource — belongs in ACF Resource CTA, not inline body link (see Fix C) |
+| 3 | [business plan template](https://upmetrics.co/template/blog-business-plan) | Good | — |
+| 4 | [purpose your business plan](https://upmetrics.co/blog/why-you-need-a-business-plan) | **Needs improvement** | Awkward phrasing — adjust anchor (see Fix B) |
+| 5 | [unique value proposition](https://upmetrics.co/blog/unique-value-proposition) | Good | — |
+| 6 | [market analysis guide](https://upmetrics.co/blog/market-analysis-in-business-plan) | Good | — |
+| 7 | [overview of the organizational structure](https://upmetrics.co/blog/organizational-structure-business-plan) | Good | — |
+| 8 | [financial projections](https://upmetrics.co/blog/financial-projections-business-plan) | Good | High-conversion target (42 conv/90d) |
+| 9 | [How to write your business plan funding request](https://upmetrics.co/blog/how-to-write-funding-request-of-your-business-plan) | Good | — |
+| 10 | [AI business plan builder](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) | Good | High-conversion target (149 conv/90d) |
+| 11 | [Try Upmetrics AI Now →](https://upmetrics.co/) | Good | Branded homepage CTA in conclusion |
+| 12 | [Get Started Now!](https://upmetrics.co/cta/help) | Good | End-of-post CTA button |
 
 ---
 
 **Fixes to existing links:**
 
-**Fix A — Anchor for existing link #1**
-- Locate: the paragraph above the Key Takeaways box that ends `…then read on.`
-- Current anchor: "read this first"
-- Replace anchor with: **"read our complete guide to writing a business plan"**
-- Target stays the same (the complete-guide post).
-- Why: Generic anchors ("read this first", "click here") pass weak topical signal. The replacement is descriptive and includes the keyphrase.
+**Fix A — Replace generic anchor on existing link #1**
 
-**Fix B — Anchor for existing link #4**
-- Locate: in H3 "1. Introduce the purpose" — the sentence beginning `That single line covers the company, the customer, and…`
-- Current anchor: "purpose your business plan"
-- Replace anchor with: **"purpose of your business plan"**
-- Why: Reads as natural English instead of a forced keyword fragment.
+| Field | Value |
+|-------|-------|
+| Locate | Paragraph above the Key Takeaways box, ending `…then read on.` |
+| Current link | [read this first](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) |
+| Replace with | [read our complete guide to writing a business plan](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) |
+| Why | Generic anchors ("read this first", "click here") pass weak topical signal. The replacement is descriptive and includes the keyphrase. |
 
-**Fix C — Remove inline link #2**
-- Locate: the `template-outline` block ("Don't want to start from scratch? Get our **free executive summary template**…")
-- Action: Unlink the phrase (keep the surrounding sentence). The same destination is set as the Resource CTA in Task 3 below, where it renders with a featured-image card.
+**Fix B — Adjust anchor on existing link #4**
+
+| Field | Value |
+|-------|-------|
+| Locate | H3 "1. Introduce the purpose" — sentence beginning `That single line covers the company, the customer, and…` |
+| Current link | [purpose your business plan](https://upmetrics.co/blog/why-you-need-a-business-plan) |
+| Replace with | [purpose of your business plan](https://upmetrics.co/blog/why-you-need-a-business-plan) |
+| Why | Reads as natural English instead of a forced keyword fragment. |
+
+**Fix C — Remove inline link #2 (download moves to Resource CTA)**
+
+| Field | Value |
+|-------|-------|
+| Locate | The `template-outline` block ("Don't want to start from scratch? Get our free executive summary template…") |
+| Current link | [free executive summary template](https://upmetrics.co/download/executive-summary) |
+| Action | Unlink the phrase (keep the surrounding sentence intact). The same destination is set as the Resource CTA in Task 3 below, where it renders with a featured-image card. |
 
 ---
 
 **New internal link suggestions (target-first; each wraps existing text):**
 
-**New link 1** — wrap an existing phrase to surface a high-engagement target.
-- Target page: TAM SAM SOM Market Sizing Guide (path: blog/tam-sam-som-market-size-metrics)
-- Located in: H3 "3. Market opportunity" under "The 5 key parts of an executive summary"
-- Existing sentence to wrap: "Give your TAM and SAM in dollars, not adjectives."
-- Anchor (exact): **TAM and SAM** (2-word wrap inside the existing sentence)
-- Why: Direct topical match — the article tells readers to put these on the page; this is the canonical guide for sizing them.
+**New link 1 — TAM/SAM guide (high-engagement target)**
+
+| Field | Value |
+|-------|-------|
+| New link | [TAM and SAM](https://upmetrics.co/blog/tam-sam-som-market-size-metrics) |
+| Located in | H3 "3. Market opportunity" under "The 5 key parts of an executive summary" |
+| Sentence to wrap | "Give your TAM and SAM in dollars, not adjectives." |
+| After change reads | Give your [TAM and SAM](https://upmetrics.co/blog/tam-sam-som-market-size-metrics) in dollars, not adjectives. |
+| Why | Direct topical match — the article tells readers to put these on the page; this is the canonical guide for sizing them. |
 
 ---
 
-**New link 2** — wrap an existing phrase about loan officers.
-- Target page: How to Write an SBA Business Plan + Template (path: blog/sba-business-plan)
-- Located in: the paragraph immediately after the Key Takeaways box
-- Existing sentence to wrap: "Lenders (especially SBA loan officers) see your cash flow, collateral, and a clear repayment plan."
-- Anchor (exact): **SBA loan officers**
-- Why: The article tells founders SBA officers read this summary differently; the SBA Plan article is the deepest companion piece on what they're scanning for.
+**New link 2 — SBA Business Plan guide**
+
+| Field | Value |
+|-------|-------|
+| New link | [SBA loan officers](https://upmetrics.co/blog/sba-business-plan) |
+| Located in | Paragraph immediately after the Key Takeaways box |
+| Sentence to wrap | "Lenders (especially SBA loan officers) see your cash flow, collateral, and a clear repayment plan." |
+| After change reads | Lenders (especially [SBA loan officers](https://upmetrics.co/blog/sba-business-plan)) see your cash flow, collateral, and a clear repayment plan. |
+| Why | The article tells founders SBA officers read this summary differently; the SBA Plan article is the deepest companion piece on what they're scanning for. |
 
 ---
 
-**New link 3** — wrap an existing phrase about seed equity.
-- Target page: Funding Rounds: Key Stages for Founders (path: blog/funding-rounds)
-- Located in: H3 "Funding ask" under "A real business plan executive summary example"
-- Existing sentence to wrap: "We are raising $2,000,000 in seed equity to fund 18 months of runway."
-- Anchor (exact): **seed equity**
-- Why: First-time founders writing executive summaries often don't know what round structure means — the funding-rounds explainer is the natural educational link.
+**New link 3 — Funding Rounds explainer**
+
+| Field | Value |
+|-------|-------|
+| New link | [seed equity](https://upmetrics.co/blog/funding-rounds) |
+| Located in | H3 "Funding ask" under "A real business plan executive summary example" |
+| Sentence to wrap | "We are raising $2,000,000 in seed equity to fund 18 months of runway." |
+| After change reads | We are raising $2,000,000 in [seed equity](https://upmetrics.co/blog/funding-rounds) to fund 18 months of runway. |
+| Why | First-time founders writing executive summaries often don't know what round structure means — the funding-rounds explainer is the natural educational link. |
 
 ---
 
-**New link 4** — minor text adjustment to add a contextual link inside the DocSend paragraph.
-- Target page: What Investors Want to See in Pitch Decks (path: blog/what-investors-want-to-see-in-pitch-decks) — high-conversion target (44 conv/90d)
-- Located in: H2 "Purpose of an executive summary" intro
-- Existing text: "DocSend's pitch deck research shows the average investor spends about two minutes and 42 seconds on a deck, and that number has been falling year over year."
-- Adjustment: After the DocSend statistic, append a short clause introducing the link. New version:
-  - "DocSend's pitch deck research shows the average investor spends about two minutes and 42 seconds on a deck — see **what investors actually look for in pitch decks** — and that number has been falling year over year."
-- Anchor (exact): **what investors actually look for in pitch decks**
-- Why: Investor-attention-span context already invites the question "what are they scanning for?" — this is the dedicated answer.
+**New link 4 — What Investors Want to See in Pitch Decks (high-conversion target, 44 conv/90d)**
+
+| Field | Value |
+|-------|-------|
+| New link | [what investors actually look for in pitch decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) |
+| Located in | H2 "Purpose of an executive summary" — intro paragraph |
+| Existing text | "DocSend's pitch deck research shows the average investor spends about two minutes and 42 seconds on a deck, and that number has been falling year over year." |
+| Adjustment | Insert a contextual clause after the statistic. |
+| After change reads | DocSend's pitch deck research shows the average investor spends about two minutes and 42 seconds on a deck — see [what investors actually look for in pitch decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) — and that number has been falling year over year. |
+| Why | Investor-attention-span context already invites the question "what are they scanning for?" — this is the dedicated answer. |
 
 ---
 
-**New link 5** — wrap an existing phrase introducing the mistakes section.
-- Target page: 13 Business Plan Mistakes That Kill Funding (path: blog/common-business-plan-mistakes-to-avoid)
-- Located in: H2 "Common mistakes to avoid" — first paragraph
-- Existing sentence to wrap: "I've reviewed enough business plans to see the same mistakes show up again and again."
-- Anchor (exact): **mistakes show up**
-- Why: The H2 already names the topic; a contextual link to the dedicated 13-mistakes piece deepens topical coverage. (Alternative anchor: **same mistakes** if shorter is preferred.)
+**New link 5 — 13 Business Plan Mistakes That Kill Funding**
+
+| Field | Value |
+|-------|-------|
+| New link | [mistakes show up](https://upmetrics.co/blog/common-business-plan-mistakes-to-avoid) |
+| Located in | H2 "Common mistakes to avoid" — first paragraph |
+| Sentence to wrap | "I've reviewed enough business plans to see the same mistakes show up again and again." |
+| After change reads | I've reviewed enough business plans to see the same [mistakes show up](https://upmetrics.co/blog/common-business-plan-mistakes-to-avoid) again and again. |
+| Why | The H2 already names the topic; a contextual link to the dedicated 13-mistakes piece deepens topical coverage. |
 
 ---
 
@@ -171,10 +194,13 @@
 **New CTA suggestion:**
 
 **CTA 1 — Mid-content "read also" link block**
-- Position: Immediately after the H3 "Financial projections" table in "A real business plan executive summary example"
-- Block type: `read-link` (matches existing block #6)
-- Copy: "Also read **how to build financial projections that hold up under investor scrutiny**" (link to blog/financial-projections-business-plan)
-- Why: The financial projections table is high-intent content; an in-context link to the dedicated piece (a high-conversion target with 42 conversions/90d) breaks up the table-heavy section and surfaces a related deep-dive.
+
+| Field | Value |
+|-------|-------|
+| Position | Immediately after the H3 "Financial projections" table in "A real business plan executive summary example" |
+| Block type | `read-link` (matches existing block #6 above) |
+| Rendered copy | Also read [how to build financial projections that hold up under investor scrutiny](https://upmetrics.co/blog/financial-projections-business-plan) |
+| Why | The financial projections table is high-intent content; an in-context link to the dedicated piece (a high-conversion target with 42 conv/90d) breaks up the table-heavy section and surfaces a related deep-dive. |
 
 ---
 
@@ -186,7 +212,7 @@
 
 | Field | Value |
 |-------|-------|
-| Resource URL | upmetrics.co/download/executive-summary |
+| Resource URL | [https://upmetrics.co/download/executive-summary](https://upmetrics.co/download/executive-summary) |
 | Heading | Executive Summary Template |
 | Resource link text | Download Template |
 
@@ -196,7 +222,7 @@
 |-------|-------|
 | ability_name | upmetrics/set-resource-cta |
 | post_id | 6086 |
-| resource_url | upmetrics.co/download/executive-summary |
+| resource_url | [https://upmetrics.co/download/executive-summary](https://upmetrics.co/download/executive-summary) |
 | heading | Executive Summary Template |
 | resource_link_text | Download Template |
 
@@ -208,14 +234,14 @@
 
 **Suggested 4 related posts** (deduplicated against Tasks 1/3):
 
-| # | Post ID | Title (sidebar) | Path |
-|:--:|:--:|-----------------|------|
-| 1 | 64304 | Business Plan for Investors: What to Include | blog/business-plan-for-investors |
-| 2 | 107358 | What Lenders & Investors Look For | blog/what-lenders-look-for-in-business-plan |
-| 3 | 63020 | 13 Business Plan Mistakes That Kill Funding | blog/common-business-plan-mistakes-to-avoid |
-| 4 | 91714 | Funding Rounds: Stages Every Founder Should Know | blog/funding-rounds |
+| # | Post ID | Sidebar Title | Target URL |
+|:--:|:--:|---------------|------------|
+| 1 | 64304 | Business Plan for Investors: What to Include | [https://upmetrics.co/blog/business-plan-for-investors](https://upmetrics.co/blog/business-plan-for-investors) |
+| 2 | 107358 | What Lenders & Investors Look For | [https://upmetrics.co/blog/what-lenders-look-for-in-business-plan](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) |
+| 3 | 63020 | 13 Business Plan Mistakes That Kill Funding | [https://upmetrics.co/blog/common-business-plan-mistakes-to-avoid](https://upmetrics.co/blog/common-business-plan-mistakes-to-avoid) |
+| 4 | 91714 | Funding Rounds: Stages Every Founder Should Know | [https://upmetrics.co/blog/funding-rounds](https://upmetrics.co/blog/funding-rounds) |
 
-**Note:** Titles above are shortened for sidebar readability (raw titles are longer and keyword-stuffed).
+**Note:** Sidebar titles above are shortened for readability (raw titles are longer and keyword-stuffed).
 
 ---
 
@@ -342,16 +368,16 @@ Makes the example-specific H3s scannable and disambiguates them from the introdu
 
 **Linkable topics for this page:** "executive summary", "executive summary business plan", "write executive summary", "business plan executive summary example", "seed funding ask".
 
-**Suggestions** (every source verified in WordPress):
+**Suggestions** (every source page verified in WordPress; suggested anchor is a starting search term — SEO team should confirm/refine after locating the phrase in each source page's body):
 
-| # | Source Page | Path | Post ID | Post Type | Why Link Here | Suggested Anchor | Priority |
-|:--:|------------|------|:--:|-----------|--------------|-----------------|:--:|
-| 1 | How to Write a Business Plan — Complete Guide | blog/how-to-write-a-business-plan-complete-guide | (lookup via list-posts) | post | Parent guide that already references executive summary as a section | executive summary | High |
-| 2 | How to Write an SBA Business Plan + Template | blog/sba-business-plan | 6125 | post | SBA plans require an executive summary tailored for lenders — natural link target | executive summary for SBA loan | High |
-| 3 | Business Plan for Investors | blog/business-plan-for-investors | 64304 | post | Investor-facing plans hinge on the executive summary | write the executive summary | High |
-| 4 | What Lenders & Investors Look For in a Business Plan | blog/what-lenders-look-for-in-business-plan | 107358 | post | Recent (Apr 2026) — both audiences scan the summary first | how to write an executive summary | Medium |
-| 5 | 13 Business Plan Mistakes That Kill Funding | blog/common-business-plan-mistakes-to-avoid | 63020 | post | Two of the 13 mistakes are summary-specific — natural anchor | executive summary mistakes | Medium |
-| 6 | How to Write a Nonprofit Business Plan | blog/nonprofit-business-plan | 106581 | post | Nonprofit plans use a modified executive summary structure | executive summary | Medium |
+| # | Source Page (with link) | Post ID | Post Type | Why Link Here | Suggested Anchor | Priority |
+|:--:|------------------------|:--:|-----------|--------------|-----------------|:--:|
+| 1 | [How to Write a Business Plan — Complete Guide](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) | (lookup via list-posts) | post | Parent guide that already references executive summary as a section | executive summary | High |
+| 2 | [How to Write an SBA Business Plan + Template](https://upmetrics.co/blog/sba-business-plan) | 6125 | post | SBA plans require an executive summary tailored for lenders — natural link target | executive summary for SBA loan | High |
+| 3 | [Business Plan for Investors](https://upmetrics.co/blog/business-plan-for-investors) | 64304 | post | Investor-facing plans hinge on the executive summary | write the executive summary | High |
+| 4 | [What Lenders & Investors Look For in a Business Plan](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) | 107358 | post | Recent (Apr 2026) — both audiences scan the summary first | how to write an executive summary | Medium |
+| 5 | [13 Business Plan Mistakes That Kill Funding](https://upmetrics.co/blog/common-business-plan-mistakes-to-avoid) | 63020 | post | Two of the 13 mistakes are summary-specific — natural anchor | executive summary mistakes | Medium |
+| 6 | [How to Write a Nonprofit Business Plan](https://upmetrics.co/blog/nonprofit-business-plan) | 106581 | post | Nonprofit plans use a modified executive summary structure | executive summary | Medium |
 
 > Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting search term — the actual anchor depends on what text exists in each source page. SEO team to verify and implement.
 

@@ -382,4 +382,55 @@ Reviewing the body text for statistical or factual claims lacking citations:
 
 ---
 
-*End of SEO Audit Report. The Content Update Brief — covering all content fixes, additions, and the annotated outline for the writer — is delivered as a separate `.docx` file uploaded to Google Docs.*
+*End of original audit report. See Addendum below — additional competitor data recovered after the initial scrape failures.*
+
+---
+
+## ADDENDUM — Step 1D Recovered Competitor Data (Inc.com + Bplans/LivePlan)
+
+After the initial audit completed, the previously blocked competitors C1 (Inc.com) and C3 (Bplans.com) were re-scraped using a browser-based extension. Inc.com remained partially paywalled but visible structure was recovered. Bplans.com **redirects to liveplan.com** — and the full 3,000-word article was extracted. This addendum updates the depth comparison and flags new findings that **reinforce** (not change) the recommendations in Section 6 and the Update Brief.
+
+### Updated Content Depth (replaces partial rows in §6A)
+
+| Page | URL | Word Count | H2s | Total Headings | Updated Date | Author |
+|------|-----|-----------|-----|---------------|--------------|--------|
+| C1 — Inc.com | [Inc article](https://www.inc.com/jeff-haden/how-to-write-a-great-business-plan-competitive-analysis.html) | Below paywall (likely 800-1,500) | 0 visible, ≥1 H3 ("Profile Current Competitors") | 2+ visible above paywall | **2015-04-09 (11 years stale)** | Jeff Haden |
+| C3 — Bplans → **LivePlan** | [LivePlan article](https://www.liveplan.com/blog/planning/competitive-analysis-example?ref=bplans) | **~3,000** | **6** | **25** | **2026-05-13 (16 days before audit)** | Tim Berry (Palo Alto Software founder, MBA Stanford) |
+
+### Key New Findings
+
+**1. Bplans is actually LivePlan content** — the bplans.com URL 302-redirects to `liveplan.com/blog/planning/competitive-analysis-example?ref=bplans`. LivePlan is on Upmetrics's `$COMPETITOR_DOMAINS` list. **Reinforced rule:** do NOT cite, link, or quote this article in the updated page (already captured in Update Brief Section 14F competitor_warning).
+
+**2. Tim Berry's audience-segmentation guidance is on the LivePlan page.** The LivePlan article explicitly distinguishes "Internal team plans" vs "Fundraising/Investor plans" with different formatting guidance for each. This **validates** the Update Brief recommendation (Section 14E H4 "How to document in the competition section" enrichment) — we are not the first to identify this angle, but it is a SERP-rewarded differentiator.
+
+**3. LivePlan covers "Why competition is a good thing" with a 4-part argument** (validates idea / educates market / pushes you / forces focus). **No competitor scraped earlier surfaces this counter-intuitive framing.** This is a NEW content opportunity for the Update Brief:
+
+> **Recommended addition to Update Brief Section 14E:** Add a NEW H3 under the existing "Why do you need a competition section?" H2 — title: "Why competition is actually a good thing for your business." Cover the 4 points but pivot to writing-craft framing (how to *write* the section so it acknowledges competition without sounding defensive). This sits at our edge of the angle split: we cover the *writing*, sister page covers the methodology.
+
+**4. LivePlan uses the Henry Ford example for indirect competitors** ("Ford competed with horse-and-buggy makers, bicycles, and railroads — not other automakers"). This is the canonical example. Update Brief Section 14E NEW H2 "How to identify and categorize your competitors" should **deliberately use a DIFFERENT historical/contemporary example** (e.g., Airbnb vs. hotels + couch surfing, or Netflix vs. Blockbuster + theaters — already mentioned in Brief). Avoid Henry Ford to prevent the page reading as derivative.
+
+**5. LivePlan uses a 7-factor framework** (market share, products/features, pricing, distribution, target markets, marketing strategies, customer service) — functionally equivalent to our recommended 8-factor matrix in Update Brief Section 14E. **Reinforces the recommendation** — this is the SERP norm.
+
+**6. LivePlan does NOT have a FAQ section, downloadable in-content asset, or full worked paragraph-level example.** These remain real differentiation opportunities for the target page. The Update Brief's planned NEW worked example (specialty coffee shop) and FAQ expansion are still distinct from the top SERP result.
+
+**7. Inc.com is 11 years old (April 2015) and behind a hard subscription paywall** after 4 short paragraphs. The article ranks #2 purely on inc.com's domain authority. The visible H3 we recovered is "Profile Current Competitors" — that is the only confirmed in-article heading. **Insight for link building (§7E):** if Inc.com is willing to rank an 11-year-old paywalled article at #2 on pure DR, the SERP is genuinely vulnerable to a fresh, accessible, depth-rich page. Our `0 live referring domains` is the ceiling-setting bottleneck, not content quality.
+
+**8. Tim Berry's self-deprecating credibility line:** the LivePlan article includes <cite>"I've seen dozens of competitive matrices in plans and pitches. I've never seen a single one that didn't show that this company does more of what the market wants than all others."</cite> This is a strong honesty-builds-trust device. The Update Brief Section 14E "Common mistakes" NEW H2 could borrow this *framing approach* (not the words) — name a credibility-killing pattern in the founder's writing and offer the fix.
+
+### What Does NOT Change
+
+- **Strategy:** Re-differentiate (Section 3 P1 action) — still correct, still the right call.
+- **Update Brief outline:** All 35 outline sections remain valid. The recommendations are reinforced, not altered.
+- **Cannibalization plan:** Still re-differentiate — this page is the "writing" specialist, sister page is the "methodology" specialist.
+- **All Ahrefs unit counts and §7E backlink gap:** Unchanged.
+
+### Suggested Edits to Update Brief Section 14E (P3 — optional, follow-up)
+
+- **NEW H3 to insert under H2 "Why do you need a competition section in your business plan?":** "Why competition is actually a good thing" — 4-part counter-intuitive framing (3-4 sentences total). Avoid using LivePlan's example brands; cite SBA or HBR if a source is needed.
+- **NEW callout under H2 "How to identify and categorize your competitors":** "Tim Berry-style honest-broker framing — explicitly acknowledge that all competitor matrices look biased in your favor; show what you did to counter the bias." Adds writing-craft credibility.
+
+These two follow-ups can be applied as a minor revision to the Google Doc after the writer's first pass.
+
+---
+
+*End of Addendum.*

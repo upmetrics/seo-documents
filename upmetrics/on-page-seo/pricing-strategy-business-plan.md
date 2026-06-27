@@ -101,9 +101,11 @@ Current link count is healthy for a ~2,940-word post (target 5–7). Adding 2 be
 
 Only the end CTA exists. For ~2,940 words, 2–3 CTAs is the target — there's room for one mid-content banner.
 
-> **#1 (Recommended)** — Flex Banner: Financial Forecasting (Type 4) | After "Usage-based pricing"
+> **#1 (Recommended)** — Flex Banner: Financial Forecasting (Type 4) | End of SaaS section, just before the "How I'd actually build a pricing model" heading
 >
-> **Placed after:** "For a business plan, this is the hardest model to forecast. Investors will want to see your assumptions on average usage and how you've handled the variance. Alright, I've thrown a lot at you so far; it's about time I put them into action."
+> **Placed after (single paragraph — Ctrl+F this):** "For a business plan, this is the hardest model to forecast. Investors will want to see your assumptions on average usage and how you've handled the variance."
+>
+> **Exact insertion point:** the banner goes at the very end of the "Usage-based pricing" / SaaS section — after the bridge line *"Alright, I've thrown a lot at you so far; it's about time I put them into action."* and immediately before the **How I'd actually build a pricing model: a 6-step process** heading.
 >
 > **CTA Preview:**
 > ```

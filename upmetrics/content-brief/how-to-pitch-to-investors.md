@@ -3,7 +3,7 @@
 **Date:** 2026-06-29
 **Prepared by:** SEO Content Strategist (AI-Assisted)
 **Target Market:** United States
-**Content Format:** Informational how-to guide
+**Content Format:** Informational how-to guide (step-by-step)
 **WordPress Post Type:** post
 
 > ⚠️ **Publishing note — REUSE the existing URL.** A page already exists at `https://upmetrics.co/blog/how-to-pitch-investors` (ranks ~#34 for the primary keyword, 0 clicks). This brief is a **full rewrite that replaces that page at the same slug** — do NOT create a new URL. Publishing as a new post would split equity and cannibalize the keyword.
@@ -25,7 +25,7 @@
 | WordPress Post Type | post |
 | Recommended Slug | /blog/how-to-pitch-investors **(reuse existing — do not change)** |
 | Full URL Preview | [https://upmetrics.co/blog/how-to-pitch-investors](https://upmetrics.co/blog/how-to-pitch-investors) |
-| Content Format | Informational how-to guide |
+| Content Format | Informational how-to guide (step-by-step) |
 | Target Word Count | 2,500 words |
 | Estimated Writing Time | 4–5 hours for first draft |
 | Reader Persona | First-time / early-stage founder preparing to raise a pre-seed or seed round |
@@ -36,17 +36,17 @@
 
 ## 2. Why We'll Win
 
-- **We split "the deck" from "the pitch."** Every competitor (and our current page) collapses the two and ends up "business-plan-forced." We treat the pitch as a *story + conversation*, and point deck mechanics to our sister article — so this reads like a founder coaching you, not a planning template.
+- **We answer the actual question.** "How do you pitch to investors?" is delivered as a step-by-step walkthrough, not a static "what's in a deck" checklist. Our current page and most competitors drift into deck-contents — we keep it about the *act* of pitching, like the reference article does, but with real numbers.
 - **Real numbers, not vague advice.** Competitors say "justify your fundraising needs" and stop. We show the math: backing a funding ask out of 18 months of runway and milestones, and talking valuation without flinching.
-- **A genuine follow-up playbook — the universal gap.** All 5 competitors mention follow-up in one sentence. We give the reader exactly what to send, when, and how to keep a "we'll be in touch" alive.
-- **An investor-Q&A cheat sheet with the real questions** investors ask (plus the 10/20/30 rule, the 3 C's, the "10% rule") and how to answer them — only Plangrowlab touches this, shallowly.
+- **A genuine follow-up playbook — the universal gap.** Every competitor (including the reference) gives follow-up one sentence. We give the reader exactly what to send, when, and how to keep a "we'll be in touch" alive.
+- **An investor-Q&A cheat sheet with the real questions** investors ask (plus the 10/20/30 rule, the 3 C's, the "10% rule") and how to answer them — the reference only says "expect pushback" and moves on.
 - **Visual-rich where the SERP is thin.** Stripe has zero visuals; JP Morgan and Auburn have one stock photo. We ship a pitch-flow diagram, a TAM/SAM/SOM visual, a funding-ask table, and a follow-up timeline.
 
 **Upmetrics assets to embed (woven inline — no standalone sales section):**
-- [What Investors Want to See in Pitch Decks That Get Funded](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) — Place in: H2 "What your pitch needs to cover" (intro)
-- [10 Successful Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples) — Place in: H2 "What your pitch needs to cover" (intro)
-- [Pitch Canvas template](https://upmetrics.co/strategic-planning-templates/pitch-canvas) — Place in: H2 "What your pitch needs to cover" (intro)
-- [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) — Place in: H3 "Present your financials"
+- [What Investors Want to See in Pitch Decks That Get Funded](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) — Place in: H2 "How to pitch to investors, step by step" (intro)
+- [10 Successful Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples) — Place in: H2 "How to pitch to investors, step by step" (intro)
+- [Pitch Canvas template](https://upmetrics.co/strategic-planning-templates/pitch-canvas) — Place in: H2 "How to pitch to investors, step by step" (intro)
+- [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) — Place in: Step 7 "Present your financials"
 
 **Original value-adds competitors can't match:**
 - A worked funding-ask example (milestones → runway → raise amount) with real dollar figures.
@@ -66,9 +66,9 @@
 | Primary Persona | First-time / early-stage US founder preparing to raise a pre-seed or seed round; has an idea or early traction, has never formally pitched investors |
 | Geographic Focus | United States |
 | Funnel Stage | Consideration → Action (actively preparing to pitch, looking for a repeatable method) |
-| Knowledge Level | Beginner–Intermediate (knows what a pitch deck is, unsure how to run the meeting, handle questions, and follow up) |
+| Knowledge Level | Beginner–Intermediate (knows what a pitch deck is, unsure how to actually pitch, handle questions, and follow up) |
 | Pain Points | Doesn't know what investors actually care about vs. filler; afraid of tough questions; unsure how much to raise or how to justify it; no idea what to do after the meeting; existing guides feel generic or "business-plan-forced" |
-| What They Want | A clear, end-to-end method: build the pitch, find investors, deliver it, answer questions, and follow up to close the round |
+| What They Want | A clear, step-by-step method for the act of pitching: walk through the pitch, deliver it, answer questions, and follow up to close the round |
 
 **SERP Intent Breakdown:**
 
@@ -81,14 +81,15 @@
 **How intent maps to our outline:**
 
 **Informational sections** (educate the reader):
-- H2: What investors are really evaluating — reframes the topic
-- H2: What your pitch needs to cover — the deck substance (problem, solution, market, traction, team, financials, ask)
-- H2: Delivering your pitch — the live meeting + Q&A
-- H2: After the pitch: follow up and close — the aftermath
+- H2: What investors look for in a pitch — reframes the topic
+- H2: How to pitch to investors, step by step — the core walkthrough (problem → solution → market → model → traction → team → financials → ask)
+- H2: Deliver the pitch with confidence — presentation
+- H2: Handle investor questions — Q&A
+- H2: Follow up after the pitch — the aftermath
 
 **Commercial sections** (help the reader evaluate/compare):
-- H3: Present your financials — references financial modeling tooling (inline)
-- H2: What your pitch needs to cover — references deck examples + pitch deck builder (inline)
+- Step 7: Present your financials — references financial modeling tooling (inline)
+- H2: How to pitch to investors, step by step (intro) — references deck examples + pitch deck builder (inline)
 
 **Transactional sections** (convert the reader):
 - None as a dedicated section — product links woven inline only. SERP shows 0% transactional intent, so promotion stays light.
@@ -189,7 +190,7 @@ These queries already earn impressions on the page we're rewriting — better co
    - **Word count (body only):** ~2,200 words
    - **H2s:** 5 (10 numbered steps) | **Strengths:** Clear prep→pitch→mistakes flow; DocSend attention data (2:20/deck); Dec 2024 fresh. | **Weaknesses:** No templates/examples; surface-level financials; one-sentence follow-up; no FAQ.
 
-*Plangrowlab reference (your link, [How to Pitch to Investors](https://plangrowlab.com/blog/how-to-pitch-to-investors)) — authored by Upmetrics' own CEO; ~2,650 words, strong examples but self-admittedly "business-plan-forced" and promo-heavy. Used as the differentiation baseline, not scored as a SERP competitor.*
+*Plangrowlab reference (your link, [How to Pitch to Investors](https://plangrowlab.com/blog/how-to-pitch-to-investors)) — authored by Upmetrics' own CEO; ~2,650 words. **Structure we're aligning to:** one "How do you pitch a business plan to investors?" section with 10 sequential steps (deck → format → problem → solution → market → model → traction → team → financials → pushback/follow-up), then a "Nail the pitch presentation" tips section, then FAQ. Strong examples but self-admittedly "business-plan-forced," promo-heavy, and thin on Q&A/follow-up — which is exactly where we go deeper.*
 
 **Intent-matched word count benchmark:**
 
@@ -205,16 +206,17 @@ These queries already earn impressions on the page we're rewriting — better co
 
 | Topic / Section | Auburn | SVB | JPM | Stripe | Dropbox | UGC | Ours |
 |----------------|----|----|----|----|-----|-----|------|
-| What investors look for | ✅ | ✅ | ✅ | ✅ | ✅ | 🔥 | ✅ Reframe (deck ≠ pitch) |
-| Problem / solution / market | ❌ | ✅ | ✅ | ✅ | ✅ | — | ✅ In "What your pitch covers" |
-| Traction & proof (pre-revenue) | ✅ | ✅ | ✅ | ✅ | ✅ | 🔥 | ✅ Go deeper |
-| Team | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ Table stakes |
-| Financials (with real math) | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | 🔥 | ✅ Show the math |
-| Realistic funding ask + valuation | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ GAP — worked example |
-| Know your audience / investor type | ✅ | ✅ | ❌ | ✅ | ✅ | — | ✅ "Line up the right investors" |
-| Delivery (timing, 3 C's, 10/20/30) | ✅ | ❌ | ❌ | ✅ | ❌ | 🔥 | ✅ Improve |
-| Investor Q&A / handling pushback | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ GAP — question cheat sheet |
-| Post-pitch follow-up | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ GAP — full playbook |
+| What investors look for | ✅ | ✅ | ✅ | ✅ | ✅ | 🔥 | ✅ Reframe intro |
+| Problem / solution | ❌ | ✅ | ✅ | ✅ | ✅ | — | ✅ Steps 1–2 |
+| Market size (TAM/SAM/SOM) | ❌ | ✅ | ✅ | ✅ | ✅ | — | ✅ Step 3 — show the calc |
+| Business model | ❌ | ✅ | ✅ | ✅ | ✅ | — | ✅ Step 4 |
+| Traction & proof (pre-revenue) | ✅ | ✅ | ✅ | ✅ | ✅ | 🔥 | ✅ Step 5 — go deeper |
+| Team | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ Step 6 |
+| Financials (with real math) | ✅ | ✅ | ✅ | ⚠️ | ⚠️ | 🔥 | ✅ Step 7 — show the math |
+| Realistic funding ask + valuation | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ Step 8 — GAP, worked example |
+| Delivery (timing, 3 C's, 10/20/30) | ✅ | ❌ | ❌ | ✅ | ❌ | 🔥 | ✅ "Deliver the pitch" section |
+| Investor Q&A / handling pushback | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ Own section — GAP, cheat sheet |
+| Post-pitch follow-up | ❌ | ❌ | ❌ | ❌ | ⚠️ | 🔥 | ✅ Own section — GAP, full playbook |
 | Common mistakes | ✅ | ❌ | ✅ | ⚠️ | ✅ | 🔥 | ✅ Roundup |
 | Upmetrics product value | — | — | — | — | — | — | ✅ Woven inline (model + deck builder) |
 
@@ -245,9 +247,9 @@ Threads present in SERP:
 - Founders say "what actually happens," "get a meeting," "warm intro," "they ghosted me" — not "investor engagement funnel."
 
 **How This Shaped the Outline:**
-- The **Handle investor questions** and **After the pitch** sections directly answer the "awkward middle" founders complain is missing.
+- The **Handle investor questions** and **Follow up after the pitch** sections directly answer the "awkward middle" founders complain is missing.
 - FAQ on emailing a pitch (Quora) and on what to do after a "no."
-- The opener frames "what investors really evaluate" against the deck-obsessed advice elsewhere.
+- The opener frames "what investors look for" against the deck-obsessed advice elsewhere.
 
 ---
 
@@ -265,29 +267,29 @@ Threads present in SERP:
 **Required visuals (informed by competitor analysis):**
 
 1. **Type:** Diagram (pitch-flow / story arc)
-   - **Description:** A single visual showing the pitch flow: problem → solution → market → traction → team → financials → the ask.
-   - **Placement:** Under H2 "What your pitch needs to cover" (intro)
+   - **Description:** A single visual showing the pitch flow: problem → solution → market → model → traction → team → financials → the ask.
+   - **Placement:** Under H2 "How to pitch to investors, step by step" (intro)
    - **Competitor insight:** Only Plangrowlab has a deck breakdown graphic — Stripe/SVB/JPM have none. Easy win.
 
 2. **Type:** Infographic (TAM / SAM / SOM)
    - **Description:** Nested-circles TAM/SAM/SOM with a worked example using real dollar figures.
-   - **Placement:** Under H3 "Size the market (TAM/SAM/SOM)"
+   - **Placement:** Under Step 3 "Show the market opportunity (TAM/SAM/SOM)"
 
 3. **Type:** Table (funding-ask calculation)
    - **Description:** Milestones → months of runway → monthly burn → total raise, with a filled-in example.
-   - **Placement:** Under H3 "Make a clear, defensible funding ask"
+   - **Placement:** Under Step 8 "Make a clear funding ask"
 
 4. **Type:** Table (investor-question cheat sheet)
    - **Description:** Columns: Question investors ask | What they're really testing | How to answer.
-   - **Placement:** Under H3 "Handle investor questions"
+   - **Placement:** Under H2 "Handle investor questions"
 
 5. **Type:** Timeline (follow-up sequence)
    - **Description:** Day 0 → Day 1 → Day 3–5 → Day 10 follow-up cadence with what to send at each step.
-   - **Placement:** Under H2 "After the pitch: follow up and close"
+   - **Placement:** Under H2 "Follow up after the pitch"
 
 6. **Type:** Screenshot (Upmetrics financial model)
    - **Description:** Annotated projections/financial model view.
-   - **Placement:** Under H3 "Present your financials"
+   - **Placement:** Under Step 7 "Present your financials"
 
 **Image alt text guidelines:**
 - Include primary or secondary keyword naturally (e.g., "investor pitch story-arc flow diagram").
@@ -299,11 +301,11 @@ Threads present in SERP:
 
 **Recommended Scannable Elements For This Article:**
 
-1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after intro — Content: the pitch flow in one box (no competitor has this).
-2. 📊 **Comparison Table** — Include: Yes — Placement: under "Line up the right investors" — Format: angel vs. VC expectations; plus the funding-ask calc table under "Make a clear, defensible funding ask".
-3. ✅ **Checklist Summary** — Include: Yes — Placement: end of "What your pitch needs to cover" — Format: pre-pitch readiness checklist.
-4. 💡 **Key Takeaway Callout Boxes** — Include: Yes — Number: 4–5 — Placement: traction, financials, funding ask, Q&A, follow-up.
-5. ⚡ **Quick Answer Block** — Include: Yes — Which sections: "What investors are really evaluating", "Run the room" (pitch length, 3 C's, 10/20/30).
+1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after intro — Content: the 8-step pitch flow in one box (no competitor has this).
+2. 📊 **Comparison Table** — Include: Yes — Placement: the funding-ask calc table under Step 8; optional angel vs. VC table in "What investors look for".
+3. ✅ **Checklist Summary** — Include: Yes — Placement: end of the step-by-step walkthrough — Format: pre-pitch readiness checklist.
+4. 💡 **Key Takeaway Callout Boxes** — Include: Yes — Number: 4–5 — Placement: Steps 5, 7, 8 (traction, financials, ask), plus Q&A and follow-up.
+5. ⚡ **Quick Answer Block** — Include: Yes — Which sections: "What investors look for in a pitch", "Run the room" (pitch length, 3 C's, 10/20/30).
 
 > Use WordPress built-in block options — no custom HTML or plugins.
 
@@ -318,15 +320,15 @@ Threads present in SERP:
 | Snippet Format | List (steps) — best format to earn AI Overview citation + any list snippet |
 
 **To capture the snippet / AI Overview citation:**
-- Place a concise **numbered list** under the H2 "What your pitch needs to cover" — the problem → solution → market → traction → team → financials → ask arc, one line each.
-- Add a 2–3 sentence direct-answer paragraph under the opening H2 "What investors are really evaluating" answering "what do investors look for in a pitch?"
-- Target question: "how to pitch to investors" / "what do investors look for in a pitch?"
+- Place a concise **numbered list** under the H2 "How to pitch to investors, step by step" — the 8-step arc (problem → solution → market → model → traction → team → financials → ask), one line each.
+- Add a 2–3 sentence direct-answer paragraph under the opening H2 "What investors look for in a pitch" answering "what do investors look for in a pitch?"
+- Target question: "how to pitch to investors" / "how do you pitch a business idea to investors?"
 
 **PAA (People Also Ask) Targets:**
 - What are the 3 C's of pitching? → Answer in "Run the room" (clarity, conviction, confidence).
 - What is the 10/20/30 rule for a pitch deck? → One-line definition in "Run the room".
-- What is the 10% investor rule? → Short paragraph — route to FAQ (not covered by an H2).
-- How do you write a good pitch for investors? → Covered by the whole article; answer concisely in intro.
+- What is the 10% investor rule? → Short paragraph — route to FAQ (not covered by a heading).
+- How do you write a good pitch for investors? → Covered by the whole walkthrough; answer concisely in intro.
 
 > Answer PAA questions concisely within the relevant section. Questions not covered by any heading (e.g., the "10% rule") become FAQ entries — never both.
 
@@ -342,16 +344,16 @@ Threads present in SERP:
 | Alt 1 | How to Pitch to Investors and Actually Get Funded | 49 |
 | Alt 2 | How to Pitch to Investors: Story, Proof & the Ask | 49 |
 
-**Rules applied:** ✓ Primary keyword front-loaded ✓ Under 60 characters ✓ Signals the practical, end-to-end angle ✓ Matches informational intent
+**Rules applied:** ✓ Primary keyword front-loaded ✓ Under 60 characters ✓ Signals the practical, step-by-step angle ✓ Matches informational intent
 
 ### Meta Description
 
 | Option | Description | Characters |
 |--------|------------|-----------|
-| **Primary** | Learn how to pitch to investors step by step: build your pitch, show traction, present financials, handle tough questions, and follow up to close. | 146 |
-| Alt | A founder's guide to pitching investors — build the story, prove traction, set a realistic ask, and run the meeting and follow-up that win the round. | 149 |
+| **Primary** | Learn how to pitch to investors step by step — walk through your pitch, deliver it with confidence, handle tough questions, and follow up to close. | 146 |
+| Alt | A founder's step-by-step guide to pitching investors: open with the problem, prove traction, make a defensible ask, and run the meeting and follow-up. | 149 |
 
-**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Reflects the angle (beyond slides → story, proof, ask, follow-up) ✓ Matches search intent
+**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Reflects the angle (the act of pitching → walkthrough, delivery, Q&A, follow-up) ✓ Matches search intent
 
 ---
 
@@ -361,13 +363,13 @@ Threads present in SERP:
 
 | # | Page | GSC Clicks (90d) | GSC Position | Anchor Text | Place In Section | Context |
 |---|------|-----------------|-------------|-------------|-----------------|---------|
-| 1 | [What Investors Want to See in Pitch Decks That Get Funded](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | — | indexed | "what investors want to see in a pitch deck" | H2: What your pitch needs to cover | In the section intro, link here instead of duplicating slide-by-slide detail. |
-| 2 | [10 Successful Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples) | strong | indexed | "successful pitch deck examples" | H2: What your pitch needs to cover | In the intro, when advising the reader to model real decks. |
-| 3 | [How to Get Funding from Angel Investors](https://upmetrics.co/blog/angel-investor-funding) | indexed | indexed | "funding from angel investors" | H2: Line up the right investors | In the paragraph contrasting angels vs. VCs. |
-| 4 | [Pitch Canvas template](https://upmetrics.co/strategic-planning-templates/pitch-canvas) | 9 | 2.1 | "pitch canvas" | H2: What your pitch needs to cover | In the intro, as a one-page tool to outline the pitch before slides. |
-| 5 | [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) | — | indexed | "build a financial model" | H3: Present your financials | In the paragraph on building projections (product link — 1 of 2). |
-| 6 | [Pitch Deck Builder](https://upmetrics.co/features/pitch-deck) | 2 | 38.9 | "pitch deck" | H2: What your pitch needs to cover | In the intro, moving from story to slides (product link — 2 of 2). |
-| 7 | [How to Design the Perfect Team Slide](https://upmetrics.co/blog/team-slide-pitch-deck) | indexed | indexed | "team slide" | H3: Introduce the team | After explaining what investors look for in a team. |
+| 1 | [What Investors Want to See in Pitch Decks That Get Funded](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | — | indexed | "what investors want to see in a pitch deck" | H2: How to pitch to investors, step by step (intro) | In the walkthrough intro, link here instead of duplicating slide-by-slide detail. |
+| 2 | [10 Successful Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples) | strong | indexed | "successful pitch deck examples" | H2: How to pitch to investors, step by step (intro) | In the intro, when advising the reader to model real decks. |
+| 3 | [How to Get Funding from Angel Investors](https://upmetrics.co/blog/angel-investor-funding) | indexed | indexed | "funding from angel investors" | H2: What investors look for in a pitch | In the paragraph about matching your pitch to the right investor type (angels vs. VCs). |
+| 4 | [Pitch Canvas template](https://upmetrics.co/strategic-planning-templates/pitch-canvas) | 9 | 2.1 | "pitch canvas" | H2: How to pitch to investors, step by step (intro) | In the intro, as a one-page tool to outline the pitch before slides. |
+| 5 | [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) | — | indexed | "build a financial model" | Step 7: Present your financials | In the paragraph on building projections (product link — 1 of 2). |
+| 6 | [Pitch Deck Builder](https://upmetrics.co/features/pitch-deck) | 2 | 38.9 | "pitch deck" | H2: How to pitch to investors, step by step (intro) | In the intro, turning the walkthrough into slides (product link — 2 of 2). |
+| 7 | [How to Design the Perfect Team Slide](https://upmetrics.co/blog/team-slide-pitch-deck) | indexed | indexed | "team slide" | Step 6: Introduce your team | After explaining what investors look for in a team. |
 | 8 | [Best AI Pitch Deck Generators](https://upmetrics.co/blog/best-ai-pitch-deck-generators) | 4 | 22.9 | "AI pitch deck generators" | H2: Common pitch mistakes that kill deals | When noting tools that speed up deck creation without cutting corners. |
 
 > **Context column** tells the writer exactly where to place each link. Product/sales pages capped at 2 (financial modeling + pitch deck builder).
@@ -387,7 +389,7 @@ Threads present in SERP:
 | # | Source | URL | What to Reference |
 |---|--------|-----|------------------|
 | 1 | DocSend Startup Index / Fundraising Report | [DocSend research](https://www.docsend.com/index/) | VC time spent per deck (~2:20 average) — use in delivery to justify brevity. |
-| 2 | CB Insights — Why Startups Fail | [CB Insights](https://www.cbinsights.com/research/startup-failure-reasons-top/) | "No market need" / "ran out of cash" as top failure reasons — frame the problem, market, and financials parts. |
+| 2 | CB Insights — Why Startups Fail | [CB Insights](https://www.cbinsights.com/research/startup-failure-reasons-top/) | "No market need" / "ran out of cash" as top failure reasons — frame the problem, market, and financials steps. |
 | 3 | U.S. Small Business Administration | [SBA.gov](https://www.sba.gov/) | Small-business financing landscape / funding options — context in intro and investor-targeting. |
 | 4 | Y Combinator — Startup Library | [YC Library](https://www.ycombinator.com/library) | Pitch and fundraising best practices — delivery and Q&A. |
 | 5 | Harvard Business School Online | [HBS Online — How to Pitch a Business Idea](https://online.hbs.edu/blog/post/how-to-pitch-a-business-idea) | Credible framing for the pitch logic (it's an AI Overview source). |
@@ -399,14 +401,14 @@ Threads present in SERP:
 ### Linkable Asset Opportunities
 
 **🔗 Linkable Asset 1:**
-- **Section:** H3: Make a clear, defensible funding ask (under "What your pitch needs to cover")
+- **Section:** Step 8: Make a clear funding ask (under "How to pitch to investors, step by step")
 - **Type:** Original framework / reference table
 - **Description:** A funding-ask calculator table (milestones → runway → burn → raise) with a worked dollar example.
 - **Why it's linkable:** No competitor shows the actual math behind "how much to raise."
 - **Writer instruction:** Make it a standalone, screenshot-able block other founders would cite.
 
 **🔗 Linkable Asset 2:**
-- **Section:** H3: Handle investor questions (under "Delivering your pitch")
+- **Section:** H2: Handle investor questions
 - **Type:** Reference table / cheat sheet
 - **Description:** Investor-question cheat sheet (question → what they're testing → how to answer).
 - **Why it's linkable:** Unique, immediately useful, and highly shareable on founder forums.
@@ -427,12 +429,12 @@ Threads present in SERP:
 - Byline visible: Yes — photo, name, title, 1–2 sentence bio.
 
 **Experience signals (add to these sections):**
-- H2: What investors are really evaluating — first-person reframe: the mistake founders (and our old article) make by over-indexing on the business plan.
-- H2: After the pitch: follow up and close — real-world follow-up scenario with a sample email.
+- H2: What investors look for in a pitch — first-person reframe: the mistake founders (and our old article) make by over-indexing on the business plan.
+- H2: Follow up after the pitch — real-world follow-up scenario with a sample email.
 
 **Expertise signals (add to these sections):**
-- H3: Present your financials — define CAC, burn, runway, LTV correctly; cite CB Insights on cash-out failures.
-- H3: Run the room — reference DocSend's 2:20 stat and YC delivery guidance.
+- Step 7: Present your financials — define CAC, burn, runway, LTV correctly; cite CB Insights on cash-out failures.
+- H2: Deliver the pitch with confidence (Run the room) — reference DocSend's 2:20 stat and YC delivery guidance.
 
 **Trust signals:**
 - [SBA.gov](https://www.sba.gov/) → intro / investor-targeting context
@@ -459,8 +461,8 @@ Threads present in SERP:
 - Show "last updated" date: Yes — recommended; refresh stats annually.
 
 **Sections containing time-sensitive content:**
-- H3: Present your financials — contains: benchmark metrics/funding climate — Update trigger: annual or when fundraising climate shifts.
-- H3: Run the room — contains: DocSend attention-span stat — Update trigger: when newer DocSend report publishes.
+- Step 7: Present your financials — contains: benchmark metrics/funding climate — Update trigger: annual or when fundraising climate shifts.
+- H2: Deliver the pitch with confidence (Run the room) — contains: DocSend attention-span stat — Update trigger: when newer DocSend report publishes.
 
 **Recommended review schedule:**
 

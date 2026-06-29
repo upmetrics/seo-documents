@@ -84,13 +84,10 @@
 - H2: What investors are really evaluating — reframes the whole topic
 - H2: Get pitch-ready before the meeting — preparation steps
 - H2: Build your pitch around a story arc — the story arc
-- H2: Prove your traction — how-to
-- H2: Deliver with confidence on the day — presentation how-to
-- H2: Handle the tough questions — how-to
-- H2: Follow up to close the round — follow-up how-to
+- H2: How to pitch to investors (parent) → Step 1 Prove your traction, Step 4 Deliver, Step 5 Handle questions, Step 6 Follow up — the step-by-step how-to core
 
 **Commercial sections** (help the reader evaluate/compare):
-- H2: Present financials investors trust — references financial modeling tooling
+- H2: How to pitch to investors → Step 2 Present financials investors trust — references financial modeling tooling
 - H2: Build your pitch around a story arc — references deck examples + pitch deck builder
 
 **Transactional sections** (convert the reader):
@@ -279,19 +276,19 @@ Threads present in SERP:
 
 3. **Type:** Table (funding-ask calculation)
    - **Description:** Milestones → months of runway → monthly burn → total raise, with a filled-in example.
-   - **Placement:** Under H2 "Make a funding ask you can defend"
+   - **Placement:** Under "How to pitch to investors" → Step 3: Make a funding ask you can defend
 
 4. **Type:** Table (investor-question cheat sheet)
    - **Description:** Columns: Question investors ask | What they're really testing | How to answer.
-   - **Placement:** Under H2 "Handle the tough questions"
+   - **Placement:** Under "How to pitch to investors" → Step 5: Handle the tough questions
 
 5. **Type:** Timeline (follow-up sequence)
    - **Description:** Day 0 → Day 1 → Day 3–5 → Day 10 follow-up cadence with what to send at each step.
-   - **Placement:** Under H2 "Follow up to close the round"
+   - **Placement:** Under "How to pitch to investors" → Step 6: Follow up to close the round
 
 6. **Type:** Screenshot (Upmetrics financial model)
    - **Description:** Annotated projections/financial model view.
-   - **Placement:** Under H2 "Present financials investors trust"
+   - **Placement:** Under "How to pitch to investors" → Step 2: Present financials investors trust
 
 **Sections where competitors have visuals but we don't yet:** none — we exceed all competitors on visuals by design.
 
@@ -321,10 +318,10 @@ Threads present in SERP:
 **Recommended Scannable Elements For This Article:**
 
 1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after intro — Content: the 7-step pitch flow in one box (no competitor has this).
-2. 📊 **Comparison Table** — Include: Yes — Placement: under "Make a funding ask you can defend" — Format: angel vs. VC expectations, or the funding-ask calc table.
+2. 📊 **Comparison Table** — Include: Yes — Placement: under "How to pitch to investors" → Step 3 (funding ask) — Format: angel vs. VC expectations, or the funding-ask calc table.
 3. ✅ **Checklist Summary** — Include: Yes — Placement: end of "Get pitch-ready before the meeting" — Format: pre-pitch readiness checklist.
-4. 💡 **Key Takeaway Callout Boxes** — Include: Yes — Number: 4–5 — Placement: financials, funding ask, Q&A, follow-up.
-5. ⚡ **Quick Answer Block** — Include: Yes — Which H2s: "What investors are really evaluating", "Deliver with confidence on the day" (pitch length).
+4. 💡 **Key Takeaway Callout Boxes** — Include: Yes — Number: 4–5 — Placement: Steps 2, 3, 5, 6 (financials, funding ask, Q&A, follow-up).
+5. ⚡ **Quick Answer Block** — Include: Yes — Which sections: "What investors are really evaluating", Step 4 "Deliver with confidence on the day" (pitch length).
 
 ---
 
@@ -384,7 +381,7 @@ Threads present in SERP:
 | 2 | [10 Successful Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples) | strong | indexed | "successful pitch deck examples" | H2: Build your pitch around a story arc | When advising the reader to model real decks, after the story-arc list. |
 | 3 | [How to Get Funding from Angel Investors](https://upmetrics.co/blog/angel-investor-funding) | indexed | indexed | "funding from angel investors" | H2: Get pitch-ready before the meeting | In the "Find the right investors" sub-step, about choosing angels vs. VCs. |
 | 4 | [Pitch Canvas template](https://upmetrics.co/strategic-planning-templates/pitch-canvas) | 9 | 2.1 | "pitch canvas" | H2: Get pitch-ready before the meeting | In the "Shape your story" sub-step, as a one-page tool to outline the pitch. |
-| 5 | [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) | — | indexed | "build a financial model" | H2: Present financials investors trust | In the paragraph on building projections (product link — 1 of 2). |
+| 5 | [Financial Modeling Software](https://upmetrics.co/features/financial-modeling) | — | indexed | "build a financial model" | How to pitch to investors → Step 2 | In the paragraph on building projections (product link — 1 of 2). |
 | 6 | [Pitch Deck Builder](https://upmetrics.co/features/pitch-deck) | 2 | 38.9 | "pitch deck" | H2: Build your pitch around a story arc | When the reader moves from story to slides (product link — 2 of 2). |
 | 7 | [How to Design the Perfect Team Slide](https://upmetrics.co/blog/team-slide-pitch-deck) | indexed | indexed | "team slide" | H2: Build your pitch around a story arc | In the "team behind the plan" sub-step, after explaining what investors look for in a team. |
 | 8 | [Best AI Pitch Deck Generators](https://upmetrics.co/blog/best-ai-pitch-deck-generators) | 4 | 22.9 | "AI pitch deck generators" | H2: Pitch mistakes that kill deals | When noting tools that speed up deck creation without cutting corners. |
@@ -418,14 +415,14 @@ Threads present in SERP:
 ### Linkable Asset Opportunities
 
 **🔗 Linkable Asset 1:**
-- **Section:** H2: Make a funding ask you can defend
+- **Section:** How to pitch to investors → Step 3: Make a funding ask you can defend
 - **Type:** Original framework / reference table
 - **Description:** A funding-ask calculator table (milestones → runway → burn → raise) with a worked dollar example.
 - **Why it's linkable:** No competitor shows the actual math behind "how much to raise."
 - **Writer instruction:** Make it a standalone, screenshot-able block other founders would cite.
 
 **🔗 Linkable Asset 2:**
-- **Section:** H2: Handle the tough questions
+- **Section:** How to pitch to investors → Step 5: Handle the tough questions
 - **Type:** Reference table / cheat sheet
 - **Description:** Investor-question cheat sheet (question → what they're testing → how to answer).
 - **Why it's linkable:** Unique, immediately useful, and highly shareable on founder forums.
@@ -447,11 +444,11 @@ Threads present in SERP:
 
 **Experience signals (add to these sections):**
 - H2: What investors are really evaluating — first-person reframe: the mistake founders (and our old article) make by over-indexing on the business plan.
-- H2: Follow up to close the round — real-world follow-up scenario with a sample email.
+- Step 6: Follow up to close the round — real-world follow-up scenario with a sample email.
 
 **Expertise signals (add to these sections):**
-- H2: Present financials investors trust — define CAC, burn, runway, LTV correctly; cite CB Insights on cash-out failures.
-- H2: Deliver with confidence on the day — reference DocSend's 2:20 stat and YC delivery guidance.
+- Step 2: Present financials investors trust — define CAC, burn, runway, LTV correctly; cite CB Insights on cash-out failures.
+- Step 4: Deliver with confidence on the day — reference DocSend's 2:20 stat and YC delivery guidance.
 
 **Trust signals:**
 - [SBA.gov](https://www.sba.gov/) → intro / investor-targeting context
@@ -478,8 +475,8 @@ Threads present in SERP:
 - Show "last updated" date: Yes — recommended; refresh stats annually.
 
 **Sections containing time-sensitive content:**
-- H2: Present financials investors trust — contains: benchmark metrics/funding climate — Update trigger: annual or when fundraising climate shifts.
-- H2: Deliver with confidence on the day — contains: DocSend attention-span stat — Update trigger: when newer DocSend report publishes.
+- Step 2: Present financials investors trust — contains: benchmark metrics/funding climate — Update trigger: annual or when fundraising climate shifts.
+- Step 4: Deliver with confidence on the day — contains: DocSend attention-span stat — Update trigger: when newer DocSend report publishes.
 
 **Recommended review schedule:**
 

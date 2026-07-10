@@ -1,302 +1,291 @@
-# SEO Suggestion Report — How to Get Funding for a Business
+# SEO On-Page Report — How to Get Funding for a Business
 
 | Field | Value |
 |-------|-------|
-| URL | https://upmetrics.co/blog/how-to-get-funding-for-a-business |
-| Post ID | 82946 |
-| Post Type | post |
-| Category | Funding |
-| Published | 2025-04-25 |
-| Last Modified | 2025-05-22 |
-| Report Date | 2026-04-15 |
-| GSC Range | 28 days (2026-03-18 to 2026-04-15) |
-| GA4 Range | 30 days |
+| **URL** | https://upmetrics.co/blog/how-to-get-funding-for-a-business |
+| **Post ID** | 82946 |
+| **Post Type** | `post` (Blog Post) |
+| **Category** | Funding |
+| **Word Count** | ~4,194 |
+| **Report Date** | 2026-07-10 |
+| **GSC Data Range** | 2026-04-10 → 2026-07-07 (90 days) |
+| **GA4 Data Range** | Report A: 30 days · Report E: 90 days |
 
 ---
 
-## Section B: Page Health Score + Action Summary
+## Section B — Page Health Score & Action Summary
 
-### Page Health Score: **5 / 10**
+### Page Health Score: **7.5 / 10**
 
-| Status | Count |
-|--------|:-:|
-| Critical | 2 |
-| Needs Improvement | 4 |
-| Good | 4 |
+| Status | Count | Notes |
+|--------|:--:|-------|
+| 🔴 Critical | 0 | Indexed, canonical clean, meta present, images have alt, end CTA present |
+| 🟡 Needs Improvement | 2 | Severely under-linked (only 3 body internal links for 4,194 words); no mid-content CTAs |
+| 🟢 Good | 6 | Indexing, headings, images/alt, slug, category, external links |
 
-**Deductions:**
-- **-2 (Critical)** Meta underperforming — 2,286 impressions, **0 clicks** over 28 days, top queries ranking position 36-91 (far below CTR benchmarks).
-- **-2 (Critical)** Content relevance weakness — all 25 top queries rank position 36+, signalling the H1/title/intro do not match search intent for "business funding" terms.
-- **-1** Only 1 in-content image across 3,300 words — under-illustrated for a list-style post (impacts dwell time + image-search surface).
-- **-1** Only 5 existing internal links in a 3,300-word post — under-linked; adding 5-6 contextual links is a quick equity boost.
-- **-1** H2 "What to do before looking for funding options ?" — stray space + question mark, inconsistent case.
-- **-0.5** Sole image alt text restates filename verbatim ("things to do before looking for funding options") — weak for image search.
+**Context — the real problem is ranking depth, not on-page hygiene.** This page is technically clean but ranks **position 45–75** for its funding queries (e.g. "how to fund a business" — 69 impr, pos 71; "fund a business" — 43 impr, pos 52), earning **1 click on ~7,100 impressions**. No query sits in position 4–20, so a meta-title CTR rewrite won't move the needle. The highest-leverage on-page fixes here are **internal link equity** (Task 1 + Task 10) and **engagement/conversion CTAs** (Task 2), which is where this report focuses. A mild **cannibalization** signal exists with `/blog/7-key-startup-financing-or-funding-options` (ranks pos 59 for "business funding options", 290 impr) — addressed in Task 10.
 
----
+### Action Summary
 
-### Action Summary Table
-
-| # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
-|:-:|------|--------|--------|---------------|------------|---------------|
-| 1 | Internal Links | High | Medium | 5 existing (all Good). Under-linked for 3,300 words. | Add 6 contextual links (all informational). | Add #1-#6 |
-| 2 | CTA Placements | Medium | Medium | 3 existing CTAs (download + inline text + Elementor end). Mid-post gap between angel/VC sections. | Add 1 fundraising-checklist download CTA after angel/VC section. | Add #1 |
-| 3 | Resource CTA | High | Quick Win | (not captured — likely unset) | Set `/download/startup-fundraising-checklist` as Resources Hero CTA. | Approve |
-| 4 | Related Content | Medium | Quick Win | To verify | Set 4 fresh related items (funding-options + investors-related). | Approve |
-| 5 | Meta Title/Desc | **High** | Quick Win | Meta currently earns 0 clicks on 2,286 impressions — rewrite is mandatory. | New title + description targeting "how to get funding for a business". | Approve |
-| 6 | Image Alt Text | Low | Quick Win | 1 image, alt restates filename. | Rewrite alt to describe the 5-step checklist content. | Approve |
-| 7 | URL Slug | N/A | — | `how-to-get-funding-for-a-business` — already optimal. | Skip. | Skip |
-| 8 | Heading Structure | Low | Quick Win | 1 H2 has stray " ?" + inconsistent case. | Rewrite 1 H2. | Approve |
-| 9 | Category | N/A | — | Funding — correct. | Skip. | Skip |
-| 10 | Incoming Internal Links | Medium | Manual | Page needs topical link equity from sibling funding posts. | Suggest 6 source pages for manual review. | Note |
+| # | Task | Impact | Effort | Current State | Recommendation | Your Decision |
+|:-:|------|:------:|:------:|---------------|----------------|---------------|
+| 1 | Internal Links | High | Medium | 3 body links (under-linked) | Add 6 contextual links (idea→scale sections) | Add #1–#6 |
+| 2 | CTA Placements | High | Medium | 1 (end CTA only) | Add 2 mid-content CTAs (Yellow Tip + Investor banner) | Add #1, #2 |
+| 3 | Resource CTA | High | Quick Win | None set | Set **Startup Fundraising Checklist** | Approve |
+| 4 | Related Content | Medium | Quick Win | Check ACF | Set 4 funding-topic items | Approve #1–#4 |
+| 5 | Meta Title / Desc | Low | Quick Win | Title good; desc OK | Minor: verify in Yoast, optional desc tweak | Optional |
+| 6 | Image Alt Text | Low | — | 1 content img, good alt | No action | Skip (N/A) |
+| 7 | URL Slug | Low | — | `how-to-get-funding-for-a-business` (clean) | Leave — already ideal | Skip |
+| 8 | Headings | Low | — | Clean H2→H3→H4 hierarchy | No action | Skip |
+| 9 | Category | Low | — | Funding | Correct | Keep |
+| 10 | Incoming Links | High | — | Few internal links point here | 6 data-verified source pages | Review manually |
 
 ---
 
-## Section C: Task-by-Task Suggestions
+## Section C — Task-by-Task Suggestions
 
-### Task 1: Internal Linking
+### TASK 1 — Internal Linking
 
-**Existing Link Audit (body links only — CTAs audited in Task 2):**
+**Existing Link Audit** (3 contextual body links + 1 branded homepage + 1 end-CTA button):
 
 | # | Anchor Text | Target URL | Status |
-|:-:|-------------|------------|--------|
-| 1 | how much funding you'll need | /blog/how-much-funding-do-you-need | Good |
-| 2 | financial projections | /blog/financial-projections-business-plan | Good |
-| 3 | pitch deck example | /pitch-deck-examples | Good |
-| 4 | Upmetrics | /solutions/secure-funding-loans | Good |
+|:-:|-------------|-----------|--------|
+| 1 | Bootstrapping | /blog/what-is-bootstrapping-in-business | ✅ Good |
+| 2 | Funding allocation | /blog/allocation-of-funds | ✅ Good |
+| 3 | pitch deck | /blog/what-is-a-pitch-deck | ✅ Good |
+| 4 | Upmetrics | / (homepage) | ✅ Good (branded) |
+| 5 | Get Started Now! | /cta/help | ✅ Good (end-CTA button) |
 
-No competitor links. No broken anchors. Current body link count: 4. Target for 3,300 words: 7-10. Headroom for 5-6 new links.
-
----
-
-**New Link Suggestions (all Informational — balance remains ~70/30 with existing sales link to /solutions/secure-funding-loans):**
-
-> **#1 (Recommended)** — `in exchange for equity` &rarr; `/blog/debt-vs-equity-financing`
->
-> **Section:** Angel investors and early-stage funding
->
-> **In context:** "They usually invest between $25,000 and $100,000 in early-stage small businesses, often **in exchange for equity**. If you're okay with giving up some control and want someone who's invested in more than just your cash, angel funding could be the move."
+**Assessment:** All existing links are healthy. But **3 contextual links across 4,194 words is well below target** (7–10 for this length). External links (22, all authoritative: SBA, IRS, banks, platforms) are fine — no competitor links. The opportunity is adding internal equity to related funding pages. All 6 suggestions below wrap **existing text** (zero new sentences) and are evenly distributed.
 
 ---
 
-> **#2 (Recommended)** — `SBA loans` &rarr; `/blog/best-sba-lenders`
+> **#1** — `SBA loans` → `/blog/what-is-an-sba-loan`
 >
-> **Section:** VC for high-growth startups
+> **Section:** If you already have revenue → SBA loans, mainly SBA 7(a)
 >
-> **In context:** "VCs target for-profit companies&mdash;often existing businesses&mdash;that demonstrate impressive annual revenue potential, a clear competitive advantage, and proven leadership. Unlike **SBA loans** or state and local government grants, VC isn't bound by credit requirements or rigid funding terms."
+> **In context:** "The process of applying for SBA loans is done through the SBA lenders, banks, credit unions, or SBA Lender Match, not through the SBA as the lender... A personal guarantee is often required for **SBA loans** and could result in having to pay back personally if the business fails."
+>
+> **Note:** Link the last occurrence (in the personal-guarantee sentence) — it's a paragraph, and keeps distance from the nearby external sba.gov link.
 
 ---
 
-> **#3 (Recommended)** — `female founders` &rarr; `/blog/small-business-loans-for-women`
+> **#2** — `Angel investors` → `/blog/angel-investor-funding`
 >
-> **Section:** Small business grants and federal government funding (Amber Grant)
+> **Section:** If you are building a high-growth startup → Angel investors
 >
-> **In context:** "The application process is simple, with minimal documentation and a $15 fee. This is one of the most accessible business grant programs for **female founders** seeking business funding."
+> **In context:** "**Angel investors** can invest in startups that are not ready for VC investment, but have enough validation to be interesting. It might be a strong founder, initial traction, customer insight, a working product, or a good growth story."
 
 ---
 
-> **#4 (Recommended)** — `consider investors` &rarr; `/blog/how-to-find-investors-for-startup`
+> **#3** — `poor fit for venture capital` → `/blog/when-you-shouldnt-raise-funding`
 >
-> **Section:** Why do you actually need the funding?
+> **Section:** If you are building a high-growth startup → Venture capital
 >
-> **In context:** "Your funding options depend on these answers. Small-scale businesses might benefit from loans, while high-growth startups should **consider investors**."
+> **In context:** "Don't chase VCs simply for the purpose of funding. A local business that has good profitability can still be a **poor fit for venture capital** if it can not scale fast or have that kind of return."
+>
+> **Note:** Strong contextual match — the target page ("When NOT to Raise Venture Capital") is exactly about VC being a poor fit.
 
 ---
 
-> **#5 (Recommended)** — `Venture capital` &rarr; `/blog/funding-rounds`
+> **#4** — `Pitch competitions` → `/blog/business-plan-competitions`
 >
-> **Section:** List potential funding sources
+> **Section:** If you want funding that you do not have to repay → Pitch competitions
 >
-> **In context:** "Some common funding options include loans from banks, online lenders, angel investors, and **Venture capital** (VC). We will talk about all the funding source options in the next section."
+> **In context:** "**Pitch competitions** can be worth applying to if the prize, audience, judges, or networking opportunities are valuable to your business. But don't treat them as your main funding plan."
 
 ---
 
-> **#6 (Recommended)** — `pitch their ideas` &rarr; `/blog/what-investors-want-to-see-in-pitch-decks`
+> **#5** — `financial projections` → `/blog/financial-projections-business-plan`  *(High-conversion target)*
 >
-> **Section:** Startup World Cup (pitch competitions)
+> **Section:** How to improve your chances → Make sure your numbers make sense
 >
-> **In context:** "The competition includes regional events across continents, culminating in a grand finale in San Francisco. Participants have the chance to **pitch their ideas** to top-tier investors and forge corporate partnerships."
+> **In context:** "Your funding request should match your cost breakdown. **Your financial projections** should support your business goals. And if you're applying for a loan, your repayment plan should show that the business can realistically afford the repayments."
+>
+> **Note:** Link the phrase `financial projections` in this sentence (not the "Basic financial projections" bullet). This target also drives signups in GA4.
 
 ---
+
+> **#6** — `Startup equity funding` → `/blog/debt-vs-equity-financing`
+>
+> **Section:** If you are building a high-growth startup (intro)
+>
+> **In context:** "**Startup equity funding** can help with that, but it comes with a tradeoff. You may give up ownership and take on expectations around growth, updates, and future fundraising."
+
+---
+
+**Optional (add if you want a 7th):**
+
+> **#7 (Optional)** — `how much funding you will need` → `/blog/how-much-funding-do-you-need`
+>
+> **Section:** How much funding do you actually need?
+>
+> **In context:** "First, get clear on **how much funding you will need** and what the funding will be used for before you even apply for funding."
 
 **Considered but skipped (4 pages):**
 
 | Page | Reason Skipped |
 |------|----------------|
-| Top 10 Alternative Business Funding Methods | Claimed by Task 4 (Related Content) |
-| 17 Small Business Financing Options | Claimed by Task 4 (Related Content) |
-| 14 Key Questions to Ask Investors | Claimed by Task 4 (Related Content) |
-| What is a Fair Percentage for an Investor | No natural anchor-text match in body content |
+| How to Find Investors for a Small Business | Moved to Task 4 (Related Content) — no clean body anchor |
+| How to Write a Small Business Grant Proposal | Grants section discusses *finding* grants, not writing proposals — weak anchor match |
+| 17 Small Business Financing Options | Claimed by Task 10 (incoming link) — avoids reciprocal link |
+| Business line of credit topics | No dedicated page exists for this term |
 
 ---
 
-### Task 2: CTA Placements
+### TASK 2 — CTA Placements
 
 **Existing CTA Audit:**
 
 | # | CTA Type | Placement | Status | Notes |
 |:-:|----------|-----------|--------|-------|
-| 1 | Download Link (Type 1) — Startup Costs Worksheet | After "Determine how much funding" section | Good | Topically matched, light format |
-| 2 | Inline Text (how-upm-help) | Before "Options you have" H2 | Good | Natural bridge to funding options section |
-| 3 | Elementor Blog Post End CTA (id=44970) | End of content | Good | Canonical end-CTA (required for Upmetrics blog posts) |
+| 1 | Blog Post End CTA (`delivery-block`) | Very end | ✅ Good | Canonical copy intact — do not modify |
 
-No back-to-back CTAs. Section between line ~137 (end of Angel investors) and line ~200 (bootstrapping) has ~1,000 words without a CTA — one additional lightweight CTA fits naturally here.
+**Assessment:** Only the required end CTA is present. For a 4,194-word article, target is 3–4 CTAs. This article is heavily educational with no mid-content product touchpoints — adding 2 well-spaced CTAs (one light, one banner) improves engagement without feeling salesy. Both use **different angles** and sit **>2,000 words apart** and clear of the end CTA.
 
 ---
 
-**New CTA Suggestions:**
-
-> **#1 (Recommended)** — Download Link (Type 1): Startup Fundraising Checklist | After "VC for high-growth startups" section
+> **#1** — Yellow Tip (Type 12) | After "Microloans and nonprofit lenders"
 >
-> **Placed after:** "It isn't easy to come by, but there are a few solid VC platforms online if you know where to look." *(last sentence of the intro paragraph to the VC section, line 153 of content-original.html)*
+> **Placed after:** "These lenders may be more flexible than banks, but they still need to see how the business will make money and repay the loan."
+>
+> **Angle:** Feature-specific (AI Business Plan Generator) — connects to the "prepare a simple business plan + basic financial projections" list right above.
 >
 > **CTA Preview:**
 > ```
-> ┌─────────────────────────────────────────────────────────┐
-> │ &rarr; Download Now: Free Startup Fundraising Checklist │
-> └─────────────────────────────────────────────────────────┘
+> ┌──────────────────────────────────────────────────────────┐
+> │ 💡 Tip: Need a simple business plan and projections to   │
+> │ apply? Use our AI Business Plan Generator → to build a    │
+> │ structured, funder-ready draft from your inputs.          │
+> └──────────────────────────────────────────────────────────┘
 > ```
->
-> **Why here:** Angel investor + VC sections discuss investor outreach. A fundraising checklist is the natural "what next" and complements the startup-costs worksheet at the top (different resource, different angle — speed + risk-reduction).
-
-No Elementor end CTA changes. Keep everything between the existing line-63 inline CTA and the new suggestion ~1,500 words apart.
+> **HTML:** `<div class="yellow-alert"><strong>Tip: </strong>Need a simple business plan and basic projections to apply? Use our <a href="https://upmetrics.co/ai-tools/free-ai-business-plan-generator">AI Business Plan Generator</a> to build a structured, funder-ready draft from your inputs.</div>`
 
 ---
 
-### Task 3: Downloadable Resource CTA
+> **#2** — Flex Banner: Investor-Ready Plan (Type 8) | After "Equity crowdfunding" (end of high-growth section)
+>
+> **Placed after:** "But it is still real fundraising. You may need legal preparation, disclosures, campaign promotion, investor updates, and a plan for managing many small investors."
+>
+> **Angle:** Outcome / speed — the reader just finished the investor-funding routes; an investor-ready plan is the natural next step. Sits ~600+ words before the end CTA.
+>
+> **CTA Preview:**
+> ```
+> ┌──────────────────────────────────────────────────────────┐
+> │  Investors fund clarity, not guesswork                   │
+> │                                                          │
+> │  Build an investor-ready business plan this weekend      │
+> │                                                          │
+> │  [ Start Planning Now ]                    🖼 AI Plan    │
+> └──────────────────────────────────────────────────────────┘
+> ```
+> **HTML:**
+> `<div class="upm_blog_bg_cta flex-cta-banner flex-col-reverse"><div>Investors fund clarity, not guesswork<p class="title h2">Build an investor-ready business plan this weekend</p><a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Start Planning Now</a></div><div class="cta_img_wrapper"><img src="https://upmetrics.co/wp-content/uploads/2025/06/ai-business-plan.svg" alt="AI Business Plan" width="200" height="170" /></div></div>`
+
+---
+
+> **#3 (Optional)** — Inline Banner (Type 11) | After "What to check before choosing a funding option?"
+>
+> **Placed after:** "If an option does not match your timeline, repayment ability, or ownership goals, move it lower on your list."
+>
+> **Angle:** Speed. Only add if you want a third touchpoint — keeps spacing from #1 (which comes later, in the microloans section).
+>
+> **CTA Preview:**
+> ```
+> ┌──────────────────────────────────────────────────────────┐
+> │ A funding-ready plan shouldn't take weeks   [ Draft w/ AI ]│
+> └──────────────────────────────────────────────────────────┘
+> ```
+> **HTML:** `<div class="upm_blog_bg_cta inline-cta-banner">A funding-ready plan shouldn't take weeks<a class="cta-btn cta-btn-bg-orange" href="https://upmetrics.co/signup">Draft using AI</a></div>`
+
+---
+
+### TASK 3 — Downloadable Resource CTA
+
+**Recommendation:** Set the Resources Hero CTA to the **Startup Fundraising Checklist Template** — the single most on-topic resource for a funding article.
 
 | Field | Value |
 |-------|-------|
-| post_id | 82946 |
+| Resource | Startup Fundraising Checklist Template |
 | resource_url | https://upmetrics.co/download/startup-fundraising-checklist |
-| heading | Startup Fundraising Checklist |
-| resource_link_text | Get Checklist |
-
-**Combined display:** `Get Checklist: Startup Fundraising Checklist` (44 chars — fits on one line).
-
-**Why:** The article teaches readers how to assess, prepare for, and apply to 29 funding sources. The fundraising checklist is the exact deliverable they need next. The startup-costs worksheet already appears as an inline Type 1 CTA, so the hero CTA should be a different complementary resource.
+| resource_link_text | `Get Checklist` |
+| heading | `Startup Fundraising Checklist` |
+| Combined display | "Get Checklist: Startup Fundraising Checklist" (~44 chars ✅) |
 
 ---
 
-### Task 4: Related Content
+### TASK 4 — Related Content (sidebar, 4 items)
 
-Set 4 fresh related items. All picks are unclaimed by Tasks 1/2/3.
+All 4 are funding-topic pages **not** used in Task 1/3, with custom curiosity-driven titles (raw titles are too long for the sidebar).
 
-| # | Related Title (custom, <50 chars) | Related Post URL | Post ID |
-|:-:|-----------------------------------|------------------|:-:|
-| 1 | 10 Alternative Ways to Fund a Business | /blog/alternative-business-funding-methods | 80549 |
-| 2 | Funding Rounds Every Founder Should Know | /blog/funding-rounds | 91714 |
-| 3 | 14 Smart Questions to Ask Investors | /blog/questions-to-ask-investors | 82876 |
-| 4 | 17 Financing Options, Compared | /blog/7-key-startup-financing-or-funding-options | 6073 |
-
----
-
-### Task 5: Meta Title & Description
-
-**Performance context (why rewrite is mandatory):**
-
-| Metric | Value |
-|--------|:-:|
-| Total impressions (28d) | 2,286 |
-| Total clicks (28d) | **0** |
-| Top query avg position | 36-91 |
-| CTR | **0.00%** |
-
-With zero clicks, every top query is categorically underperforming vs benchmark — the current meta is either missing, mismatched to query intent, or truncated on mobile.
-
-**Current vs. Suggested:**
-
-| Field | Current | Chars | Suggested | Chars | Notes |
-|-------|---------|:-:|-----------|:-:|-------|
-| Meta Title | *(not returned by get-post — likely auto-filled from H1)* | — | How to Get Funding for a Business: 29 Options [2026] | 53 | Primary kw in first 35 chars; "29 Options" + year hook for SERP differentiation |
-| Meta Description | *(not returned — likely auto)* | — | Exploring how to get funding for a business? Compare 29 options &mdash; SBA loans, angel investors, grants, crowdfunding, and bootstrapping &mdash; with a free checklist. | 158 | Primary kw front-loaded; concrete list of option types; free-resource hook |
-| Focus Keyphrase | (unknown) | — | how to get funding for a business | — | Exact-match for post title; top organic query cluster |
-| Canonical | https://upmetrics.co/blog/how-to-get-funding-for-a-business | — | Same | — | Self-referencing &mdash; OK |
-| OG Title | (likely unset) | — | Match meta title | — | — |
-| OG Description | (likely unset) | — | Match meta description | — | — |
-
-**SERP Preview:**
-
-```
-─────────────────────────────────────────────────────
-upmetrics.co &rsaquo; blog &rsaquo; how-to-get-funding-for-a-business
-How to Get Funding for a Business: 29 Options [2026]
-Exploring how to get funding for a business? Compare 29
-options — SBA loans, angel investors, grants, crowdfunding,
-and bootstrapping — with a free checklist.
-─────────────────────────────────────────────────────
-```
-
-**Differentiator:** Competing titles on page 1 of SERP typically use "Complete Guide" / "Ultimate Guide". This title uses a **number ("29 Options") + year tag ([2026])** to signal both breadth and freshness.
+| # | Related Post | URL | Custom Title |
+|:-:|--------------|-----|--------------|
+| 1 | How to Find Investors for a Small Business? | /blog/how-to-find-investors-for-startup | Where to Find Your First Investors |
+| 2 | What are Funding Rounds? | /blog/funding-rounds | Funding Rounds Every Founder Should Know |
+| 3 | Top 10 Alternative Business Funding Methods | /blog/alternative-business-funding-methods | Funding Options Beyond Bank Loans |
+| 4 | What Lenders & Investors Look for in a Business Plan | /blog/what-lenders-look-for-in-business-plan | What Lenders Really Want to See |
 
 ---
 
-### Task 6: Image Alt Text
+### TASK 5 — Meta Title & Description
 
-**Image Audit Summary:**
+**Classification: Minor polish (low priority).** No query ranks in position 4–20, so there is no CTR-recovery opportunity from a rewrite — the page's issue is ranking depth. The current title is already strong.
 
-| Status | Count | Action |
-|--------|:-:|--------|
-| Critical &mdash; Missing | 0 | &mdash; |
-| Critical &mdash; Empty (wrong) | 0 | &mdash; |
-| Needs Improvement | 1 | Rewrite alt |
-| Good | 0 | &mdash; |
-| Decorative &mdash; Correct | 0 | &mdash; |
-| **Total images** | **1** | &mdash; |
+> ⚠️ **Data note:** The WordPress `get-post` response did **not** return the Yoast `seo` object for this post, so the live meta title/description could not be read directly. The values below are inferred from the post title and excerpt — **verify the actual Yoast fields before applying any change.**
 
-**Detailed audit:**
+| Field | Current (inferred) | Chars | Suggested | Chars | Notes |
+|-------|--------------------|:--:|-----------|:--:|-------|
+| Meta Title | How to Get Funding for a Business: 40+ Proven Options | 52 | *(keep)* | — | Has number hook (40+), keyword front-loaded — leave as-is |
+| Meta Description | Compare 40+ ways to fund a business, from SBA loans and grants to investors and crowdfunding. Find the right option for your needs. | 131 | Compare 40+ ways to fund a business — SBA loans, grants, investors, crowdfunding, and more. Match the right funding option to your stage and needs. | 149 | Optional: adds "your stage" (matches the article's angle), fills to ~150 chars |
+| Focus Keyphrase | — | — | how to fund a business | — | Highest-impression query cluster (69 + 43 impr) |
 
-| # | src (filename) | Status | Current Alt | Suggested Alt | Chars | Notes |
-|:-:|----------------|--------|-------------|---------------|:-:|-------|
-| 1 | things-to-do-before-looking-for-funding-options.webp | Needs Improvement | things to do before looking for funding options | Pre-funding checklist: clarify the purpose, set a budget, consult an advisor, list sources, and prepare documents | 115 | Describes diagram content; no banned words; no keyword stuffing |
+**Recommendation:** Leave the title. Optionally apply the description tweak and set focus keyphrase — but confirm current Yoast values first.
 
 ---
 
-### Task 7: URL Slug
+### TASK 6 — Image Alt Text
 
-Current slug `how-to-get-funding-for-a-business` is 6 words, 33 chars, contains exact primary keyword. **No change recommended.** Even though current rank is low (which would technically make a slug change low-risk), the slug itself is already optimal &mdash; changing it would only add a redirect for no upside.
+**No action needed.** 2 images total:
 
----
-
-### Task 8: Heading Structure
-
-**Current hierarchy:**
-- H1 (WP title): "How to Get Funding for a Business" &mdash; Good
-- H2: "Determine how much funding you'll need" &mdash; Good
-- H2: "What to do before looking for funding options ?" &mdash; **Needs fix** (stray space + question mark, inconsistent case)
-- H2: "How to get funding for a business: Options you have" &mdash; Good
-- H2: "The bottom line" &mdash; Good
-- H3/H4 structure &mdash; all properly nested
-
-**Suggested change:**
-
-| # | Tag | Current Text | Suggested Text |
-|:-:|:-:|--------------|----------------|
-| 1 | h2 | What to do before looking for funding options ? | What to Do Before Looking for Funding Options |
-
-Primary keyword "funding" retained. Title-case consistent with other H2s.
+| src | Role | Alt Status | Verdict |
+|-----|------|-----------|---------|
+| how-to-get-funding-for-a-business-funding-needs-breakdown.png | diagram | present (107 chars, descriptive) | ✅ Good |
+| crossline.png | icon-decorative (end-CTA accent) | present ("crossline") | ✅ Decorative — leave |
 
 ---
 
-### Task 9: Category / Taxonomy
+### TASK 7 — URL Slug
 
-Post already assigned to **Funding** category &mdash; correct. **No change.**
+**Leave as-is.** `how-to-get-funding-for-a-business` (33 chars) is clean, lowercase, keyword-focused, hyphen-separated. Even though the page ranks low (technically "safe to change"), the slug is already ideal — changing it would only risk the little equity it has. No change.
 
 ---
 
-### Task 10: Incoming Internal Link Suggestions (for manual SEO-team review)
+### TASK 8 — Heading Structure
 
-Data-verified source pages (every row has a real post_id). Anchor text is a **search term for the SEO team** &mdash; the team confirms the phrase exists in the source page content before linking.
+**No action needed.** One H1 (theme-rendered title), clean H2→H3→H4 hierarchy with no skipped levels, no duplicate headings, primary keyword "funding" present in multiple H2s ("How much funding…", "…choosing a funding option", "Business funding options by stage and need").
 
-| # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Priority |
-|:-:|-------------|-----|:-:|-----------|--------------|-----------------|:-:|
-| 1 | Top 10 Alternative Business Funding Methods | /blog/alternative-business-funding-methods | 80549 | post | Same topical cluster &mdash; covers funding methods directly | business funding | High |
-| 2 | What are Funding Rounds? | /blog/funding-rounds | 91714 | post | Funding stages page &mdash; natural parent/sibling | get funding for a business | High |
-| 3 | 17 Small Business Financing Options | /blog/7-key-startup-financing-or-funding-options | 6073 | post | Evergreen financing overview &mdash; strong topical authority | business funding options | High |
-| 4 | Debt vs. Equity Financing | /blog/debt-vs-equity-financing | 87029 | post | Reader comparing paths &mdash; natural CTA to the full options list | how to get funding | Medium |
-| 5 | 14 Key Questions to Ask Investors | /blog/questions-to-ask-investors | 82876 | post | Investor-track readers benefit from the full 29-options overview | business funding | Medium |
-| 6 | How to Find Investors for a Small Business | /blog/how-to-find-investors-for-startup | 82959 | post | Investor-funding focused; reciprocal-link risk avoided (reverse direction) | business funding | Medium |
+---
 
-> Every source URL above is verified in WordPress (real post_id). Suggested anchors are starting terms &mdash; actual anchor depends on the live text in each source.
+### TASK 9 — Category / Taxonomy
+
+**Keep.** Assigned to **Funding** — correct and specific. No change.
+
+---
+
+### TASK 10 — Incoming Internal Links (for SEO team to implement manually)
+
+Pages that should link **to** this hub page. All verified in WordPress (real post_id) + backed by GSC ranking data. Excludes Task 1 targets (no reciprocal links).
+
+| # | Source Page | URL | Post ID | Type | Why Link Here | Suggested Anchor | Traffic/Signal | Priority |
+|:-:|-------------|-----|:--:|------|--------------|-----------------|:--:|:--:|
+| 1 | 17 Small Business Financing Options | /blog/7-key-startup-financing-or-funding-options | 6073 | post | Ranks pos 59 for "business funding options" (290 impr) — competes with this page; a link clarifies hierarchy | how to get funding for a business | 290 impr | High |
+| 2 | Top 10 Alternative Business Funding Methods | /blog/alternative-business-funding-methods | 80549 | post | Ranks pos 1 for "how to fund a business idea" — closely related topic | ways to fund a business | pos 1 | High |
+| 3 | How to Get a Startup Business Loan With No Money | /blog/how-to-get-a-startup-business-loan-with-no-money | 72551 | post | Ranks pos 28 for "how to fund a business with no money" | business funding options | 6 impr | Medium |
+| 4 | I Have a Business Idea but No Money | /blog/start-a-business-without-money | 107090 | post | Idea-stage funding topic — natural upstream link | how to get funding | — | Medium |
+| 5 | Top 11 Funding Challenges for Small Businesses | /blog/funding-challenges | 81175 | post | Directly about funding obstacles — complements this options guide | business funding options | — | Medium |
+| 6 | How to Find Investors for a Small Business? | /blog/how-to-find-investors-for-startup | 82959 | post | Investor-funding subtopic covered in this guide | get funding for your business | — | Medium |
+
+> Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to locate within the source page's content — the actual anchor depends on existing text there. **#1 is the priority fix** — it resolves the cannibalization overlap.
 
 ---
 
@@ -305,16 +294,16 @@ Data-verified source pages (every row has a real post_id). Anchor text is a **se
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3, #4, #5, #6.
-Task 2 (CTAs): Add #1 after VC section.
-Task 3 (Resource CTA): Approve — startup-fundraising-checklist.
-Task 4 (Related Content): Approve #1-#4.
-Task 5 (Meta Title/Desc): Approve suggested title. Approve description. Approve keyphrase.
-Task 6 (Image Alt Text): Approve #1.
-Task 7 (URL Slug): Skip — already optimal.
-Task 8 (Headings): Approve #1 (fix H2 case + trailing punctuation).
-Task 9 (Category): Skip — already correct.
-Task 10 (Incoming Links): Noted — will review manually.
+Task 1 (Internal Links): Add #1–#6. Skip optional #7.
+Task 2 (CTAs): Add #1 (Yellow Tip) and #2 (Investor banner). Skip optional #3.
+Task 3 (Resource CTA): Approve Startup Fundraising Checklist.
+Task 4 (Related Content): Approve items #1–#4.
+Task 5 (Meta): Skip — verify Yoast first / or apply description tweak.
+Task 6 (Image Alt): No action.
+Task 7 (Slug): Skip — already ideal.
+Task 8 (Headings): No action.
+Task 9 (Category): Keep Funding.
+Task 10 (Incoming Links): Noted — will implement manually (prioritize #1).
 ```
 
-Or simply: "Approve all" / "Approve all except Task X"
+Or simply: **"Approve all"** / **"Approve all except Task 5"**

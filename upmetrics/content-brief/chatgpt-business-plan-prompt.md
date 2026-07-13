@@ -8,7 +8,7 @@
 
 > ⚠️ **This is a REFRESH of an existing page, not a new URL.** The article should update [/blog/chatgpt-business-plan](https://upmetrics.co/blog/chatgpt-business-plan) in place. That page already ranks (pos ~10–14, 3,175 impressions on "chatgpt business plan"). Publishing a second URL for this keyword would cannibalize the existing ranking. Keep the slug `chatgpt-business-plan`.
 
-> 🔧 **Revised per editorial review (v2).** Key changes from v1: the master prompt now appears immediately after the intro; the standalone "why plans come out generic" section is removed (folded into a 100–150-word "why this prompt works"); a **business facts sheet** is added before the prompt library to solve the fragmented-plan problem; the master prompt is strengthened with nine explicit behaviors; challenge + review are merged into one section; several overpromises are corrected; word budget is realistic (~2,560).
+> 🔧 **Revised per editorial review (v3).** v2 changes: master prompt moved first; business facts sheet added; challenge + review merged; verification given one home; financials framed around assumptions; overpromises corrected. **v3 changes:** the master prompt now BUILDS the facts sheet for approval before drafting (clear interview → facts sheet → approve → draft sequence); the facts sheet expanded to a 6-group structure (adds business model, traction, team/management, operations, timeline, capital); section prompts restructured to 8 that cover products/services and management; the Upmetrics section reframed to attribute linked forecasts/formatting to the PLATFORM (not the AI Assistant); worked example compressed to a table; softened "agreeable by default" / "fabricate" phrasing; privacy and free-vs-paid FAQs made action-based and durable. **All prompts are now written out in full in the .docx.**
 
 ---
 
@@ -39,18 +39,18 @@
 ## 2. Why We'll Win
 
 - **Every competitor ships a copy-paste prompt list (Forbes 9, US Chamber 13, Medium 5, LivePlan 17) and stops. We teach a process** — the exact thing Reddit/Quora users ask for ("generate a *complete and comprehensive* business plan," "prompt *chain*").
-- **We lead with the prompt the reader searched for, then make it do more.** The master prompt appears right after the intro (not 700 words down) and is genuinely different from a generic "act as a consultant" prompt: it separates confirmed facts from assumptions, marks missing info as `[NEEDS INPUT]`, asks follow-ups when answers are vague, and keeps a running list of items to verify.
-- **We solve the fragmented-plan problem competitors ignore.** A reusable **business facts sheet** acts as the single source of truth every section prompt draws from — so the customer definition, pricing, and financials stay consistent instead of drifting across eight separate prompts. No competitor does this.
-- **We're the only page with a real "what to verify" method** — hallucinated market sizes, invented citations, fabricated financials — with specific sources to check each against. Only LivePlan mentions AI inaccuracy, and only in passing.
+- **We lead with the prompt the reader searched for, then make it do more.** The master prompt appears right after the intro (not 700 words down) and is genuinely different from a generic "act as a consultant" prompt: it interviews the founder, then **builds a business facts sheet (confirmed facts / assumptions / missing info / items to verify) for the founder to approve before any drafting begins.** Sequence: interview → facts sheet → approve → draft section by section.
+- **We solve the fragmented-plan problem competitors ignore.** The approved **business facts sheet** is the single source of truth every section prompt draws from — so the customer definition, pricing, and financials stay consistent instead of drifting across eight separate prompts. No competitor does this.
+- **We're the only page with a real "what to verify" method** — unsupported market sizes, invented citations, inaccurate financials — with specific sources to check each against. Only LivePlan mentions AI inaccuracy, and only in passing.
 - **This is a refresh of a page that already ranks for the whole cluster** (chatgpt business plan / prompts / template / example). We extend our own authority instead of starting cold, and 6 unique FAQs cover gaps no organic competitor addresses.
 
-**Upmetrics asset to embed (one main link — do NOT stack product links):**
-- [Upmetrics' AI Assistant](https://upmetrics.co/features/upmetrics-ai-assistants) — Place in: H2 "From ChatGPT draft to a finished plan"
+**Upmetrics asset to embed (one main PLATFORM link — do NOT stack product links, do NOT attribute platform features to the AI Assistant):**
+- [Create Your Business Plan (Upmetrics)](https://upmetrics.co/create-business-plan) — Place in: H2 "From ChatGPT draft to a finished plan". Frame Upmetrics as combining guided sections, AI-assisted writing, and linked forecasts; mention the AI Assistant as one part.
 
 **Original value-adds competitors can't match:**
-- A copy-paste **master interview prompt** with the nine behaviors baked in
-- A reusable **business facts sheet** template (the coherence fix)
-- One compact **worked example**: vague prompt → generic excerpt → structured prompt → improved excerpt (also targets "chatgpt business plan example")
+- A copy-paste **master prompt** that interviews the founder and **builds a facts sheet for approval** before drafting
+- A reusable **business facts sheet** template — 6 groups (the coherence fix)
+- One compact **worked-example table**: basic approach vs. structured approach (also targets "chatgpt business plan example")
 - A **"verify before you use it" checklist** in the verification section
 
 **Expert / data angles:**
@@ -201,20 +201,20 @@
 | Topic / Section | Forbes | US Chamber | Medium | LivePlan | UGC | Ours |
 |----------------|--------|-----------|--------|----------|-----|------|
 | Executive summary prompt | ✅ | ❌ | ✅ | ❌ | 🔥 | ✅ Table stakes |
-| Company description prompt | ✅ | ❌ | ❌ | ❌ | — | ✅ Table stakes |
-| Market analysis prompt | ✅ | ❌ | ✅ | ✅ | 🔥 | ✅ Improve |
+| Company, products & services prompt | ✅ | ❌ | ❌ | ❌ | — | ✅ Go deeper |
+| Market & target customer prompt | ✅ | ❌ | ✅ | ✅ | 🔥 | ✅ Improve |
 | Competitive analysis prompt | ✅ | ✅ | ✅ | ✅ | — | ✅ Improve |
-| Marketing/sales prompt | ❌ | ✅ | ❌ | ✅ | — | ✅ Table stakes |
-| Operations prompt | ❌ | ❌ | ✅ | ❌ | — | ✅ Go deeper |
-| Financial projections (assumptions, not calc) | ✅ | ✅ | ✅ | ⚠️ | 🔥 | ✅ Go deeper |
-| Funding request (dollar-based) | ❌ | ✅ | ✅ | ❌ | — | ✅ Go deeper |
-| **Master "interview me first" prompt — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — delivered first |
-| **Business facts sheet / source of truth — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — coherence fix |
+| Marketing & sales prompt | ❌ | ✅ | ❌ | ✅ | — | ✅ Table stakes |
+| Operations & management prompt | ❌ | ❌ | ⚠️ | ❌ | — | ✅ Go deeper |
+| Financial assumptions (not calc) prompt | ✅ | ✅ | ✅ | ⚠️ | 🔥 | ✅ Go deeper |
+| Funding request (dollar-based) prompt | ❌ | ✅ | ✅ | ❌ | — | ✅ Go deeper |
+| **Master prompt that BUILDS a facts sheet — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — delivered first |
+| **Business facts sheet (6-group) / source of truth — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — coherence fix |
 | **Quick-start one-shot prompt — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge |
-| **Review & stress-test (challenge + gaps + rewrite) — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge |
+| **Review & stress-test (challenge + gaps + audience rewrite) — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge |
 | **What to verify (full method) — GAP** | ❌ | ⚠️ | ❌ | ⚠️ | 🔥 | ✅ Go much deeper |
-| **End-to-end worked example — GAP** | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| Upmetrics value section | — | — | — | — | — | ✅ Product value (one link) |
+| **End-to-end worked example (table) — GAP** | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
+| Upmetrics platform section | — | — | — | — | — | ✅ Product value (one link) |
 
 ### UGC Insights — Reddit & Quora
 
@@ -252,8 +252,8 @@
    - **Placement:** Under H2 "Best ChatGPT business plan prompt"
    - **Competitor insight:** No competitor shows a real ChatGPT interaction
 
-2. **Type:** Worked example (side-by-side)
-   - **Description:** ONE business — vague prompt → generic excerpt vs. structured prompt → improved excerpt, with a one-line "what made the difference"
+2. **Type:** Worked-example table (compact — no long excerpts)
+   - **Description:** A 2-column "Basic approach vs. Structured approach" table for ONE business (e.g., bakery), plus one line: "The second output is better because ChatGPT has actual operating facts to work with — not because the wording sounds more sophisticated."
    - **Placement:** Under H2 "Best ChatGPT business plan prompt" (supports "chatgpt business plan example")
 
 3. **Type:** Checklist graphic
@@ -344,7 +344,7 @@
 | 3 | [How to Validate a Business Idea](https://upmetrics.co/blog/how-to-validate-business-idea) | blog | "validate your business idea" | H2: What information to prepare | In the note that ChatGPT can't fix a weak or unclear idea. |
 | 4 | [Upmetrics vs Generative AI Tools](https://upmetrics.co/blog/upmetrics-vs-generative-ai-tools) | blog | "how ChatGPT compares to dedicated business plan software" | H2: What to verify | After explaining ChatGPT's limits, link for the fuller comparison. |
 | 5 | [42+ ChatGPT Prompts for Business](https://upmetrics.co/blog/chatgpt-prompts-for-business) | blog | "ChatGPT prompts for other business tasks" | H2: Conclusion | For readers who want departmental prompts beyond the plan. Keep scope distinct. |
-| 6 | [Upmetrics' AI Assistant](https://upmetrics.co/features/upmetrics-ai-assistants) | **product (main)** | "Upmetrics' AI Assistant" | H2: From ChatGPT draft to a finished plan | The one product link in the section — contrast a raw draft with a guided, structured build. |
+| 6 | [Create Your Business Plan (Upmetrics)](https://upmetrics.co/create-business-plan) | **product (main — PLATFORM)** | "build the plan in Upmetrics" | H2: From ChatGPT draft to a finished plan | The one product link — link the PLATFORM, not a single feature. Frame Upmetrics as guided sections + AI-assisted writing + linked forecasts; mention the AI Assistant as one part (do NOT attribute linked financials to the AI Assistant). |
 | 7 | [Free AI Business Plan Generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) | product (CTA) | "free AI business plan generator" | H2: Conclusion (soft CTA) | Single closing CTA — NOT stacked in the product section. |
 
 ### Internal Links FROM existing pages back to this new article

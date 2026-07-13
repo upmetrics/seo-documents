@@ -8,7 +8,7 @@
 
 > ⚠️ **This is a REFRESH of an existing page, not a new URL.** The article should update [/blog/chatgpt-business-plan](https://upmetrics.co/blog/chatgpt-business-plan) in place. That page already ranks (pos ~10–14, 3,175 impressions on "chatgpt business plan"). Publishing a second URL for this keyword would cannibalize the existing ranking. Keep the slug `chatgpt-business-plan`.
 
-> 🔧 **Revised per editorial review (v3).** v2 changes: master prompt moved first; business facts sheet added; challenge + review merged; verification given one home; financials framed around assumptions; overpromises corrected. **v3 changes:** the master prompt now BUILDS the facts sheet for approval before drafting (clear interview → facts sheet → approve → draft sequence); the facts sheet expanded to a 6-group structure (adds business model, traction, team/management, operations, timeline, capital); section prompts restructured to 8 that cover products/services and management; the Upmetrics section reframed to attribute linked forecasts/formatting to the PLATFORM (not the AI Assistant); worked example compressed to a table; softened "agreeable by default" / "fabricate" phrasing; privacy and free-vs-paid FAQs made action-based and durable. **All prompts are now written out in full in the .docx.**
+> 🔧 **Revised per editorial review (v4).** v2–v3: master prompt moved first and now BUILDS the facts sheet for approval before drafting; 6-group facts sheet; section prompts restructured to 8 covering products/services and management; Upmetrics section attributes linked forecasts/formatting to the PLATFORM (not the AI Assistant); worked example as a table; softened claims; durable FAQs; all prompts written out in full. **v4 changes:** the overloaded `[NEEDS INPUT]` label is split into THREE — `[NEEDS INPUT]` (founder hasn't supplied it), `[ASSUMPTION]` (temporary assumption ChatGPT introduced), `[VERIFY]` (external fact/number needing a source) — applied across the master, quick-start, and every section prompt; the **executive-summary prompt moved to LAST** in the library with a callout (it's written after all other sections exist).
 
 ---
 
@@ -39,7 +39,7 @@
 ## 2. Why We'll Win
 
 - **Every competitor ships a copy-paste prompt list (Forbes 9, US Chamber 13, Medium 5, LivePlan 17) and stops. We teach a process** — the exact thing Reddit/Quora users ask for ("generate a *complete and comprehensive* business plan," "prompt *chain*").
-- **We lead with the prompt the reader searched for, then make it do more.** The master prompt appears right after the intro (not 700 words down) and is genuinely different from a generic "act as a consultant" prompt: it interviews the founder, then **builds a business facts sheet (confirmed facts / assumptions / missing info / items to verify) for the founder to approve before any drafting begins.** Sequence: interview → facts sheet → approve → draft section by section.
+- **We lead with the prompt the reader searched for, then make it do more.** The master prompt appears right after the intro (not 700 words down) and is genuinely different from a generic "act as a consultant" prompt: it interviews the founder, then **builds a business facts sheet — Confirmed facts, `[ASSUMPTION]`, `[NEEDS INPUT]`, `[VERIFY]` — for the founder to approve before any drafting begins.** Sequence: interview → facts sheet → approve → draft section by section. Those three labels (missing vs. assumed vs. needs-a-source) run through every prompt in the guide.
 - **We solve the fragmented-plan problem competitors ignore.** The approved **business facts sheet** is the single source of truth every section prompt draws from — so the customer definition, pricing, and financials stay consistent instead of drifting across eight separate prompts. No competitor does this.
 - **We're the only page with a real "what to verify" method** — unsupported market sizes, invented citations, inaccurate financials — with specific sources to check each against. Only LivePlan mentions AI inaccuracy, and only in passing.
 - **This is a refresh of a page that already ranks for the whole cluster** (chatgpt business plan / prompts / template / example). We extend our own authority instead of starting cold, and 6 unique FAQs cover gaps no organic competitor addresses.
@@ -200,7 +200,6 @@
 
 | Topic / Section | Forbes | US Chamber | Medium | LivePlan | UGC | Ours |
 |----------------|--------|-----------|--------|----------|-----|------|
-| Executive summary prompt | ✅ | ❌ | ✅ | ❌ | 🔥 | ✅ Table stakes |
 | Company, products & services prompt | ✅ | ❌ | ❌ | ❌ | — | ✅ Go deeper |
 | Market & target customer prompt | ✅ | ❌ | ✅ | ✅ | 🔥 | ✅ Improve |
 | Competitive analysis prompt | ✅ | ✅ | ✅ | ✅ | — | ✅ Improve |
@@ -208,6 +207,7 @@
 | Operations & management prompt | ❌ | ❌ | ⚠️ | ❌ | — | ✅ Go deeper |
 | Financial assumptions (not calc) prompt | ✅ | ✅ | ✅ | ⚠️ | 🔥 | ✅ Go deeper |
 | Funding request (dollar-based) prompt | ❌ | ✅ | ✅ | ❌ | — | ✅ Go deeper |
+| Executive summary prompt (written LAST) | ✅ | ❌ | ✅ | ❌ | 🔥 | ✅ Table stakes — last |
 | **Master prompt that BUILDS a facts sheet — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — delivered first |
 | **Business facts sheet (6-group) / source of truth — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge — coherence fix |
 | **Quick-start one-shot prompt — GAP** | ❌ | ❌ | ❌ | ❌ | 🔥 | ✅ Unique edge |
@@ -373,7 +373,7 @@
 **🔗 Linkable Asset 1 — The business facts sheet**
 - **Section:** H2 "What information to prepare"
 - **Type:** Reusable framework / template
-- **Description:** A fill-in context block (concept, location, stage, customer, offering, pricing, costs, competitors, funding goal, plan audience, confirmed facts vs. assumptions to validate) that every section prompt draws from
+- **Description:** A fill-in context block (6 groups: basics, business model, evidence, operations, financial context, plan purpose) that every section prompt draws from, with four labeled lists inside it — Confirmed facts, `[ASSUMPTION]`, `[NEEDS INPUT]`, `[VERIFY]`
 - **Why it's linkable:** Solves the coherence problem no competitor addresses — the kind of practical template people copy and cite.
 
 **🔗 Linkable Asset 2 — "Verify before you use it" checklist**

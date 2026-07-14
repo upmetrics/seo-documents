@@ -155,7 +155,7 @@
 | 4 | Why is Market Research Important | [https://upmetrics.co/blog/why-is-market-research-important](https://upmetrics.co/blog/why-is-market-research-important) | "market research" | H2: Pricing — what you actually get | In the starter-plan feature list, link "market research" where you note it's included in Upmetrics' starter tier |
 | 5 | What Lenders & Investors Look for in a Business Plan | [https://upmetrics.co/blog/what-lenders-look-for-in-business-plan](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) | "what lenders actually look for" | H2: So which should you choose? | In the "funding-readiness" paragraph, counter LivePlan's funding angle with this link |
 | 6 | Partner Program (reseller / white-label) | [https://upmetrics.co/partner-program](https://upmetrics.co/partner-program) | "reseller and partner program" | H2: White-label & scale | When describing reseller options, link the phrase "reseller and partner program" |
-| 7 | Coffee Shop Business Plan (example) | [https://upmetrics.co/template/coffee-shop-business-plan](https://upmetrics.co/template/coffee-shop-business-plan) | "coffee shop business plan example" | Introduction | When echoing LivePlan's coffee-shop test case, link to our own coffee shop example as the test business |
+| 7 | OpenAI Pitch Deck: Full Slide Review | [https://upmetrics.co/pitch-deck-examples/openai](https://upmetrics.co/pitch-deck-examples/openai) | "full pitch deck" | H2: The Honest Verdict Up Front | On the pitch-deck point (full deck vs LivePlan's single page), link "full pitch deck" to a real deck example |
 | 8 | How to Use ChatGPT for Financial Forecasting | [https://upmetrics.co/blog/chatgpt-for-financial-forecasting](https://upmetrics.co/blog/chatgpt-for-financial-forecasting) | "financial forecasting" | H2: Forecasting depth | In the paragraph on forecasting flexibility, link "financial forecasting" as a supporting read |
 
 > **Note:** If you reference the Upmetrics pricing page directly, confirm the exact live URL (e.g., /pricing) before linking — it was not verified in this brief's CMS pull.
@@ -231,16 +231,19 @@
 
 ### The Outline
 
-#### H1: Upmetrics vs LivePlan: I Built the Same Plan in Both — Here's the Honest Verdict
+#### H1: Upmetrics vs LivePlan: I Tested Both — Here's the Honest Verdict LivePlan Left Out
+
+> Title note: Keep the first-person "I tested both" credibility, but avoid echoing LivePlan's exact "I built the same [coffee shop] plan in both" phrasing. Writer may A/B an alternate: "Upmetrics vs LivePlan: A Fair, Feature-by-Feature Comparison." Do not use a coffee shop in the title or anywhere else.
 
 ##### Introduction
 > ~190 words | 🔴 MUST HAVE
 >
-> Hook: Open by acknowledging the reader probably just read LivePlan's comparison — the one where LivePlan wins. Then the honest pivot: "So I did the same thing they did. I built the same plan in both tools — right down to a [coffee shop business plan example](https://upmetrics.co/template/coffee-shop-business-plan), the exact business type they tested — and reached a different conclusion."
-> Context: Both tools look similar at first. The real question isn't which looks nicer — it's which gives you more plan, more control, and more help for your money.
+> Hook: Open by acknowledging the reader probably just read LivePlan's comparison — the one where LivePlan wins. Then the differentiator: that verdict came from testing a single plan (a coffee shop) and generalizing from it. This piece takes a broader, fairer approach — comparing what each tool actually does across the decisions real buyers face, then judging both hands-on.
+> Context: Both tools look similar at first. The real question isn't which looks nicer on one narrow example — it's which gives you more plan, more control, and more help for your money across different business types and team setups.
 > Promise: A straight, side-by-side verdict across the seven things buyers actually pay for — price, AI, forecasting, collaboration, white-label, support, and speed — including where LivePlan wins.
-> Thesis preview: Signal the flip — same test, opposite result, and here's exactly why.
-> Source inspiration: Mirror LivePlan's first-person "I built the same plan" credibility move (Reference 1), but promise fairness they didn't offer.
+> Thesis preview: Signal the flip — same tools, broader test, opposite result, and here's exactly why.
+> 🚫 Differentiate from LivePlan's piece — do NOT copy their setup: Do not reuse their coffee-shop-in-Vancouver test case, and do not anchor the article on a single fabricated business at all. Lead with the multi-scenario framing (solo founder, team, consultant). If you use a hands-on example anywhere, pick your own business type — never a coffee shop.
+> Source inspiration: Keep LivePlan's first-person, hands-on credibility (Reference 1), but differentiate on method — breadth and fairness beat their single-case setup.
 
 ---
 
@@ -380,10 +383,10 @@ Reinforce funding-readiness with [what lenders actually look for](https://upmetr
 
 ---
 
-#### H2: Try Upmetrics Free — Build the Same Plan Yourself
+#### H2: Try Upmetrics Free — Test It on Your Own Business
 > ~110 words, 1-2 paragraphs | 🟡 SHOULD HAVE
-> 🎯 Include: Natural CTA to the [AI business plan generator](https://upmetrics.co/features/ai-plan-generator). Invite the reader to run the same test we did.
-> 🪝 Suggested hook: "Don't take my word for it — run the same test I did."
+> 🎯 Include: Natural CTA to the [AI business plan generator](https://upmetrics.co/features/ai-plan-generator). Invite the reader to build a plan for THEIR business (not a canned example) and judge for themselves.
+> 🪝 Suggested hook: "Don't take my word for it — build your own plan in both and see."
 > 🚫 Avoid: Hard-sell language or banned buzzwords. Keep it a confident invitation, not a pitch.
 
 Invite the reader to try the AI plan generator and build their own plan, then judge for themselves. One clear CTA link.
@@ -475,13 +478,13 @@ Invite the reader to try the AI plan generator and build their own plan, then ju
 ### Upmetrics Value Adds
 
 - [AI Plan Generator feature page](https://upmetrics.co/features/ai-plan-generator) — Placement: AI H2 + CTA H2 + Conclusion (primary conversion path).
-- [Coffee Shop Business Plan example](https://upmetrics.co/template/coffee-shop-business-plan) — Placement: Introduction (echo LivePlan's coffee-shop test with our own example).
+- [OpenAI Pitch Deck: Full Slide Review](https://upmetrics.co/pitch-deck-examples/openai) — Placement: verdict / pitch-deck point (supports the full-deck-vs-one-page differentiation).
 - [Reseller & Partner Program](https://upmetrics.co/partner-program) — Placement: White-label H2 (consultant/agency audience).
 - [Full Upmetrics vs LivePlan comparison grid](https://upmetrics.co/compare/upmetrics-vs-liveplan) — Placement: under the verdict table (readers who want every spec).
 
 ### Unique Angles
 
-- **The honest counter.** We're the only ones running LivePlan's exact "I built the same plan" test — same coffee-shop business type — and reaching the opposite, better-justified verdict. That symmetry is the hook.
+- **The honest counter — done differently.** LivePlan built one coffee-shop plan and generalized from it. We deliberately don't copy that setup; we compare across the decisions real buyers face (solo founders, teams, consultants) and reach the opposite, better-justified verdict. Broader method beats their single-case framing — and quietly exposes it.
 - **Value-per-dollar, not just price.** LivePlan's piece never compares what's actually inside each starter plan; we make that the centerpiece.
 - **We concede on purpose.** A real "Where LivePlan is stronger" section (longer money-back window, sample library, guided UX) makes every other claim more believable than a one-sided comparison ever could.
 

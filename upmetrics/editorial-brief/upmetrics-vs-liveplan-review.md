@@ -242,7 +242,7 @@
 > Context: Both tools look similar at first. The real question isn't which looks nicer on one narrow example — it's which gives you more plan, more control, and more help for your money across different business types and team setups.
 > Promise: A straight, side-by-side verdict across the seven things buyers actually pay for — price, AI, forecasting, collaboration, white-label, support, and speed — including where LivePlan wins.
 > Thesis preview: Signal the flip — same tools, broader test, opposite result, and here's exactly why.
-> 🚫 Differentiate from LivePlan's piece — do NOT copy their setup: Do not reuse their coffee-shop-in-Vancouver test case, and do not anchor the article on a single fabricated business at all. Lead with the multi-scenario framing (solo founder, team, consultant). If you use a hands-on example anywhere, pick your own business type — never a coffee shop.
+> 🚫 No fabricated test business required — this is deliberate: Do NOT anchor the article on a single invented company (that's LivePlan's weakness — they generalized from one coffee-shop plan). Keep the first-person, hands-on voice ("I opened both tools and built a plan"), but ground EVERY claim in real, verified features and prices — not a staged demo. Lead with multi-scenario framing (solo founder, team, consultant). If a passing illustration helps, keep it generic and brief — never a coffee shop, never a scripted persona the whole piece hangs on.
 > Source inspiration: Keep LivePlan's first-person, hands-on credibility (Reference 1), but differentiate on method — breadth and fairness beat their single-case setup.
 
 ---

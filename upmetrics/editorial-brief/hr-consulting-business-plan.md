@@ -15,13 +15,13 @@
 
 | Field | Value |
 |-------|-------|
-| Topic / Angle | A funding-ready sample business plan for a founder-led HR consulting firm — a solo, experienced HR professional building a service business around fixed-fee projects and monthly retainers, not a staffing agency, PEO, or HR software company |
+| Topic / Angle | A funding-ready sample business plan for a founder-led, **two-partner** HR consulting firm — two experienced HR professionals plus a part-time coordinator building a service business around fixed-fee projects and monthly retainers, not a staffing agency, PEO, or HR software company |
 | Content Type | Sample Business Plan |
 | WordPress Post Type | template |
 | Recommended Slug | /template/hr-consultancy-business-plan-example |
 | Full URL Preview | [https://upmetrics.co/template/hr-consultancy-business-plan-example](https://upmetrics.co/template/hr-consultancy-business-plan-example) |
-| Estimated Word Count | 6,000 — 7,000 words |
-| Estimated Writing Time | 9–12 hours for first draft (financial tables are pre-built in Section 6B — no math required) |
+| Estimated Word Count | 6,500 — 7,500 words |
+| Estimated Writing Time | 10–13 hours for first draft (financial tables are pre-built in Section 6B — no math required) |
 
 > **Refresh note:** This replaces the existing 2020 page at the same URL (post id 6534). Publish via *Page Draft → "Update this"* against that page to keep its accumulated authority. Do NOT mint a new slug.
 
@@ -34,21 +34,23 @@
 | Field | Value |
 |-------|-------|
 | Business Name | Cardinal HR Advisors LLC (dba "Cardinal HR") |
-| Business Type | Single-member LLC (S-corp tax election planned in Year 1) |
-| Industry | HR consulting — founder-led generalist advisory + outsourced/fractional HR support for small employers |
-| Location | Austin, Texas + remote delivery across Texas |
-| Owner(s) | Rachel Donnelly — Founder & Principal Consultant |
+| Business Type | Multi-member LLC — two-partner firm, 50/50 ownership (S-corp tax election planned in Year 1) |
+| Industry | HR consulting — partner-led generalist advisory + outsourced/fractional HR support for small employers |
+| Location | Austin, Texas — shared office + remote delivery across Texas |
+| Owner(s) | Rachel Donnelly — Managing Principal & Co-Founder · Marcus Reyes — Principal Consultant & Co-Founder |
 | Year Founded / Launch | March 2026 |
-| Plan Purpose | SBA microloan application ($30,000) + owner equity to fund startup and 6 months of working capital |
-| Funding Amount | $30,000 loan (total startup capital $55,000) |
+| Plan Purpose | SBA microloan application ($50,000) + owner equity to fund startup and 6 months of working capital |
+| Funding Amount | $50,000 loan (total startup capital $100,000) |
 | Target Market | Privately owned businesses with 10–100 employees in the Austin metro (and remote across Texas), concentrated in three sectors: professional service firms, technology/SaaS startups, and healthcare & wellness practices |
 | Revenue Model | Fixed-fee projects (assessments, handbooks, hiring systems, workshops) + monthly retainers (outsourced/fractional HR) + limited hourly advisory |
-| Year 1 Revenue Target | $168,000 |
-| Employees (Year 1) | 1 FTE (founder) + 2–3 on-demand specialist contractors (compensation, HRIS, workplace investigations) |
+| Year 1 Revenue Target | $322,000 |
+| Employees (Year 1) | 2 co-founder principals (full-time) + 1 part-time HR Coordinator (W-2, hired ~month 5) + 2–3 on-demand 1099 specialist contractors (compensation, HRIS, workplace investigations) |
 
 ### Owner Bio(s)
 
-> **Rachel Donnelly, Founder & Principal Consultant (age 40s).** Rachel spent 15 years in human resources before founding Cardinal HR Advisors — first as an HR Business Partner at a 400-person Austin SaaS company, then as HR Manager for a regional healthcare group with five clinic locations. She holds SHRM-SCP and SPHR certifications and an MBA with an organizational-leadership concentration. Her generalist background spans compliance, hiring and onboarding, performance management, and employee relations — the exact mix small employers need. She started Cardinal HR after watching dozens of 20-to-80-person companies in her network struggle with people problems they couldn't yet justify a full-time HR hire for.
+> **Rachel Donnelly, Managing Principal & Co-Founder (age 40s).** Rachel spent 15 years in human resources before co-founding Cardinal HR Advisors — first as an HR Business Partner at a 400-person Austin SaaS company, then as HR Manager for a regional healthcare group with five clinic locations. She holds SHRM-SCP and SPHR certifications and an MBA with an organizational-leadership concentration. She leads the firm's compliance, employee-relations, and HR-strategy work, plus overall firm management and client relationships. She co-founded Cardinal HR after watching dozens of 20-to-80-person companies in her network struggle with people problems they couldn't yet justify a full-time HR hire for.
+>
+> **Marcus Reyes, Principal Consultant & Co-Founder (age 30s–40s).** Marcus brings 12 years in talent acquisition and HR operations — he led recruiting and then People Operations at an Austin healthcare system and a mid-size local tech company. He holds a PHR certification. He owns the firm's hiring and onboarding systems, HRIS selection and setup, and manager-training services — the operational, build-the-system side of HR that complements Rachel's compliance and strategy depth. Together the two partners cover the full generalist range a growing small employer needs.
 
 ---
 
@@ -56,14 +58,14 @@
 
 ### Thesis Statement
 
-> Cardinal HR Advisors LLC is a founder-led HR consultancy seeking a $30,000 SBA microloan to serve Austin-area businesses with 10–100 employees — turning one experienced HR leader's expertise into priced, repeatable services (projects plus retainers) that reach $168,000 in Year 1 and grow to $258,000 by Year 3 on a lean, home-based cost structure.
+> Cardinal HR Advisors LLC is a two-partner HR consulting firm seeking a $50,000 SBA microloan to serve Austin businesses with 10–100 employees — combining two experienced HR leaders and a part-time coordinator to deliver priced, repeatable services (projects plus retainers) that reach $322,000 in Year 1 and grow to $501,900 by Year 3 at 77–82% gross margins.
 
 ### Key Messages
 
-1. This is a **service business built on expertise, not equipment** — startup costs are low ($55,000), gross margins are high (82–87%), and the main constraint is the founder's billable capacity, not capital.
+1. This is a **firm built on expertise, not equipment** — two partners plus a part-time coordinator, modest capital ($100,000), high gross margins (77–82%), and delivery through people and systems rather than one person's hours.
 2. The firm wins by being the affordable middle option between **doing nothing / DIY templates and hiring a full-time HR manager** — it competes as much against "the owner handles it" as against other consultants.
 3. Revenue is **defensible from the bottom up**: retainer client-months × price + projects × price + advisory hours × rate — not a percentage of some national market.
-4. Growth follows a realistic ladder — **retainers first, then contractors, then a first employee** — with conservative 24% year-over-year revenue growth, not a hockey stick.
+4. Growth comes from **leverage, not heroics** — two partners share sales and delivery, a W-2 coordinator and 1099 contractors carry the overflow, and the first hire is built into the plan from Year 1 — with conservative ~22–28% year-over-year revenue growth.
 5. The plan is **narrow on purpose**: three focus sectors, a defined 10–100-employee client, and a "do NOT offer at launch" list (staffing, PEO, payroll processing, HR software) that keeps the business credible and executable.
 
 ---
@@ -81,7 +83,7 @@
 
 | Field | Details |
 |-------|---------|
-| Primary Reader | An experienced HR professional (former HR manager, HR business partner, or generalist) planning to launch a small, independent HR consultancy — exploring the idea, preparing to launch, or recently started, usually as a solo founder |
+| Primary Reader | An experienced HR professional (former HR manager, HR business partner, or generalist) planning to launch a small, independent HR consultancy — solo, or (as modeled here) as a two-person partnership — exploring the idea, preparing to launch, or recently started |
 | Knowledge Level | Intermediate on HR; beginner-to-intermediate on business planning and finance |
 | What They Want | A complete, believable example they can adapt for their own plan or a loan application — specifically: which services to offer, how to price them, who to target, and how many clients it takes to replace a salary |
 | Pain Points | "My HR knowledge is valuable but I don't know how to package and price it"; "Will I have enough clients to make this stable, not just occasional freelance work?"; "What does it actually cost to start, and can I do this alone?"; "How do I write financials a lender will believe?" |
@@ -165,7 +167,7 @@
 | # | Page | URL | Anchor Text | H2 Section | Placement Context |
 |---|------|-----|-------------|-----------|------------------|
 | 1 | How to Start a Management Consulting Business in 9 Steps | [Full URL](https://upmetrics.co/blog/how-to-start-management-consulting-business) | "starting a consulting business" | H2: Company Overview | In the opening paragraph describing Rachel's move from employee to independent consultant |
-| 2 | How to Form an LLC: A Step-by-Step Guide | [Full URL](https://upmetrics.co/blog/how-to-form-an-llc) | "single-member LLC" | H2: Company Overview | In the legal-structure sentence, on the phrase naming the LLC |
+| 2 | How to Form an LLC: A Step-by-Step Guide | [Full URL](https://upmetrics.co/blog/how-to-form-an-llc) | "forming the LLC" | H2: Company Overview | In the legal-structure sentence, on the phrase naming the multi-member LLC |
 | 3 | How to Write a Pricing Strategy for a Business Plan | [Full URL](https://upmetrics.co/blog/pricing-strategy-business-plan) | "pricing strategy" | H2: Services & Pricing | Where the fixed-fee vs. retainer vs. hourly model is introduced |
 | 4 | What Lenders & Investors Look for in a Business Plan | [Full URL](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) | "what lenders look for" | H2: Financial Plan | In the funding-request paragraph, before the Source of Funds table |
 | 5 | How to Create an Organizational Structure | [Full URL](https://upmetrics.co/blog/organizational-structure-business-plan) | "organizational structure" | H2: Management & Team | Where the founder + contractor bench and future hires are described |
@@ -194,68 +196,70 @@
 
 ## 6B. Financial Projections
 
-> These are the ACTUAL financial tables the writer must include in the Financial Plan chapter. All numbers are pre-calculated and internally consistent (32 validation checks passed). Use as-is — do NOT modify the math or invent new figures. All figures in USD.
+> These are the ACTUAL financial tables the writer must include in the Financial Plan chapter. All numbers are pre-calculated and internally consistent (30 validation checks passed). Use as-is — do NOT modify the math or invent new figures. All figures in USD, rounded to the nearest dollar; totals are computed from unrounded values and may differ by a dollar or two from the sum of the rounded line items shown.
 
 ### Financial Highlights (for Executive Summary)
 
 | Metric | Year 1 | Year 2 | Year 3 |
 |--------|--------|--------|--------|
-| Billable hours (capacity) | 930 | 1,150 | 1,420 |
-| Total Revenue | $168,000 | $208,600 | $257,950 |
-| Gross Profit | $146,160 | $177,310 | $211,519 |
-| Net Income (Pre-Tax) | $15,030 | $31,353 | $48,859 |
-| Ending Cash | $52,480 | $78,952 | $122,240 |
+| Billable hours (across two partners) | 1,780 | 2,270 | 2,760 |
+| Total Revenue | $322,000 | $411,950 | $501,900 |
+| Gross Profit | $265,050 | $323,762 | $384,981 |
+| Net Income (Pre-Tax) | $24,798 | $43,721 | $54,521 |
+| Ending Cash | $84,091 | $120,193 | $166,250 |
 
 ### Startup Costs
 
 | Expense | Amount |
 |---------|--------|
-| Office equipment (laptop, monitor, printer, phone) — capitalized | $4,500 |
-| Furniture & fixtures (desk, chair, shelving) — capitalized | $2,100 |
-| Website & branding (launch) | $5,000 |
-| Licenses, permits & LLC filing | $800 |
-| Professional setup (legal templates, accounting setup) | $2,500 |
-| Prepaid insurance (E&O + general liability, 6 months) | $1,200 |
-| Working capital reserve (held in cash) | $38,900 |
-| **Total Startup Costs** | **$55,000** |
+| Office equipment (3 laptops, monitors, printer, phones) — capitalized | $9,000 |
+| Furniture & fixtures (office setup) — capitalized | $6,300 |
+| Leasehold improvements (office buildout) — capitalized | $4,000 |
+| Website & branding (launch) | $7,000 |
+| Licenses, permits & LLC filing | $1,200 |
+| Professional setup (legal, accounting, partnership agreement) | $3,500 |
+| Prepaid insurance + refundable office deposit | $4,000 |
+| Working capital reserve (held in cash) | $65,000 |
+| **Total Startup Costs** | **$100,000** |
 
 ### Source of Funds
 
 | Source | Amount |
 |--------|--------|
-| SBA Microloan (PeopleFund) | $30,000 |
-| Owner equity contribution | $25,000 |
-| **Total Startup Capital** | **$55,000** |
+| SBA Microloan (PeopleFund) | $50,000 |
+| Owner equity (two partners, $25,000 each) | $50,000 |
+| **Total Startup Capital** | **$100,000** |
 
 ### Financial Assumptions
 
 | Item | Assumption |
 |------|-----------|
 | Retainer price | $2,800 per client-month |
-| Retainer volume (client-months) | Year 1: 30; Year 2: 42; Year 3: 54 |
+| Retainer volume (client-months) | Year 1: 60; Year 2: 84; Year 3: 108 |
 | Project price (blended) | $3,500 per project |
-| Project volume | Year 1: 18; Year 2: 20; Year 3: 24 |
+| Project volume | Year 1: 34; Year 2: 40; Year 3: 46 |
 | Hourly advisory rate | $175 per hour |
-| Hourly advisory volume | Year 1: 120 hrs; Year 2: 120 hrs; Year 3: 130 hrs |
-| Total billable hours | Year 1: 930; Year 2: 1,150; Year 3: 1,420 |
+| Hourly advisory volume | Year 1: 200 hrs; Year 2: 210 hrs; Year 3: 220 hrs |
+| Total billable hours (across two partners) | Year 1: 1,780; Year 2: 2,270; Year 3: 2,760 |
 | Blended realized rate | ~$181 per billable hour (all years) |
-| Revenue growth (YoY) | +24.2% (Year 2); +23.7% (Year 3) |
-| Direct labor (1099 specialist contractors) | 10% of revenue (Y1); 12% (Y2); 15% (Y3) |
+| Revenue growth (YoY) | +27.9% (Year 2); +21.8% (Year 3) |
+| Direct labor — HR Coordinator (W-2) | Year 1: $20,000; Year 2: $36,000; Year 3: $48,000 |
+| Payroll taxes on coordinator (7.65%) | Year 1: $1,530; Year 2: $2,754; Year 3: $3,672 |
+| Direct labor — 1099 specialist contractors | 8% of revenue (Y1); 9% (Y2); 10% (Y3) |
 | Direct materials / pass-through (background checks, assessment tools, printing) | 3% of revenue (all years) |
-| Payroll taxes on direct labor | $0 — contractors are 1099 (no employer payroll tax) |
-| Owner salary | Year 1: $85,000; Year 2: $105,000; Year 3: $120,000 (S-corp election modeled) |
-| Payroll taxes on owner salary | 7.65% employer portion |
+| Owner salaries (two partners combined) | Year 1: $160,000; Year 2: $200,000; Year 3: $240,000 ($80k / $100k / $120k each) |
+| Payroll taxes on owner salaries | 7.65% employer portion (S-corp election modeled) |
 | Accounts receivable terms | Net 20 (DSO = 20 days) |
 | Accounts payable terms | Net 15 (DPO = 15 days) |
 | Inventory | None (service business) |
 | Lender | PeopleFund (SBA microlender), Austin TX |
-| Loan amount | $30,000 |
+| Loan amount | $50,000 |
 | Loan term | 6 years (72 months) |
 | Interest rate | 10.0% fixed |
-| Monthly loan payment | $555.78 |
-| Interest expense (Yr 1–3) | Yr 1: $2,827; Yr 2: $2,425; Yr 3: $1,980 |
-| Principal repayment (Yr 1–3) | Yr 1: $3,842; Yr 2: $4,245; Yr 3: $4,689 |
-| Ending loan balance (Yr 3) | $17,224 |
+| Monthly loan payment | $926.29 |
+| Interest expense (Yr 1–3) | Yr 1: $4,712; Yr 2: $4,041; Yr 3: $3,300 |
+| Principal repayment (Yr 1–3) | Yr 1: $6,404; Yr 2: $7,074; Yr 3: $7,815 |
+| Ending loan balance (Yr 3) | $28,707 |
 
 ### Depreciation Schedule
 
@@ -263,111 +267,113 @@
 
 | Asset | Cost | Useful Life | Annual Dep. | Acc. Dep. Y1 | Net PP&E Y1 | Acc. Dep. Y2 | Net PP&E Y2 | Acc. Dep. Y3 | Net PP&E Y3 |
 |-------|------|-------------|-------------|--------------|-------------|--------------|-------------|--------------|-------------|
-| Office equipment | $4,500 | 5 years | $900 | $900 | $3,600 | $1,800 | $2,700 | $2,700 | $1,800 |
-| Furniture & fixtures | $2,100 | 7 years | $300 | $300 | $1,800 | $600 | $1,500 | $900 | $1,200 |
-| **TOTAL** | **$6,600** | — | **$1,200** | **$1,200** | **$5,400** | **$2,400** | **$4,200** | **$3,600** | **$3,000** |
+| Office equipment | $9,000 | 5 years | $1,800 | $1,800 | $7,200 | $3,600 | $5,400 | $5,400 | $3,600 |
+| Furniture & fixtures | $6,300 | 7 years | $900 | $900 | $5,400 | $1,800 | $4,500 | $2,700 | $3,600 |
+| Leasehold improvements | $4,000 | 10 years | $400 | $400 | $3,600 | $800 | $3,200 | $1,200 | $2,800 |
+| **TOTAL** | **$19,300** | — | **$3,100** | **$3,100** | **$16,200** | **$6,200** | **$13,100** | **$9,300** | **$10,000** |
 
 ### Income Statement (P&L)
 
 | | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |-|-----------|-----------|-----------|
-| Billable hours | 930 | 1,150 | 1,420 |
-| **Total Revenue** | 168,000 | 208,600 | 257,950 |
+| Billable hours (two partners) | 1,780 | 2,270 | 2,760 |
+| **Total Revenue** | 322,000 | 411,950 | 501,900 |
 | **COGS** | | | |
-| Direct labor — 1099 contractors (10% / 12% / 15%) | 16,800 | 25,032 | 38,693 |
-| Direct materials / pass-through (3%) | 5,040 | 6,258 | 7,739 |
-| Payroll taxes on direct labor (1099 — none) | 0 | 0 | 0 |
-| **Total COGS** | 21,840 | 31,290 | 46,431 |
-| **Gross Profit** | **146,160** | **177,310** | **211,519** |
-| Gross Margin | 87.0% | 85.0% | 82.0% |
+| Direct labor — HR Coordinator (W-2) | 20,000 | 36,000 | 48,000 |
+| Payroll taxes on coordinator (7.65%) | 1,530 | 2,754 | 3,672 |
+| Direct labor — 1099 contractors (8% / 9% / 10%) | 25,760 | 37,076 | 50,190 |
+| Direct materials / pass-through (3%) | 9,660 | 12,358 | 15,057 |
+| **Total COGS** | 56,950 | 88,188 | 116,919 |
+| **Gross Profit** | **265,050** | **323,762** | **384,981** |
+| Gross Margin | 82.3% | 78.6% | 76.7% |
 | **Operating Expenses** | | | |
-| Owner salary | 85,000 | 105,000 | 120,000 |
-| Owner payroll taxes (7.65%) | 6,503 | 8,033 | 9,180 |
-| Rent (part-time office / coworking) | 3,600 | 3,600 | 3,600 |
-| Insurance (E&O + general liability) | 2,400 | 2,400 | 2,400 |
-| Accounting & legal | 3,000 | 3,000 | 3,000 |
-| Phone, internet & utilities | 1,800 | 1,800 | 1,800 |
-| Technology subscriptions (CRM, PM, e-sign, accounting) | 4,800 | 4,800 | 4,800 |
-| Travel & mileage (client visits) | 2,400 | 2,400 | 2,400 |
-| Supplies & consumables | 1,200 | 1,200 | 1,200 |
-| Repairs & maintenance | 600 | 600 | 600 |
-| Professional development & memberships (SHRM) | 1,500 | 1,500 | 1,500 |
-| Ongoing marketing | 6,000 | 8,000 | 9,000 |
-| Website & branding launch (one-time) | 5,000 | – | – |
-| Licenses & permits (one-time) | 800 | – | – |
-| Professional setup (one-time) | 2,500 | – | – |
-| **Total Operating Expenses** | 127,103 | 142,333 | 159,480 |
-| **EBITDA** | 19,058 | 34,978 | 52,039 |
-| Depreciation | 1,200 | 1,200 | 1,200 |
-| **EBIT** | 17,858 | 33,778 | 50,839 |
-| Interest expense | 2,827 | 2,425 | 1,980 |
-| **Net Income (Pre-Tax)** | **15,030** | **31,353** | **48,859** |
+| Owner salaries (two partners) | 160,000 | 200,000 | 240,000 |
+| Owner payroll taxes (7.65%) | 12,240 | 15,300 | 18,360 |
+| Rent (shared office) | 9,600 | 12,000 | 14,400 |
+| Insurance (E&O + general liability) | 4,200 | 4,800 | 5,400 |
+| Accounting & legal | 4,500 | 5,000 | 5,500 |
+| Phone, internet & utilities | 3,000 | 3,200 | 3,400 |
+| Technology subscriptions (CRM, PM, e-sign, accounting) | 7,200 | 8,400 | 9,600 |
+| Travel & mileage (client visits) | 4,000 | 4,500 | 5,000 |
+| Supplies & consumables | 2,000 | 2,200 | 2,400 |
+| Repairs & maintenance | 1,000 | 1,000 | 1,000 |
+| Professional development & memberships (SHRM) | 3,000 | 3,500 | 4,000 |
+| Ongoing marketing | 10,000 | 13,000 | 15,000 |
+| Website & branding launch (one-time) | 7,000 | – | – |
+| Licenses & permits (one-time) | 1,200 | – | – |
+| Professional setup (one-time) | 3,500 | – | – |
+| **Total Operating Expenses** | 232,440 | 272,900 | 324,060 |
+| **EBITDA** | 32,610 | 50,862 | 60,921 |
+| Depreciation | 3,100 | 3,100 | 3,100 |
+| **EBIT** | 29,510 | 47,762 | 57,821 |
+| Interest expense | 4,712 | 4,041 | 3,300 |
+| **Net Income (Pre-Tax)** | **24,798** | **43,721** | **54,521** |
 
-> **Note:** One-time startup expenses (website/branding launch, licenses, professional setup) appear ONLY in Year 1. Direct-labor COGS rises from 10% to 15% of revenue as contractor delivery grows. Owner salary increases as the business stabilizes.
+> **Note:** One-time startup expenses (website/branding launch, licenses, professional setup) appear ONLY in Year 1. The HR Coordinator (W-2, part-year in Year 1) sits in COGS as direct delivery labor with employer payroll tax; 1099 contractors carry the rest of overflow delivery. Owner salaries and the coordinator's hours grow as the firm stabilizes.
 
 ### Cash Flow Statement
 
 | | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |-|-----------|-----------|-----------|
-| Beginning Cash | 47,200 | 52,480 | 78,952 |
+| Beginning Cash | 76,700 | 84,091 | 120,193 |
 | **Operating Activities** | | | |
-| Net income (pre-tax) | 15,030 | 31,353 | 48,859 |
-| Depreciation (non-cash) | 1,200 | 1,200 | 1,200 |
-| Change in accounts receivable | (9,205) | (2,225) | (2,704) |
-| Change in accounts payable | 898 | 388 | 622 |
+| Net income (pre-tax) | 24,798 | 43,721 | 54,521 |
+| Depreciation (non-cash) | 3,100 | 3,100 | 3,100 |
+| Change in accounts receivable | (17,643) | (4,929) | (4,930) |
+| Change in accounts payable | 2,340 | 1,284 | 1,181 |
 | Change in prepaid expenses | 1,200 | 0 | 0 |
-| **Net Cash from Operations** | 9,123 | 30,716 | 47,977 |
+| **Net Cash from Operations** | 13,795 | 43,176 | 53,872 |
 | **Investing Activities** | | | |
 | Capital expenditures | 0 | 0 | 0 |
 | **Net Cash from Investing** | 0 | 0 | 0 |
 | **Financing Activities** | | | |
-| Loan principal repayment | (3,842) | (4,245) | (4,689) |
-| **Net Cash from Financing** | (3,842) | (4,245) | (4,689) |
-| **Net Change in Cash** | 5,280 | 26,472 | 43,288 |
-| **Ending Cash** | **52,480** | **78,952** | **122,240** |
+| Loan principal repayment | (6,404) | (7,074) | (7,815) |
+| **Net Cash from Financing** | (6,404) | (7,074) | (7,815) |
+| **Net Change in Cash** | 7,391 | 36,102 | 46,057 |
+| **Ending Cash** | **84,091** | **120,193** | **166,250** |
 
-> **Validation:** Ending Cash each year matches the Cash line on the Balance Sheet for that year. Year 1 shows a large AR build ($9,205) as the firm extends Net-20 terms; the prepaid-insurance float ($1,200) unwinds in Year 1.
+> **Validation:** Ending Cash each year matches the Cash line on the Balance Sheet for that year. Year 1 shows a large AR build (~$17,600) as the firm extends Net-20 terms across a bigger book; the prepaid-insurance float ($1,200) unwinds in Year 1 (the refundable office deposit of $2,800 stays on the books).
 
 ### Opening Balance Sheet (at Launch)
 
 | Assets | Amount ($) |
 |--------|-----------|
-| Cash (working capital + one-time expense float) | 47,200 |
-| Prepaid insurance | 1,200 |
-| Gross PP&E (equipment + furniture) | 6,600 |
-| **Total Assets** | **55,000** |
+| Cash (working capital + one-time expense float) | 76,700 |
+| Prepaid insurance + refundable office deposit | 4,000 |
+| Gross PP&E (equipment, furniture, leasehold) | 19,300 |
+| **Total Assets** | **100,000** |
 
 | Liabilities & Equity | Amount ($) |
 |----------------------|-----------|
-| SBA microloan | 30,000 |
-| Owner's capital (paid-in) | 25,000 |
-| **Total Liabilities + Equity** | **55,000** |
+| SBA microloan | 50,000 |
+| Owners' capital (paid-in, two partners) | 50,000 |
+| **Total Liabilities + Equity** | **100,000** |
 
-> **Validation:** Total Assets = Total Liabilities + Equity = total startup capital ($30,000 loan + $25,000 equity). Opening equity is the full owner investment — one-time expenses flow through the Year 1 P&L, not the opening balance sheet.
+> **Validation:** Total Assets = Total Liabilities + Equity = total startup capital ($50,000 loan + $50,000 combined owner equity). Opening equity is the full owner investment — one-time expenses flow through the Year 1 P&L, not the opening balance sheet.
 
 ### Balance Sheet (Years 1–3)
 
 | Assets | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
-| Cash | 52,480 | 78,952 | 122,240 |
-| Accounts receivable | 9,205 | 11,430 | 14,134 |
-| Prepaid expenses | 0 | 0 | 0 |
-| Net PP&E | 5,400 | 4,200 | 3,000 |
-| **Total Assets** | **67,086** | **94,582** | **139,374** |
+| Cash | 84,091 | 120,193 | 166,250 |
+| Accounts receivable | 17,644 | 22,573 | 27,501 |
+| Prepaid expenses (refundable office deposit) | 2,800 | 2,800 | 2,800 |
+| Net PP&E | 16,200 | 13,100 | 10,000 |
+| **Total Assets** | **120,735** | **158,665** | **206,551** |
 
 | Liabilities | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |------------|-----------|-----------|-----------|
-| Accounts payable | 898 | 1,286 | 1,908 |
-| SBA microloan | 26,158 | 21,913 | 17,224 |
-| **Total Liabilities** | **27,055** | **23,199** | **19,132** |
+| Accounts payable | 2,340 | 3,624 | 4,805 |
+| SBA microloan | 43,596 | 36,522 | 28,707 |
+| **Total Liabilities** | **45,937** | **40,146** | **33,512** |
 
 | Equity | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
-| Paid-in capital | 25,000 | 25,000 | 25,000 |
-| Retained earnings (cumulative net income) | 15,030 | 46,383 | 95,242 |
-| **Owner's Equity** | **40,030** | **71,383** | **120,242** |
+| Paid-in capital (two partners) | 50,000 | 50,000 | 50,000 |
+| Retained earnings (cumulative net income) | 24,798 | 68,519 | 123,040 |
+| **Owners' Equity** | **74,798** | **118,519** | **173,040** |
 
-> **Validation:** Total Assets = Total Liabilities + Owner's Equity for every year (67,086 / 94,582 / 139,374).
+> **Validation:** Total Assets = Total Liabilities + Owners' Equity for every year (120,735 / 158,665 / 206,551).
 
 ### Break-Even Analysis
 
@@ -375,16 +381,16 @@
 
 | Item | Value |
 |------|-------|
-| Blended revenue per billable hour | $181.39 |
-| Variable cost per billable hour (contractor + materials, 15%) | $27.21 |
-| **Contribution margin per billable hour** | **$154.18** |
-| **Contribution margin (%)** | **85.0%** |
-| Annual fixed operating costs (Year 2, excl. one-time & depreciation) | $142,333 |
-| **Break-even billable hours per year** | **923 hours** |
-| **Break-even billable hours per month** | **~77 hours (~18/week)** |
-| **Break-even revenue (annual)** | **$167,450** |
+| Blended revenue per billable hour | $181.48 |
+| Variable cost per billable hour (contractor + materials, 12%) | $21.78 |
+| **Contribution margin per billable hour** | **$159.70** |
+| **Contribution margin (%)** | **88.0%** |
+| Annual fixed costs (Year 2 OpEx + coordinator labor, excl. one-time & depreciation) | $311,654 |
+| **Break-even billable hours per year** | **1,952 hours** |
+| **Break-even billable hours per month** | **~163 hours (~19/week per partner)** |
+| **Break-even revenue (annual)** | **$354,152** |
 
-> **Reading:** Cardinal HR must bill roughly 77 hours a month — about 18 hours a week — to cover its Year-2 fixed costs, well under the founder's ~25-hour weekly billable capacity. Break-even is driven mostly by the owner's own target salary, and the safety margin (~7 billable hours/week) is the room to absorb slow months.
+> **Reading:** Across two partners, Cardinal HR must bill about 163 hours a month — roughly 19 billable hours a week each — to cover its Year-2 fixed costs, under the ~25-hour weekly billable capacity per partner. Break-even is driven mostly by the two partners' salaries and the coordinator's wage; the gap between break-even revenue ($354,152) and Year-2 revenue ($411,950) is the cushion for slow months. Note the HR Coordinator's salaried wage is treated as a fixed delivery cost here, so only 1099 contractor fees and materials count as variable per-hour cost.
 
 ---
 ---
@@ -397,8 +403,8 @@
 
 | Metric | Value |
 |--------|-------|
-| Target | 6,000 — 7,000 words |
-| Rationale | Sample business plans need enough room to show a full chapter set plus real financial tables. The two reference plans run 3,200 and 5,800 words but skip real numbers; ours adds fully-costed financials (Section 6B), so 6,000–7,000 is the right length to be complete without padding. |
+| Target | 6,500 — 7,500 words |
+| Rationale | Sample business plans need enough room to show a full chapter set plus real financial tables. The two reference plans run 3,200 and 5,800 words but skip real numbers; ours adds fully-costed financials (Section 6B) and a two-partner team, so 6,500–7,500 is the right length to be complete without padding. |
 
 ---
 
@@ -436,14 +442,14 @@
 | H2: Competitive Analysis | ~550 | 4–5 | 🔴 |
 | H2: Services & Pricing | ~850 | 7–9 | 🔴 |
 | H2: Marketing & Sales Strategy | ~600 | 4–6 | 🔴 |
-| H2: Operations Plan | ~700 | 5–7 | 🔴 |
-| H2: Management & Team | ~400 | 3–4 | 🟡 |
+| H2: Operations Plan | ~750 | 5–7 | 🔴 |
+| H2: Management & Team | ~550 | 4–5 | 🔴 |
 | H2: Financial Plan | ~900 | 6–8 (+ tables) | 🔴 |
 | H2: Risk Analysis & Mitigation | ~400 | 3–4 | 🟡 |
 | H2: First-Year Roadmap | ~350 | 3–4 | 🟡 |
 | H2: Conclusion | ~200 | 2 | 🔴 |
 | FAQs (5 questions) | ~450 | — | 🟢 |
-| **TOTAL** | **~7,300** | | |
+| **TOTAL** | **~7,600** | | |
 
 > If the draft runs long, trim the 🟡/🟢 sections (Risk, Roadmap, FAQs) first — never the four 🔴 core chapters or the financial tables.
 
@@ -455,9 +461,9 @@
 > ~550 words | 🔴 MUST HAVE
 >
 > Hook: Open with the core opportunity in one line — small Austin employers (10–100 people) keep hitting HR problems they can't yet justify a full-time hire for, and Cardinal HR Advisors is built to be their outside HR team.
-> Context: Introduce Cardinal HR Advisors LLC, founded by Rachel Donnelly (15 years HR, SHRM-SCP), launching March 2026 in Austin, Texas.
-> Promise: State what the plan covers — services, market, operations, and a $30,000 SBA microloan request against $25,000 owner equity.
-> Thesis preview: A lean, home-based, expertise-driven consultancy reaching $168,000 in Year 1 and $257,950 by Year 3 at 82–87% gross margins.
+> Context: Introduce Cardinal HR Advisors LLC, co-founded by Rachel Donnelly (15 years HR, SHRM-SCP) and Marcus Reyes (12 years talent/HR ops, PHR), launching March 2026 in Austin, Texas.
+> Promise: State what the plan covers — services, market, operations, and a $50,000 SBA microloan request against $50,000 combined owner equity.
+> Thesis preview: A two-partner, expertise-driven firm reaching $322,000 in Year 1 and $501,900 by Year 3 at 77–82% gross margins.
 > Include the **Financial Highlights table** (Section 6B) here.
 > Source inspiration: Modeliks' summary block (Products/Services, Market Opportunity, USP, Investment Needed) — mirror that four-beat summary, but with our real numbers.
 
@@ -468,24 +474,24 @@
 
 #### H2: Company Overview
 > ~550 words, 4–5 paragraphs | 🔴 MUST HAVE
-> 🎯 Our angle: Establish credibility fast — this is an experienced HR leader productizing her expertise, not a beginner guessing at a business.
-> 🪝 Suggested hook: "Cardinal HR Advisors LLC turns 15 years of in-house HR leadership into an outside service small Austin employers can actually afford."
-> 🔗 Transition from previous: After the executive summary's numbers, bridge with: "Behind those projections is a specific business and a specific founder."
-> 🚫 Avoid: Don't drift into services or pricing yet (that's its own chapter). Don't invent facts beyond the Business Profile.
+> 🎯 Our angle: Establish credibility fast — two experienced HR leaders productizing their expertise into a firm, not a beginner or a solo freelancer.
+> 🪝 Suggested hook: "Cardinal HR Advisors LLC turns 27 combined years of in-house HR leadership into an outside service small Austin employers can actually afford."
+> 🔗 Transition from previous: After the executive summary's numbers, bridge with: "Behind those projections is a specific firm and two specific founders."
+> 🚫 Avoid: Don't drift into services or pricing yet (that's its own chapter). Don't invent facts beyond the Business Profile. Don't describe it as a one-person shop — it's a two-partner firm with a coordinator.
 > 📖 Reference: Modeliks' "Business Overview" (Description, Mission, Legal Structure, Company History) — follow that sub-structure.
 
-Cover: what the business does and its model (projects + retainers + hourly); the mission (help small employers build sound HR without a full-time hire); legal structure (single-member LLC, planned S-corp election); location and delivery model (Austin home base + remote across Texas); founding date (March 2026); and 2–3 concrete first-year goals tied to the financials (e.g., reach an average of 4–5 active retainer clients, hit $168,000 revenue, keep the founder's billable week at ~20 hours).
+Cover: what the firm does and its model (projects + retainers + hourly); the mission (help small employers build sound HR without a full-time in-house team); legal structure (two-partner multi-member LLC, 50/50, planned S-corp election); the two founders' complementary roles (Rachel: compliance, employee relations, strategy, firm lead; Marcus: hiring/onboarding systems, HRIS, manager training); location and delivery model (Austin shared office + remote across Texas); founding date (March 2026); and 2–3 concrete first-year goals tied to the financials (e.g., reach ~5–7 active retainer clients, hit $322,000 revenue, bring on the part-time HR Coordinator by mid-year, keep each partner's billable week near 20 hours).
 
-Place internal link #1 ([starting a consulting business](https://upmetrics.co/blog/how-to-start-management-consulting-business)) in the opening paragraph, and internal link #2 ([single-member LLC](https://upmetrics.co/blog/how-to-form-an-llc)) on the legal-structure sentence.
+Place internal link #1 ([starting a consulting business](https://upmetrics.co/blog/how-to-start-management-consulting-business)) in the opening paragraph, and internal link #2 ([forming the LLC](https://upmetrics.co/blog/how-to-form-an-llc)) on the legal-structure sentence.
 
-> 🖼️ Visual: Small "Company at a Glance" callout box (name, structure, location, launch date, founder, funding ask). Alt text: "Cardinal HR Advisors company snapshot."
+> 🖼️ Visual: Small "Company at a Glance" callout box (name, structure, location, launch date, both founders, funding ask). Alt text: "Cardinal HR Advisors company snapshot."
 > 💡 ProTip: "State the S-corp election plan explicitly — it explains why owner pay shows payroll taxes in the financials and signals tax awareness to a lender."
 
 ##### H3: Mission & Business Model
 > Describe the three revenue streams in one paragraph and how they fit together (projects open the relationship; retainers make it recurring; hourly fills the gaps).
 
 ##### H3: Legal Structure, Ownership & Goals
-> Single-member LLC owned 100% by Rachel Donnelly; list the Year-1 goals as measurable targets tied to Section 6B.
+> Multi-member LLC owned 50/50 by Rachel Donnelly and Marcus Reyes, with a partnership/operating agreement defining each partner's role and profit split; list the Year-1 goals as measurable targets tied to Section 6B.
 
 ---
 
@@ -553,7 +559,7 @@ Explain the pricing logic (fixed fees to start a relationship, retainers for rec
 #### H2: Marketing & Sales Strategy
 > ~600 words, 4–6 paragraphs | 🔴 MUST HAVE
 > 🎯 Our angle: Early clients come from relationships and referrals, not paid ads — the plan should reflect how expertise businesses actually get their first customers.
-> 🪝 Suggested hook: "Cardinal HR's first ten clients will come from Rachel's network and referral partners — not a Facebook campaign."
+> 🪝 Suggested hook: "Cardinal HR's first clients will come from the two partners' combined networks and referral partners — not a Facebook campaign."
 > 🔗 Transition from previous: "A clear service menu is only useful if the right buyers see it."
 > 🚫 Avoid: Don't make broad social-media advertising the primary channel. Don't promise viral growth. Keep it relationship-led and realistic.
 > 📖 Reference: None — build from the user's acquisition model.
@@ -567,10 +573,10 @@ Cover acquisition channels in priority order: former colleagues and professional
 
 #### H2: Operations Plan
 > ~700 words, 5–7 paragraphs | 🔴 MUST HAVE
-> 🎯 Our angle: Show that a solo, home-based consultancy still runs on real systems, hours, and workflows — not improvisation.
-> 🪝 Suggested hook: "Cardinal HR runs on a fixed weekly rhythm: delivery in the mornings, sales and admin in the afternoons, with capacity capped on purpose."
+> 🎯 Our angle: Show that a small, two-partner firm runs on real systems, hours, and defined roles — not improvisation.
+> 🪝 Suggested hook: "Cardinal HR runs on a fixed weekly rhythm: each partner blocks delivery in the mornings and sales/admin in the afternoons, with billable capacity capped on purpose."
 > 🔗 Transition from previous: "Winning clients is one thing; delivering to them consistently is what keeps them."
-> 🚫 Avoid: Don't leave operations vague. Cover hours, scheduling, a typical day, tools, and the contractor model explicitly.
+> 🚫 Avoid: Don't leave operations vague. Cover hours, scheduling, a typical day, tools, and the coordinator + contractor model explicitly.
 > 📖 Reference: Modeliks' "Plan of Operations" (Staffing/Training, Operational Process, Equipment/Software) — mirror that, but with concrete hours and a day-in-the-life.
 
 Cover, as explicit items:
@@ -578,41 +584,41 @@ Cover, as explicit items:
 - **Engagement scheduling & booking logic:** how discovery calls and project work are scheduled; retainer hours drawn down monthly; a cap of ~25 billable hours/week to protect quality.
 - **A typical operating day** (morning to close): e.g., morning deep-work on a handbook or assessment, midday client calls, afternoon proposals and follow-ups, weekly admin block.
 - **Tools/software stack:** CRM, project management, e-signature, cloud document storage, accounting/invoicing, video conferencing, an HRIS the firm helps clients configure.
-- **Contractor network:** 2–3 vetted 1099 specialists (compensation, HRIS, workplace investigations) engaged on demand — this is the direct-labor COGS line.
+- **Delivery support:** a part-time W-2 HR Coordinator (hired ~month 5) plus 2–3 vetted 1099 specialists (compensation, HRIS, workplace investigations) engaged on demand — together these form the direct-labor COGS line.
 - **Compliance, insurance & data security:** professional liability (E&O) + general liability, standard service agreements, confidentiality and secure-document handling for sensitive employee data, and relationships with employment attorneys for referrals.
-- **Staffing schedule:** in Year 1 the founder covers delivery, sales, and admin; contractors flex up during peak project loads.
+- **Staffing schedule & roles:** the two partners split delivery and sales along their specialties (Rachel: compliance/ER/strategy; Marcus: hiring systems/HRIS/training); the part-time HR Coordinator handles documentation, handbook drafting, onboarding setup, scheduling, and admin; 1099 contractors flex up during peak project loads.
 
-Place internal link #7 ([hiring the first employee](https://upmetrics.co/blog/how-to-hire-employees)) can go here OR in the roadmap — recommended in the roadmap's Months 7–12 milestone.
+Place internal link #7 ([hiring the first employee](https://upmetrics.co/blog/how-to-hire-employees)) can go here OR in the roadmap — recommended in the roadmap's Months 4–6 milestone (the coordinator hire).
 
-> 🖼️ Visual: Weekly schedule grid (days × time blocks) showing delivery vs. sales/admin split and the ~25-hour billable cap. Alt text: "Cardinal HR weekly operating schedule and billable-hours cap."
-> 💡 ProTip: "Capping billable hours at 25/week in the plan is a feature, not a limitation — it shows the lender the founder has protected time for sales and won't burn out in month three."
+> 🖼️ Visual: Weekly schedule grid (days × time blocks) showing each partner's delivery vs. sales/admin split and the ~25-hour billable cap. Alt text: "Cardinal HR weekly operating schedule and billable-hours cap."
+> 💡 ProTip: "Capping each partner's billable hours at 25/week in the plan is a feature, not a limitation — it shows the lender the partners have protected time for sales and won't burn out in month three."
 
 ---
 
 #### H2: Management & Team
-> ~400 words, 3–4 paragraphs | 🟡 SHOULD HAVE
-> 🎯 Our angle: One strong founder plus a flexible contractor bench and named advisors — enough depth to deliver, lean enough to stay profitable.
-> 🪝 Suggested hook: "Cardinal HR is a team of one on payroll and a bench of specialists on call."
-> 🔗 Transition from previous: "The operations above are run by a deliberately small team."
-> 🚫 Avoid: Don't invent a large fake org chart. Keep it honest to a solo founder + contractors.
+> ~550 words, 4–5 paragraphs | 🔴 MUST HAVE
+> 🎯 Our angle: Two complementary partners plus a part-time coordinator and a contractor bench — a real firm with divided roles, not one person wearing every hat.
+> 🪝 Suggested hook: "Cardinal HR splits the work two ways at the top: Rachel owns compliance and strategy, Marcus owns hiring systems and HR operations."
+> 🔗 Transition from previous: "The operations above are run by a small but deliberately structured team."
+> 🚫 Avoid: Don't blur the two partners into one voice, and don't invent a large fake org chart. Show clear role division.
 > 📖 Reference: Modeliks' "Management Team" section.
 
-Cover: Rachel Donnelly's role and full bio (expand the Section 1B bio); the contractor bench and what each specialist covers; outside advisors (e.g., an employment attorney, an accountant/CPA); the current org structure; and the planned hiring path (administrative/delivery support before a second consultant). Place internal link #5 ([organizational structure](https://upmetrics.co/blog/organizational-structure-business-plan)) where the org structure and future hires are described.
+Cover both founders' roles and full bios (expand the Section 1B bios) and how responsibilities divide — **Rachel Donnelly (Managing Principal):** compliance, employee relations, HR strategy, firm management, and client relationships; **Marcus Reyes (Principal Consultant):** hiring and onboarding systems, HRIS selection/setup, manager training, and delivery operations. Then the **part-time HR Coordinator** (W-2, hired ~month 5) who supports delivery and admin; the **1099 specialist contractor bench** and what each covers (compensation, deep HRIS builds, workplace investigations); outside advisors (an employment attorney, a CPA); the current org structure and how decisions split between the two partners; and the planned hiring path (a second coordinator or associate consultant by Year 3). Place internal link #5 ([organizational structure](https://upmetrics.co/blog/organizational-structure-business-plan)) where the org structure and future hires are described.
 
-> 🖼️ Visual: Simple org chart — Founder at top; contractor bench and advisors as connected nodes; dotted-line "future hire: HR coordinator (Year 2–3)." Alt text: "Cardinal HR organizational structure with founder, contractors, and planned first hire."
-> 💡 ProTip: None.
+> 🖼️ Visual: Org chart — two co-founders at the top with their specialties; the part-time HR Coordinator and the 1099 contractor bench beneath; advisors (attorney, CPA) as dotted-line nodes; "planned Year-3 hire: associate consultant." Alt text: "Cardinal HR org chart: two partners, coordinator, contractor bench, advisors."
+> 💡 ProTip: "Spell out which partner owns which decisions — a clear split reassures a lender that a two-owner firm won't stall on who's in charge."
 
 ---
 
 #### H2: Financial Plan
 > ~900 words + tables | 🔴 MUST HAVE
 > 🎯 Our angle: This is the chapter the reference plans skip — real, internally consistent, defensible numbers.
-> 🪝 Suggested hook: "Cardinal HR's plan is built on 930 billable hours in Year 1 at a blended $181 an hour — every projection traces back to that."
+> 🪝 Suggested hook: "Cardinal HR's plan is built on 1,780 billable hours across two partners in Year 1 at a blended $181 an hour — every projection traces back to that."
 > 🔗 Transition from previous: "A capable team needs a funding plan and financials to match — here they are."
 > 🚫 Avoid: Do NOT alter any numbers or add new figures. Present the Section 6B tables as-is and explain them in plain language.
 > 📖 Reference: Get More HR Clients for pricing sanity; use it to justify the assumptions narratively.
 
-Insert, in order, the pre-built tables from Section 6B with a short narrative before each: **Startup Costs**, **Source of Funds** (with the $30,000 SBA microloan request — place internal link #4, [what lenders look for](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan), here), **Financial Assumptions**, **Depreciation Schedule**, **Income Statement (P&L)**, **Cash Flow Statement**, **Opening Balance Sheet**, **Balance Sheet (Years 1–3)**, and **Break-Even Analysis**. Narrate the story the numbers tell: modest but positive Year-1 profit after absorbing one-time startup costs; margins that stay high because the business sells expertise, not goods; cash that builds steadily; and a break-even the founder can hit in ~18 billable hours a week.
+Insert, in order, the pre-built tables from Section 6B with a short narrative before each: **Startup Costs**, **Source of Funds** (with the $50,000 SBA microloan request — place internal link #4, [what lenders look for](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan), here), **Financial Assumptions**, **Depreciation Schedule**, **Income Statement (P&L)**, **Cash Flow Statement**, **Opening Balance Sheet**, **Balance Sheet (Years 1–3)**, and **Break-Even Analysis**. Narrate the story the numbers tell: positive Year-1 profit after absorbing one-time startup costs and two partner salaries; margins that stay high (77–82%) because the firm sells expertise, not goods; cash that builds steadily; and a break-even the two partners clear at ~19 billable hours a week each.
 
 Reference the SBA Microloans program (external link #2) when describing the loan. This is the natural spot for the primary Upmetrics CTA (see Section 11).
 
@@ -623,13 +629,13 @@ Reference the SBA Microloans program (external link #2) when describing the loan
 
 #### H2: Risk Analysis & Mitigation
 > ~400 words, 3–4 paragraphs | 🟡 SHOULD HAVE
-> 🎯 Our angle: Name the real risks of a solo consultancy and show a specific mitigation for each — this builds lender confidence more than pretending there are none.
-> 🪝 Suggested hook: "The biggest risk to Cardinal HR is also its biggest asset: it depends on one person."
+> 🎯 Our angle: Name the real risks of a small partner-led firm and show a specific mitigation for each — this builds lender confidence more than pretending there are none.
+> 🪝 Suggested hook: "The biggest risk to a two-partner firm is key-person dependence — so the plan builds in redundancy from the start."
 > 🔗 Transition from previous: "Strong financials still carry risk — here's how Cardinal HR manages it."
 > 🚫 Avoid: Don't list generic threats like "competition" or "the economy." Use operational, specific risks.
 > 📖 Reference: BusinessDojo's "Risk Policy" framing.
 
-Present as a risk/mitigation table drawn from the founder-capacity model: founder dependence → document processes + contractor bench; slow client acquisition → begin network outreach pre-launch; unpredictable project revenue → convert clients to retainers; scope creep → defined deliverables + response limits; advice beyond expertise → refer legal/specialist matters; sensitive employee data → secure systems + access controls; client concentration → set a revenue-concentration threshold; founder overload → track capacity and cap commitments; late payments → deposits + staged billing.
+Present as a risk/mitigation table drawn from the firm's model: key-person dependence (loss of either partner) → cross-trained partners, documented playbooks + contractor bench; slow client acquisition → both partners begin network outreach pre-launch; unpredictable project revenue → convert clients to retainers; scope creep → defined deliverables + response limits; advice beyond expertise → refer legal/specialist matters; sensitive employee data → secure systems + access controls; client concentration → set a revenue-concentration threshold; partner overload → track capacity and cap commitments; partner disagreement → operating agreement defines roles, profit split, and dispute resolution; late payments → deposits + staged billing.
 
 > 🖼️ Visual: Risk & mitigation table (Risk | Mitigation). Alt text: "Cardinal HR key risks and mitigation strategies."
 > 💡 ProTip: "Set an explicit client-concentration limit (e.g., no single client over 25% of revenue) — it turns a vague worry into a managed policy."
@@ -644,7 +650,7 @@ Present as a risk/mitigation table drawn from the founder-capacity model: founde
 > 🚫 Avoid: Don't reverse-engineer unrealistic client counts to hit a revenue number. Keep the ramp gradual.
 > 📖 Reference: None — use the user's phased trajectory.
 
-Cover three phases: **Months 1–3** (business setup, activate network, win first assessments/handbook projects, land the first retainer, expect uneven revenue); **Months 4–6** (refine packages, build referral partnerships, steadier pipeline, reach 2–4 retainer clients); **Months 7–12** (grow recurring revenue, use contractors selectively, reach ~5–8 retainer clients, identify the most profitable segment, consider administrative support). Place internal link #7 ([hiring the first employee](https://upmetrics.co/blog/how-to-hire-employees)) in the Months 7–12 milestone.
+Cover three phases: **Months 1–3** (set up the firm, both partners activate their networks, win first assessments/handbook projects, land the first retainers, expect uneven revenue); **Months 4–6** (refine packages, build referral partnerships, **hire the part-time HR Coordinator around month 5** as delivery load builds, reach 4–6 retainer clients); **Months 7–12** (grow recurring revenue, use contractors selectively, reach ~7–9 retainer clients, identify the most profitable segment, plan the Year-3 associate hire). Place internal link #7 ([hiring the first employee](https://upmetrics.co/blog/how-to-hire-employees)) in the Months 4–6 coordinator-hire milestone.
 
 > 🖼️ Visual: Timeline/Gantt-style graphic across Months 1–12 with the three phases and key milestones. Alt text: "Cardinal HR first-year roadmap across three phases."
 > 💡 ProTip: None.
@@ -654,9 +660,9 @@ Cover three phases: **Months 1–3** (business setup, activate network, win firs
 #### H2: Conclusion
 > ~200 words | 🔴 MUST HAVE
 >
-> Restate the thesis in fresh words: a lean, expertise-driven HR consultancy serving Austin's 10–100-employee firms, reaching profitability in Year 1 and building predictable recurring revenue by Year 3.
-> Summarize 2–3 takeaways: defensible bottom-up financials, a narrow and executable focus, and a realistic growth ladder.
-> End forward-looking: with a $30,000 microloan and disciplined execution, Cardinal HR grows from a solo practice into a small firm.
+> Restate the thesis in fresh words: a lean, expertise-driven two-partner HR firm serving Austin's 10–100-employee businesses, reaching profitability in Year 1 and building predictable recurring revenue by Year 3.
+> Summarize 2–3 takeaways: defensible bottom-up financials, a narrow and executable focus, and a realistic growth ladder (partners → coordinator → contractors → associate hire).
+> End forward-looking: with a $50,000 microloan and disciplined execution, Cardinal HR grows from a two-partner launch into an established small firm.
 > Place internal link #8 ([another professional-services sample plan](https://upmetrics.co/template/accounting-bookkeeping-business-plan)) and the closing Upmetrics CTA here.
 
 ---
@@ -666,17 +672,17 @@ Cover three phases: **Months 1–3** (business setup, activate network, win firs
 > 5 FAQs — included because this is published as a blog-style sample page where founders ask how to adapt it. Each is checked against the outline; none duplicate a main section.
 
 **Q1:** How much does it cost to start an HR consulting business?
-**A1:** Reference Cardinal HR's $55,000 total startup capital ($30,000 SBA microloan + $25,000 owner equity) and note that most of it is a working-capital reserve, not equipment — HR consulting is low-cost to launch because it sells expertise. Point to the Startup Costs table.
+**A1:** Reference Cardinal HR's $100,000 total startup capital ($50,000 SBA microloan + $50,000 combined owner equity) and note that most of it is a working-capital reserve, not equipment — HR consulting is low-cost to launch because it sells expertise; a solo founder could start on far less. Point to the Startup Costs table.
 **Source:** Editorial judgment + Financials (Section 6B).
 **Why not in main content:** The plan states the number; the FAQ generalizes it for the reader's own situation.
 
 **Q2:** Do I need HR certifications to start a consultancy?
-**A2:** Explain that certifications like SHRM-SCP or SPHR (which the fictional founder holds) aren't legally required but strongly build client trust, since consulting sells judgment and credibility. Link to SHRM (external link #3).
+**A2:** Explain that certifications like SHRM-SCP, SPHR, or PHR (which the fictional founders hold) aren't legally required but strongly build client trust, since consulting sells judgment and credibility. Link to SHRM (external link #3).
 **Source:** Editorial judgment.
 **Why not in main content:** It's a reader-qualification question, not part of the business's own plan.
 
 **Q3:** How many clients does an independent HR consultant need to make a living?
-**A3:** Use the break-even logic: roughly 77 billable hours a month (~18/week) covers Year-2 fixed costs, which translates to a handful of retainer clients plus a few projects. Reference the Break-Even Analysis.
+**A3:** Use the break-even logic: Cardinal HR covers its Year-2 fixed costs at about 163 billable hours a month across two partners (~19/week each), which translates to a handful of retainer clients plus a few projects. A solo consultant scales this down proportionally. Reference the Break-Even Analysis.
 **Source:** Financials (Section 6B).
 **Why not in main content:** The plan shows the business's own break-even; the FAQ reframes it as personal guidance.
 
@@ -732,7 +738,7 @@ Cover three phases: **Months 1–3** (business setup, activate network, win firs
 1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after the Executive Summary — Content: 4-bullet snapshot (who, funding ask, Year 1 & 3 revenue, model).
 2. 📊 **Comparison Table** — Include: Yes — Placement: Competitive Analysis — Format: options × cost/expertise/flexibility.
 3. 💡 **Key Takeaway Callout Boxes** — Include: Yes — Number: 3 — Placement: end of Market Analysis, Services & Pricing, and Financial Plan.
-4. 📈 **Data Callout / Stat Highlight** — Include: Yes — Number: 3 — Placement: Executive Summary (Year 1 revenue), Break-Even (18 hrs/week), Financial Plan (gross margin).
+4. 📈 **Data Callout / Stat Highlight** — Include: Yes — Number: 3 — Placement: Executive Summary (Year 1 revenue), Break-Even (~19 hrs/week per partner), Financial Plan (gross margin).
 
 > Use WordPress built-in blocks — no custom HTML or plugins.
 
@@ -752,7 +758,8 @@ Cover three phases: **Months 1–3** (business setup, activate network, win firs
 
 - **Real, validated financials** — unlike the reference plans (and the 2020 page), every table has actual numbers that reconcile across P&L, cash flow, and balance sheet.
 - **Honest competition framing** — we name "doing nothing" and "hiring in-house" as the true competitors, not just rival consultants.
-- **Capacity-first realism** — the plan is built around the founder's ~25 billable hours/week and a defined "do not offer at launch" list, so it reads like a business a real HR professional could actually run.
+- **A firm, not a freelancer** — a two-partner structure with complementary specialties, a part-time coordinator, and a contractor bench shows a business that delivers through people and systems, not one person's hours. The reference plans stay vague on team; ours makes the org real.
+- **Capacity-first realism** — the plan is built around each partner's ~25 billable hours/week and a defined "do not offer at launch" list, so it reads like a firm a real HR professional could actually run.
 
 ---
 ---

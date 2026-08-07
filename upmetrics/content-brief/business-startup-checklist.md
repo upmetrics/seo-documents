@@ -558,8 +558,8 @@ Five Upmetrics URLs currently compete for checklist queries, and the download pa
 
 **Trust signals:**
 - IRS.gov → use in Steps 5, 8, 9, 15
-- SBA.gov → use in Steps 5, 7, 10, 16
-- USPTO.gov → use in Step 11
+- SBA.gov → use in Steps 5, 7, 10, 13
+- USPTO.gov → use in Step 6 (name clearance and trademark)
 - US Census Business Formation Statistics → use in the intro
 - SCORE.org → use in the launch phase
 

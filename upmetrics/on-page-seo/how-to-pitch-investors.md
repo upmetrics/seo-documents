@@ -1,363 +1,314 @@
-# SEO On-Page Audit — How to Pitch to Investors
+# SEO Suggestion Report: How to Pitch to Investors
 
 | Field | Value |
-|-------|-------|
+|---|---|
 | URL | https://upmetrics.co/blog/how-to-pitch-investors |
 | Post ID | 6210 |
-| Post type | post |
+| Post Type | Blog Post (`post`) |
 | Category | Funding |
 | Published | 2021-12-22 |
-| Last modified | 2026-04-16 |
-| Word count | ~2,393 |
-| Report date | 2026-04-16 |
-| GSC date range | 2026-01-16 to 2026-04-15 (90 days) |
-| GA4 date range | last 30 days |
+| Last Modified | 2026-07-30 |
+| Report Date | 2026-08-07 |
+| GSC Data Range | 2026-05-10 to 2026-08-04 (90 days) |
+| GA4 Data Range | Last 30 days (engagement), Last 90 days (conversions) |
 
 ---
 
-## Page Health Score: 5.5 / 10
+## Section B: Page Health Score & Action Summary
 
-| Status | Count | What it means |
-|:-:|:-:|---|
-| Critical | 4 | Blocking SEO performance — fix first |
-| Needs Improvement | 4 | Hurting CTR, engagement, or click equity |
-| Good | 6 | No action needed |
+### Critical Context: This Page Isn't Ranking
 
-**Deductions:**
-- **-2 (Critical)** — Meta title is 74 characters (exceeds 60-char limit; Google truncates on SERP)
-- **-2 (Critical)** — Top query "business pitching" ranks position 5.6 with **0% CTR** (19 impressions, 0 clicks in 90 days) — benchmark at that position is ~5-6%. Meta copy is actively losing every page-1 click.
-- **-2 (Critical)** — End-of-article CTA is a non-canonical `delivery-block` ("Create a Clear, Investor-Ready Pitch Deck"). Canonical Blog Post End CTA is missing — Upmetrics posts require it verbatim.
-- **-2 (Critical)** — Image #1 (AI assistant CTA image) has empty alt. Content image inside a CTA with no accessible label.
-- **-1 (Needs Improvement)** — Meta title "14 Steps" does NOT match og:title / H1 "A Simple Step-by-Step Guide" — inconsistent social vs SERP framing.
-- **-1 (Needs Improvement)** — Meta description does not contain primary keyword "pitch to investors" (uses "pitch deck" instead).
-- **-1 (Needs Improvement)** — External link in Mistake #4 points to guykawasaki.com; Upmetrics has its own Guy Kawasaki pitch deck breakdown that should replace it.
-- **-0.5 (Minor)** — H3 #3 has inline `<span style="...">` styling on the heading text. Clean CSS hygiene issue.
+Before the task breakdown — the data shows a ranking problem, not a content-quality problem. Over the last 90 days this page got **6 clicks on 1,812 impressions** at an **average position of 56**. It has never cracked page 1 for any query with meaningful volume. For comparison, [How to Convince Investors](https://upmetrics.co/blog/how-to-convince-investors) — a similar-intent article on the same site — averages **position 22** on 1,884 impressions. This page's content is solid (3,116 words, clean structure, well-described image), but it's essentially invisible in search. That's the main reason **Task 1** and **Task 10** (internal linking, in and out) carry more weight in this report than usual — meta-tag polish alone won't move a page ranking in the 50s.
 
-**Not deducted (positive signals):**
-- Page is indexed and ranking for 40+ queries
-- Content structure is clear (4 H2s, 14-step framework, 5 mistakes)
-- 11 existing internal links — most are good-quality contextual matches
-- Mid-content CTA (Type: `cta-template-ai`) is well-placed after Section 1
+### Page Health Score: 8.5 / 10
 
----
+| Status | Count |
+|---|---|
+| Critical | 0 |
+| Needs Improvement | 1 |
+| Minor | 1 |
+| Good | 8 |
 
-## Action Summary
+**Deductions:** -1 (meta title is 47 characters, below the 50-char minimum) · -0.5 (one existing internal link uses a single-word anchor, "runway")
 
-| # | Task | Impact | Effort | Current State | Suggestion | Dependencies | Your Decision |
-|:-:|------|:-:|:-:|--------------|-----------|--------------|---------------|
-| 1 | Internal Links | High | Medium | 11 existing, 1 external needs internalization | Replace Guy Kawasaki external with internal; add 2 new links (funding-rounds, get-feedback) | — | Add #1, #2, #3 |
-| 2 | CTAs | High | Medium | 1 banner, 1 non-canonical end CTA, 2 read-links | Replace end CTA with canonical Blog Post End CTA; optionally add 1 Yellow Tip mid-post | — | Approve #1 (canonical restore) |
-| 3 | Resource CTA | High | Quick Win | Not set | Set to `/download/investor-pitch-templates` | — | Approve |
-| 4 | Related Content | Medium | Quick Win | Not visible in get-post | Set 4 items: What Investors Want, Pitch Deck Competition Slide, Investor Rejection, Team Slide | — | Approve all 4 |
-| 5 | Meta Title/Desc | **High** | Quick Win | Title 74 chars, 0% CTR on page-1 query | Rewrite both; set focus keyphrase to "pitch to investors" | — | Approve rewrite |
-| 6 | Image Alt Text | Medium | Quick Win | Image #1 alt empty | Set descriptive alt to AI assistant image | — | Approve |
-| 7 | URL Slug | — | — | `how-to-pitch-investors` is clean | No change (page indexed, ranking for multiple queries) | — | Skip (no change) |
-| 8 | Headings | Low | Quick Win | Inline CSS on H3 #3 | Strip `<span>` wrapper from "3. Deliver your elevator pitch" | — | Approve |
-| 9 | Categories | — | — | "Funding" category | No change — correct category | — | Skip (no change) |
-| 10 | Incoming Links | Medium | Suggestion-only | N/A | 6 source pages identified for manual team review | — | Noted |
+### Action Summary Table
+
+| # | Task | Impact | Effort | Current State | Suggestion | Your Decision |
+|:-:|---|:-:|:-:|---|---|---|
+| 1 | Internal Links | High | Medium | 4 existing links (3 good, 1 weak anchor); 0 new links | Fix 1 anchor, add 3 new contextual links | Fix existing #1. Add #1-3. |
+| 2 | CTAs | High | Medium | Only the mandatory end-of-post CTA — zero CTAs across 3,100+ words of body content | Add 3 new CTAs (2 banners + 1 light) | Add #1-3. |
+| 3 | Resource CTA | Low | Quick Win | Set — "Investor Pitch Templates" (relevant, well-matched) | Optional: sharpen link-text label | Skip (optional). |
+| 4 | Related Content | Medium | Quick Win | 4 items set, all about pitch-deck *building* — off-topic for a meeting/conversation guide | Replace with 4 topically closer items | Approve #1-4. |
+| 5 | Meta Title/Description | Medium | Quick Win | Title is 47 chars (fails 50-60 rule); description duplicates title's hook | Rewrite both | Approve. |
+| 6 | Image Alt Text | None | — | Both images already good | No action | Skip (N/A). |
+| 7 | URL Slug | None | — | `how-to-pitch-investors` — already clean and keyword-aligned | No change | Skip. |
+| 8 | Heading Structure | None | — | Clean H2→H3→H4 hierarchy; keyword present in an H2 | No action | Skip (N/A). |
+| 9 | Category | None | — | "Funding" — correct match per taxonomy rules | No change | Skip. |
+| 10 | Incoming Internal Links | High | High (manual) | 0 tracked incoming links from other posts | 6 data-verified source pages for the SEO team to review | Noted. |
 
 ---
 
-## Task 1: Internal Linking
+## Section C: Task-by-Task Suggestions
 
-### Part A — Existing Internal Link Audit
+### Task 1 — Internal Linking
 
-| # | Anchor Text | Target URL | Status | Notes |
-|:-:|-------------|-----------|--------|-------|
-| 1 | target market | /blog/market-analysis-in-business-plan | Good | Natural fit in "Business Idea" section |
-| 2 | detailed business plan | /blog/how-to-write-a-business-plan-complete-guide | Good | Natural in "Business plan" section |
-| 3 | how to create a successful pitch deck | /blog/how-to-make-pitch-deck | Good | Strong topical match, Section 1 |
-| 4 | find investors for your business | /blog/how-to-find-investors-for-startup | Good | Section 2 header link |
-| 5 | How to create financial projections for startup | /blog/financial-projections-business-plan | Good | Read-link under Section 11 |
-| 6 | competitive analysis section | /blog/what-is-a-competitive-analysis-how-to-conduct-it-effectively | Good | Section 12 |
-| 7 | learn about your exit strategy | /blog/exit-strategies-for-business | Good | Section 14 |
-| 8 | Best AI Pitch Deck Generator for Startups | /features/pitch-deck | Good | Read-link after Section 14 |
-| 9 | pitch deck mistakes | /blog/pitch-deck-mistakes | Good | Mistakes intro |
-| 10 | questions to ask investors | /blog/questions-to-ask-investors | Good | Mistake #5 |
-| 11 | Upmetrics AI pitch deck generator | /features/pitch-deck | Good | "How can Upmetrics help" closing section |
+**Existing Link Audit** (4 links found)
 
-**External links audit:**
+| # | Anchor Text | Target URL | Status |
+|:-:|---|---|---|
+| 1 | `runway` | /blog/how-to-calculate-cash-runway | Needs Fix — single-word anchor |
+| 2 | `strong deck` | /blog/how-to-make-pitch-deck | Good |
+| 3 | `How much you are raising` | /blog/how-much-funding-do-you-need | Good |
+| 4 | `Upmetrics` | / (homepage, branded mention) | Good |
 
-| # | Anchor | Target | Status | Recommendation |
-|:-:|--------|--------|--------|----------------|
-| E1 | According to Forbes | forbes.com (2020) | Stale — flag | Stat is from 2020. Keep link but refresh the sentence (see Content Freshness note below) |
-| E2 | Guy Kawasaki's | guykawasaki.com/the_102030_rule/ | Replace | Upmetrics has its own Guy Kawasaki pitch deck breakdown — internalize the link (see Task 1 #1 below) |
+**Fix #1 — expand the single-word anchor:**
 
-**Link balance:** 11 existing internal links = 10 Informational + 1 Sales/Features (features/pitch-deck appears twice but counts as 1 unique target). Ratio ~9:1 Informational:Sales — within the 2:1 range for blog posts after deduping.
-
-**Content freshness note (not a Task 1 fix):** The Forbes statistic cites 2020 venture capital data. Consider refreshing the sentence to acknowledge the year (e.g., "According to a 2020 Forbes analysis...") or sourcing a more recent stat — but that's a content edit, not a link fix.
+> **Target:** /blog/how-to-calculate-cash-runway (unchanged)
+>
+> **Original:** "The goal is to make the investor better understand why you need this amount and what the business is expected to achieve before the **runway** ends."
+>
+> **Modified:** "The goal is to make the investor better understand why you need this amount and what the business is expected to achieve before **the runway ends**."
+>
+> **Note:** Single-word anchors are too generic per the anchor-length rule (min. 2 words). Same sentence, same target — just widen what's wrapped.
 
 ---
 
-### Part B — New Internal Link Suggestions (Recommended)
+**New Link Suggestions**
 
-> **#1** — `Guy Kawasaki's` → /pitch-deck-examples/guy-kawasaki
+> **#1** — `market size` → `/blog/tam-sam-som-market-size-metrics`
 >
-> **Section:** Mistakes → 4. Poorly designed presentation
+> **Section:** What to prepare before the investor meeting
 >
-> **Original:** "While pitching, if your presentation is crammed with long slides with no visual aesthetic, you are likely to lose your investor. Follow **Guy Kawasaki's** 10/20/30 rule while designing your presentation, where 10 is the maximum number of slides, 20 is the maximum time of presentation and 30 is the minimum font point."
->
-> **Modified:** Same text — only the `href` changes from `https://guykawasaki.com/the_102030_rule/` to `https://upmetrics.co/pitch-deck-examples/guy-kawasaki`.
->
-> **Note:** Replaces an external link with an internal one. Upmetrics has a dedicated breakdown of Guy Kawasaki's 10-slide pitch deck format — far more valuable for readers than the author's own blog post, and keeps link equity on site.
+> **In context:** "Pay particular attention to the areas investors are likely to challenge, such as traction, **market size**, pricing, customer acquisition, financial projections, and the funding ask."
 
 ---
 
-> **#2** — `rounds of financing` → /blog/funding-rounds
+> **#2** — `why they may hesitate` → `/blog/how-to-handle-investor-rejection`
 >
-> **Section:** 13. Funding requirements
+> **Section:** Close with a clear next step
 >
-> **In context:** "Talk about the funds you have already invested and where they come from. Explain the current equity distribution and the investors' stake if they agree to invest in your business. Also, clarify if this would be one-time financing or if you plan to raise money through multiple **rounds of financing**."
->
-> **Note:** Exact-match anchor exists verbatim — zero text changes. The funding-rounds post directly explains seed/Series A/B/C stages, which is exactly what the reader needs to understand to answer "multiple rounds of financing."
+> **In context:** "Leave a few minutes for final questions and ask whether the investor needs any additional information to evaluate the opportunity. This gives you a chance to address the issue directly rather than guessing **why they may hesitate**."
 
 ---
 
-> **#3** — `practice your pitch` → /blog/how-to-get-feedback-on-your-business-pitch
+> **#3** — `financial forecast` → `/features/financial-modeling`
 >
-> **Section:** Mistakes → 1. Not practicing the presentation
+> **Section:** Conclusion
 >
-> **In context:** "If you don't practice your pitch, you will take an unnecessarily long time and lose the attention of your target audience. So, always **practice your pitch** and time your presentation to make it short, crisp, and informative."
->
-> **Note:** Exact-match anchor, natural topical pairing — the feedback article is literally about how to practice a pitch by getting structured feedback. Link the second occurrence (in the "always practice your pitch" sentence) rather than the first for a stronger contextual fit.
-
----
-
-### Part B — Optional (Lower Priority)
-
-> **#4** *(Optional — requires minor text addition)* — `team slide` → /blog/team-slide-pitch-deck
->
-> **Section:** 10. Introduce your team
->
-> **Original:** "When you pitch your business idea to investors, they would like to know that their money is in the right hands."
->
-> **Modified:** "When you pitch your business idea to investors, your **team slide** needs to reassure them that their money is in the right hands."
->
-> **Note:** Requires a sentence rewrite. Natural topical fit — the dedicated "team slide" article covers exactly this section of the pitch deck. Skip if you prefer zero content changes.
-
----
+> **In context:** "You are better prepared for the conversation if you can clearly connect the opportunity, the proof, and how much you're raising. As your assumptions or funding plans change, update the deck and **financial forecast** together."
 
 <details>
 <summary>Considered but skipped (5 pages)</summary>
 
 | Page | Reason Skipped |
-|------|----------------|
-| What Investors Want to See in Pitch Decks (96035) | Claimed by Task 4 (Related Content) — higher value as sidebar item |
-| How to Handle Investor Rejection (80713) | Claimed by Task 4 (Related Content) |
-| Pitch Deck Competition Slide (94829) | Claimed by Task 4 (Related Content) |
-| Top 11 Funding Challenges (81175) | No natural anchor match in content — would require forced text |
-| Business Plan Presentation (28335) | Too generic — overlaps with existing how-to-make-pitch-deck link |
+|---|---|
+| How to Get Feedback on Your Business Pitch | No verbatim anchor match in the source content |
+| What Investors Want From your Business | No verbatim anchor match; used instead in Task 4 |
+| 10 Pitch Deck Mistakes Founders Still Make | No verbatim anchor match; already in old Related Content set |
+| What Investors Want to See in Pitch Decks | No verbatim anchor match; topic overlaps with the already-linked deck-creation page |
+| How to Design the Perfect Team Slide | Anchor text existed ("team's experience") but the target page teaches slide *design*, not narrative team credibility — topical mismatch, dropped per the anchor-to-content match rule |
 
 </details>
 
 ---
 
-## Task 2: CTA Placements
+### Task 2 — CTA Placements
 
-### Part A — Existing CTA Audit
+**Existing CTA Audit**
 
 | # | CTA Type | Placement | Status | Notes |
-|:-:|----------|-----------|--------|-------|
-| 1 | `cta-template-ai` (AI Banner) | After Section 1 "Create a stellar pitch deck" | Good | Well-placed, topically matched. Keep as-is. |
-| 2 | `read-link` | After Section 11 (Financial projections) | Good | Light contextual link to financial projections guide |
-| 3 | `read-link` | After Section 14 (Exit strategy) | Good | Light contextual link to Upmetrics pitch deck generator |
-| 4 | `delivery-block` (END) | Very end of post | **Needs Fix** | Copy is "Create a Clear, Investor-Ready Pitch Deck" — NOT the canonical Blog Post End CTA. Must be restored to the fixed canonical copy. |
+|:-:|---|---|:-:|---|
+| 1 | Blog Post End CTA (delivery-block) | End of content | Good | Canonical copy intact, correctly placed last |
 
-### Part B — CTA Suggestions (Recommended)
+3,116 words of body content currently carry **zero** CTAs beyond the mandatory closer. That's a real gap — 3 new placements recommended.
 
-> **#1 (CRITICAL)** — Replace end-of-post `delivery-block` with the canonical Blog Post End CTA
+> **#1** — Inline Help (Type 2) | After "What to prepare before the investor meeting"
 >
-> **Current (non-canonical):** "Create a Clear, Investor-Ready Pitch Deck" / "Follow a simple process and turn your idea into a solid presentation" / "Get Started Now!" → /cta/help
->
-> **Replace with canonical (verbatim from `cta-templates.md`):**
->
-> ```
-> ┌─────────────────────────────────────────────────────────┐
-> │                                                         │
-> │  The Quickest Way to turn a Business Idea into          │
-> │  a Business Plan                                        │
-> │                                                         │
-> │  Fill-in-the-blanks and automatic financials make       │
-> │  it easy.                                               │
-> │                                                         │
-> │            [ Get Started Now! ]                         │
-> │                                                         │
-> └─────────────────────────────────────────────────────────┘
-> ```
->
-> **Why:** Every Upmetrics blog post is required to end with this exact canonical block (fixed copy, fixed URL, fixed image). The current `delivery-block` uses the same CSS wrapper but different copy — which is a violation of the blog-post-end rule.
-
----
-
-### Part B — Optional (Lower Priority)
-
-> **#2 (Optional)** — Yellow Tip CTA (Type 12) after Section 5 "Present your market research"
->
-> **Placed after:** "The investor should be able to visualize your target market and its potential size to contribute to your growth. Also include any industry-specific trends, risks, challenges, and how you plan to overcome those strategically."
+> **Placed after:** "Also, decide whether a demo will genuinely help, and keep a simple backup ready in case the deck, screen sharing, or demo fails. Now, you can focus on how to present the case clearly in the room."
 >
 > **CTA Preview:**
 > ```
 > ┌─────────────────────────────────────────────────────────┐
-> │ 💡 Tip: Struggling to size your TAM, SAM, and SOM?      │
-> │ Upmetrics' AI research assistant pulls industry data    │
-> │ and structures the numbers for you.                     │
+> │ Keeping your pitch deck and business plan numbers in    │
+> │ sync makes rehearsal easier. Align your plan and pitch  │
+> │ deck →                                                   │
 > └─────────────────────────────────────────────────────────┘
 > ```
+
+---
+
+> **#2** — Flex Banner: Investor-Ready Plan (Type 8) | After "Present the investment case clearly"
 >
-> **HTML:** `<div class="yellow-alert"><strong>Tip: </strong>Struggling to size your TAM, SAM, and SOM? Our <a href="https://upmetrics.co/features/ai-research-assistant">AI research assistant</a> pulls industry data and structures the numbers for you.</div>`
+> **Placed after:** "For example: 'Our CEO previously managed operations across 40 clinics...' This helps you explain not only what you believe, but why the investor should believe it too."
 >
-> **Note:** Adds a lightweight, editorial product mention without interrupting the 14-step flow. Skip if the existing AI banner CTA (Section 1) plus canonical end CTA feel sufficient for a 2,393-word post.
+> **CTA Preview:**
+> ```
+> ┌─────────────────────────────────────────────────────────┐
+> │  Don't leave your investment case to memory              │
+> │                                                          │
+> │  Build an investor-ready plan around every claim you    │
+> │  make                                                    │
+> │                                                          │
+> │  [ Start Planning Now ]                    🖼 Business  │
+> └─────────────────────────────────────────────────────────┘
+> ```
 
 ---
 
-## Task 3: Downloadable Resource CTA
-
-| Field | Value |
-|-------|-------|
-| Current Resource CTA | Not set (empty) |
-| Recommended Resource URL | `https://upmetrics.co/download/investor-pitch-templates` |
-| Recommended `heading` | `Investor Pitch Templates` |
-| Recommended `resource_link_text` | `Download Template` |
-| Rendered display | `Download Template: Investor Pitch Templates` (41 chars — fits single line) |
-
-**Why:** Direct topical match — readers finishing a guide on pitching to investors are primed to grab a ready-made investor pitch template. "The Art of Perfect Pitch" (/download/art-of-perfect-pitch) is the alternate candidate but slightly broader; templates win for specificity.
-
----
-
-## Task 4: Related Content
-
-Set 4 items via `set-related-pages`. All pages verified in WordPress; all are NOT currently used by Tasks 1, 2, or 3.
-
-| # | Post ID | Raw Title | Custom `title` (for display) | URL | Why it belongs |
-|:-:|:-:|----------|-----------------------------|-----|----------------|
-| 1 | 96035 | What Investors Want to See in Pitch Decks That Get Funded | What Investors Actually Want to See | /blog/what-investors-want-to-see-in-pitch-decks | Directly complements — readers want to know what investors look for |
-| 2 | 94829 | Pitch Deck Competition Slide: What to Include with Examples | Nail the Competition Slide | /blog/pitch-deck-competition-slide | Natural next-step from Section 12 (Discuss competition) |
-| 3 | 80713 | How to Handle Investor Rejection | When Investors Say No: What's Next | /blog/how-to-handle-investor-rejection | Emotional follow-on after a pitch — high reader interest |
-| 4 | 95967 | How to Design the Perfect Team Slide | Build a Team Slide Investors Trust | /blog/team-slide-pitch-deck | Complements Section 10 (Introduce your team) |
-
-All custom titles are under 50 chars, curiosity-framed, and vary in format (what/nail/when/build).
+> **#3** — Flex Banner: Financial Dashboards (Type 9) | After "Make the funding ask clearly"
+>
+> **Placed after:** "The goal is to make the investor better understand why you need this amount and what the business is expected to achieve before the runway ends."
+>
+> **CTA Preview:**
+> ```
+> ┌─────────────────────────────────────────────────────────┐
+> │  Vague numbers make investors nervous                    │
+> │                                                          │
+> │  Show investors exactly how their funding will be used  │
+> │                                                          │
+> │  [ Write Your First Draft ]              🖼 Dashboards  │
+> └─────────────────────────────────────────────────────────┘
+> ```
 
 ---
 
-## Task 5: Meta Title & Description Optimization
+> **#4 (Optional)** — Inline Banner (Type 11) | After "Make the business easy to understand"
+>
+> **Placed after:** "Avoid jargon, technical detail, or every feature you've built. At this stage, you're simply giving the investor enough context to understand everything that follows."
+>
+> **CTA Preview:**
+> ```
+> ┌─────────────────────────────────────────────────────────┐
+> │ Tired of losing investors in the details?                │
+> │                              [ Simplify Your Plan ]      │
+> └─────────────────────────────────────────────────────────┘
+> ```
 
-### Part A — Performance Context
+---
 
-Current meta is actively losing page-1 clicks. The top query ranks well but converts 0% of impressions.
+### Task 3 — Downloadable Resource CTA
 
-| Top Query | Impressions (90d) | Position | Current CTR | Benchmark CTR | Status |
-|-----------|:--:|:--:|:--:|:--:|:--:|
-| business pitching | 19 | 5.6 | 0% | 5% | **Underperforming** |
-| how to convince investors to invest in your business | 40 | 83.9 | 0% | <0.5% | Ranking too low — meta won't help until content improves |
-| funding pitch | 15 | 77.5 | 0% | <0.5% | Same — low rank issue, not meta |
-| convince investors | 8 | 66.6 | 0% | <0.5% | Same |
-| business pitch for investors | 5 | 18.6 | 0% | 1.5% | Underperforming |
+| Field | Current Value |
+|---|---|
+| Resource | Investor Pitch Templates (`/download/investor-pitch-templates`) |
+| Link text | Download Now |
+| Heading | Investor Pitch Templates |
+| Combined display | "Download Now: Investor Pitch Templates" (39 chars) |
 
-**Overall page:** 2,639 impressions / 0 clicks in 90 days. The page-1 query "business pitching" should deliver 1-2 clicks at minimum — the meta title is truncated (74 chars) and doesn't reinforce the "business pitching" angle, which is why Google shows it but users don't click.
+Already set and well-matched to the article topic. **Optional polish:** change `resource_link_text` from "Download Now" to "Download Template" (more specific to the resource type) → combined display becomes "Download Template: Investor Pitch Templates" (45 chars, still well under the 55-char limit). Not required — current setup works.
 
-### Part B — Current vs. Suggested
+---
+
+### Task 4 — Related Content
+
+**Currently set (4 items)** — all about pitch-deck *building*, which is a different angle than this article (the meeting/conversation itself):
+
+| Current Title | Linked Post |
+|---|---|
+| 10 Pitch Deck Mistakes Even Smart Founders Still Make | 10 Pitch Deck Mistakes Founders Still Make |
+| What Investors Want to See in Pitch Decks? | What Investors Want to See in Pitch Decks That Get Funded |
+| 10 Successful Pitch Deck Examples Every Founder Should See | 10 Successful Pitch Deck Examples to Inspire Yours |
+| I Tested the 6 Best AI Pitch Deck Generators (Here's The Best) | 6 Best AI Pitch Deck Generators: Tried and Tested |
+
+**Suggested replacement (4 items, ranked by relevance):**
+
+| # | New Title | Linked Post | Why |
+|:-:|---|---|---|
+| 1 | Is Your Pitch Actually Working? | How to Get Feedback on Your Business Pitch That Works? | Natural next step after reading how to pitch |
+| 2 | What Investors Really Want to See | What Investors Want From your Business | Directly complements this article's "what investors look for" theme |
+| 3 | Where to Find the Right Investors | How to Find Investors for a Small Business? | Logical precursor — most readers need this before they need this page |
+| 4 | Master the Art of the Perfect Pitch | The Art of Perfect Pitch (download) | Adds post-type variety and a strong complementary resource |
+
+---
+
+### Task 5 — Meta Title & Description
+
+**Performance context:**
+
+| Top Query | Impressions (90d) | Avg. Position | Actual CTR | Benchmark CTR | Status |
+|---|:-:|:-:|:-:|:-:|:-:|
+| how to pitch investors | 42 | 61.2 | 0% | N/A (position >20) | Ranking issue, not a CTR issue |
+| investor pitch | 102 | 63.9 | 0% | N/A (position >20) | Ranking issue, not a CTR issue |
+| funding pitch | 26 | 65.9 | 0% | N/A (position >20) | Ranking issue, not a CTR issue |
+| investor pitch preparation | 24 | 73.9 | 0% | N/A (position >20) | Ranking issue, not a CTR issue |
+
+None of the top queries fall in the 4-20 position band where a title/description rewrite typically moves CTR. The rewrite below is justified purely by a **hard length violation** — it won't fix the ranking problem (see Task 1/10 for that).
+
+**Current vs. suggested:**
 
 | Field | Current | Chars | Suggested | Chars | Notes |
-|-------|---------|:--:|-----------|:--:|-------|
-| Meta Title | How to Pitch to Investors: 14 Steps to Get Your Startup Funded - Upmetrics | 74 | How to Pitch to Investors: 14-Step Founder's Guide [2026] | 57 | Primary kw in first 28 chars; hooks: number ("14-Step") + year ("[2026]"); no brand suffix (eats chars on blog posts) |
-| Meta Description | Wondering how to prepare your pitch deck? This step-by-step guide highlights essential details to help you prepare pitch decks for fundraising. | 144 | Learn how to pitch to investors in 14 steps — build your deck, tell a winning story, and close the round. Free investor pitch template inside. | 144 | Primary kw "pitch to investors" in first 22 chars; 3-part structure (what + value + soft CTA); includes resource hook |
-| Focus Keyphrase | (unknown / likely "pitch to investors" or "how to pitch to investors") | — | pitch to investors | — | Matches primary keyword + covers top-5 query variants |
-| Canonical | https://upmetrics.co/blog/how-to-pitch-investors | — | https://upmetrics.co/blog/how-to-pitch-investors | — | No change — correct |
-| og:title | How to Pitch to Investors: A Simple Step-by-Step Guide | 54 | How to Pitch to Investors: 14-Step Founder's Guide [2026] | 57 | Align with meta title — consistent SERP + social |
-| og:description | Wondering how to prepare your pitch deck? This step-by-step guide highlights essential details to help you prepare pitch decks for fundraising. | 144 | Learn how to pitch to investors in 14 steps — build your deck, tell a winning story, and close the round. Free investor pitch template inside. | 144 | Align with meta description |
+|---|---|:-:|---|:-:|---|
+| Meta Title | How to pitch to investors: a step-by-step guide | 47 | How to Pitch to Investors: 7 Steps to Win the Room | 50 | Fixes below-minimum length; keyword in first 26 chars; adds number + benefit hooks; distinct angle from H1 |
+| Meta Description | Learn how to pitch to investors with confidence. Follow this step-by-step guide to present your startup, answer investor questions, and secure funding. | 151 | Learn how to pitch to investors with a proven 7-step framework: open strong, answer hard questions, and close with a clear next step every time. | 144 | No longer duplicates title's "step-by-step" hook; keyword in first 26 chars |
+| Focus Keyphrase | How to pitch to investors | — | How to pitch to investors (unchanged) | — | No query sits in the 5-20 position sweet spot to justify a change |
+| Canonical | (unset — auto-resolves) | — | (unset — auto-resolves) | — | OK, no action needed |
+| OG Title | Matches old meta title | — | Update to match new meta title | — | Keep mirroring |
+| OG Description | Matches old meta description | — | Update to match new meta description | — | Keep mirroring |
 
-### SERP Preview (Suggested)
+**SERP Preview:**
 
 ```
 ─────────────────────────────────────────────────────
 upmetrics.co › blog › how-to-pitch-investors
-How to Pitch to Investors: 14-Step Founder's Guide [2026]
-Learn how to pitch to investors in 14 steps — build
-your deck, tell a winning story, and close the round.
-Free investor pitch template inside.
+How to Pitch to Investors: 7 Steps to Win the Room
+Learn how to pitch to investors with a proven 7-step framework:
+open strong, answer hard questions, and close with a clear next
+step every time.
 ─────────────────────────────────────────────────────
 ```
 
-**Differentiator:** Top SERP competitors for "business pitching" / "pitch to investors" tend to use generic "Complete Guide" or "Ultimate Guide" hooks. This title uses a concrete step count ("14-Step") plus the 2026 year tag — signals freshness and scannable structure.
+**Differentiator note:** The current title's only hook is "step-by-step guide" — generic and easy to blur with competitors. The new title adds a number ("7 Steps") and an outcome ("Win the Room") while keeping the step-by-step framing in the description instead, so the two fields reinforce rather than repeat each other.
 
 ---
 
-## Task 6: Image Alt Text
-
-### Audit Summary
+### Task 6 — Image Alt Text Audit
 
 | Status | Count | Action |
-|--------|:--:|--------|
-| Critical — Empty (wrong) | 1 | Add alt text |
-| Decorative — Correct | 1 | No action |
+|---|:-:|---|
+| Good | 1 | No action |
+| Decorative — Correct (fixed CTA icon) | 1 | No action |
 | **Total images** | **2** | — |
 
-### Detailed Audit
-
-| # | src (filename) | Status | Current Alt | Suggested Alt | Chars | Notes |
-|:-:|----------------|--------|-------------|---------------|:--:|-------|
-| 1 | ai-assistant-blog-image-1-282x240.png | Critical — Empty | `""` | Upmetrics AI pitch deck generator assistant helping build an investor pitch presentation | 87 | Image sits inside the mid-post AI banner CTA. Describes the tool shown + keyword "pitch" appears once. |
-| 2 | crossline.png | Decorative — Correct | `"crossline"` | *(no change)* | — | Button-accent divider icon. Decorative — keep short alt or leave as is. |
+Both content images are already in good shape:
+- `how-to-pitch-investors-pitch-versions.png` — alt: "Three pitch versions to prepare before an investor meeting and when to use each" (81 chars, specific, no banned openers). **Good.**
+- `crossline.png` — decorative icon inside the canonical Blog Post End CTA. Its alt is fixed by the CTA registry and must not be edited. **No action.**
 
 ---
 
-## Task 7: URL Slug
+### Task 7 — URL Slug
 
-**Current slug:** `how-to-pitch-investors` (4 words, 22 chars)
-
-**Status:** Good — keep as is.
-
-- Primary keyword "pitch investors" present
-- Clean, lowercase, hyphenated
-- Page is indexed and ranking for 40+ queries (position 1-90 range)
-- **RISK:** Changing this slug would break rankings for "business pitching" (pos 5.6) and all other ranking queries. Requires 301 redirect.
-
-**Recommendation:** Skip. No change.
+Current slug `how-to-pitch-investors` is already short, lowercase, hyphenated, and keyword-aligned. **No change recommended** — not because of ranking risk, but because the slug isn't the problem here.
 
 ---
 
-## Task 8: Heading Structure
+### Task 8 — Heading Structure
 
-**Hierarchy review:**
-- 0 H1 in content (theme renders H1 from post title — correct pattern)
-- 4 H2s — well-structured (question, guide, mistakes, Upmetrics help)
-- 23 H3s — 14 numbered steps + 5 numbered mistakes + 4 "What investors look for" items
-- 3 H4s (nested under Section 2) — appropriate hierarchy
-
-**Minor fix (recommended):**
-
-| # | Current | Suggested | Why |
-|:-:|---------|-----------|-----|
-| 1 | `<h3><span style="color: #1b2432; font-size: 1.5rem;">3. Deliver your elevator pitch</span></h3>` | `<h3>3. Deliver your elevator pitch</h3>` | Strip inline `<span>` wrapper — heading should rely on theme CSS, not inline styles |
-
-No other heading issues. Primary keyword ("pitch to investors" / "pitching to investors") appears in H2 #2 and H2 #3.
+Clean hierarchy: 5 H2s → 8 H3s → 4 H4s, no skipped levels, no duplicates. Primary keyword phrase appears in the H2 "How to pitch to investors during the meeting?" All headings under 70 characters. **No action needed.**
 
 ---
 
-## Task 9: Category / Taxonomy
+### Task 9 — Category / Taxonomy
 
-**Current:** `Funding`
-
-**Status:** Correct — keep as is.
-
-The Funding category (61 posts) is the right home for pitch/fundraising content. Adding a secondary category like "Planning" would dilute focus. Single-category placement is appropriate.
+Current category: **Funding** — matches the taxonomy definition exactly ("investor pitches" is explicitly listed as a Funding-category topic). **No change needed.**
 
 ---
 
-## Task 10: Incoming Internal Link Suggestions
+### Task 10 — Incoming Internal Link Suggestions
 
-These are suggestions for the SEO team to manually implement — pages on the site that should link TO `/blog/how-to-pitch-investors`. All source pages are verified in WordPress with real post_ids. Anchor text is a starting search term; the team should confirm it appears naturally in the source content.
+Every source page below is confirmed via WordPress (`list-posts`) and/or GSC — no fabricated URLs.
 
-| # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Priority |
-|:-:|------------|-----|:--:|-----------|--------------|-----------------|:--:|
-| 1 | How to Create a Pitch Deck (Step-by-Step) | /blog/how-to-make-pitch-deck | — (verify) | post | Direct companion topic — pitch deck creation and investor pitching are tightly linked | pitch to investors | High |
-| 2 | How to Find Investors for a Small Business | /blog/how-to-find-investors-for-startup | 82959 | post | Natural next-step — after finding investors, readers need to learn how to pitch them | how to pitch investors | High |
-| 3 | What Investors Want to See in Pitch Decks | /blog/what-investors-want-to-see-in-pitch-decks | 96035 | post | Discusses investor mindset; can reference "the pitch itself" back to this article | pitch to investors | High |
-| 4 | 14 Key Questions to Ask Investors | /blog/questions-to-ask-investors | 82876 | post | Already linked FROM this page; add reciprocal link to strengthen topic cluster | how to pitch to investors | Medium |
-| 5 | How to Handle Investor Rejection | /blog/how-to-handle-investor-rejection | 80713 | post | Rejection article naturally references the pitch that led to it | pitch to investors | Medium |
-| 6 | What are Funding Rounds? | /blog/funding-rounds | 91714 | post | Funding rounds article can reference pitching as the mechanism for each round | pitch to investors | Medium |
+| # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Traffic (90d) | Priority |
+|:-:|---|---|:-:|---|---|---|:-:|:-:|
+| 1 | How to Convince Investors to Invest in Your Business? | /blog/how-to-convince-investors | 6036 | post | Near-duplicate intent, but ranks position 22 vs. this page's position 56 — 1,884 impressions | pitch to investors | 9 clicks | High |
+| 2 | How to Write a Business Plan for Investors + Free Template | /blog/business-plan-for-investors | 64304 | post | Ranks for "investor pitch deck and business plan" (80 impressions) and "what is investor pitch" (pos. 3) | pitching to investors | 6 clicks | High |
+| 3 | What Is a Pitch Deck? Everything Need to Know | /blog/what-is-a-pitch-deck | 84221 | post | Ranks for multiple "investor pitch deck" queries | pitch to investors | — | Medium |
+| 4 | 10 Pitch Deck Mistakes Founders Still Make | /blog/pitch-deck-mistakes | 85115 | post | Topically adjacent — deck prep feeds into the pitching conversation | pitching to investors | — | Medium |
+| 5 | 14 Key Questions to Ask Investors for Long-Term Success | /blog/questions-to-ask-investors | 82876 | post | Investor-meeting prep angle, directly complementary | investor meeting | — | Medium |
+| 6 | What Investors Want From your Business | /blog/what-investors-want-from-your-business | 79847 | post | Shares this article's "what investors look for" theme | what investors look for | — | Medium |
 
-> Every source URL above is verified in WordPress with a real post_id (Note: #1 needs ID confirmation by team). Suggested anchor text is a starting term — the team should confirm it appears naturally in the source content before linking.
+> Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to search within the source page — the actual anchor depends on what text exists in that page's content.
+
+**Note:** #1 also raises a possible keyword-cannibalization question — "How to Convince Investors" and this page target very similar intent, and the older page is significantly outranking this one. Worth a look outside this report's scope.
 
 ---
 
@@ -366,16 +317,16 @@ These are suggestions for the SEO team to manually implement — pages on the si
 Copy, modify, and paste this template:
 
 ```
-Task 1 (Internal Links): Add #1, #2, #3. Skip #4 (optional team-slide addition).
-Task 2 (CTAs): Approve #1 (canonical end-CTA restore). Skip #2 (optional yellow tip).
-Task 3 (Resource CTA): Approve — set to Investor Pitch Templates.
-Task 4 (Related Content): Approve all 4.
-Task 5 (Meta Title/Desc): Approve all — title, description, focus keyphrase, og fields.
-Task 6 (Image Alt Text): Approve #1.
-Task 7 (URL Slug): Skip — no change (high risk).
-Task 8 (Headings): Approve — strip inline span from H3 #3.
-Task 9 (Categories): Skip — no change (Funding is correct).
-Task 10 (Incoming Links): Noted — SEO team will review manually.
+Task 1 (Internal Links): Fix existing #1 (runway). Add #1, #2, #3.
+Task 2 (CTAs): Add #1, #2, #3. Skip #4 (optional).
+Task 3 (Resource CTA): Skip (optional polish only).
+Task 4 (Related Content): Approve #1-#4.
+Task 5 (Meta Title/Desc): Approve suggested title and description. Keep keyphrase.
+Task 6 (Image Alt Text): Skip (N/A — nothing to fix).
+Task 7 (URL Slug): Skip — already optimized.
+Task 8 (Headings): Skip (N/A — nothing to fix).
+Task 9 (Categories): Skip — already correct.
+Task 10 (Incoming Links): Noted — will review manually.
 ```
 
-Or simply: **"Approve all"** / **"Approve all except Task 8"** (etc.)
+Or simply: **"Approve all"** / **"Approve all except Task 3"**

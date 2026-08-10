@@ -46,7 +46,7 @@ Everything below is still worth doing. Just calibrate expectations: these are fo
 | # | Task | Impact | Effort | Current State | Suggestion | Dependencies | Your Decision |
 |:--:|------|:--:|:--:|---------------|-----------|--------------|---------------|
 | 1 | Internal Links | **High** | Medium | 3 internal links (2 informational, 1 sales) in 2,827 words | Add 4 recommended + 2 optional contextual links | None | **Approve #1-#4** |
-| 2 | CTA Placements | Medium | Medium | 1 CTA (Blog Post End CTA only) | Add 2 light mid-content CTAs (Yellow Tip + Inline Banner) | None | **Approve #1, #2** |
+| 2 | CTA Placements | Medium | Medium | 1 CTA (Blog Post End CTA only) | Add 2 light mid-content CTAs (Yellow Tip + Inline Banner carrying an internal link) | None | **Approve #1, #2** |
 | 3 | Resource CTA | Medium | Quick Win | Unreadable via MCP | Set One Page Business Plan Template | None | **Approve** |
 | 4 | Related Content | Medium | Quick Win | Unreadable via MCP | Set 4 fresh related items | Replaces all existing | **Approve all 4** |
 | 5 | Meta Title / Desc | Low | Quick Win | Title 60 chars (curly apostrophe); Desc 144 chars | Fix encoding + align description to title keyphrase | None | **Approve** |
@@ -126,7 +126,7 @@ Everything below is still worth doing. Just calibrate expectations: these are fo
 
 Approving #1-#4 brings the page to 7 internal links (1 per 404 words). Approving all six brings it to 9 (1 per 314 words) — still acceptable but denser than ideal.
 
-**One balance note:** all six suggestions are informational. The page would end at roughly 86% informational / 14% sales, which is more informational than the 60-70% guideline for blog posts. That is deliberate — the article's audience is founders who explicitly cannot spend money, and the existing `/features/ai-plan-generator` link in the conclusion plus two new CTAs already carry the commercial weight. Adding more sales links here would read as tone-deaf. Flagging it so the call is yours.
+**Balance note:** all six Task 1 suggestions are informational, which on its own would leave the page at roughly 86% informational / 14% sales — more informational than the 60-70% guideline for blog posts. The in-text internal link added to **CTA #2** (`/features/financial-forecasting`, see Task 2) closes most of that gap: approving Task 1 #1-#4 plus CTA #2 puts the page at **6 informational / 2 sales links (75% / 25%)**, just under the target band. That is a deliberate lean — the article's audience is founders who explicitly cannot spend money, so pushing further toward sales would read as tone-deaf.
 
 <details>
 <summary>Considered but skipped (5 pages)</summary>
@@ -181,11 +181,14 @@ Approving #1-#4 brings the page to 7 internal links (1 per 404 words). Approving
 > ```
 > ┌─────────────────────────────────────────────────────────┐
 > │  One tool for your plan, budget, and forecasts          │
+> │  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ (internal link)         │
 > │                                    [ Try Upmetrics AI ] │
 > └─────────────────────────────────────────────────────────┘
 > ```
 >
-> **Angle:** Specificity · **Destination:** `/signup`
+> **Angle:** Specificity · **Button destination:** `/signup` · **In-text internal link:** `/features/financial-forecasting`
+>
+> **Note:** This CTA carries two links by design. The button keeps driving signups, while the phrase "plan, budget, and forecasts" is wrapped as an internal link to the Financial Forecasting feature page — so the CTA also passes link equity instead of only pushing to the signup flow. The feature page is verified live (HTTP 200) and is a proven conversion path: 178 sessions at 74% engagement in the last 30 days, and 51 conversions from 239 conversion-starting sessions over 90 days.
 
 ---
 

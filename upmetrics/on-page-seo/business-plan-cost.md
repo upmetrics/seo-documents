@@ -16,7 +16,7 @@
 
 > **Important timing note:** The body content was republished on **2026-08-12**. All GSC performance data below reflects the **previous version** of this page. Google has not yet re-evaluated the new content. Treat ranking and CTR figures as a baseline to measure against, not as a verdict on the current copy.
 
-> **Data availability note:** The Google Search Console MCP server was unreachable during this session (connection timeouts on every call). Page-level query data was retrieved by calling the Search Console API directly with the project service account. Three supplementary GSC calls (site-wide top pages, device split, and the Task 10 topic-ranking queries) timed out and are marked as unavailable below. Task 10 was therefore built from verified WordPress records and GA4 traffic, using topical relevance as the primary ranking signal.
+> **Data availability note:** The Google Search Console MCP server was unreachable during this session (connection timeouts on every call, including `list_sites`). All GSC data below was retrieved by calling the Search Console API directly with the project service account. Page-level queries, the device split, and site-wide top pages all returned successfully. The only calls that did not complete were the Task 10 topic-ranking queries (`page` x `query` filtered by topic), so Task 10 is ranked by topical relevance — the specification's primary signal — with GSC clicks used as a tiebreaker where the source page appears in the site's top 40.
 
 ---
 
@@ -54,7 +54,7 @@
 | 7 | URL Slug | — | — | `business-plan-cost` — 3 words, exact keyword, clean | No change | None | **Skip (already optimal)** |
 | 8 | Heading Structure | Low | Quick Win | Clean H2/H3 hierarchy, keyword present in H2s; "Conclusion" is generic | Optional: rename the final H2 | None | **Optional** |
 | 9 | Categories | — | — | Planning | Correct — no change | None | **Skip (already correct)** |
-| 10 | Incoming Links | Medium | Medium | Not measured previously | 6 verified source pages to link from | Task 1 dedup | **Noted — review manually** |
+| 10 | Incoming Links | Medium | Medium | Not measured previously | 7 verified source pages to link from | Task 1 dedup | **Noted — review manually** |
 | — | **Content defects** | **High** | Quick Win | Duplicate paragraph + 1 grammar error | Remove duplicate, fix "the provider charge more" | None | **Approve** |
 
 ---
@@ -358,16 +358,17 @@ Pages on the site that should link **to** this one. Every source below is a veri
 
 | # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Traffic | Priority |
 |:--:|------------|-----|:--:|-----------|--------------|-----------------|:--:|:--:|
-| 1 | How to Write a Business Plan: 10 Easy Steps + Examples | `/blog/how-to-write-a-business-plan` | 6056 | post | Parent topic — readers deciding how to write a plan need the cost comparison | business plan cost | 96 sessions / 78% eng. | High |
-| 2 | Upmetrics vs LivePlan: I Compared Both | `/blog/upmetrics-vs-liveplan` | 109372 | post | Software pricing comparison — cost of tools is the page's core subject | what a business plan costs | Below GA4 top 50 | High |
-| 3 | How Small Business Development Centers (SBDCs) Can Help Your Business | `/blog/small-business-development-centers-sbdc` | 105993 | post | SBDCs are the free-help route; a paid-vs-free cost breakdown is the natural next click | cost of a business plan | Below GA4 top 50 | High |
-| 4 | Upmetrics vs Generative AI Tools: Which Builds Better Business Plans? | `/blog/upmetrics-vs-generative-ai-tools` | 104815 | post | Compares free general AI against paid tools — a direct cost trade-off | business plan pricing | Below GA4 top 50 | Medium |
-| 5 | 25+ Business Plan Statistics You Should Know | `/blog/business-plan-statistics` | 87158 | post | Stats roundups naturally cite cost benchmarks | average business plan cost | Below GA4 top 50 | Medium |
-| 6 | How to Review a Business Plan: 4-Step Framework | `/blog/business-plan-review` | 62358 | post | Review services are a priced option covered on the target page | business plan writer cost | Below GA4 top 50 | Medium |
+| 1 | How to Write a Business Plan Using ChatGPT (Prompts) | `/blog/chatgpt-business-plan` | 26488 | post | Covers the free-AI route to a plan — the cost trade-off is the target page's whole subject | what a business plan costs | **70 clicks / 3,443 impr. (28d), pos 13.1** | High |
+| 2 | How to Write a Business Plan: 10 Easy Steps + Examples | `/blog/how-to-write-a-business-plan` | 6056 | post | Parent topic — readers deciding how to write a plan need the cost comparison | business plan cost | 96 sessions / 78% eng. | High |
+| 3 | Upmetrics vs LivePlan: I Compared Both | `/blog/upmetrics-vs-liveplan` | 109372 | post | Software pricing comparison — cost of tools is the page's core subject | business plan software pricing | Below GA4 top 50 | High |
+| 4 | How Small Business Development Centers (SBDCs) Can Help Your Business | `/blog/small-business-development-centers-sbdc` | 105993 | post | SBDCs are the free-help route; a paid-vs-free cost breakdown is the natural next click | cost of a business plan | Below GA4 top 50 | High |
+| 5 | Upmetrics vs Generative AI Tools: Which Builds Better Business Plans? | `/blog/upmetrics-vs-generative-ai-tools` | 104815 | post | Compares free general AI against paid tools — a direct cost trade-off | business plan pricing | Below GA4 top 50 | Medium |
+| 6 | 25+ Business Plan Statistics You Should Know | `/blog/business-plan-statistics` | 87158 | post | Stats roundups naturally cite cost benchmarks | average business plan cost | Below GA4 top 50 | Medium |
+| 7 | How to Review a Business Plan: 4-Step Framework | `/blog/business-plan-review` | 62358 | post | Review services are a priced option covered on the target page | business plan writer cost | Below GA4 top 50 | Medium |
 
 > Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to search within the source page — the actual anchor depends on what text exists in that page's content.
 >
-> **Traffic caveat:** the site-wide GSC top-pages call timed out this session, so per-page click data was unavailable. Traffic is reported from GA4 where the page appears in the 30-day top 50; the rest are below that threshold but are all published, indexed posts. Verify click volume before prioritising if that matters to you.
+> **Traffic caveat:** GSC click data is shown where the source page appears in the site's top 40 pages by clicks (28 days) — only row #1 does. That top-40 list is heavily saturated by sample-plan PDFs hosted on `templates.upmetrics.co`, which crowd out ordinary blog posts, so absence from it is not evidence a page is low-traffic. Rows #2–#7 fall back to GA4 sessions where available; all seven are published, indexed posts verified in WordPress. Pull per-page GSC clicks for rows #2–#7 before prioritising if click volume is your deciding factor.
 
 ---
 

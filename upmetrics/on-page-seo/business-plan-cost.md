@@ -14,9 +14,32 @@
 | **GA4 Data Range** | 30 days (engagement) / 90 days (conversions) |
 | **Brand** | Upmetrics |
 
-> **Important timing note:** The body content was republished on **2026-08-12**. All GSC performance data below reflects the **previous version** of this page. Google has not yet re-evaluated the new content. Treat ranking and CTR figures as a baseline to measure against, not as a verdict on the current copy.
+> **Important timing note — now confirmed by the Inspection API:** The body content was republished on **2026-08-12**, but Google's last crawl was **2026-08-04** — eight days *before* the rewrite. Every ranking and CTR figure below therefore describes the **previous version** of this page. Treat them as a baseline to measure against, not as a verdict on the current copy. **Action: request re-indexing for this URL in Search Console** so the new content gets evaluated; nothing else in this report will move the needle until it is crawled.
 
-> **Data availability note:** The Google Search Console MCP server was unreachable during this session (connection timeouts on every call, including `list_sites`). All GSC data below was retrieved by calling the Search Console API directly with the project service account. Page-level queries, the device split, and site-wide top pages all returned successfully. The only calls that did not complete were the Task 10 topic-ranking queries (`page` x `query` filtered by topic), so Task 10 is ranked by topical relevance — the specification's primary signal — with GSC clicks used as a tiebreaker where the source page appears in the site's top 40.
+> **Data availability note:** The Google Search Console MCP server was unreachable during this session (connection timeouts on every call, including `list_sites`). All GSC data below was instead retrieved by calling the Search Console API directly with the project service account. Every call ultimately completed — page-level queries, device split, 28-day trend, site-wide top pages, URL inspection, and the topic-ranking queries behind Task 10.
+
+---
+
+## Index & Crawl Status (URL Inspection API)
+
+| Check | Result |
+|-------|--------|
+| Verdict | **PASS** |
+| Coverage | Submitted and indexed |
+| robots.txt | ALLOWED |
+| Indexing state | INDEXING_ALLOWED |
+| Google-selected canonical | `https://upmetrics.co/blog/business-plan-cost` |
+| User-declared canonical | `https://upmetrics.co/blog/business-plan-cost` — **match** |
+| Page fetch | SUCCESSFUL |
+| Crawled as | Mobile (smartphone Googlebot) |
+| **Last crawl** | **2026-08-04 — 8 days before the content rewrite** |
+| Rich results detected | **Breadcrumbs only** |
+
+**Two findings here:**
+
+**1. The new content has not been crawled.** See the timing note above — request re-indexing.
+
+**2. FAQ schema is not being detected.** The post has **5 FAQs configured** in the ACF repeater ("Is it worth paying someone to write a business plan?", "What is the most cost-effective way to create a business plan?", "Do business plan writers charge by the hour or by the project?", "How long does professional business plan writing actually take?", "Can a business plan writer guarantee funding?") — but the Inspection API reports only Breadcrumbs under rich results. For a commercial-intent query set like this one, FAQ rich results are meaningful SERP real estate. Worth having a developer confirm the FAQ block is emitting `FAQPage` JSON-LD on the front end. This is outside the 10 on-page tasks, so it is flagged rather than actioned.
 
 ---
 
@@ -48,14 +71,16 @@
 | 1 | Internal Links | Medium | Medium | 8 internal links (1 per 213 words — dense); 37% informational | Swap 1 sales link for an informational match, add 1 link in the unlinked pricing section | None | **Approve #1 + #2, skip #3** |
 | 2 | CTA Placements | Medium | Medium | Only the required end CTA; no mid-content CTA in 1,706 words | Add 1 lightweight Yellow Tip CTA after the DIY section | None | **Approve #1** |
 | 3 | Resource CTA | Low | Quick Win | `/download/ebook`, combined label 57 chars (over limit, redundant wording) | Keep the resource, shorten the heading to 44 chars | None | **Approve** |
-| 4 | Related Content | Medium | Quick Win | 4 items; 2 are weak fits for a pricing article | Replace with 4 cost-and-decision-focused items | Task 1, 2, 3 dedup | **Approve** |
-| 5 | Meta Title & Description | **High** | Quick Win | Title 43 chars, near-duplicate of H1; description 129 chars | Rewrite both; lead with the actual price range | None | **Approve** |
+| 4 | Related Content | Medium | Quick Win | 4 items; 3 are weak fits for a pricing article | Replace with 4 hiring-and-decision-focused items | Task 1, 2, 3 dedup | **Approve** |
+| 5 | Meta Title & Description | **High** | Quick Win | Title 43 chars, near-duplicate of H1; description 129 chars. Page trend is positive (pos 25.8 → 20.0 in 28d) | Rewrite both; lead with the actual price range | None | **Approve** |
 | 6 | Image Alt Text | — | — | 1 content image, alt is accurate and 80 chars; 1 decorative CTA icon | No action needed | None | **No action** |
 | 7 | URL Slug | — | — | `business-plan-cost` — 3 words, exact keyword, clean | No change | None | **Skip (already optimal)** |
 | 8 | Heading Structure | Low | Quick Win | Clean H2/H3 hierarchy, keyword present in H2s; "Conclusion" is generic | Optional: rename the final H2 | None | **Optional** |
 | 9 | Categories | — | — | Planning | Correct — no change | None | **Skip (already correct)** |
 | 10 | Incoming Links | Medium | Medium | Not measured previously | 7 verified source pages to link from | Task 1 dedup | **Noted — review manually** |
 | — | **Content defects** | **High** | Quick Win | Duplicate paragraph + 1 grammar error | Remove duplicate, fix "the provider charge more" | None | **Approve** |
+| — | **Re-index request** | **High** | Quick Win | Last crawled 2026-08-04 — 8 days before the rewrite | Request indexing in Search Console | None | **Do this first** |
+| — | **FAQ schema** (off-task) | Medium | Medium | 5 FAQs configured in ACF; only Breadcrumbs detected by Google | Have a dev confirm `FAQPage` JSON-LD renders | Dev team | **Flag to dev** |
 
 ---
 
@@ -119,7 +144,7 @@ Because the page is already link-dense, the recommended fix is **one swap plus o
 **Balance after applying #1 and #2:** 5 informational / 4 sales = **56% / 44%** (63% / 37% excluding the branded homepage link) — inside the target band.
 
 <details>
-<summary>Considered but skipped (5 pages)</summary>
+<summary>Considered but skipped (6 pages)</summary>
 
 | Page | Reason Skipped |
 |------|----------------|
@@ -127,6 +152,7 @@ Because the page is already link-dense, the recommended fix is **one swap plus o
 | How to Write a Business Plan Using ChatGPT | Anchor "ChatGPT or Claude" sits ~45 words after the template link — fails spacing |
 | Financial Forecasting Software | Anchor "financial forecasting" exists, but it is a Sales page and would worsen the already-inverted balance |
 | Business plan writer vs. AI generator | Sales/compare page — would worsen balance; assigned to Task 4 instead |
+| 12 Critical Questions to Ask Before Hiring a Business Plan Writer | Strongest topical match found (975 GSC impressions for "business plan writer"), but the only natural anchor -- "before hiring someone" -- sits ~35 words after the financial-projections link. Assigned to Task 4 instead, where spacing does not apply |
 | Upmetrics vs LivePlan | No verbatim anchor in the content matches the page's topic; assigned to Task 4 instead |
 
 </details>
@@ -218,7 +244,7 @@ Because the page is already link-dense, the recommended fix is **one swap plus o
 |:--:|--------------|--------|------------|
 | 1 | I Tested the AI Business Plan Generators (Here's What I Found) | `/ai-tools/free-ai-business-plan-generator` | **Replace** — reassigned to Task 2 CTA (higher-value placement) |
 | 2 | How Upmetrics Helped OGL Secured $142K in Funding | `/customers/our-genetic-legacy` | **Replace** — funding case study, low relevance to a pricing article |
-| 3 | 400+ Business Plan Examples Every Founder Should See | `/sample-business-plans` | **Keep** (retitled) |
+| 3 | 400+ Business Plan Examples Every Founder Should See | `/sample-business-plans` | **Replace** — generic plan index; a pricing article needs hiring/decision content |
 | 4 | Should You Hire a Writer or Use an AI to Draft Your Business Plan? | `/compare/business-plan-writer-vs-ai-business-plan-generator` | **Keep** (retitled, promote to #1) |
 
 **Suggested new set (replaces all existing items):**
@@ -226,13 +252,15 @@ Because the page is already link-dense, the recommended fix is **one swap plus o
 | # | Related Title | Chars | Post ID | Target URL | Post Type |
 |:--:|--------------|:--:|:--:|-----------|-----------|
 | 1 | Hire a Writer or Let AI Draft It? | 33 | 78505 | `/compare/business-plan-writer-vs-ai-business-plan-generator` | compare |
-| 2 | Rather Write It Yourself? Start Here | 35 | 6056 | `/blog/how-to-write-a-business-plan` | post |
-| 3 | Two Planning Tools, Side by Side | 32 | 109372 | `/blog/upmetrics-vs-liveplan` | post |
-| 4 | 400+ Plans You Can Learn From | 29 | 1740 | `/sample-business-plans` | page |
+| 2 | 12 Questions Before You Hire a Writer | 37 | 62744 | `/blog/questions-to-ask-before-hiring-a-business-plan-writer` | post |
+| 3 | Rather Write It Yourself? Start Here | 35 | 6056 | `/blog/how-to-write-a-business-plan` | post |
+| 4 | Two Planning Tools, Side by Side | 32 | 109372 | `/blog/upmetrics-vs-liveplan` | post |
 
 All four are under 50 characters, use varied formats (question, imperative, noun phrase, number hook), and mix post types.
 
-> **Dedup check:** Item #2 (`/blog/how-to-write-a-business-plan`) is also Task 1 suggestion #2. Per the priority rules, **Task 1 wins** — if you approve Task 1 #2, swap this sidebar item for **"The Numbers Behind Business Planning"** → `/blog/business-plan-statistics` (post 87158). Both decisions are noted in the feedback template below.
+> **New in this revision:** item #2 replaces the generic *400+ Business Plan Examples* pick. The GSC topic sweep showed `/blog/questions-to-ask-before-hiring-a-business-plan-writer` already draws **975 impressions for "business plan writer"** — it is the closest topical match on the site to this page's two hiring sections, and a far better sidebar item for a pricing article than a sample-plan index.
+>
+> **Dedup check:** Item #3 (`/blog/how-to-write-a-business-plan`) is also Task 1 suggestion #2. Per the priority rules, **Task 1 wins** — if you approve Task 1 #2, swap this sidebar item for **"The Numbers Behind Business Planning"** → `/blog/business-plan-statistics` (post 87158). Both decisions are noted in the feedback template below.
 
 ---
 
@@ -248,6 +276,32 @@ All four are under 50 characters, use varied formats (question, imperative, noun
 | business plan price | 54 | 20.3 | 0.00% | 1.5% | **Underperforming** |
 | business plan prices | 53 | 25.6 | 0.00% | — | Too deep to rank |
 | how much does a business plan cost? | 22 | 7.2 | 4.55% | 3.0% | Healthy |
+
+**28-day trend — the page is already improving:**
+
+| Window | Clicks | Impressions | Avg Position |
+|--------|:--:|:--:|:--:|
+| Last 28 days (2026-07-14 → 08-10) | 3 | 1,907 | **20.0** |
+| Prior 28 days (2026-06-16 → 07-13) | 0 | 1,204 | 25.8 |
+| **Change** | +3 | **+58%** | **+5.8 positions** |
+
+This matters for how you read the rest of this task: the page is on an upward trajectory *before* the rewrite was even crawled. The meta rewrite below is still worth doing — CTR is 0.16% against a 1.5% benchmark — but this is a page gaining ground, not a page in decline.
+
+**Section-anchor results — a side effect of the rewrite worth knowing about:**
+
+Google is surfacing *section-level* results for this page, and they rank far better than the page itself:
+
+| Indexed URL fragment | Impressions | Position |
+|---------------------|:--:|:--:|
+| `#understanding-business-plan-writing-costs` | 28 | **9.1** |
+| `#using-combined-services-to-reduce-business-plan-costs` | 17 | **9.1** |
+| `#traditional-vs-ai-powered-business-writing` | 13 | **8.8** |
+| `#reduce_business_plan_cost` | 11 | **9.2** |
+| *(main URL, same query set)* | 100 | 11.2 |
+
+**None of these four anchors exist in the new content.** The rewrite replaced every H2 id — the page now uses `#what-does-a-business-plan-typically-cost-by-options`, `#which-business-plan-option-should-you-choose`, `#factors-that-affect-business-plan-costs`, and `#conclusion`. Once Google recrawls, those top-10 fragment results will resolve to the page top and eventually drop out.
+
+This is not necessarily a mistake — the new structure is cleaner, and the old anchors described sections that no longer exist. But it is a real, quantified cost of the rewrite that is easy to miss, and it explains part of why the old version punched above its main-URL position. Nothing to action today; worth watching over the next two recrawls.
 
 **Device split (page-level, 90 days):**
 
@@ -354,21 +408,33 @@ The slug is already optimal. Changing it would require a 301 redirect and risk t
 
 ## Task 10: Incoming Internal Link Suggestions
 
-Pages on the site that should link **to** this one. Every source below is a verified WordPress post (real `post_id`, post type `post` — a valid prose-heavy source type). Pages used in Task 1 are excluded to avoid reciprocal links.
+Pages on the site that should link **to** this one. This task is now built on **direct evidence**: a GSC `page` x `query` sweep over the target's four linkable topics (`business plan cost`, `business plan writer`, `business plan price`, `cost to write a business plan`) returning the pages Google already associates with those terms. Every source is a verified WordPress post (real `post_id`, post type `post`). Pages used in Task 1 are excluded to avoid reciprocal links.
 
 | # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Traffic | Priority |
 |:--:|------------|-----|:--:|-----------|--------------|-----------------|:--:|:--:|
-| 1 | How to Write a Business Plan Using ChatGPT (Prompts) | `/blog/chatgpt-business-plan` | 26488 | post | Covers the free-AI route to a plan — the cost trade-off is the target page's whole subject | what a business plan costs | **70 clicks / 3,443 impr. (28d), pos 13.1** | High |
-| 2 | How to Write a Business Plan: 10 Easy Steps + Examples | `/blog/how-to-write-a-business-plan` | 6056 | post | Parent topic — readers deciding how to write a plan need the cost comparison | business plan cost | 96 sessions / 78% eng. | High |
-| 3 | Upmetrics vs LivePlan: I Compared Both | `/blog/upmetrics-vs-liveplan` | 109372 | post | Software pricing comparison — cost of tools is the page's core subject | business plan software pricing | Below GA4 top 50 | High |
-| 4 | How Small Business Development Centers (SBDCs) Can Help Your Business | `/blog/small-business-development-centers-sbdc` | 105993 | post | SBDCs are the free-help route; a paid-vs-free cost breakdown is the natural next click | cost of a business plan | Below GA4 top 50 | High |
-| 5 | Upmetrics vs Generative AI Tools: Which Builds Better Business Plans? | `/blog/upmetrics-vs-generative-ai-tools` | 104815 | post | Compares free general AI against paid tools — a direct cost trade-off | business plan pricing | Below GA4 top 50 | Medium |
-| 6 | 25+ Business Plan Statistics You Should Know | `/blog/business-plan-statistics` | 87158 | post | Stats roundups naturally cite cost benchmarks | average business plan cost | Below GA4 top 50 | Medium |
-| 7 | How to Review a Business Plan: 4-Step Framework | `/blog/business-plan-review` | 62358 | post | Review services are a priced option covered on the target page | business plan writer cost | Below GA4 top 50 | Medium |
+| 1 | 12 Critical Questions to Ask Before Hiring a Business Plan Writer | `/blog/questions-to-ask-before-hiring-a-business-plan-writer` | 62744 | post | **Ranks for "business plan writer" — 975 impressions at pos 28.8.** Readers vetting a writer need the fee benchmark this page provides | business plan writer cost | 975 impr. / pos 28.8 | **High** |
+| 2 | How to Write a Business Plan for Investors + Free Template | `/blog/business-plan-for-investors` | 64304 | post | Ranks for "business plan writer" — 396 impressions at pos 24.5 | cost of a business plan | 396 impr. / pos 24.5 | **High** |
+| 3 | How to Write a Business Plan Using ChatGPT (Prompts) | `/blog/chatgpt-business-plan` | 26488 | post | Highest-traffic relevant post on the site; covers the free-AI route, so the cost trade-off is the natural next click | what a business plan costs | **70 clicks / 3,443 impr., pos 13.1** | **High** |
+| 4 | How to Write a Franchise Business Plan (+ Free Template) | `/blog/franchise-business-plan` | 106325 | post | Ranks for "business plan writer" — 302 impressions at pos 23.9 | business plan writing cost | 302 impr. / pos 23.9 | Medium |
+| 5 | How to Write an SBA Business Plan + Template | `/blog/sba-business-plan` | 6125 | post | Ranks for "business plan writer" — 171 impressions at pos 32.5 | what a business plan costs | 171 impr. / pos 32.5 | Medium |
+| 6 | Tips for Choosing the Right Business Plan Consultant | `/blog/tips-on-choosing-the-right-business-plan-consultant` | 64996 | post | Topically the closest match on the site to the consulting-firm section; currently ranks pos 81 and would benefit from the link both ways | business plan consultant cost | 1 impr. / pos 81.0 | Medium |
+| 7 | How to Write a Business Plan: 10 Easy Steps + Examples | `/blog/how-to-write-a-business-plan` | 6056 | post | Parent topic — readers deciding how to write a plan need the cost comparison | business plan cost | 96 GA4 sessions / 78% eng. | Medium |
 
-> Every source URL above is verified in WordPress (real post_id). Suggested anchor text is a starting term for the SEO team to search within the source page — the actual anchor depends on what text exists in that page's content.
->
-> **Traffic caveat:** GSC click data is shown where the source page appears in the site's top 40 pages by clicks (28 days) — only row #1 does. That top-40 list is heavily saturated by sample-plan PDFs hosted on `templates.upmetrics.co`, which crowd out ordinary blog posts, so absence from it is not evidence a page is low-traffic. Rows #2–#7 fall back to GA4 sessions where available; all seven are published, indexed posts verified in WordPress. Pull per-page GSC clicks for rows #2–#7 before prioritising if click volume is your deciding factor.
+> Every source URL above is verified in WordPress (real post_id), and rows #1-#6 carry GSC impression data proving Google already ranks them for this page's topics. Suggested anchor text is a starting term for the SEO team to search within the source page — the actual anchor depends on what text exists in that page's content.
+
+### Related finding — three pages competing for "business plan writer"
+
+The topic sweep surfaced a cannibalisation pattern worth a separate look:
+
+| Page | Impressions | Position | Clicks |
+|------|:--:|:--:|:--:|
+| `/services/business-plan-writing` | **10,514** | 42.4 | 1 |
+| `/blog/questions-to-ask-before-hiring-a-business-plan-writer` | 975 | 28.8 | 0 |
+| `/ai-tools/free-ai-business-plan-generator` | 629 | 26.1 | 0 |
+| `/blog/business-plan-for-investors` | 396 | 24.5 | 0 |
+| **This page** (post 6255) | 369 | 25.1 | 0 |
+
+Five pages splitting the same query space, none inside the top 20. The service page alone draws 10,514 impressions at position 42 and converts one click. That is a site-architecture problem well outside this page's scope, but it is the clearest single opportunity the data surfaced today — worth raising as its own piece of work.
 
 ---
 
@@ -400,13 +466,15 @@ Copy, modify, and paste this template:
 Task 1 (Internal Links): Approve #1 (swap industry research) + #2 (how you create the plan). Skip #3.
 Task 2 (CTAs): Approve #1 (Yellow Tip after DIY section). Skip #2.
 Task 3 (Resource CTA): Approve — shorten heading to "How to Write a Business Plan".
-Task 4 (Related Content): Approve all 4, with the #2 swap to Business Plan Statistics (since Task 1 #2 is approved).
+Task 4 (Related Content): Approve all 4, with the #3 swap to Business Plan Statistics (since Task 1 #2 is approved).
 Task 5 (Meta Title/Desc): Approve title, description, and OG title. Keep focus keyphrase.
 Task 6 (Image Alt Text): No action needed.
 Task 7 (URL Slug): Skip — slug is already optimal.
 Task 8 (Headings): Approve the Conclusion rename.
 Task 9 (Categories): Skip — Planning is correct.
-Task 10 (Incoming Links): Noted — will review manually.
+Task 10 (Incoming Links): Noted — will review manually. Prioritise #1 (questions-to-ask, 975 impr).
+Re-index: Yes — requesting in Search Console now.
+FAQ schema: Raising with dev team.
 Content defects: Approve both fixes (remove duplicate paragraph, fix grammar).
 ```
 

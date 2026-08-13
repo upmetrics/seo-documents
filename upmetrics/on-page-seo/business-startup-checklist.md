@@ -7,8 +7,9 @@
 | **Post Type** | `post` (Blog Post) |
 | **Current Category** | Planning |
 | **Word Count** | 2,983 |
-| **Published / Modified** | 2021-10-18 / **2026-08-11** (rewritten 1 day ago) |
-| **Report Date** | 2026-08-12 |
+| **Published / Modified** | 2021-10-18 / **2026-08-11** (rewritten 2 days before this report) |
+| **Report Date** | 2026-08-13 |
+| **Changes Applied** | 2026-08-13 — Task 1 #4 (internal link) and Task 2 #2 (inline banner CTA). All other tasks pending your decision. |
 | **GSC Data Range** | 2026-05-14 to 2026-08-09 (90 days) |
 | **GA4 Data Range** | 30 days (engagement) / 90 days (conversions) |
 | **Edit in WP** | https://ct.upmetrics.co/wp-admin/post.php?post=6191&action=edit |
@@ -17,7 +18,7 @@
 
 ## Read This First — Data Timing Caveat
 
-**The content was fully rewritten on 2026-08-11. All GSC data in this report describes the *previous* version of the page.** Google last crawled the new version on 2026-08-12 (today). Positions and CTR will move on their own over the next 4-8 weeks as the rewrite is reindexed.
+**The content was fully rewritten on 2026-08-11. All GSC data in this report describes the *previous* version of the page.** Google last crawled the new version on 2026-08-12. Positions and CTR will move on their own over the next 4-8 weeks as the rewrite is reindexed.
 
 **Practical effect:** do not make drastic decisions (slug changes, aggressive meta rewrites chasing CTR) based on the pre-rewrite numbers below. Treat the GSC data as a demand map — it tells you *what people search for*, which is still valid — not as a verdict on the current content.
 

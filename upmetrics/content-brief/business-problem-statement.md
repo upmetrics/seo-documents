@@ -1,21 +1,11 @@
-# Content Brief: Business Problem Statement: Examples and How to Write One
+# Content Brief: Business Problem Statement
 
 **Date:** 2026-08-17
 **Prepared by:** SEO Content Strategist (AI-Assisted)
 **Target Market:** United States
-**Content Format:** Examples-first informational guide (definition → framework → worked examples → templates)
+**Content Format:** Definition + Framework + Example Library (hybrid informational guide)
 **WordPress Post Type:** post
-**Brief Type:** 🔄 **CONTENT REFRESH** — rewrite of an existing URL, not a new page
-
----
-
-> ## ⚠️ Read This First — This Is a Refresh, Not a New Article
->
-> An existing page already targets this keyword: **[https://upmetrics.co/blog/business-problem-statement](https://upmetrics.co/blog/business-problem-statement)**
->
-> **Do NOT create a new URL.** Rewrite this one in place. It holds position 9–10 for the head term and position 2 for the template variant — a new slug forfeits that.
->
-> **The problem with the current page, in one line:** it earns ~1,000 impressions per 90 days and converts them into **~7 clicks**. It ranks. Nobody clicks.
+**Brief Type:** ⚠️ **REWRITE / REPLACE** — this replaces the existing article at the same URL. Do NOT publish to a new slug.
 
 ---
 
@@ -28,43 +18,54 @@
 | Keyword Difficulty | 1 (very easy) |
 | Traffic Potential | 150 |
 | CPC | $3.00 |
-| Intent | Informational (100%) |
-| Parent Topic | business problem statement (it is its own parent — no distinct parent topic) |
-| SERP Features | AI Overview, AI Overview sitelinks, PAA (×4), image thumbnails, sitelinks, video thumbnail |
+| Intent | Informational |
+| Parent Topic | business problem statement (it is its own parent — US Volume: 100) |
+| SERP Features | AI Overview, AI Overview sitelinks, People Also Ask, image thumbnails, video thumbnail, sitelinks |
 | WordPress Post Type | post |
-| Recommended Slug | /blog/business-problem-statement **(keep existing — do not change)** |
+| Recommended Slug | /blog/business-problem-statement **(unchanged — rewrite in place)** |
 | Full URL Preview | [https://upmetrics.co/blog/business-problem-statement](https://upmetrics.co/blog/business-problem-statement) |
-| Content Format | Examples-first informational guide |
-| Target Word Count | **3,000 words (range 2,900–3,200)** |
+| Content Format | Definition + framework + example library |
+| Target Word Count | **3,000 — 3,300 words** |
 | Estimated Writing Time | 6–7 hours for first draft |
-| Reader Persona | Not user-specified — inferred (see Section 3) |
+| Reader Persona | Not user-provided — inferred from intent (see Section 3) |
 
-**Word count rationale:** Five intent-matched competitors average **2,240 words**; the median is **2,400**. Standard practice would set the target at 2,250. I am deliberately setting it higher at **3,000** for two reasons: (1) the traffic leader on this SERP — BetterUp at position 3, pulling **1,316 monthly visits across 190 keywords** — runs 3,200 words, and cluster capture is the entire strategy here; (2) the outline adds two H2 sections that **no competitor covers at all**, which carry roughly 560 words of net-new content. The current page is 1,200 words, so this is roughly a 2.5× expansion. Do not pad to hit the number — if the draft lands at 2,900 with every section doing real work, that is the correct outcome.
+**Word count rationale:** Intent-matched competitors average 2,138 words (median 2,275), which puts the formula target at 2,250. We deliberately go to 3,000–3,300 because the differentiator is an example library of 9 worked statements — no competitor has more than 4 — and that section alone needs ~800 words. The SERP traffic leader (BetterUp) sits at 2,850, so 3,000+ also clears the top performer without padding.
+
+### ⚠️ Read this before anything else: the real problem
+
+The existing page ranks at **average position 9.72** for the exact primary keyword and earned **167 impressions with 0 clicks** in the last 90 days. Across all "business problem" and "problem statement" queries, the page collected roughly **800 impressions and 7 clicks**.
+
+The page is not failing to rank. It is failing to earn the click, because an **AI Overview sits above position 1** and answers the question before the reader scrolls.
+
+That single fact drives the entire content strategy in this brief:
+
+1. **Be the source AI Overview cites** — crisp, self-contained, quotable answers directly under question headings.
+2. **Offer what an AI Overview cannot** — a large library of industry-specific worked examples, copy-paste templates, and a downloadable asset. Nobody reads a summary and stops when they came for 9 examples.
 
 ---
 
 ## 2. Why We'll Win
 
-- **Every example carries real numbers.** Antler shows 11 company examples with zero figures. 8base shows 4 with zero figures. BetterUp is the only competitor that quantifies — and its examples are all internal HR/ops problems (call wait times, employee engagement surveys), not market problems. We will publish 7 examples where every one states a dollar amount, a percentage, a headcount, or a time cost.
-- **Nobody connects the problem statement to funding — and that is our home turf.** All six scraped competitors stop at "you have now defined the problem." Not one explains where the statement physically goes in a business plan or on a pitch deck slide. Upmetrics has 8 real pitch-deck teardowns to draw from.
-- **Three separate competitors' biggest weakness is the same thing: validation.** The scrapes independently flagged that 8base, Jeff Gothelf, and d-eship all teach you to *write* a problem statement but never to *check whether the problem is real*. We will own that section.
-- **The SERP is stale and thin.** 4 of 6 competitors were last updated 2+ years ago; d-eship's is from 2021 and still ranks #5. A DR 8 site (edgeagility.com) ranks #6. Upmetrics is DR 74. This SERP is winnable on freshness and depth alone.
-- **We answer the "5 parts" question that competitors contradict each other on.** Indeed says 4 elements. BetterUp says 5. Antler says 7 questions. d-eship says 7 canvas boxes. There is a live PAA box asking "What are the 5 parts of a problem statement?" — a single reconciling table wins it.
+- **9 worked examples versus a competitor maximum of 4.** 8base has 4 (all famous brands — Netflix, Uber, Instacart, Tesla), BetterUp has 3, Scrum.org has 2, Indeed has 1, and Jeff Gothelf has **zero**. Nine industry-specific examples written for real small businesses is a category the SERP does not currently have.
+- **The #2 result is ~430 words.** Scrum.org ranks second on a template snippet inside a learning series. A DR 8 site (edgeagility.com) ranks #6. Keyword difficulty is 1. This SERP is soft — depth wins it outright.
+- **No competitor has an FAQ section.** Not one of the six pages analyzed. Our 6 FAQs pull from Ahrefs keyword data and Google Search Console queries we already get impressions for.
+- **Nobody explains how to tell whether the statement is any good.** BetterUp, Indeed and d-eship were all independently flagged for missing measurement and validation guidance. We add a pressure-test section with a pass/fail checklist.
+- **We already rank 9.72 with a thin 1,500-word page.** The URL has established equity — including position 2.03 for "business problem statement template". A rewrite in place inherits all of it. A brand-new URL would throw it away and cannibalize.
 
 **Upmetrics assets to embed:**
-- [Problem Statement Templates (.docx)](https://templates.upmetrics.co/wp-content/uploads/2022/07/problem-statement-templates.docx) — Place in: H2 "Business problem statement templates you can copy"
-- [Problem Statement download](https://upmetrics.co/download/problem-statement) — Place in: end-of-article CTA slot (not a body link)
-- [Lean Canvas template](https://upmetrics.co/strategic-planning-templates/lean-canvas) — Place in: H2 "Where the problem statement goes in your business plan and pitch deck"
-- [OpenAI Pitch Deck teardown](https://upmetrics.co/pitch-deck-examples/openai) — Place in: H2 "Where the problem statement goes in your business plan and pitch deck"
+- [Problem Statement Template (download)](https://upmetrics.co/download/problem-statement) — Place in: H2: Free business problem statement templates
+- [AI Business Plan Generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) — Place in: H2: Where the problem statement fits in your business plan
+- [SWOT Analysis Examples](https://upmetrics.co/blog/5-top-brands-swot-analysis-examples) — Place in: H2: How to write a business problem statement in 6 steps (Step 1, identifying the problem)
 
 **Original value-adds competitors can't match:**
-- A reconciliation table settling the 4-vs-5-vs-7-parts disagreement across the top-ranking pages
-- A placement map showing the same problem statement rewritten three ways: business plan paragraph, pitch deck slide, internal project brief
-- A pre-revenue fallback method for founders with no baseline data (Indeed's explicit gap)
+- Nine examples spanning SaaS, restaurant, e-commerce, retail, healthcare, manufacturing, agency, nonprofit and pre-funding startup — competitors use either famous brands or a single generic office scenario.
+- Each example annotated with a short "why this works" note, so the reader learns the pattern instead of just copying text.
+- A pass/fail pressure-test checklist the reader can run against their own draft.
+- Copy-paste templates rendered as **live text, not images**. The current Upmetrics page has two of its three templates locked inside images — invisible to Google and to AI Overview. This is the single most fixable technical mistake on the page.
 
 **Expert / data angles:**
-- CB Insights startup post-mortem data: "no market need" is the single most common failure reason — the strongest possible argument for why this document matters
-- SBA business plan guidance for the business-plan placement section
+- Cite CB Insights startup post-mortem data on "no market need" as a failure driver — the strongest available argument for defining the problem before the solution.
+- Reference Harvard Business Review on problem framing to lift EEAT above competitors, none of whom cite peer-reviewed or business-school sources (BetterUp cites an unverified Einstein anecdote).
 
 ---
 
@@ -72,42 +73,41 @@
 
 | Field | Details |
 |-------|---------|
-| Primary Persona | US founder or small-business owner, 0–3 years in, writing a business plan or pitch deck and stuck on how to articulate the problem their business solves |
-| Secondary Persona | Business analyst / project lead who needs a problem statement for an internal proposal or business case |
+| Primary Persona | US small business owner, founder, or manager who has been asked to write a problem statement — for a business plan, an investor deck, an internal project proposal, or a business report — and has never written one before |
 | Geographic Focus | United States |
-| Funnel Stage | Awareness → early Consideration |
-| Knowledge Level | Beginner to intermediate — knows what a business plan is, has never written a formal problem statement |
-| Pain Points | Doesn't know what "counts" as a problem statement vs. a rant about a pain point; has no baseline data to quantify with; wrote something vague and an investor or lender pushed back; confused by conflicting advice on how many parts it has |
-| What They Want | A copyable structure, several examples that look like their situation, and confidence the statement will hold up in front of a lender or investor |
+| Funnel Stage | Awareness — they know the term, they need the format and an example to copy |
+| Knowledge Level | Beginner. They understand their business problem but not how to frame it in a formal structure |
+| Pain Points | Doesn't know what sections a problem statement must contain; can't tell the difference between describing a symptom and stating a root problem; has seen definitions but no example close enough to their own industry to copy; unsure whether to include the proposed solution; worried it will read as vague to an investor or executive |
+| What They Want | A finished problem statement they can paste into their document today — a template to fill in, plus an example from a business that resembles theirs |
 
 **SERP Intent Breakdown:**
 
 | Intent Type | Pages in Top 10 | Percentage |
 |-------------|----------------|------------|
-| Informational | 7 of 7 organic | 100% |
-| Commercial | 0 of 7 | 0% |
-| Transactional | 0 of 7 | 0% |
+| Informational | 8 of 8 organic | 100% |
+| Commercial | 0 of 8 organic | 0% |
+| Transactional | 0 of 8 organic | 0% |
 
-*Note: 8base's page ends in a product pitch, but the page itself is informational. Ahrefs classifies the keyword as 100% informational. Position 10 is a LinkedIn post — from Upmetrics' own account.*
+Ahrefs confirms a pure informational classification with no commercial, transactional, or branded signal. Two results (8base, Upmetrics' own LinkedIn post) carry soft product promotion, but no page in the top 10 is a product or pricing page.
 
 **How intent maps to our outline:**
 
 **Informational sections** (educate the reader):
-- H2: What is a business problem statement? — definition + snippet target
+- H2: What is a business problem statement — definition and snippet target
 - H2: The 5 parts of a business problem statement — component breakdown
-- H2: How to write a business problem statement in 6 steps — the core how-to
-- H2: 7 business problem statement examples — the centerpiece
-- H2: Mistakes that make a problem statement useless
-- H2: Problem statement vs opportunity statement vs business case
+- H2: How to write a business problem statement in 6 steps — the process
+- H2: 6 mistakes that weaken a business problem statement — error prevention
+- H2: How to pressure-test your problem statement — validation
 
-**Commercial sections** (help the reader evaluate/apply):
-- H2: Business problem statement templates you can copy
-- H2: Where the problem statement goes in your business plan and pitch deck
+**Commercial sections** (help the reader evaluate/choose):
+- H2: 9 business problem statement examples — pattern selection by industry
+- H2: Free business problem statement templates — format selection
+- H2: Problem statement vs. opportunity statement vs. business case — choosing the right document
 
 **Transactional sections** (convert the reader):
-- End-of-article CTA only — Upmetrics business plan builder / problem statement template download
+- H2: Where the problem statement fits in your business plan — Upmetrics integration
 
-**Balance check:** The outline is ~78% informational, ~22% commercial, ~0% transactional in body copy. This matches the 100%-informational SERP. **Do not add mid-article product pitches** — that is precisely the mistake 8base makes, and it is a weaker page for it.
+**Balance check:** Our outline is ~62% informational, ~31% commercial, ~7% transactional. The SERP is 100% informational, so the single transactional section must stay short and genuinely useful. Do not add a second product section.
 
 ---
 
@@ -118,87 +118,93 @@
 | Keyword | US Volume | KD |
 |---------|-----------|-----|
 | business problem statement ⭐ | 100 | 1 |
-| problem statement | 13,000 | 0 |
 | problem statement examples | 8,100 | 9 |
-| problem statement template | 800 | 3 |
-| problem statement example | 500 | 9 |
-| business problem ⭐ | 350 | 4 |
+| statement of the problem | 200 | 3 |
+| statement of the problem example | 150 | 5 |
+| business problem statement template ⭐ | GSC only (37 impr, pos 2.03) | — |
+| problem statement canvas | 100 | 0 |
+| writing a problem statement | 100 | 9 |
+| a business report problem statement should establish ⭐ | 70 | 0 |
+| what is a problem statement example | 60 | 7 |
 | business problem statement examples ⭐ | 30 | 1 |
-| how to write a business problem statement | 10 | 6 |
-| business problem statement template ⭐ | 10 | 3 |
-| what is a business problem statement | 10 | 2 |
 
-⭐ = also appears in Upmetrics GSC data (already earning impressions)
+> ⭐ = appears in **both** Ahrefs and Google Search Console. These are the highest-confidence targets.
+
+**Note on "problem statement examples" (8,100/mo):** this is the largest prize on the page and the reason BetterUp out-earns the #2 result by 11×. Use it in the H2 for the examples section and once in the intro. Do **not** let it pull the article away from a business framing into academic or research problem statements — that is a different intent and a different pillar.
 
 ### Supporting Keywords (use naturally throughout)
 
 | Keyword | US Volume |
 |---------|-----------|
-| a business report problem statement should establish | 70 |
-| business problem definition | 10 |
+| business problem ⭐ | GSC: 169 impr, pos 20.28 |
+| problem statement business ⭐ | GSC: 129 impr, pos 25.18 |
+| business problem example ⭐ | GSC: 85 impr, pos 9.2 |
+| company problem statement ⭐ | GSC: 47 impr, pos 8.96 |
+| business problem definition ⭐ | GSC: 39 impr, pos 14.77 |
+| business problem examples ⭐ | GSC: 21 impr, pos 12.38 |
+| what is a problem statement in business ⭐ | GSC: 15 impr, pos 15 |
+| what is a business problem statement | 10 |
+| business problem statement example | 10 |
 | example of business problem statement | 10 |
-| problem statement business plan | 10 |
 | problem statement in business proposal | 10 |
-| customer problem statement examples | 10 |
-| what is a good problem statement example | 10 |
+| problem statement business plan | 10 |
 | how to state a problem statement | 10 |
-| business problem statements | GSC only |
-| company problem statement | GSC only |
-| problem statement business | GSC only |
-| what is a problem statement in business | GSC only |
-| problem in business | GSC only |
-| business problem example | GSC only |
+| business problem analysis ⭐ | GSC: 7 impr, pos 32.14 |
+| another word for problem statement ⭐ | GSC: pos 15 |
 
 ### LSI / Semantic Variations
-- root cause / root cause analysis
-- 5 Whys
-- current state vs desired state
-- quantifiable impact
+- root cause
+- current state vs. desired state
 - gap analysis
-- measurable outcome
-- stakeholder
-- pain point
-- opportunity statement
+- quantified impact
+- problem framing
+- 5 Whys
+- scope and boundaries
+- stakeholders affected
+- success metrics
 - business case
-- solution statement
-- problem definition
-- scope
-- baseline metric
+- project charter
+- opportunity statement
+- pain point
+- symptom vs. cause
+- measurable outcome
 
-### Questions to Answer (from PAA / Ahrefs / competitor scrapes / GSC)
-- What is a problem statement for a business?
-- What is an example of a business problem statement?
-- What are the 5 parts of a problem statement?
-- What is a problem statement example?
-- How do I write one when I have no data yet?
-- How long should a business problem statement be?
-- Where does the problem statement go in a business plan?
-- What is the difference between a problem statement and a business case?
+### Questions to Answer (from PAA / Ahrefs keywords / competitor scrapes / GSC)
+- What is a problem statement for a business? *(PAA)*
+- What is an example of a business problem statement? *(PAA)*
+- What are the 5 parts of a problem statement? *(PAA)*
+- What is a problem statement example? *(PAA)*
+- What should a business report problem statement establish? *(Ahrefs 70/mo + GSC pos 59.75)*
+- Is "statement of the problem" the same thing? *(Ahrefs 200/mo)*
+- How long should a business problem statement be? *(competitor inconsistency)*
+- What is a problem statement canvas? *(Ahrefs 100/mo)*
+- How is an Agile or Scrum problem statement different? *(GSC pos 73.5)*
+- What's another word for a problem statement? *(GSC pos 15)*
+
+> The four PAA questions are answered **inside** the main H2 sections for snippet capture. The remaining six become the FAQ section. No question appears in both places.
 
 ### GSC Low-Hanging-Fruit Keywords (already ranking)
 
-These are queries where Upmetrics already earns impressions. **Every one of them lands on the URL we are rewriting** — which is why this refresh is worth doing.
+These are queries where Upmetrics already gets impressions — targeting them in this rewrite can push them onto page 1 with minimal effort.
 
 | Query | Position | Impressions (90d) | Clicks | Status |
 |-------|----------|-------------------|--------|--------|
-| business problem statement template | 2.0 | 37 | 1 | 📍 Already page 1 — **2.7% CTR is the single biggest failure on the page** |
-| company problem statement | 9.0 | 47 | 1 | 🎯 Position 8–20 — push to page 1 |
-| business problem statement example | 9.1 | 33 | 0 | 🎯 Position 8–20 — push to page 1 |
-| business problem example | 9.2 | 85 | 0 | 🎯 Position 8–20 — push to page 1 |
-| problem in business | 9.5 | 53 | 1 | 🎯 Position 8–20 — push to page 1 |
-| business problem statement | 9.7 | 167 | 0 | 🎯 Highest-impression query on the page, zero clicks |
-| business problem statement examples | 10.0 | 59 | 0 | 🎯 Position 8–20 — push to page 1 |
-| business problem examples | 12.4 | 21 | 0 | 🎯 Position 8–20 |
-| business problem definition | 14.8 | 39 | 0 | 🎯 Position 8–20 |
-| what is a problem statement in business | 15.0 | 15 | 1 | 🎯 Position 8–20 |
-| business problem | 20.3 | 169 | 2 | 🎯 Position 8–20 |
-| business problem statements | 23.1 | 9 | 2 | 🎯 Position 8–20 |
-| problem statement business | 25.2 | 129 | 1 | 🎯 Position 20+ |
-| business problem solution | 74.2 | 144 | 0 | ⚠️ Deep — needs genuinely new content to move |
+| business problem statement template | 2.03 | 37 | 1 | 📍 Already page 1 — protect this, do not lose it |
+| business problem statement example | 9.09 | 33 | 0 | 🎯 Position 8–20 — push to page 1 |
+| business problem statement | 9.72 | 167 | 0 | 🎯 The primary — push to page 1 |
+| business problem example | 9.20 | 85 | 0 | 🎯 Push to page 1 |
+| company problem statement | 8.96 | 47 | 1 | 🎯 Push to page 1 |
+| business problem statement examples | 9.98 | 59 | 0 | 🎯 Push to page 1 |
+| business problem examples | 12.38 | 21 | 0 | 🎯 Push to page 1 |
+| business problem definition | 14.77 | 39 | 0 | 🎯 Push to page 1 |
+| what is a problem statement in business | 15.00 | 15 | 1 | 🎯 Push to page 1 |
+| business problem | 20.28 | 169 | 2 | 🎯 High volume — biggest single opportunity |
+| business problem statements | 23.11 | 9 | 2 | 🎯 Push to page 1 |
+| problem statement business | 25.18 | 129 | 1 | 🎯 Push to page 1 |
+| business problem analysis | 32.14 | 7 | 0 | 🔻 Overlaps with the problem-solving article — see cannibalization note |
+| a business report problem statement should establish | 59.75 | 12 | 0 | 🔻 Needs dedicated FAQ coverage |
 
-> **Data source:** GSC Phase 1A calls 4, 5 and 7 (90-day range, 2026-05-19 → 2026-08-17). Keywords appearing in BOTH GSC and Ahrefs are marked ⭐ in the tables above.
->
-> **Read this table as the brief's thesis.** The page already has ~1,000 impressions of demand sitting at positions 9–15. It converts almost none of it. Fixing the content and the snippet is worth more than chasing new rankings.
+> **Data source:** GSC Phase 1A calls 4, 5 and 7 (90-day range, 2026-05-19 to 2026-08-17). Roughly **800 impressions producing 7 clicks** — a 0.9% CTR against an average position of ~10. The rankings already exist. The clicks do not.
 
 ---
 
@@ -206,102 +212,73 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 > ⚠️ All competitor URLs are clickable — click to review each page for deeper understanding.
 
-1. **[Pos #2]** [Business Problem Statement Examples — Scrum.org](https://www.scrum.org/resources/business-problem-statement-examples)
-   - **Page type:** Informational resource page
-   - **Intent match:** ✅ Yes (exact-title match) — **but excluded from word count: see note below**
-   - **Word count (body only):** ⚠️ **Not captured** — Scrum.org blocked automated retrieval on 3 retry attempts
-   - **Ahrefs signal:** DR 84 | 115 monthly traffic | 43 ranking keywords
-   - **Strengths:** Exact-match title on a high-authority agile domain; cited by the AI Overview
-   - **Weaknesses:** Despite ranking #2, it pulls only 115 traffic vs BetterUp's 1,316 at #3 — the exact-match title wins the head term but captures almost none of the cluster
-   - **Writer action:** Open this page manually and skim it before drafting the examples section
+1. **[Pos #2]** [Business Problem Statement Examples | Scrum.org](https://www.scrum.org/resources/business-problem-statement-examples)
+   - **Page type:** Resource snippet inside a "learning series" — not a full article
+   - **Intent match:** ❌ No — excluded from word count (different page type; a 430-word template card, not a guide)
+   - **Word count (body only):** ~430 words
+   - **H2s:** 2 | **Strengths:** Two clean templates (existing product vs. new product) with one fully worked example each, both using specific percentages — a 20% rise in support tickets, a 30% reduction target. Excellent quantification discipline. Backed by DR 84 and Scrum.org brand trust. | **Weaknesses:** Extremely thin at ~430 words. No definition of what a problem statement is. No how-to steps. No mistakes section. No FAQ. Agile/Scrum framing alienates a general business reader. Blocks standard scraping, which also blocks some crawlers.
 
-2. **[Pos #3]** [3 Problem Statement Examples & How to Write Your Own — BetterUp](https://www.betterup.com/blog/problem-statement)
+2. **[Pos #3]** [3 Problem Statement Examples & How to Write Your Own | BetterUp](https://www.betterup.com/blog/problem-statement)
    - **Page type:** Informational blog guide
    - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~3,200 words
-   - **H2s:** 8 | **Strengths:** The traffic leader by a wide margin (1,316 visits / 190 keywords). Three fully worked examples with real percentages and timeframes, each structured Problem / Background / Relevance / Objectives. Named author, CDC.gov citation, bias-testing table.
-   - **Weaknesses:** Every example is an internal HR or ops problem — call hold times, employee engagement, net revenue targets. Nothing market-facing. **Zero guidance on translating a problem into a market opportunity, funding narrative, or business plan.** Only 3 images, no diagrams, no FAQ.
+   - **Word count (body only):** ~2,850 words
+   - **H2s:** 9 | **Strengths:** The traffic winner of this SERP at 1,316 monthly visits — roughly 11× the #2 result. Classifies problem statements into three *types* (status quo, destination, stakeholder), which no other competitor does. Each example carries background, relevance and objectives. Includes a problem-framing quality table and a "what to avoid" section. | **Weaknesses:** No fill-in template anywhere in 2,850 words — the reader cannot convert the examples into their own statement. Zero statistics. Author is a creative-writing graduate with no business credentials. Cites an Einstein quote hedged with "or so the story goes". Only 2 stock photos and no diagrams. No FAQ. No industry-specific examples.
 
-3. **[AI Overview citation]** [How To Craft A Compelling Problem Statement — Antler](https://www.antler.co/blog/how-to-write-a-problem-statement)
-   - **Page type:** Informational blog guide (VC/accelerator)
+3. **[Pos #5]** [The Problem Statement Canvas | d-eship](https://www.d-eship.com/articles/the-problem-statement-canvas-a-deep-dive-in-problem-definition-for-startups-and-innovation-teams/)
+   - **Page type:** Framework deep-dive
    - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~2,400 words
-   - **H2s:** 6 | **Strengths:** Cited directly in the AI Overview. Genuine founder/investor framing — the only competitor writing for our persona. "Seven questions" framework. 11 recognizable company examples (Stripe, Canva, Spotify, Duolingo).
-   - **Weaknesses:** All 11 examples are narrative with **zero numbers**. 6 stock photos, no diagrams or tables. Company byline, no named author, no external citations. Published Nov 2023, never updated.
+   - **Word count (body only):** ~2,900 words
+   - **H2s:** 9 | **Strengths:** The strongest single framework in the SERP — a six-block canvas (customer type, context, root problem, emotional impact, quantifiable impact, alternative solutions). Includes a genuine fill-in formula and a downloadable Google Sheets canvas. Shows a flawed statement rewritten into a strong one, which is the most instructive teaching device on any of these pages. Cites CB Insights and Dan Ariely. Author is a serial entrepreneur and former doctor. | **Weaknesses:** Startup/B2C-skewed — every example is São Paulo ridesharing, with an explicit B2B blind spot. Unicorn statistic from 2021 is stale. No validation guidance. Only one industry. Canvas offered solely as a Google Sheet. No FAQ.
 
-4. **[Pos #5]** [The Problem Statement Canvas — d-eship.com](https://www.d-eship.com/articles/the-problem-statement-canvas-a-deep-dive-in-problem-definition-for-startups-and-innovation-teams/)
-   - **Page type:** Informational deep-dive
+4. **[Pos #7]** [Business Problem Statements vs Opportunity Statements | Jeff Gothelf](https://jeffgothelf.com/blog/business-problem-statement-opportunity-statement/)
+   - **Page type:** Opinion / comparison essay
+   - **Intent match:** ❌ No — excluded from word count (thought-leadership comparison, not a definitional guide)
+   - **Word count (body only):** ~950 words
+   - **H2s:** 3 | **Strengths:** The only page drawing a clear line between a problem statement (assumes a system already exists) and an opportunity statement (for greenfield initiatives). Two well-built templates. Author is a recognized Lean UX authority. Cites Roger Martin in HBR. | **Weaknesses:** Zero worked examples — templates are never filled in. No definition section. Assumes Lean UX fluency. Published October 2022 with no refresh. No statistics, no FAQ, no visuals beyond two duplicated template graphics.
+
+5. **[Pos #8]** [What Is a Problem Statement: Definition, How-To and Example | Indeed](https://www.indeed.com/career-advice/career-development/what-is-a-problem-statement)
+   - **Page type:** Career-advice informational guide
    - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~2,800 words
-   - **H2s:** 9 | **Strengths:** The best framework on the SERP — a 7-box canvas (customer type, context, root problem, emotional impact, quantifiable impact, alternative solutions, their disadvantages). Worked São Paulo rideshare example with real figures. Strongest EEAT on the SERP: named author with MIT/Singularity credentials, cites CB Insights, Bill Aulet, Dan Ariely.
-   - **Weaknesses:** **Published May 2021 and never updated** — 5 years stale and still ranking #5, which tells you how soft this SERP is. No guidance on willingness-to-pay or market sizing. Downloadable canvas is a Google Sheet, which is friction.
+   - **Word count (body only):** ~1,700 words
+   - **H2s:** 5 | **Strengths:** DR 92. Clean four-element structure (ideal situation, reality, consequences, proposal) and a five-step writing process. Names the 5W2H methodology explicitly. A KEY TAKEAWAYS callout box. Question-style H2s with direct opening answers — the most snippet-ready formatting in the SERP. | **Weaknesses:** Only one worked example, and it is a generic sales call-center scenario. No template. Zero external citations of any kind. Displays a "Last Updated June 16, 2026" date that appears to be a data error. States the proposal "does not need to identify a specific solution", which contradicts most methodologies and confuses readers. Related links are automated and off-topic.
 
-5. **[Pos #8]** [What Is a Problem Statement: Definition, How-To and Example — Indeed](https://www.indeed.com/career-advice/career-development/what-is-a-problem-statement)
-   - **Page type:** Career-advice guide
-   - **Intent match:** ✅ Yes (partial — career framing, not business planning)
-   - **Word count (body only):** ~1,450 words
-   - **H2s:** 4 | **Strengths:** Cleanest structure on the SERP. Four named elements (ideal situation / reality / consequences / proposal), five-step process, key-takeaways callout box, embedded video. Updated June 2026 — the freshest competitor. DR 92.
-   - **Weaknesses:** Only one worked example. Framed for employees, not owners. **No fallback for readers with no baseline data** — it insists on concrete numbers while never addressing what a pre-revenue founder should do.
-
-6. **[Pos #9]** [Problem Statement Templates and Examples for Businesses — 8base](https://www.8base.com/blog/problem-statement-templates-and-examples)
-   - **Page type:** Informational blog + product promo
+6. **[Pos #9]** [Problem Statement Templates and Examples for Businesses | 8base](https://www.8base.com/blog/problem-statement-templates-and-examples)
+   - **Page type:** Informational blog with product promotion
    - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~1,350 words
-   - **H2s:** 4 | **Strengths:** Recognizable brand examples (Netflix, Uber, Instacart, Tesla). Useful problem-statement / solution-statement pairing. Specifies a 100–150 word length target — the only competitor that does.
-   - **Weaknesses:** **Zero numbers in any of the 4 examples** — all generic phrasing like "subpar consumer experience." No author, no sources, no FAQ, 1 image. Ends in a pitch for its own AI tool. Published Oct 2023.
+   - **Word count (body only):** ~1,100 words
+   - **H2s:** 4 | **Strengths:** Four examples — the highest count in the SERP — pairing a problem statement with a matching solution statement for Netflix, Uber, Instacart and Tesla. The problem/solution pairing is a useful device. | **Weaknesses:** Despite "Templates" in the title, it contains **no template**. All four examples are billion-dollar brands, useless as models for a small business. No how-to steps, no mistakes section, no FAQ. Promotes its "Archie" AI tool twice. One unsourced statistic hedged as "somewhere between 30% to 90%". Published October 2023 with no refresh.
 
-7. **[Pos #7]** [Business Problem Statements vs Opportunity Statements — Jeff Gothelf](https://jeffgothelf.com/blog/business-problem-statement-opportunity-statement/)
-   - **Page type:** Short opinion/comparison post
-   - **Intent match:** ❌ **No — excluded from the word count benchmark.** It is a narrow two-template comparison, not a guide to the topic.
-   - **Word count (body only):** ~850 words
-   - **H2s:** 3 | **Strengths:** Genuinely useful distinction — a problem statement presumes a system already exists, so it breaks down for brand-new ventures. Recognized product-management authority.
-   - **Weaknesses:** No examples with numbers, no validation guidance, published Oct 2022. Two template images and little else.
+**Also in the top 10 (not scraped):** [edgeagility.com](https://edgeagility.com/how-to-create-great-business-problem-statements/) at #6 on a **DR 8** domain, and Upmetrics' own [LinkedIn post](https://www.linkedin.com/posts/upmetrics-co_business-problem-statement-explained-with-activity-7040305380836454400-bo3X) at #10. A DR 8 site holding position 6 is the clearest possible signal that this SERP rewards content quality over domain authority.
 
 **Intent-matched word count benchmark:**
 
-| Competitor | Body words | Intent-matched |
-|---|---|---|
-| BetterUp | 3,200 | ✅ |
-| d-eship | 2,800 | ✅ |
-| Antler | 2,400 | ✅ |
-| Indeed | 1,450 | ✅ |
-| 8base | 1,350 | ✅ |
-| Jeff Gothelf | 850 | ❌ excluded |
-| Scrum.org | not captured | — |
-
 | Stat | Value |
 |------|-------|
-| Intent-matched average | ~2,240 words |
-| Intent-matched median | ~2,400 words |
-| Cluster leader (BetterUp) | 3,200 words |
-| **Our target** | **3,000 words (2,900–3,200)** |
+| Intent-matched average | ~2,138 words |
+| Intent-matched median | ~2,275 words |
+| Formula target (average rounded up to nearest 250) | 2,250 words |
+| **Our target** | **3,000 — 3,300 words** |
 
-> Note: Word counts above are content body only — navigation, sidebars, footers, CTAs, author bios, and comments excluded.
->
-> ⚠️ **Degraded coverage disclosure:** Scrum.org (position #2) could not be retrieved after 3 attempts. Six competitors were successfully analyzed — double the required minimum — so the heading map and gap analysis are reliable, but the #2 result's internal structure is inferred from its title and Ahrefs metrics rather than observed.
+> Note: Word counts above are content body only — navigation, sidebars, footers, CTAs, author bios and comments excluded. We exceed the formula target deliberately: the example library is the differentiator and needs ~800 words on its own, and the SERP traffic leader sits at 2,850.
 
 ### Competitor Heading Map
 
-**C1** = BetterUp · **C2** = Antler · **C3** = d-eship · **C4** = Indeed · **C5** = 8base · **C6** = Jeff Gothelf
+C1 = Scrum.org · C2 = BetterUp · C3 = d-eship · C4 = Jeff Gothelf · C5 = Indeed · C6 = 8base
 
-| Topic / Section | C1 | C2 | C3 | C4 | C5 | C6 | UGC | Ours |
-|----------------|----|----|----|----|-----|-----|-----|------|
-| Definition — what it is | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | — | ✅ Table stakes |
-| Why it matters / importance | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | — | ✅ Fold into intro |
-| Parts / components breakdown | ✅ (5) | ✅ (7) | ✅ (7) | ✅ (4) | ✅ (2) | ❌ | — | ✅ **Reconcile the conflict** |
-| Step-by-step how-to | ✅ (3) | ✅ (4) | ❌ | ✅ (5) | ❌ | ❌ | — | ✅ Go deeper (6 steps) |
-| Worked examples | ✅ (3, numbers) | ✅ (11, no numbers) | ✅ (1, numbers) | ✅ (1, numbers) | ✅ (4, no numbers) | ❌ | — | ✅ **7, all with numbers** |
-| Copyable templates | ❌ | ❌ | ✅ (canvas) | ❌ | ✅ | ✅ | — | ✅ Improve — 3 formats |
-| Mistakes / what to avoid | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | — | ✅ Table stakes |
-| Root cause analysis | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | — | ✅ Fold into Step 4 |
-| Quantifying impact | ⚠️ partial | ❌ | ✅ | ⚠️ partial | ❌ | ❌ | — | ✅ Go deeper (Step 3) |
-| Problem vs opportunity vs business case | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ (partial) | — | ✅ Go deeper — add business case |
-| **Placement in business plan / pitch deck — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge** |
-| **Validating the problem is real — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge** |
-| **What to do with no baseline data — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge (H3)** |
-| FAQ section | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **7 FAQs — nobody has one** |
-
-**Three gaps, independently confirmed.** The scrape of 8base, Jeff Gothelf, and d-eship each surfaced *validation* as that page's single biggest weakness — three different pages, same hole. Indeed's biggest weakness was the no-baseline-data problem. And business plan / pitch deck placement appears on precisely zero of the six pages analyzed.
+| Topic / Section | C1 | C2 | C3 | C4 | C5 | C6 | Ours |
+|----------------|----|----|----|----|----|----|------|
+| What is a business problem statement (definition) | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ Table stakes |
+| Component breakdown / the 5 parts | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ Improve — competitors disagree on 4 vs 5 vs 6 parts |
+| Step-by-step how to write | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ Go deeper |
+| Worked examples | ✅ (2) | ✅ (3) | ✅ (2) | ❌ (0) | ✅ (1) | ✅ (4) | ✅ Go deeper — 9 examples, most in SERP |
+| Industry-specific examples | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ **UNIQUE EDGE** |
+| Fill-in-the-blank template (as live text) | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ Improve — ours are currently trapped in images |
+| Problem statement vs. opportunity vs. business case | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ Go deeper — only C4 covers it, and thinly |
+| Common mistakes / what to avoid | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ Go deeper — only C2 covers it |
+| How to validate / pressure-test the statement | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ **GAP** — flagged as missing on C2, C3 and C5 |
+| Where it fits in a business plan | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ **GAP** + Upmetrics product value |
+| FAQ section | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ **UNIQUE EDGE** — no competitor has one |
+| Cited statistics from named sources | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ Improve |
 
 ### UGC Insights — Reddit & Quora
 
@@ -313,81 +290,82 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 ### A. Competitor Visual Benchmark
 
+**Intent-matched competitor average:**
+
 | Visual Type | Competitor Avg | Our Minimum Target |
 |------------|---------------|-------------------|
-| Images | ~2.8 | 6 |
-| Tables | ~0.3 | 3 |
-| Videos | 0.2 (1 of 6) | — |
-| Infographics / diagrams | ~0.8 (only d-eship) | 2 |
+| Images | 1.75 | 6 |
+| Tables | 0.25 | 3 |
+| Videos | 0.25 | — |
+| Infographics | 0.5 | 1 |
 
-**This is the weakest dimension across the entire SERP.** BetterUp writes 3,200 words and illustrates them with two stock photos of people in offices. Antler uses six stock photos and zero diagrams. The existing Upmetrics page already has three custom infographics — that is an existing advantage to preserve and refresh, not discard.
+The visual bar in this SERP is remarkably low. BetterUp ranks #3 with two stock photos and no diagrams. Indeed has one Getty stock image. 8base has a hero image and a wall of compliance badges. Only d-eship has real diagrams — and it is the only competitor with a genuine framework visual.
 
 **Required visuals (informed by competitor analysis):**
 
-1. **Type:** Comparison table
-   - **Description:** The 5 parts of a business problem statement — one row per part, columns for *Part* / *What it answers* / *Example sentence*
+1. **Type:** Diagram / infographic
+   - **Description:** The 5 parts of a business problem statement as a labelled stacked diagram — ideal state, current reality, quantified gap, who it affects, proposed direction — with a one-line example inside each block.
    - **Placement:** Under H2 "The 5 parts of a business problem statement"
-   - **Competitor insight:** Four competitors teach a parts breakdown and all four disagree on the count. None presents it as a table. This is the AI Overview and PAA target.
+   - **Competitor insight:** Only d-eship has a framework diagram, and it is a six-block canvas built for startups. A clean five-part visual built for general business is unoccupied ground and is the most linkable asset on the page.
 
-2. **Type:** Annotated diagram / infographic
-   - **Description:** Refresh the existing "how to write a business problem statement" infographic to 6 steps, matching the new outline
-   - **Placement:** Under H2 "How to write a business problem statement in 6 steps"
-   - **Competitor insight:** Only d-eship has a real framework diagram, and it is 5 years old
+2. **Type:** Comparison table
+   - **Description:** Problem statement vs. opportunity statement vs. business case vs. project charter — rows for purpose, when to use, length, who reads it, and what it must contain.
+   - **Placement:** Under H2 "Problem statement vs. opportunity statement vs. business case"
+   - **Competitor insight:** Zero competitors have a comparison table anywhere. Jeff Gothelf covers two of these four documents in prose only.
 
-3. **Type:** Before/after comparison
-   - **Description:** A weak problem statement beside its rewritten version, with callouts marking what changed (vague → quantified, symptom → root cause, solution-led → problem-led)
-   - **Placement:** Under H2 "Mistakes that make a problem statement useless"
-   - **Competitor insight:** Zero competitors show a rewrite. This is the most shareable asset in the article.
+3. **Type:** Before/after text callout
+   - **Description:** A weak problem statement rewritten into a strong one, with the changes highlighted.
+   - **Placement:** Under H2 "6 mistakes that weaken a business problem statement"
+   - **Competitor insight:** d-eship's single most effective device is exactly this ("People have a huge problem with traffic in São Paulo" rewritten into a specific, quantified statement). Borrow the technique, not the example.
 
-4. **Type:** Placement map / annotated screenshot
-   - **Description:** The same problem statement shown three ways — as a business plan paragraph, as a pitch deck slide, as an internal project brief
-   - **Placement:** Under H2 "Where the problem statement goes in your business plan and pitch deck"
-   - **Competitor insight:** No competitor covers this at all
+4. **Type:** Checklist graphic
+   - **Description:** The pressure-test checklist as a visual pass/fail card the reader can screenshot.
+   - **Placement:** Under H2 "How to pressure-test your problem statement"
 
-5. **Type:** Annotated slide screenshot
-   - **Description:** A real problem slide pulled from the Upmetrics pitch-deck teardown library, with callouts
-   - **Placement:** Under H2 "Where the problem statement goes in your business plan and pitch deck"
+5. **Type:** Product screenshot
+   - **Description:** Upmetrics editor showing where the problem lives inside a business plan document.
+   - **Placement:** Under H2 "Where the problem statement fits in your business plan"
 
-6. **Type:** Template graphic
-   - **Description:** The three copyable template formats rendered as clean fill-in-the-blank cards
-   - **Placement:** Under H2 "Business problem statement templates you can copy"
+6. **Type:** Template cards (×3, as live text with light styling)
+   - **Description:** The three fill-in templates. **These must be real selectable text, not images.**
+   - **Placement:** Under H2 "Free business problem statement templates"
 
 **Sections where competitors have visuals but we don't yet:**
-- H2 "7 business problem statement examples" — consider a light card treatment per example so the section skims well at 580 words
+- None — the competitor visual standard is below what this brief already specifies.
+
+**⚠️ Critical fix carried over from the existing page:** Templates 2 and 3 on the current article exist **only as images**. Google cannot read them, AI Overview cannot cite them, and the reader cannot copy them. Every template in the rewrite must be live HTML text. This is the highest-value technical fix on the page.
 
 **Image alt text guidelines:**
 - Include primary or secondary keyword naturally
 - Be descriptive of the actual image content
 - Keep under 125 characters
 
-**Featured image suggestion:** A clean, flat-illustration split frame — a vague scribbled note on the left, a structured quantified statement on the right. Avoid generic office stock photography; that is exactly what every competitor uses.
+**Featured image suggestion:** A clean flat-illustration of a filled-in problem statement document with the five component parts colour-coded and labelled — readable as a thumbnail, and useful as the image-thumbnail SERP feature present on this keyword.
 
 ### B. Scannable Content Elements
 
 **Competitor Scannability Audit:**
 
-| Element | C1 BetterUp | C2 Antler | C3 d-eship | C4 Indeed | C5 8base | C6 Gothelf |
-|---------|----|----|----|----|-----|-----|
-| TL;DR / summary box | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
-| Key takeaway callouts | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
-| Quick answer under H2s | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
-| Comparison tables | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| Pro/con boxes | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
-| Step summaries | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ |
+| Element | C1 Scrum | C2 BetterUp | C3 d-eship | C4 Gothelf | C5 Indeed | C6 8base |
+|---------|----|----|----|----|----|----|
+| TL;DR / summary box | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Key takeaway callouts | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ |
+| Quick answer under H2s | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ |
+| Comparison tables | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Pro/con boxes | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Step summaries | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ |
 | Stat highlight callouts | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | Checklists | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-**Competitors using scannable elements:** 4 of 6 use at least three. **Zero of six include a checklist.**
+**Competitors using scannable elements:** 4 of 6, and none use more than 3 element types. **No competitor has a TL;DR box, a pro/con box, or a checklist.**
 
 **Recommended Scannable Elements For This Article:**
 
-1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: immediately after the intro — Content: a 40–55 word definition plus a one-line pointer to the examples section. This is the AI Overview and featured-snippet target.
-2. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "What is a business problem statement?", "The 5 parts of a business problem statement", "Problem statement vs opportunity statement vs business case"
-3. 📊 **Comparison Table** — Include: **Yes** — Placement: under "The 5 parts…" and under "Problem statement vs opportunity statement vs business case"
-4. ✅ **Checklist Summary** — Include: **Yes** — Placement: end of "How to write a business problem statement in 6 steps" — Format: 8-point "is your problem statement ready?" checklist. **No competitor has one.**
-5. 📈 **Stat Highlight / Data Callout** — Include: **Yes** — Number: 2 — Placement: intro (CB Insights "no market need" failure stat) and "How to validate the problem…"
-
-> Selected 5 elements based on the competitor audit. Use WordPress built-in block options — no custom HTML or plugins.
+1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: immediately after the intro — Content: a 40-word definition plus a one-line filled template. This is the AI Overview bid: a self-contained, quotable answer at the top of the page. No competitor has one.
+2. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "What is a business problem statement", "The 5 parts of a business problem statement", "Problem statement vs. opportunity statement vs. business case". A 2–3 sentence direct answer immediately under the heading, before any expansion.
+3. ✅ **Checklist Summary** — Include: **Yes** — Placement: under "How to pressure-test your problem statement" — Format: 7 pass/fail statements the reader runs against their own draft.
+4. 📊 **Comparison Table** — Include: **Yes** — Placement: under "Problem statement vs. opportunity statement vs. business case" — Format: 4 document types × 5 attributes.
+5. 💡 **Key Takeaway Callout Boxes** — Include: **Yes** — Number: 4 — Placement: the 5 parts, the 6 steps, the examples section, and the mistakes section.
 
 ---
 
@@ -395,28 +373,26 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 | Field | Value |
 |-------|-------|
-| Featured Snippet Present | No classic featured snippet — **an AI Overview occupies the top slot instead** |
-| Current AI Overview citations | [Scrum.org](https://www.scrum.org/resources/business-problem-statement-examples), [Antler](https://www.antler.co/blog/how-to-write-a-problem-statement), and a YouTube BA-training video |
-| Snippet Format | Paragraph (AI Overview synthesis) |
+| Featured Snippet Present | No classic featured snippet — but an **AI Overview occupies position 1** |
+| Current Holder | AI Overview, citing [Scrum.org](https://www.scrum.org/resources/business-problem-statement-examples), [Antler](https://www.antler.co/blog/how-to-write-a-problem-statement) and a YouTube video as sitelinks |
+| Snippet Format | AI Overview paragraph with sitelink citations |
 
-**This is the most important section in the brief.** The page currently ranks 9–10 with 167 impressions and zero clicks. An AI Overview sitting above every organic result is the most likely explanation. You do not beat an AI Overview by ranking higher — you beat it by becoming one of the pages it cites, and by giving searchers a reason to click through anyway.
+**To capture the snippet:**
 
-**To get cited by the AI Overview:**
-- Open H2 "What is a business problem statement?" with a **standalone 40–55 word definition** in a single paragraph, no preamble, no "in today's business environment." It must make complete sense lifted out of context.
-- Under "The 5 parts of a business problem statement," lead with a clean table. Tables are disproportionately extracted.
-- Keep each of the 6 steps' opening sentence self-contained and declarative.
+There is no paragraph snippet to win here — the AI Overview has replaced it. The objective changes from "hold the snippet box" to "become one of the cited sources inside the AI Overview." That requires:
 
-**To earn the click even when the AI Overview answers the question:**
-- Promise something an AI Overview cannot deliver: **7 worked examples with real numbers, and copyable templates.** Put both in the meta title.
-- This directly addresses the 2.7% CTR at position 2 for "business problem statement template" — the current snippet does not promise a template.
+- A **self-contained 40–60 word definition** in the first paragraph under H2: "What is a business problem statement" — no pronouns referring back to earlier text, no "as we saw above". It must make complete sense read in isolation.
+- A **numbered list of exactly 5 parts** directly under H2: "The 5 parts of a business problem statement", each item beginning with a bolded noun phrase. Lists are disproportionately favoured for AI Overview extraction.
+- **Live-text templates.** AI Overview cannot cite an image. This is why the current page is invisible to it despite ranking 9.72.
+- Target question for the definition block: *"What is a problem statement for a business?"*
 
 **PAA (People Also Ask) Targets:**
-- *What is an example of a business problem statement?* → Answered in H2 "7 business problem statement examples" — lead the section with one complete example before any framing text
-- *What is a problem statement for a business?* → Answered in H2 "What is a business problem statement?" — paragraph format
-- *What are the 5 parts of a problem statement?* → Answered in H2 "The 5 parts of a business problem statement" — table format
-- *What is a problem statement example?* → Answered in H2 "7 business problem statement examples" — paragraph + example
+- *What is an example of a business problem statement?* → Answer format: one complete example statement in the first 100 words of the examples H2, before any sub-headings
+- *What is a problem statement for a business?* → Answer format: paragraph, 40–60 words, directly under the definition H2
+- *What are the 5 parts of a problem statement?* → Answer format: numbered list of 5, directly under the components H2
+- *What is a problem statement example?* → Answer format: paragraph plus one inline example
 
-> **Note:** All four live PAA questions are answered by main H2 sections, not the FAQ. This is intentional — they are core intent, not tangential. The FAQ section (Section 4 of the .docx outline) therefore contains seven entirely different questions sourced from keyword data, competitor gaps, and the existing page. No question appears in both places.
+> **Note:** These four PAA questions are answered **within** the relevant H2 sections for snippet capture. They are deliberately **excluded** from the FAQ section — the six FAQ questions come from Ahrefs keyword data and GSC queries instead, so no question is answered twice.
 
 ---
 
@@ -426,22 +402,22 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 | Option | Title | Characters |
 |--------|-------|-----------|
-| **Primary** | Business Problem Statement: 7 Examples + Free Template | 54 |
-| Alt 1 | Business Problem Statement Examples & Template (2026) | 52 |
-| Alt 2 | How to Write a Business Problem Statement + Examples | 52 |
+| **Primary** | Business Problem Statement: 9 Examples + Templates | 50 chars |
+| Alt 1 | Business Problem Statement Examples and Free Templates | 54 chars |
+| Alt 2 | How to Write a Business Problem Statement (+ 9 Examples) | 56 chars |
 
-**Rules applied:** ✓ Primary keyword at front ✓ Under 60 characters ✓ Includes a number and a value promise ✓ Matches search intent
-
-> **Why the number and "Free Template" matter:** the page ranks **position 2** for "business problem statement template" and converts 2.7%. The current title makes no template promise. Adding it is the single highest-leverage change in this brief.
+**Rules applied:** ✓ Primary keyword front-loaded ✓ Under 60 characters ✓ Includes a number ✓ Matches search intent (examples-led)
 
 ### Meta Description
 
 | Option | Description | Characters |
 |--------|------------|-----------|
-| **Primary** | See 7 business problem statement examples with real numbers, a 5-part template you can copy, and exactly where the statement belongs in your business plan. | 152 |
-| Alt | Learn how to write a business problem statement in 6 steps, with 7 real examples, copyable templates, and a checklist to test yours before you share it. | 150 |
+| **Primary** | See 9 real business problem statement examples across industries, plus free fill-in templates and the 5 parts every statement needs. | 132 chars |
+| Alt | Learn what a business problem statement is, what to include, and how to write one — with 9 industry examples and 3 free templates. | 130 chars |
 
-**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Leads with the value proposition ✓ Matches search intent
+**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Leads with the differentiator (9 examples) ✓ Matches search intent
+
+> **CTR note:** the existing page earns 0 clicks from 167 impressions at position 9.72. The meta title and description are doing none of the work. Leading with "9 Examples + Templates" gives the reader a concrete reason to click past an AI Overview that has already given them the definition.
 
 ---
 
@@ -449,73 +425,74 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 ### Internal Links TO existing Upmetrics pages (from this new article)
 
-> Ranked by topical relevance. Only one candidate appears in the site's GSC top-50 pages, so click data is shown where available and marked "—" otherwise.
-
 | # | Page | GSC Clicks (90d) | GSC Position | Anchor Text | Place In Section | Context |
 |---|------|-----------------|-------------|-------------|-----------------|---------|
-| 1 | [4 Proven Techniques for Business Problem Solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) | — | not in top 50 | "start solving it" | H2: Mistakes that make a problem statement useless | Final paragraph, after the point that a problem statement defines rather than solves — link forward as the natural next step |
-| 2 | [Lean Canvas vs Business Model Canvas](https://upmetrics.co/blog/lean-canvas-vs-business-model-canvas) | — | ~10–12 | "the Problem box on a Lean Canvas" | H2: Where the problem statement goes in your business plan and pitch deck | In the paragraph introducing one-page formats, immediately after first mentioning Lean Canvas |
-| 3 | [Lean Canvas template](https://upmetrics.co/strategic-planning-templates/lean-canvas) | — | ~16 | "free Lean Canvas template" | H2: Where the problem statement goes in your business plan and pitch deck | Same paragraph as #2, one sentence later — pair the explainer with the tool |
-| 4 | [What Investors Want to See in Pitch Decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | — | not in top 50 | "what investors look for" | H2: Where the problem statement goes in your business plan and pitch deck | In the pitch deck sub-paragraph, right after stating the problem slide is usually slide 2 |
-| 5 | [OpenAI Pitch Deck: Full Slide Review](https://upmetrics.co/pitch-deck-examples/openai) | **534** | 6.5 | "how OpenAI framed its problem slide" | H2: Where the problem statement goes in your business plan and pitch deck | Directly beneath the annotated slide screenshot — strongest page in this list, link it prominently |
-| 6 | [Why Is Market Research Important for Your Business?](https://upmetrics.co/blog/why-is-market-research-important) | — | not in top 50 | "market research" | H2: How to validate the problem before you build a business around it | First paragraph, on the first mention of talking to real customers |
-| 7 | [Types of Market Research](https://upmetrics.co/blog/types-of-market-research) | — | not in top 50 | "which research method to use" | H2: How to validate the problem before you build a business around it | In the H3 "What to do when you have no data yet" — as the practical how-to |
-| 8 | [How to Write a One-Page Business Plan](https://upmetrics.co/blog/one-page-business-plan) | — | not in top 50 | "one-page business plan" | H2: Where the problem statement goes in your business plan and pitch deck | Opening paragraph, when contrasting full plans with condensed formats |
-| 9 | [Internal Business Plan: What to Include](https://upmetrics.co/blog/internal-business-plan) | — | not in top 50 | "internal business plan" | H2: 7 business problem statement examples → H3 Internal operations examples | Intro line of the H3, framing why internal problem statements read differently |
+| 1 | [4 Proven Techniques for Effective Business Problem Solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) | <162 (below top-50) | 19–75 | "business problem solving techniques" | H2: How to write a business problem statement in 6 steps | In Step 2 (find the root cause), after introducing the 5 Whys. **This link also resolves a cannibalization risk — see the note below.** |
+| 2 | [5 Top Brands SWOT Analysis Examples](https://upmetrics.co/blog/5-top-brands-swot-analysis-examples) | 656 | 8.49 | "SWOT analysis" | H2: How to write a business problem statement in 6 steps | In Step 1 (identify the problem), in the sentence about surfacing problems you haven't named yet. Strongest page on the site by clicks — link to it early. |
+| 3 | [Types of Market Research: A Practical Guide for Business Owners](https://upmetrics.co/blog/types-of-market-research) | <162 | — | "market research" | H2: How to write a business problem statement in 6 steps | In Step 3 (gather evidence), after the sentence about collecting data to quantify the gap. |
+| 4 | [Why is Market Research Important for Your Business?](https://upmetrics.co/blog/why-is-market-research-important) | <162 | — | "validate the problem with real customers" | H2: How to pressure-test your problem statement | In the paragraph on confirming the problem exists outside your own assumptions. |
+| 5 | [Lean Canvas vs Business Model Canvas: Which to Choose?](https://upmetrics.co/blog/lean-canvas-vs-business-model-canvas) | <162 | — | "canvas frameworks" | H2: Problem statement vs. opportunity statement vs. business case | In the paragraph noting that most canvas frameworks open with a problem block. |
+| 6 | [How to Write a One-Page Business Plan + Template](https://upmetrics.co/blog/one-page-business-plan) | <162 | — | "one-page business plan" | H2: Where the problem statement fits in your business plan | In the paragraph about short-form plans, where the problem statement carries the most weight per word. |
+| 7 | [What Lenders & Investors Look for in a Business Plan](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) | <162 | — | "what lenders and investors look for" | H2: Where the problem statement fits in your business plan | After the sentence about investor-facing problem statements. |
+| 8 | [12 Cash Flow Problems Every Business Faces](https://upmetrics.co/blog/cash-flow-problems) | <162 | — | "cash flow problems" | H2: 9 business problem statement examples | Inside the retail or restaurant example, where the quantified impact is a cash figure. |
+| 9 | [Business Contingency Plan: Step-by-Step Guide](https://upmetrics.co/blog/business-contingency-plan) | <162 | — | "contingency plan" | H2: 6 mistakes that weaken a business problem statement | In the mistake about writing the solution into the problem. |
 
-**Sales/product page count: 0 of 9.** Every link is educational content or a free template. This is deliberate — the SERP is 100% informational and mid-article product pitches are 8base's mistake.
+> **Context column:** the writer must place each link exactly where indicated. "H2: Section Title" alone is not enough.
 
-> ⚠️ [Problem Statement download](https://upmetrics.co/download/problem-statement) and the [.docx template](https://templates.upmetrics.co/wp-content/uploads/2022/07/problem-statement-templates.docx) belong in the **template section and end-of-article CTA slot**, not as inline body links.
+> **Note on page-type mix:** a WordPress search of `post_type: page` for "problem statement" returned no topically relevant product or feature pages, so all nine links are blog posts. Zero sales/product pages are used inline — comfortably under the cap of 2. Product exposure comes from the CTA slots below instead.
+
+**CTA slots (not inline body links):**
+- [Problem Statement Template — free download](https://upmetrics.co/download/problem-statement) — place as the download CTA in the templates section
+- [AI Business Plan Generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) — place as the closing CTA
 
 ### Internal Links FROM existing pages back to this new article
 
 | # | Page | Where to Add Link | Suggested Sentence |
 |---|------|------------------|-------------------|
-| 1 | [4 Proven Techniques for Business Problem Solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) | Intro, first or second paragraph | "Before you can solve a problem, you have to define it — here's [how to write a business problem statement →]" |
-| 2 | [Lean Canvas vs Business Model Canvas](https://upmetrics.co/blog/lean-canvas-vs-business-model-canvas) | In the section describing the Lean Canvas Problem box | "The Problem box works best when it's backed by a proper [business problem statement →]" |
-| 3 | [What Investors Want to See in Pitch Decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | In the problem-slide section | "A weak problem slide usually means a weak underlying [problem statement →]" |
-| 4 | [How to Write a One-Page Business Plan](https://upmetrics.co/blog/one-page-business-plan) | In the problem/solution section | "Condensing the problem into two sentences is easier once you've written the full [business problem statement →]" |
+| 1 | [4 Proven Techniques for Effective Business Problem Solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) | Early, in the section on defining the problem | "Before you can solve a problem, you have to state it clearly — here's how to write a business problem statement →" |
+| 2 | [How to Write a One-Page Business Plan + Template](https://upmetrics.co/blog/one-page-business-plan) | In the section covering the problem or opportunity block | "Not sure how to phrase it? See 9 business problem statement examples →" |
+| 3 | [What Lenders & Investors Look for in a Business Plan](https://upmetrics.co/blog/what-lenders-look-for-in-business-plan) | In the paragraph about articulating the market problem | "Investors judge how sharply you define the problem — see how to write a business problem statement →" |
+| 4 | [Business Contingency Plan: Step-by-Step Guide](https://upmetrics.co/blog/business-contingency-plan) | In the risk-identification section | "Each risk you identify can be framed as a problem statement →" |
 
-> ⚠️ **Cannibalization note:** [4 Proven Techniques for Business Problem Solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) currently picks up impressions for "business problem" and "business problem analysis" queries at positions 30–80. It should stay focused on **solving**; this article owns **defining**. Keep anchor text from the solving article strictly on definition language, and do not let this new article drift into problem-solving frameworks.
+**Hub/Pillar page:** [How to Write a One-Page Business Plan](https://upmetrics.co/blog/one-page-business-plan) — this article serves as a supporting spoke to the business planning cluster.
 
-**Hub/Pillar page:** This article is a **spoke** supporting the business planning pillar. Its most natural parents are the business plan writing cluster and the Lean Canvas cluster.
+### ⚠️ Cannibalization to resolve during this rewrite
+
+[/blog/4-proven-techniques-for-effective-business-problem-solving](https://upmetrics.co/blog/4-proven-techniques-for-effective-business-problem-solving) currently competes with the target page on **business problem analysis** (pos 32.14), **business problem and solution** (pos 19.89) and **business problem definition** (pos 75.5) — all queries the rewritten page should own.
+
+**Action:** keep the problem-solving article focused on *solving* (techniques, root cause methods, decision-making) and strip any definitional "what is a business problem" framing from it. Add link #1 above so it feeds the rewritten page rather than competing with it. Do not let the rewrite drift into problem-solving *techniques* beyond a single reference in Step 2.
 
 ### External Sources to Cite
 
 | # | Source | URL | What to Reference |
 |---|--------|-----|------------------|
-| 1 | CB Insights — Startup Failure Post-Mortems | [CB Insights](https://www.cbinsights.com/research/report/startup-failure-reasons-top/) | "No market need" ranks as the most common startup failure reason — use in the intro as the argument for why this document matters, and again in the validation section |
-| 2 | U.S. Small Business Administration | [SBA.gov — Write your business plan](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan) | Official guidance on business plan structure — cite when explaining where the problem statement sits |
-| 3 | U.S. Bureau of Labor Statistics | [BLS Business Employment Dynamics](https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm) | Business survival rates — for the stat callout on why unvalidated problems are costly |
-| 4 | SCORE | [SCORE.org](https://www.score.org/) | Small business mentoring data — supporting stat in the validation section |
-| 5 | U.S. Census Bureau | [Business Formation Statistics](https://www.census.gov/econ/bfs/index.html) | New business application volume — optional context for the intro |
+| 1 | CB Insights — Top Reasons Startups Fail | [CB Insights](https://www.cbinsights.com/research/startup-failure-reasons-top/) | The share of startup post-mortems citing "no market need" as a failure cause — the strongest argument for defining the problem before the solution. **Verify the current figure on the live page before publishing.** |
+| 2 | Harvard Business Review — "Are You Solving the Right Problem?" | [HBR](https://hbr.org/2012/09/are-you-solving-the-right-problem) | Problem framing and diagnosis as a discipline. Lifts EEAT above every competitor — none cite a business-school source. |
+| 3 | U.S. Small Business Administration | [SBA.gov](https://www.sba.gov/business-guide/plan-your-business/write-your-business-plan) | Where the problem sits inside an official business plan structure — use in the business plan section. |
+| 4 | U.S. Bureau of Labor Statistics — Business Employment Dynamics | [BLS](https://www.bls.gov/bdm/entrepreneurship/entrepreneurship.htm) | Business survival rates, to quantify the cost of misdiagnosing a problem. **Verify current figures before publishing.** |
+| 5 | SCORE | [SCORE.org](https://www.score.org/) | Small business mentoring guidance on problem definition. |
 
 **Preferred source types:** .gov, .edu, SBA.gov, US Census, established US industry publications.
 
 > ⚠️ **NEVER link to direct competitors:** liveplan.com, bizplan.com, enloop.com, planguru.com, growthink.com, bplans.com, planful.com, planbuilr.com, bizplanr.com
 
+> ⚠️ **Verify every statistic against the live source before publishing.** Two competitors were caught with unsourced or stale numbers (8base's "somewhere between 30% to 90%", d-eship's 2021 unicorn count). Do not repeat that mistake — it is one of the few genuine EEAT advantages available on this keyword.
+
 ### Linkable Asset Opportunities
 
 **🔗 Linkable Asset 1:**
-- **Section:** H2: The 5 parts of a business problem statement
-- **Type:** Reference table / definitive answer
-- **Description:** A single table reconciling the conflicting component counts across the top-ranking guides (Indeed's 4 elements, BetterUp's 5 Ws, Antler's 7 questions, d-eship's 7 canvas boxes) into one canonical 5-part structure
-- **Why it's linkable:** There is an active PAA box asking "What are the 5 parts of a problem statement?" and the ranking pages contradict each other. A clear reconciling table becomes the reference people cite.
-- **Writer instruction:** Build this as a standalone table that makes sense screenshotted out of context. Name the sources you are reconciling.
+- **Section:** H2: 9 business problem statement examples
+- **Type:** Reference library
+- **Description:** Nine worked problem statements across SaaS, restaurant, e-commerce, retail, healthcare, manufacturing, professional services, nonprofit and pre-funding startup — each with a short "why this works" annotation
+- **Why it's linkable:** The most examples of any page on this SERP is currently 4, all famous brands. An industry-organized library is the kind of page other blogs, course pages and templates cite when they need a reference.
+- **Writer instruction:** Write this section so it stands alone. Someone should be able to link directly to it with an anchor and land on something immediately useful. Give each example an `id` anchor.
 
 **🔗 Linkable Asset 2:**
-- **Section:** H2: Where the problem statement goes in your business plan and pitch deck
-- **Type:** Unique framework
-- **Description:** A placement map showing one problem statement rewritten three ways — business plan paragraph, pitch deck slide, internal project brief
-- **Why it's linkable:** Zero of six analyzed competitors cover placement. This is genuinely new information on this SERP.
-- **Writer instruction:** Use the *same* underlying problem across all three so the reader sees exactly what changes between formats.
-
-**🔗 Linkable Asset 3:**
-- **Section:** H2: How to write a business problem statement in 6 steps
-- **Type:** Free tool / checklist
-- **Description:** An 8-point "is your problem statement ready?" checklist
-- **Why it's linkable:** No competitor has a checklist of any kind
-- **Writer instruction:** Make it copy-pasteable and self-contained
+- **Section:** H2: The 5 parts of a business problem statement
+- **Type:** Original framework diagram
+- **Description:** A five-part labelled diagram with a live example inside each block
+- **Why it's linkable:** Competitors disagree on the component count — Indeed says 4, BetterUp says 5, d-eship says 6. A single clear visual that resolves the confusion becomes the reference image people embed and credit.
+- **Writer instruction:** Brief the designer for a standalone graphic that reads correctly with no surrounding text.
 
 ---
 
@@ -523,36 +500,37 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 
 | Field | Value |
 |-------|-------|
-| YMYL Classification | **YMYL-adjacent** — it feeds business plans used for lending and investment decisions, but the article itself gives no financial, legal, or investment advice |
+| YMYL Classification | YMYL-adjacent — business/financial decision-making, but not direct financial, legal or health advice |
 | EEAT Priority | Medium-High |
 
 **Author requirements:**
-- Recommended profile: An entrepreneur, business consultant, or business planning specialist who has written or reviewed real business plans and pitch decks
-- Author bio should mention: hands-on experience writing business plans or working with founders on funding documents
+- Recommended profile: business consultant, MBA, or founder with hands-on business planning experience
+- Author bio should mention: direct experience writing business plans, business cases, or investor documents
 - Byline visible: Yes — with photo, name, title, and 1–2 sentence bio
 
+> This is a genuine competitive opening. BetterUp's author is a creative-writing graduate with no stated business background, and Indeed's author has no bio at all. A credentialed byline is cheap to add and immediately outranks four of six competitors on author trust.
+
 **Experience signals (add to these sections):**
-- H2: 7 business problem statement examples — Write examples that read as though drawn from real businesses, with plausible, specific figures. Do not invent citations for them; present them as illustrative scenarios.
-- H2: Where the problem statement goes in your business plan and pitch deck — Reference a real problem slide from the Upmetrics pitch-deck teardown library
-- H2: Mistakes that make a problem statement useless — Show a genuine before/after rewrite
+- H2: 9 business problem statement examples — write the examples as if drawn from real client work, with realistic numbers rather than round placeholders. "Table turnover dropped from 3.2 to 2.4 per night" beats "turnover decreased significantly."
+- H2: 6 mistakes that weaken a business problem statement — frame at least two mistakes as errors commonly seen in real submitted plans
 
 **Expertise signals (add to these sections):**
-- H2: What is a business problem statement? — Cite SBA.gov for how the problem fits standard business plan structure
-- H2: How to validate the problem before you build a business around it — Cite CB Insights startup failure research
-- H2: The 5 parts of a business problem statement — Name the frameworks being reconciled, which demonstrates command of the literature
+- H2: What is a business problem statement — cite Harvard Business Review on problem framing
+- H2: How to pressure-test your problem statement — reference CB Insights data on "no market need"
+- H2: Where the problem statement fits in your business plan — reference the SBA business plan structure
 
 **Trust signals:**
-- CB Insights → use in intro stat callout and H2 "How to validate the problem…"
-- SBA.gov → use in H2 "Where the problem statement goes in your business plan and pitch deck"
-- BLS / Census → use in the intro stat callout
-- SCORE.org → use in H2 "How to validate the problem…"
+- SBA.gov → use in H2: Where the problem statement fits in your business plan
+- Harvard Business Review → use in H2: What is a business problem statement
+- CB Insights → use in H2: How to pressure-test your problem statement
+- BLS / U.S. Census → use in H2: 9 business problem statement examples, for industry context figures
 
 **Competitor EEAT comparison:**
-- **4 of 6** competitors have visible named author bios (BetterUp, Indeed, d-eship, Gothelf). Antler and 8base use company bylines only.
-- **2 of 6** cite authoritative external sources (BetterUp cites CDC.gov; d-eship cites CB Insights, MIT/Bill Aulet, Dan Ariely, Eric von Hippel)
-- **0 of 6** include original data
-- **0 of 6** have an FAQ section
-- **Our EEAT advantage:** a named author with real business planning experience, government and research citations, three custom visuals, a reconciling reference table, and the only FAQ on the SERP.
+- 4 of 6 competitors have a visible author name; only 2 of 6 state any credentials
+- 2 of 6 competitors cite authoritative external sources (d-eship, Jeff Gothelf)
+- 0 of 6 competitors include original data
+- 0 of 6 competitors have an FAQ section
+- Our EEAT advantage: a credentialed byline, five cited sources including .gov and HBR, nine original worked examples, and the only FAQ section on the SERP
 
 ### Content Freshness & Maintenance
 
@@ -561,37 +539,51 @@ These are queries where Upmetrics already earns impressions. **Every one of them
 | Signal | Value |
 |--------|-------|
 | Competitors using year in title | 0 of 6 |
-| Competitors with "last updated" | 6 of 6 show a date, but 4 of 6 are 2+ years old |
-| Oldest ranking competitor | d-eship — May 2021, still at position 5 |
+| Competitors with "last updated" | 1 of 6 (Indeed — and its date appears to be a data error) |
 | Time-sensitive data in SERP results | No |
 
 **Freshness strategy for this article:**
-- Include year in title: **No** for the H1 — the topic is evergreen and no competitor does it. **Optional for the meta title** (Alt 1 carries "2026") — worth an A/B look given a stale SERP, but not the primary recommendation.
-- Include year in meta desc: No
-- Show "last updated" date: **Yes** — with four competitors 2+ years stale, a visible recent date is a cheap, real advantage
+- Include year in title: **No** — zero competitors do, the topic is evergreen, and a year in the title would date the page unnecessarily
+- Include year in meta desc: **No**
+- Show "last updated" date: **Yes** — the current page already shows "Updated July 2, 2026"; keep the pattern and refresh the date on republish
 
 **Sections containing time-sensitive content:**
-- H2: How to validate the problem before you build a business around it — contains: CB Insights failure statistics — Update trigger: when CB Insights publishes a new post-mortem report
-- H2: Where the problem statement goes in your business plan and pitch deck — contains: references to specific pitch deck teardowns — Update trigger: if those teardown pages are restructured or retired
+- H2: How to pressure-test your problem statement — contains CB Insights failure-cause data — Update trigger: when CB Insights publishes a new post-mortem report
+- H2: 9 business problem statement examples — contains industry benchmark figures — Update trigger: annually, to keep example numbers plausible
 
 **Recommended review schedule:**
 
 | Field | Value |
 |-------|-------|
-| SERP Volatility | **Low** — 4 of 6 ranking pages have not been updated in 2+ years and one has held position 5 since 2021 |
-| First Review | **3 months from publish** |
-| Reason | Not because the SERP moves, but because this is a refresh of an underperforming page. Check at 3 months whether CTR on "business problem statement" and "business problem statement template" has actually improved — those two queries are the entire success metric for this rewrite. |
+| SERP Volatility | Low — the newest competitor page is from September 2024, three are from 2021–2023 |
+| First Review | 6 months from publish |
+| Reason | Low volatility and an evergreen topic, but the page currently converts 0% of 167 impressions. Six months gives enough data to confirm whether the rewrite fixed the click problem, without waiting a full year on a page that is currently earning nothing. |
 
 ---
 
-## Success Metrics for This Refresh
+## Appendix: Writing Tone & Banned Terms
 
-Because this is a rewrite rather than a new page, judge it against the current baseline, not against zero:
+**Tone:** Direct, practical, second person. The reader has a deadline and a blank document. Every section should move them closer to a finished problem statement they can paste into their own work.
 
-| Metric | Baseline (90d, pre-refresh) | Target (90d, post-refresh) |
-|--------|------------------|--------------------|
-| Clicks — "business problem statement" | 0 (167 impressions, pos 9.7) | 8+ |
-| CTR — "business problem statement template" | 2.7% (pos 2.0) | 12%+ |
-| Total clicks across all problem-statement queries | ~7 | 40+ |
-| Position — "business problem statement" | 9.7 | Top 5 |
-| Cited in AI Overview | No | Yes |
+**Banned AI terms — do not use:**
+
+unlock, unleash, harness, leverage (verb), elevate, delve, dive into, deep dive, navigate (metaphorical), landscape, realm, tapestry, beacon, game-changer, cutting-edge, state-of-the-art, next-level, seamless(ly), robust, holistic, empower, supercharge, revolutionize, transform (hyperbolic), journey (metaphorical), bustling, thriving, vibrant, comprehensive guide, ultimate guide, definitive guide (in body copy), moreover, furthermore, additionally, in essence, foster, facilitate, streamline (filler), myriad, plethora, multifaceted, pivotal, paramount, indispensable, crucial/essential (empty emphasis), firstly/secondly/lastly, ensuring, utilizing, noteworthy, remarkably, undoubtedly, rest assured, with that said, key takeaways, actionable insights, in today's [X] world, it's important to note, it's worth mentioning, when it comes to, in the world of, look no further, whether you're a...or a..., not just...but also, it goes without saying, take [X] to the next level, tailored to your needs, in conclusion, to sum up
+
+**Use instead:** plain verbs, specific nouns, real numbers, direct statements, conversational phrasing.
+
+---
+
+## Appendix: Ahrefs API Usage — This Session
+
+| Call | Units |
+|------|-------|
+| keywords-explorer-overview | 50 |
+| serp-overview | 320 |
+| keywords-explorer-related-terms | 220 |
+| keywords-explorer-matching-terms | 50 |
+| keywords-explorer-search-suggestions | 210 |
+| site-explorer-metrics | 50 |
+| site-explorer-domain-rating | 50 |
+| **Total** | **950 units** |
+
+Monthly budget: 150,000 units.

@@ -26,11 +26,11 @@
 | Recommended Slug | /business-growth-strategies |
 | Full URL Preview | [https://upmetrics.co/blog/business-growth-strategies](https://upmetrics.co/blog/business-growth-strategies) |
 | Content Format | Strategies guide (numbered list + Ansoff framework + decision tool) |
-| Target Word Count | 2,500 — 2,750 words |
-| Estimated Writing Time | 5–6 hours for first draft |
+| Target Word Count | 2,750 — 3,000 words |
+| Estimated Writing Time | 6–7 hours for first draft |
 | Reader Persona | SMB owner / founder (0–50 employees) past survival stage, looking to scale deliberately |
 
-**Word count rationale:** The 5 intent-matched competitors average **2,030 words** (median 2,100). We target **2,500–2,750** — above the field — because three sections no competitor includes (a decision framework, financial modeling / "run the numbers," and a mistakes-to-avoid section) add net-new value. We do NOT pad the table-stakes strategy sections; the extra length is entirely differentiation.
+**Word count rationale:** The 5 intent-matched competitors average **2,030 words** (median 2,100). We target **2,750–3,000** — deliberately above the field — because the article covers **12 organized strategies** (4 core Ansoff directions + 8 execution tactics) AND adds four sections no competitor includes: a decision framework, financial modeling / "run the numbers," a strategy-to-plan bridge, and a mistakes-to-avoid section. On a low-difficulty term (KD 22) this is our shot at owning the cluster with the most complete resource. The table-stakes strategy sections stay tight — the extra length is differentiation, not padding.
 
 ---
 
@@ -215,7 +215,7 @@ These queries already earn impressions on the soon-to-be-redirected old page at 
 |------|-------|
 | Intent-matched average | ~2,030 words |
 | Intent-matched median | ~2,100 words |
-| **Our target** | **2,500 — 2,750 words** |
+| **Our target** | **2,750 — 3,000 words** |
 
 > Note: Word counts are content body only — navigation, sidebars, footers, CTAs, author bios, and comments excluded.
 

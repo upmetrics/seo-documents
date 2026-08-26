@@ -3,7 +3,7 @@
 **Date:** 2026-08-26
 **Prepared by:** SEO Content Strategist (AI-Assisted)
 **Target Market:** United States
-**Content Format:** Stage-based checklist guide (Start → Operate → Grow)
+**Content Format:** Priority-tiered checklist guide (Legally required → Needed to operate → Can wait)
 **WordPress Post Type:** post
 
 ---
@@ -23,7 +23,7 @@
 | WordPress Post Type | post |
 | Recommended Slug | /blog/small-business-needs |
 | Full URL Preview | [https://upmetrics.co/blog/small-business-needs](https://upmetrics.co/blog/small-business-needs) |
-| Content Format | Stage-based checklist guide |
+| Content Format | Priority-tiered checklist guide |
 | Target Word Count | 3,200 — 3,800 words (aim 3,500) |
 | Estimated Writing Time | 7-8 hours for first draft |
 | Reader Persona | First-time US small business owner, 0-12 months in, idea validated or business just launched |
@@ -34,22 +34,22 @@
 
 ## 2. Why We'll Win
 
-- **Nobody in this SERP answers the actual question.** LivePlan covers only operating habits (cash, margins, mission) and skips registration, EIN, licences, insurance and bank accounts entirely. USA.gov and SBA are link directories. Yale is a 2017 policy op-ed. Pinnacle is ~500 words and references the Affordable Care Act "as it goes into effect." We will be the first page that covers start, operate **and** grow in one place.
+- **Nobody in this SERP answers the actual question.** LivePlan covers only operating habits (cash, margins, mission) and skips registration, EIN, licences, insurance and bank accounts entirely. USA.gov and SBA are link directories. Yale is a 2017 policy op-ed. Pinnacle is ~500 words and references the Affordable Care Act "as it goes into effect." We will be the first page that covers the legal, operating **and** growth needs in one place — and the only one that tells a reader which tier each need sits in.
 - **Real dollar figures on every requirement.** Zero competitors give a single cost. We publish a cost table covering LLC filing fees, EIN ($0), general liability, workers' comp, bookkeeping software, and business licences — with ranges and what drives them.
-- **A "legally required vs. nice to have" split.** Every competitor mixes legal obligations with best-practice advice, which is exactly what paralyses a first-time owner. We separate them in a table on the page.
-- **A 90-day order of operations.** No competitor sequences anything. Registration before EIN, EIN before bank account, bank account before payment processing — getting this order wrong costs weeks.
+- **Organised by whether you actually need it — and every need answered in one place.** Three tiers: legally required, needed to operate, can wait until you grow. Inside each tier every item follows the same four beats — what it is, whether it applies to *your* business, what it costs and how long it takes, and the mistake people make. Competitors blend legal obligations with opinion and scatter the answers across a page, which is exactly what paralyses a first-time owner.
+- **A "what to do first when time and money are tight" section.** No competitor sequences or prioritises anything. Registration before EIN, EIN before bank account, bank account before payment processing — getting this order wrong costs weeks, and knowing where a limited budget goes first is the whole reason this reader is searching.
 - **Seven FAQs from real query data, none of them PAA filler.** Competitors have zero FAQ sections between them.
 
 **Upmetrics assets to embed:**
-- [Free AI Business Plan Generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) — Place in: H2 "How Upmetrics helps you plan what you need"
-- [Cash Flow Forecasting](https://upmetrics.co/features/cash-flow-forecasting) — Place in: H2 "What you need to run a small business day to day"
+- [Free AI Business Plan Generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator) — Place in: H2 7 "How Upmetrics helps you plan what you need"
+- [Cash Flow Forecasting](https://upmetrics.co/features/cash-flow-forecasting) — Place in: H2 7 "How Upmetrics helps you plan what you need"
 - [Business Plan Template for Students](https://upmetrics.co/download/business-plan-template-for-students) — Place in: end-of-article CTA slot
-- Upmetrics startup-costs pages (e.g. [landscaping](https://upmetrics.co/startup-costs/landscaping)) — Place in: H2 "What it all costs"
+- Upmetrics startup-costs pages (e.g. [landscaping](https://upmetrics.co/startup-costs/landscaping)) — Place in: H2 5 "What to do first when time and money are tight"
 
 **Original value-adds competitors can't match:**
 - Downloadable "small business needs" checklist (PDF), split into required / recommended / optional
 - Cost table covering every requirement in the article, with what makes each number move
-- A 90-day sequencing timeline showing which steps block which
+- A dependency map showing which steps block which, paired with a budget-priority breakdown for a limited first spend
 
 **Expert / data angles:**
 - Federal Reserve Small Business Credit Survey for real financing-gap numbers
@@ -79,20 +79,37 @@
 
 > Note: percentages are of the 8 deduplicated organic results (Amazon's shopping page is the transactional result; Salesforce's productised listicle is the commercial one).
 
+**The three layers of intent behind this keyword:**
+
+This keyword is informational but strongly action-oriented. The reader is not looking for "a small business needs capital, customers, and employees" — they are looking for something they can execute this week. The query decomposes into three layers, and the outline is built so each one has a home:
+
+| Layer | What the reader wants | Where the outline answers it |
+|-------|----------------------|------------------------------|
+| **Primary — identify** | The essential things a small business needs | H2 1 "What every small business needs (the short list)" — numbered list plus a master table covering every need at a glance |
+| **Secondary — understand** | Why each one matters, and whether it applies to *their* business | H2s 2-4. Every H3 carries an explicit "does this apply to you?" beat — by state, by industry, by whether they have employees |
+| **Decision — prioritise** | What they need now, what can wait, where to spend limited time and money | The three-tier structure itself (legally required → needed to operate → can wait), plus H2 5 "What to do first when time and money are tight" |
+
+**The repeated section template.** Every H3 in H2s 2-4 follows the same four beats, in the same order:
+
+1. **What it is** — one sentence, no jargon
+2. **Does this apply to you?** — the qualifier: which states, which industries, which headcount
+3. **What it costs and how long it takes** — a range and a turnaround, both sourced
+4. **The mistake people make** — the specific error, and how to avoid it
+
+This is the fix for the biggest weakness on this SERP. On every competing page, a reader who wants to know whether they need insurance has to piece it together from three different places. Here, one need is answered once, completely, in one place.
+
 **How intent maps to our outline:**
 
 **Informational sections** (educate the reader):
-- H2: What a small business actually needs (the short answer) — direct list answer
-- H2: Required by law vs. nice to have — resolves the core confusion
-- H2: What you need to start a small business — legal, tax, banking, funding, insurance
-- H2: What you need to run a small business day to day — bookkeeping, cash, contracts, tools, customers
-- H2: What you need to grow a small business — projections, hiring, pricing, marketing
-- H2: Your first 90 days, in order
-- H2: What owners underestimate most
+- H2: What every small business needs (the short list) — the index and the snippet target
+- H2: What your small business legally needs — structure, EIN, licences, required insurance
+- H2: What your business needs to actually operate — banking, funding, bookkeeping, contracts, tools
+- H2: What can wait until you're growing — customers, projections, first hire
+- H2: What new owners underestimate — the things that only become urgent once missed
 
 **Commercial sections** (help the reader evaluate/compare):
-- H2: What it all costs — cost ranges by requirement
-- H2: Free help most owners never use — SBDC, SCORE, VBOC, Women's Business Centers
+- H2: What to do first when time and money are tight — cost and effort trade-offs, budget table
+- Free-help resource table inside H2 6 — SBDC, SCORE, VBOC, Women's Business Centers
 
 **Transactional sections** (convert the reader):
 - H2: How Upmetrics helps you plan what you need — plan + forecasting embed
@@ -255,8 +272,8 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 | Contracts & protective paperwork | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **GAP** |
 | Free support resources (SBDC/SCORE) | ✅ | ❌ | ❌ | ✅ | ❌ | — | ✅ Table stakes |
 | Real cost of each requirement | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **UNIQUE EDGE** |
-| Required by law vs. nice to have | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **UNIQUE EDGE** |
-| Order of operations / 90-day timeline | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **UNIQUE EDGE** |
+| Required vs. optional, made explicit | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **UNIQUE EDGE** |
+| Order of operations & budget priority | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **UNIQUE EDGE** |
 | What owners underestimate | ❌ | ⚠️ thin | ✅ | ❌ | ❌ | — | ✅ Go deeper |
 | Upmetrics planning section | — | — | — | — | — | — | ✅ Product value |
 
@@ -285,29 +302,33 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 
 **Required visuals (informed by competitor analysis):**
 
-1. **Type:** Table
-   - **Description:** "Required by law vs. recommended vs. optional" — three columns, every requirement in the article slotted into one
-   - **Placement:** Under H2 "Required by law vs. nice to have"
-   - **Competitor insight:** 0/5 competitors distinguish legal obligations from advice — this table *is* the differentiator
+1. **Type:** Master table — *the single most important asset on the page*
+   - **Description:** Every need in the article on one row each, four columns: `Need | Required by law? | Typical cost | When you need it`
+   - **Placement:** Under H2 "What every small business needs (the short list)", directly after the numbered list
+   - **Competitor insight:** 0/5 competitors distinguish legal obligations from advice and 0/5 publish a cost. This one table answers all three intent layers at a glance and is the reason someone bookmarks the page.
 
 2. **Type:** Table
-   - **Description:** Cost breakdown — requirement, typical cost range, what makes it more expensive, whether it recurs
-   - **Placement:** Under H2 "What it all costs"
-   - **Competitor insight:** 0/5 give a single dollar figure; Salesforce (non-intent) proves sourced figures earn the ranking
+   - **Description:** Budget breakdown — requirement, one-off or recurring, what drives the number up. Deeper than the master table: this is the "where do I spend limited money first" tool, not the index.
+   - **Placement:** Under H2 "What to do first when time and money are tight"
+   - **Competitor insight:** 0/5 give a single dollar figure; Salesforce (non-intent-matched) proves that sourced figures earn the ranking
 
-3. **Type:** Infographic / timeline
-   - **Description:** 90-day sequence showing which steps block which (register → EIN → bank account → payment processing)
-   - **Placement:** Under H2 "Your first 90 days, in order"
+3. **Type:** Diagram
+   - **Description:** Dependency chain showing what blocks what — entity → EIN → bank account → payment processing — with typical turnaround on each arrow
+   - **Placement:** Under H2 "What to do first when time and money are tight"
    - **Competitor insight:** 0/5 sequence anything
 
 4. **Type:** Checklist graphic
-   - **Description:** The full needs checklist as a downloadable, printable one-pager
-   - **Placement:** After H2 "What a small business actually needs" and again at the end
+   - **Description:** The full needs checklist as a downloadable, printable one-pager, grouped by the three tiers
+   - **Placement:** After H2 "What every small business needs (the short list)" and again at the end
    - **Competitor insight:** 0/5 offer a downloadable asset
 
-5. **Type:** Screenshot
-   - **Description:** Upmetrics cash flow forecast view, annotated with callouts
-   - **Placement:** Under H2 "What you need to run a small business day to day"
+5. **Type:** Comparison table
+   - **Description:** Business structures — sole proprietorship / LLC / S-corp / C-corp, with rows for liability, tax treatment, filing cost, paperwork burden
+   - **Placement:** Under H3 "A registered business structure" (inside H2 "What your small business legally needs")
+
+6. **Type:** Screenshot
+   - **Description:** Upmetrics cash flow forecast view, annotated with callouts on the runway figure and the month the balance dips
+   - **Placement:** Under H2 "How Upmetrics helps you plan what you need"
 
 **Sections where competitors have visuals but we don't yet:**
 - None — competitors are visually empty across the board. Every visual we add is net advantage.
@@ -338,12 +359,12 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 
 **Recommended Scannable Elements For This Article:**
 
-1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: right after the intro — Content: the full needs list in one scannable block, so a reader who came for the list gets it in 10 seconds
-2. 📊 **Comparison Table** — Include: **Yes** — Placement: under H2 "Required by law vs. nice to have" — Format: Requirement | Legally required? | Applies to whom | Consequence of skipping
-3. ✅ **Checklist Summary** — Include: **Yes** — Placement: end of each stage H2 (start / operate / grow) — Format: tick-box list repeating that stage's items
-4. 💡 **Key Takeaway Callout Boxes** — Include: **Yes** — Number: 5 — Placement: one per stage H2 plus costs and 90-day sections
-5. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "What a small business actually needs", "Required by law vs. nice to have", "What it all costs"
-6. 📈 **Stat Highlight / Data Callout** — Include: **Yes** — Number: 3 — Placement: intro (Census formation stats), funding H3 (Fed Credit Survey), "what owners underestimate" (BLS survival rates)
+1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: right after the intro — Content: the full needs list in one scannable block, so a reader who came only for the list gets it in 10 seconds
+2. 📊 **Comparison Table** — Include: **Yes** — Placement: under H2 1 — Format: the master table, `Need | Required by law? | Typical cost | When you need it`
+3. ✅ **Checklist Summary** — Include: **Yes** — Placement: end of each tier H2 (legally needs / operate / can wait) — Format: tick-box list repeating that tier's items
+4. 💡 **Key Takeaway Callout Boxes** — Include: **Yes** — Number: 5 — Placement: one at the end of each of H2s 2, 3, 4, plus H2 5 and H2 6
+5. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "What every small business needs", "What your small business legally needs", "What to do first when time and money are tight"
+6. 📈 **Stat Highlight / Data Callout** — Include: **Yes** — Number: 3 — Placement: intro (Census formation stats), H3 "Startup funding and a cash buffer" (Fed Credit Survey), H2 6 "What new owners underestimate" (BLS survival rates)
 7. ➕/➖ **Pro/Con Box** — Include: **No** — nothing in this article is a binary choice worth a pro/con frame
 
 > Use WordPress built-in block options — no custom HTML or plugins.
@@ -359,7 +380,7 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 | Snippet Format | List (AI Overview synthesises a bulleted needs list) |
 
 **To capture the snippet:**
-- Place a concise **numbered list** directly under the H2 "What a small business actually needs (the short answer)"
+- Place a concise **numbered list** directly under the H2 "What every small business needs (the short list)"
 - Format: one line per item, each starting with the noun (`A registered business entity — …`), 8-12 items, no item longer than 15 words
 - Precede the list with a single 35-45 word paragraph that defines the answer in plain terms — this is the block an AI Overview lifts
 - Target question: "What do small businesses need?"
@@ -367,8 +388,8 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 **AI Overview note:** Two of the three current AI Overview citations (USA.gov, LivePlan) are pages we out-cover on every dimension. AI Overviews favour pages with clean, extractable list structure and explicit entity naming — so name things precisely (`Employer Identification Number (EIN)`, `general liability insurance`, `Certificate of Occupancy`) rather than describing them loosely.
 
 **PAA (People Also Ask) Targets:**
-- "What do small businesses need most?" → Answer format: short paragraph + list, in H2 "What a small business actually needs"
-- "What are 10 things you need to start a business?" → Answer format: numbered list, in H2 "What you need to start a small business"
+- "What do small businesses need most?" → Answer format: short paragraph + list, in H2 1 "What every small business needs"
+- "What are 10 things you need to start a business?" → Answer format: numbered list, in H2 2 "What your small business legally needs"
 
 > **Note:** PAA questions above are answered inside the relevant H2 section, so they are deliberately **excluded** from the FAQ section. No question appears in both places.
 
@@ -405,16 +426,16 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 
 | # | Page | GSC Clicks (90d) | GSC Position | Anchor Text | Place In Section | Context |
 |---|------|-----------------|-------------|-------------|-----------------|---------|
-| 1 | [How to Write a Business Plan](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) | 1 | 49.6 | "write a business plan" | H2: What you need to start a small business | In the H3 on funding, after the sentence explaining that lenders ask for a plan before they discuss numbers |
-| 2 | [How to Form an LLC](https://upmetrics.co/blog/how-to-form-an-llc) | — | — | "form an LLC" | H2: What you need to start a small business | In H3 "Choose and register your business structure", immediately after the LLC row of the structure comparison |
-| 3 | [How to Get Funding for a Business](https://upmetrics.co/blog/how-to-get-funding-for-a-business) | 0 | 67.5 | "funding options for a new business" | H2: What you need to start a small business | In H3 "Startup funding", after listing the four funding routes and before the loan-readiness paragraph |
-| 4 | [How to Calculate Working Capital](https://upmetrics.co/blog/how-to-calculate-working-capital) | 0 | 76 | "calculate your working capital" | H2: What you need to run a small business day to day | In H3 "Cash flow tracking", right after defining the buffer in months |
-| 5 | [Cash Flow vs Profit](https://upmetrics.co/blog/cash-flow-vs-profit) | — | — | "cash flow and profit are not the same thing" | H2: What you need to run a small business day to day | In H3 "Cash flow tracking", in the paragraph warning that a profitable month can still bounce payroll |
-| 6 | [Best Business Productivity Software](https://upmetrics.co/blog/best-business-productivity-software) | — | 7 | "business productivity software" | H2: What you need to run a small business day to day | In H3 "A minimum viable tech stack", after the table of tool categories |
-| 7 | [14 Best Marketing Tools for Small Business](https://upmetrics.co/blog/marketing-tools-for-small-business) | — | — | "marketing tools for small business" | H2: What you need to run a small business day to day | In H3 "A way to find and keep customers", after the first-channel recommendation |
-| 8 | [How to Hire Employees](https://upmetrics.co/blog/how-to-hire-employees) | — | — | "hiring your first employee" | H2: What you need to grow a small business | In H3 "Your first hires", after the paragraph on payroll tax registration |
-| 9 | [How to Validate a Business Idea](https://upmetrics.co/blog/how-to-validate-business-idea) | — | — | "validate the idea first" | H2: What a small business actually needs (the short answer) | In the paragraph before the list, as the "if you haven't done this yet, start here" pointer |
-| 10 | [Cash Flow Forecasting](https://upmetrics.co/features/cash-flow-forecasting) | — | — | "cash flow forecasting" | H2: How Upmetrics helps you plan what you need | In the product paragraph, tied to the forecasting screenshot |
+| 1 | [How to Form an LLC](https://upmetrics.co/blog/how-to-form-an-llc) | — | — | "form an LLC" | H2 2 → H3: A registered business structure | In beat 1 ("what it is"), immediately after the LLC row of the structure comparison table |
+| 2 | [How to Get Funding for a Business](https://upmetrics.co/blog/how-to-get-funding-for-a-business) | 0 | 67.5 | "funding options for a new business" | H2 3 → H3: Startup funding and a cash buffer | In beat 1, after listing the four funding routes and before the loan-readiness point |
+| 3 | [How to Write a Business Plan](https://upmetrics.co/blog/how-to-write-a-business-plan-complete-guide) | 1 | 49.6 | "write a business plan" | H2 3 → H3: Startup funding and a cash buffer | In beat 4 ("the mistake people make"), on approaching a lender without a plan |
+| 4 | [How to Calculate Working Capital](https://upmetrics.co/blog/how-to-calculate-working-capital) | 0 | 76 | "calculate your working capital" | H2 3 → H3: Startup funding and a cash buffer | In beat 3, right after the buffer target is given in months |
+| 5 | [Cash Flow vs Profit](https://upmetrics.co/blog/cash-flow-vs-profit) | — | — | "cash flow and profit are not the same thing" | H2 3 → H3: A bookkeeping system you'll actually maintain | In beat 1, where you list what the system has to produce (P&L, cash position) |
+| 6 | [Best Business Productivity Software](https://upmetrics.co/blog/best-business-productivity-software) | — | 7 | "business productivity software" | H2 3 → H3: A minimum tech stack | In beat 1, directly after the table of tool categories. This page already sits at position 7 for "top digital tools every small business needs" — the link reinforces it. |
+| 7 | [14 Best Marketing Tools for Small Business](https://upmetrics.co/blog/marketing-tools-for-small-business) | — | — | "marketing tools for small business" | H2 4 → H3: A repeatable way to get customers | In beat 1, after the single-channel recommendation |
+| 8 | [How to Hire Employees](https://upmetrics.co/blog/how-to-hire-employees) | — | — | "hiring your first employee" | H2 4 → H3: Your first hire and what legally changes | In beat 2 ("does this apply to you"), after the payroll tax registration point |
+| 9 | [How to Validate a Business Idea](https://upmetrics.co/blog/how-to-validate-business-idea) | — | — | "validate the idea first" | H2 1: What every small business needs (the short list) | In the paragraph before the numbered list, as the "if you haven't done this yet, start here" pointer |
+| 10 | [Cash Flow Forecasting](https://upmetrics.co/features/cash-flow-forecasting) | — | — | "cash flow forecasting" | H2 7: How Upmetrics helps you plan what you need | In the product paragraph, tied to the forecasting screenshot |
 
 > **Sales/product pages used: 1 of a maximum 2** (Cash Flow Forecasting). Free-tool pages used in body links: 0 — the AI Business Plan Generator sits in the CTA slot instead.
 >
@@ -449,18 +470,18 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 ### Linkable Asset Opportunities
 
 **🔗 Linkable Asset 1:**
-- **Section:** H2: What it all costs
+- **Section:** H2 1: What every small business needs (the short list)
 - **Type:** Reference table (original compilation)
-- **Description:** Cost table covering every requirement in the article — LLC/corp filing fees by state range, EIN ($0), general liability, workers' comp, business licence, bookkeeping software, payment processing — with a "what drives the number up" column
-- **Why it's linkable:** Not one page in this SERP publishes a single dollar figure. A maintained cost reference is the kind of page other blogs cite when they don't want to research it themselves.
-- **Writer instruction:** Write this section so it stands alone. Source every number, date it, and note that state filing fees vary so readers know to check their own state.
+- **Description:** The master table — every need on one row, with `Required by law? | Typical cost | When you need it`. Covers entity filing, EIN ($0), business licence, insurance, bank account, bookkeeping software, payment processing and the rest.
+- **Why it's linkable:** Not one page in this SERP publishes a single dollar figure, and none separates legal obligation from advice. A table that does both is what other blogs cite when they don't want to do the research themselves.
+- **Writer instruction:** Write it to stand alone. Source every number, date the table, and say plainly that state filing fees vary so readers check their own state.
 
 **🔗 Linkable Asset 2:**
-- **Section:** H2: Required by law vs. nice to have
+- **Section:** H2 5: What to do first when time and money are tight
 - **Type:** Unique framework
-- **Description:** A three-tier classification (legally required / strongly recommended / optional) applied to every item on the checklist, with the consequence of skipping each
-- **Why it's linkable:** It resolves the single biggest source of confusion for new owners, and no competitor attempts it. Highly quotable and easy to reference.
-- **Writer instruction:** Be precise about jurisdiction. Say "required in most states" or "required if you have employees" rather than a flat "required" — accuracy here is what makes it citable rather than risky.
+- **Description:** The dependency chain (entity → EIN → bank account → payment processing) paired with a budget-priority breakdown showing what a limited first spend should buy
+- **Why it's linkable:** It answers the question every "how to start a business" article leaves hanging — not what you need, but what to do first. No competitor sequences or prioritises anything.
+- **Writer instruction:** Be precise about jurisdiction throughout. Say "required in most states" or "required once you have employees" rather than a flat "required" — accuracy is what makes this citable rather than risky.
 
 ---
 
@@ -477,20 +498,20 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 - Byline visible: Yes — with photo, name, title, and 1-2 sentence bio
 
 **Experience signals (add to these sections):**
-- H2: Your first 90 days, in order — Include a first-person note on what actually took longest and why (e.g. bank account opening blocked on the EIN letter)
-- H2: What owners underestimate most — Include a real-world scenario of a cost or obligation discovered too late
+- H2 5: What to do first when time and money are tight — Include a first-person note on what actually took longest and why (e.g. bank account opening blocked on the EIN letter)
+- H2 6: What new owners underestimate — Include a real-world scenario of a cost or obligation discovered too late
 
 **Expertise signals (add to these sections):**
-- H2: What you need to start a small business — Cite SBA.gov for entity types and licence requirements; cite IRS.gov for EIN
-- H2: What it all costs — Reference state filing fee ranges and note the retrieval date
-- H2: What you need to grow a small business — Reference Federal Reserve Small Business Credit Survey on financing
+- H2 2: What your small business legally needs — Cite SBA.gov for entity types and licence requirements; cite IRS.gov for EIN
+- H2 5: What to do first when time and money are tight — Reference state filing fee ranges and note the retrieval date
+- H2 3 → H3 Startup funding and a cash buffer — Reference the Federal Reserve Small Business Credit Survey on approval rates and financing gaps
 
 **Trust signals:**
-- SBA.gov → use in H2 "What you need to start a small business" and "Free help most owners never use"
-- IRS.gov → use in H3 "Get an EIN and set up tax accounts"
+- SBA.gov → use in H2 2 "What your small business legally needs" and in the free-help table in H2 6
+- IRS.gov → use in H3 "An EIN and your tax accounts"
 - US Census Bureau → use in the intro
-- Bureau of Labor Statistics → use in H2 "What owners underestimate most"
-- SCORE.org / SBDC → use in H2 "Free help most owners never use"
+- Bureau of Labor Statistics → use in H2 6 "What new owners underestimate"
+- SCORE.org / SBDC → use in the free-help table in H2 6
 
 **Competitor EEAT comparison:**
 - 2 of 5 competitors have visible author bios (LivePlan, Yale)
@@ -514,10 +535,10 @@ C1 = USA.gov · C2 = LivePlan · C3 = Pinnacle · C4 = SBA Counseling · C5 = Ya
 - Show "last updated" date: Yes — recommended for all content
 
 **Sections containing time-sensitive content:**
-- H2: What it all costs — contains: filing fees, insurance premiums, software pricing — Update trigger: annually, or whenever a cited source republishes
-- H3: Get an EIN and set up tax accounts — contains: IRS process and thresholds — Update trigger: annually before tax season
-- H3: Business insurance you can't skip — contains: state workers' comp thresholds — Update trigger: annually
-- H2: What owners underestimate most — contains: BLS survival rates — Update trigger: when BLS releases new BED data
+- H2 1 master table + H2 5 budget table — contain: filing fees, insurance premiums, software pricing — Update trigger: annually, or whenever a cited source republishes. **Keep both tables consistent — the master table's cost column and the budget table must never disagree.**
+- H3: An EIN and your tax accounts — contains: IRS process and thresholds — Update trigger: annually before tax season
+- H3: Insurance you're actually required to carry — contains: state workers' comp thresholds — Update trigger: annually
+- H2 6: What new owners underestimate — contains: BLS survival rates — Update trigger: when BLS releases new BED data
 
 **Recommended review schedule:**
 

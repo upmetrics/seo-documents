@@ -12,7 +12,9 @@
 | **GSC Range** | 2026-06-02 to 2026-08-28 |
 | **GA4 Range** | 30 days (engagement), 90 days (conversions) |
 
-> **Read this first.** The page went live 4 days ago and has **11 impressions, 0 clicks, avg position 19.3** — all from a single day (2026-08-28). It is indexed and already ranking **position 6 for "business plan assumptions"**. There is not enough data for CTR-based decisions yet, so this report deliberately avoids rewriting anything that is performing. The wins here are **additive**: two empty ACF slots and a set of internal links.
+> **Read this first.** The page went live 4 days ago and has **11 impressions, 0 clicks, avg position 19.3** — all from a single day (2026-08-28). It is already ranking **position 6 for "business plan assumptions"**. There is not enough data for CTR-based decisions yet, so this report deliberately avoids rewriting anything that is performing. The wins here are **additive**: two empty ACF slots and a set of internal links.
+
+**Index status (URL Inspection API):** `PASS` — *Submitted and indexed*. Robots `ALLOWED`, indexing `ALLOWED`, fetch `SUCCESSFUL`, last crawled **2026-08-27 21:34 UTC** as **MOBILE**. Google's canonical matches the declared canonical exactly. Nothing to fix here.
 
 ---
 
@@ -34,14 +36,14 @@ This is a well-built new post. The score is high because there are no defects �
 |:--:|------|:--:|:--:|---------------|------------|--------------|---------------|
 | 1 | Internal Links | High | Medium | 4 body links, all Informational, 0 Sales | Add 5 links (4 informational + 1 sales) | — | Add #1-#5 |
 | 2 | CTA Placements | Medium | Medium | 1 (end CTA, canonical & correct) | Add 1 light Yellow Tip mid-content | — | Add #1 |
-| 3 | Resource CTA | High | Quick Win | **Empty** | Set Financial Statements Template | — | Approve |
+| 3 | Resource CTA | High | Quick Win | **Empty** | Set Sales Forecast Templates | — | Approve |
 | 4 | Related Content | High | Quick Win | **Empty** | Set 4 related items | After Tasks 1-3 | Approve #1-#4 |
 | 5 | Meta Title / Desc | Medium | Quick Win | Title = H1 (52ch); desc 145ch OK | Differentiate title only; keep desc | — | Approve title |
 | 6 | Image Alt Text | Low | Quick Win | 1 content image, good alt | No action needed | — | Skip |
 | 7 | URL Slug | — | — | `business-plan-assumptions` | Do not touch — pos 6 for primary kw | — | Skip (risky) |
 | 8 | Heading Structure | Low | Quick Win | Clean: 4 H2, 6 H3, no skips | No action needed | — | Skip |
 | 9 | Categories | Medium | Quick Win | `Planning` only | Add `Forecasting` | — | Approve |
-| 10 | Incoming Links | Medium | Manual | Not measured | 6 source pages to link from | Manual | Noted |
+| 10 | Incoming Links | Medium | Manual | Not measured | 8 source pages that already rank for the topic | Manual | Noted |
 
 ---
 
@@ -109,13 +111,17 @@ This is a well-built new post. The score is high because there are no defects �
 
 ---
 
-> **#5 — RECOMMENDED (Sales/Features)** — `sales forecast` → `/features/sales-forecasting`
+> **#5 — RECOMMENDED** — `sales forecast` → `/blog/how-to-forecast-sales-for-business`
 >
 > **Section:** Operational assumptions
 >
 > **In context:** "For the salon, the **sales forecast** assumes 18 customers a day. That number only works if the salon has enough stylists, appointment slots, and working hours to serve those customers."
 >
-> **Note:** The post's only product link. It lands where the reader is actively reasoning about whether a forecast is deliverable — the exact job the tool does. Surrounded by educational context on both sides, so it reads as a recommendation rather than an ad.
+> **Note:** "Sales forecast" is a topic noun, so the how-to guide wins over the product page — the target teaches exactly what the anchor names. It is also the stronger page by a wide margin: **3,995 impressions** for sales-forecast queries versus 607 for the feature page.
+>
+> **Sales/Features alternative for the same anchor:** `/features/sales-forecasting` (post ID 80455). Pick this instead if you want the post to carry one product link in the body. It is a weaker topical match and ranks at position 63, so the how-to page is the better SEO choice — but the call is yours.
+
+**A note on link balance:** with the set above, all five recommended links are Informational and the post carries **zero** Sales/Features body links. That is deliberate. This is an educational explainer, the product already appears three times on the page (the Task 2 Yellow Tip CTA, the branded homepage link in the conclusion, and the end CTA), and forcing more product links into a 1,922-word explainer would read promotional. If you want a body-level product link, take the #5 alternative above.
 
 ---
 
@@ -203,14 +209,16 @@ At 1,922 words the target is 1-2 CTAs. There is already one large banner at the 
 
 | Field | Recommended Value |
 |-------|------------------|
-| `resource_url` | `https://upmetrics.co/download/financial-statement` |
-| `heading` | `Financial Statements` |
+| `resource_url` | `https://upmetrics.co/download/sales-forecast-templates` |
+| `heading` | `Sales Forecast Templates` |
 | `resource_link_text` | `Download Template` |
-| **Rendered as** | **Download Template: Financial Statements** (38 chars — well under the ~55 limit) |
+| **Rendered as** | **Download Template: Sales Forecast Templates** (44 chars — under the ~55 limit) |
 
-**Why this one:** the article's entire output is a set of estimates that feed financial statements. The reader finishes with numbers and no container to put them in; this template is that container. Verified live (HTTP 200), post ID 7281.
+**Why this one:** the article's longest and most worked section is Sales and revenue assumptions — the salon example that builds up to `18 × $65 × 26 = $30,420`. A reader who just followed that math wants a place to put it. This resource also has demonstrated demand: **2,078 impressions** for sales-forecast queries in the last 90 days, the highest of any downloadable resource in the repository. Verified live (HTTP 200), post ID 7347.
 
-**Alternative if you prefer a cost angle:** `/download/startup-costs-worksheet` (post ID 7339, verified 200) — heading `Startup Costs Worksheet`, link text `Download Template`, renders as "Download Template: Startup Costs Worksheet" (42 chars).
+**Alternatives, both verified live:**
+- `/download/financial-statement` (post ID 7281) — heading `Financial Statements`, renders as "Download Template: Financial Statements" (38 chars). Broader fit if you would rather cover the whole financial section than the sales piece.
+- `/download/startup-costs-worksheet` (post ID 7339) — heading `Startup Costs Worksheet`, renders as "Download Template: Startup Costs Worksheet" (42 chars). Pick this for a cost angle.
 
 ---
 
@@ -334,31 +342,47 @@ Max is 2 categories and primary comes first, so the value to send is `["Planning
 
 ### TASK 10 — Incoming Internal Link Suggestions
 
-Pages that should link **to** this article. Every row is a verified WordPress post with a real post ID; traffic figures are GA4 sessions (30 days) unless noted.
+Pages that should link **to** this article. Every row is a verified WordPress post with a real post ID.
+
+These are ranked on **query-level GSC data**: for each of the target's linkable topics (`assumption`, `financial projection`, `sales forecast`, `financial plan`), Search Console was asked which pages on the site already earn impressions for that term. Pages Google already associates with the topic are the strongest candidates, because a link from them carries topical context rather than just link equity.
 
 | # | Source Page | URL | Post ID | Post Type | Why Link Here | Suggested Anchor | Traffic | Priority |
 |:--:|------------|-----|:--:|-----------|--------------|-----------------|:--:|:--:|
-| 1 | How to Prepare a Financial Plan for Startup Business | `/blog/write-financial-section-startup-business-plan` | 6040 | post | Financial plans are built on assumptions; this page is the natural parent | business plan assumptions | 129 sessions | High |
-| 2 | How to Build Financial Projections for Your Business Plan | `/blog/financial-projections-business-plan` | 6216 | post | Projections are the direct output of assumptions | assumptions behind your forecast | — | High |
-| 3 | How to Write a Business Plan: 10 Easy Steps | `/blog/how-to-write-a-business-plan` | 6056 | post | Top-level parent guide; assumptions are a cross-cutting sub-topic | business plan assumptions | 93 sessions | High |
-| 4 | How to Write Operations Plan for a Business Plan | `/blog/operations-plan-section` | 20000 | post | Capacity and staffing assumptions are set here | operational assumptions | 100 sessions | Medium |
-| 5 | Industry Benchmarking: What to Track and Where to Get Data | `/blog/industry-benchmarking` | 98143 | post | Benchmarks are a primary source for setting realistic assumptions | realistic assumptions | 92 sessions | Medium |
-| 6 | TAM SAM SOM: The Complete Market Sizing Guide | `/blog/tam-sam-som-market-size-metrics` | 6137 | post | Market sizing is itself an assumption exercise | market assumptions | 197 sessions | Medium |
+| 1 | How to Prepare a Financial Plan for Startup Business | `/blog/write-financial-section-startup-business-plan` | 6040 | post | Ranks for both `assumption` and `financial plan` — 9,602 impressions, 7 clicks | business plan assumptions | 129 GA4 sessions | High |
+| 2 | Sales Forecasting Methods: 8 Proven Approaches | `/blog/sales-forecasting-methods` | 6238 | post | Ranks for `sales forecast` — 6,371 impressions. Forecasting methods are meaningless without stated assumptions | forecast assumptions | 6,371 impr | High |
+| 3 | Business Plan Components: What to Write in Each Section | `/blog/business-plan-components` | 23817 | post | Ranks for `assumption`. Section-by-section parent guide with a natural slot for this topic | business plan assumptions | 1 impr | High |
+| 4 | Plan vs. Actual Analysis: Step-by-Step Guide | `/blog/plan-vs-actual-analysis` | 69096 | post | Ranks for `sales forecast` — 24 impressions. The whole page is about testing assumptions against real results | the assumptions you started with | 24 impr | High |
+| 5 | How to Create a Perfect Business Plan Outline | `/blog/business-plan-outline` | 15426 | post | Ranks for `financial plan` at position 8.5 with a 4.6% CTR — an engaged, structurally-minded audience | documenting your assumptions | 22 impr | Medium |
+| 6 | What is Cash Flow Forecasting: Type, Examples | `/blog/what-is-cash-flow-forecasting` | 81537 | post | Ranks for `assumption` and `sales forecast` | cash flow assumptions | 7 impr | Medium |
+| 7 | How to Perform Break-Even Analysis | `/blog/break-even-analysis-business-plan` | 70006 | post | Ranks for `assumption`. Break-even is entirely assumption-driven | underlying assumptions | 1 impr | Medium |
+| 8 | 10 Extremely Persuasive Business Plan Myths | `/blog/business-plan-myths` | 62303 | post | Ranks at **position 1.0** for an `assumption` query — small volume but Google already treats it as authoritative on the term | realistic assumptions | 1 impr | Medium |
 
-> Every source URL above is verified in WordPress with a real post ID. The suggested anchor text is a **starting search term** for the SEO team — the actual anchor depends on what phrasing already exists in each source page's content. No content scraping of source pages was performed.
+> Every source URL above is verified in WordPress with a real post ID and returns HTTP 200. The suggested anchor text is a **starting search term** for the SEO team — the actual anchor depends on what phrasing already exists in each source page's content. No content scraping of source pages was performed.
 
-**Note on #2:** if you approve Task 1 suggestion #1, this page will already link *to* `/blog/financial-projections-business-plan`. A two-way link between these two pages is reasonable given how tightly coupled the topics are, but flag it if you prefer strictly one-directional linking.
+**Note on #1:** this article already links *out* to page 6040. Adding a link back makes it reciprocal. Given how tightly the two topics are coupled (a financial plan is assumptions plus arithmetic) that is defensible, but skip it if you keep links strictly one-directional.
+
+**Excluded on purpose:** `/blog/financial-projections-business-plan` (6216) is the single strongest candidate by data — 7,233 impressions across `assumption`, `financial projection` and `sales forecast` — but Task 1 suggestion #1 points *at* it, and the FAQ already links it too. Listing it here would make a three-way loop. Same reasoning excludes `/blog/how-to-forecast-sales-for-business` (76107), now claimed by Task 1 #5.
 
 ---
 
 ## Data Coverage Note
 
-GSC access from this machine was severely degraded during this run (roughly 96 seconds just to open a connection to `searchconsole.googleapis.com`; the GSC MCP server timed out entirely and a direct service-account client was used instead). The core pulls succeeded — top queries, device split, 90-day trend, page totals and site top pages are all real data and are reported above. Two lower-priority GSC calls did not return in time:
+**All planned data pulls completed.** GSC access from this machine was severely degraded during the run — roughly 96 seconds just to open a connection to `searchconsole.googleapis.com`, and the GSC MCP server timed out on every attempt. A direct service-account client was used instead, and the full set eventually returned: top queries, device split, 90-day trend, page totals, site top pages, per-topic ranking queries, and URL Inspection. Everything above is real data.
 
-- **Per-topic "which pages already rank for this term" queries**, which normally strengthen Task 10 rankings. Task 10 above is therefore ranked on topical relevance plus GA4 traffic rather than on query-level ranking data.
-- **URL Inspection API**, which would confirm crawl state and rich-result detection. Indexing was confirmed a different way: the page has impressions in Performance data, which per the cross-validation rule is authoritative over the Inspect API. Schema was confirmed by fetching the live page directly — `Article`, `WebPage`, `BreadcrumbList` and `FAQPage` are all present and valid.
+The per-topic queries arrived late and were worth waiting for — they surfaced pages that keyword search alone had missed, including `/blog/sales-forecasting-methods` (6,371 impressions) and `/download/sales-forecast-templates` (2,078 impressions). Task 1 #5, Task 3 and Task 10 were all revised on the strength of that data.
 
-Nothing in the recommendations above depends on the two missing calls.
+**One observation from URL Inspection worth noting.** Rich-result detection reports **Breadcrumbs only**. The page's source does contain valid `FAQPage` JSON-LD alongside `Article`, `WebPage` and `BreadcrumbList` — that was confirmed by fetching the live page directly. The FAQ markup simply is not producing a rich result, which is expected: Google restricted FAQ rich results to government and health sites in August 2023. **No action needed** — keep the FAQ schema (it still helps with entity understanding and AI overviews), just do not expect FAQ snippets in the SERP.
+
+| Data source | Status |
+|-------------|--------|
+| WordPress (posts, ACF, FAQs, taxonomy) | Complete — via direct JSON-RPC after the MCP connector returned 401/handshake errors |
+| GSC — page queries, device, trend, totals | Complete |
+| GSC — per-topic ranking queries | Complete |
+| GSC — URL Inspection | Complete (`PASS`, Submitted and indexed) |
+| GA4 — Report A (engagement, 30d) | Complete |
+| GA4 — Report E (conversions, 90d) | Complete |
+| Live page fetch (meta, H1, schema) | Complete |
+| Target URL verification (HTTP status) | Complete — every cited URL returns 200; two 410-Gone glossary pages were caught and dropped |
 
 ---
 
@@ -368,8 +392,9 @@ Copy, modify, and paste this template:
 
 ```
 Task 1 (Internal Links): Add #1, #2, #3, #4, #5. Skip #6-#8.
+   (For #5, use the how-to page. Say "use the features page for #5" if you want the product link instead.)
 Task 2 (CTAs): Add #1 Yellow Tip after "Funding and cash flow assumptions". Skip optional.
-Task 3 (Resource CTA): Approve Financial Statements Template.
+Task 3 (Resource CTA): Approve Sales Forecast Templates.
 Task 4 (Related Content): Approve items #1-#4.
 Task 5 (Meta Title/Desc): Approve suggested title. Keep description. Keep keyphrase.
 Task 6 (Image Alt Text): Skip - no action needed.

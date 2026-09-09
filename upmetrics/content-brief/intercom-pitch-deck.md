@@ -1,9 +1,9 @@
-# Content Brief: Intercom Pitch Deck That Raised $600K (Full Slide Review)
+# Content Brief: Intercom Pitch Deck: The 8 Slides That Raised $600K
 
 **Date:** 2026-09-09
 **Prepared by:** SEO Content Strategist (AI-Assisted)
 **Target Market:** United States
-**Content Format:** Slide-by-slide pitch deck analysis (Upmetrics house format)
+**Content Format:** Slide-by-slide pitch deck breakdown (series article)
 **WordPress Post Type:** `pitch-deck`
 
 ---
@@ -16,48 +16,45 @@
 | US Search Volume | 70 / month |
 | Keyword Difficulty | 4 (very easy) |
 | Traffic Potential | 20 |
-| CPC | No data |
-| Intent | Informational + Commercial + Branded |
-| Parent Topic | No distinct parent topic — the keyword is its own parent |
-| SERP Features | Image pack only (no featured snippet, no PAA) |
+| CPC | Not reported by Ahrefs |
+| Intent | Informational + commercial, branded |
+| Parent Topic | intercom pitch deck (US Volume: 70) — no distinct parent topic |
+| SERP Features | Image pack (position 5). **No PAA box, no featured snippet** |
 | WordPress Post Type | `pitch-deck` |
-| Recommended Slug | /pitch-deck-examples/intercom |
+| Recommended Slug | /intercom |
 | Full URL Preview | [https://upmetrics.co/pitch-deck-examples/intercom](https://upmetrics.co/pitch-deck-examples/intercom) |
-| Content Format | Slide-by-slide deck analysis |
-| Target Word Count | 2,500 — 2,800 words |
-| Estimated Writing Time | 5-6 hours for first draft |
-| Reader Persona | Pre-seed / seed-stage SaaS founder preparing a first investor deck |
+| Content Format | Slide-by-slide breakdown (matches `/pitch-deck-examples/` series template) |
+| Target Word Count | 2,500 words (±10%) |
+| Estimated Writing Time | 4-5 hours for first draft |
+| Reader Persona | Not user-provided — inferred (see Section 3) |
 
-**Word count rationale:** The mechanical formula produces a misleading number here. Intent-matched competitors average only **958 words** (median 475) — the SERP is anomalously thin, with five of nine results being deck-image repositories carrying under 150 words of editorial. Applying the standard rule (round up, then apply the 1,500 floor) would give 1,500 words, which under-serves the topic and breaks format consistency with the existing cluster.
-
-The binding constraint is **house-template consistency**, not competitor length. The closest sibling by slide count is [Canva](https://upmetrics.co/pitch-deck-examples/canva) — 12 slides, 2,100 body words. Intercom's deck is 8 slides. At the cluster's observed rate of ~155 words per slide (1,240) plus the standard wrapper sections and two gap sections (~1,410), the natural length is **~2,650 words**. That still beats every intent-matched competitor by 2.5×.
-
-> ⚠️ **Do not pad to hit the number.** An 8-slide deck cannot support 4,000 words. If the draft runs short, the fix is deeper analysis in the two gap sections — not more adjectives per slide.
+**Word count rationale:** The intent-matched competitor **average is ~900 words** and the **median is ~575 words**. The mechanical rule (round up to nearest 250, apply the 1,500-word floor) gives **1,500 words** — but we are deliberately targeting **2,500**. Three reasons: (1) this SERP is anomalously thin, so matching it would produce a page well below our own series standard; (2) the `/pitch-deck-examples/` house norm is 2,300-2,800 words and [Stripe](https://upmetrics.co/pitch-deck-examples/stripe) runs 2,400-2,600 — consistency matters for a series; (3) Intercom's deck has 8 slides, and each needs its own H3 with an image and a takeaway. The per-section allocations in Group 4 of the writer doc sum to exactly 2,500 — do not pad beyond them.
 
 ---
 
 ## 2. Why We'll Win
 
-- **We are the only page in the SERP that knows Intercom no longer exists under that name.** Intercom rebranded to **Fin** in May 2026, and Salesforce signed a definitive agreement to acquire it for **$3.6 billion** on June 15, 2026. Every competing page — including Intercom's own 2016 blog post — is stale. The "then vs. now" arc becomes $600K ask → $3.6B exit, a 6,000× outcome no competitor can currently tell.
-- **We publish the full slide text; nobody else does.** InkNarrates describes the slides but shows no images. Alexander Jarvis's slide images are broken (empty SVG placeholders). Startups.com covers only 6 of 8 slides. We reproduce all 8 slides with images *and* transcribed content.
-- **Zero competitors have an FAQ section.** Not one of the nine ranking pages. Our 7-question FAQ is an uncontested block, and the keyword's only SERP feature is an image pack — so there is no snippet incumbent to displace either.
-- **We grade the deck against reality, not vibes.** Competitors say the deck "worked." We check its actual claims: the deck promised profitability in 18 months on $600K — Intercom went on to raise $115M+ more. The deck cited Forrester's $93B-by-2016 SaaS forecast. Nobody has audited either. This is the only original analysis in the SERP.
-- **Domain strength is decisive here.** Upmetrics is DR 73 against a field where four of the top nine results sit at DR 18–55. KD is 4. The existing cluster already ranks 6–8 for comparable branded deck queries with the same template.
+- **The #1 result has no analysis at all.** [Intercom's own blog post](https://www.intercom.com/blog/first-pitch-deck/) is ~110 words — a SlideShare embed and a sentence. It ranks on DR 91 and being the primary source, not on quality. There is no depth to beat, only authority to match.
+- **The only real analysis on this SERP has no slide images.** [Ink Narrates](https://www.inknarrates.com/post/intercom-pitch-deck) (DR 18, position 6) writes 1,800 words about 8 slides and shows *zero* of them. We will pair every slide image with its analysis — nobody on page 1 does both.
+- **Every competitor's funding data is stale or wrong.** BaseTemplates says "2012, Seed, $241M," PitchDeckHunt says "$240.8M," Alexander Jarvis says "$115.75M." The deck is from **late 2011** and Intercom now sits at **~$400M ARR (April 2026)**. A correctly-dated then-vs-now section is a genuine differentiator.
+- **No competitor has an FAQ.** 0 of 5. Five FAQs sourced from keyword data and reader-gap analysis gives us a structural advantage on a SERP with no PAA box.
+- **Nobody explains the most interesting part.** Intercom raised **$600K on a convertible note with almost no traction** — the deck itself admits it. Every other deck in our series (Stripe, Notion, Canva) had traction. That contrast is the article's real hook and no competitor draws it.
 
 **Upmetrics assets to embed:**
-- [Pitch Deck Team Slide Guide](https://upmetrics.co/blog/team-slide-pitch-deck) — Place in: H2: Detailed Intercom pitch deck analysis → Slide 2 (Team)
-- [Pitch Deck Competition Slide Guide](https://upmetrics.co/blog/pitch-deck-competition-slide) — Place in: H2: Detailed Intercom pitch deck analysis → Slide 6 (Landscape/competitors)
-- [AI Plan Generator](https://upmetrics.co/features/ai-plan-generator) — Place in: H2: Perfect your deck and pitch using Upmetrics
+- [AI Pitch Deck Generator](https://upmetrics.co/features/pitch-deck) — Place in: H2: Perfect your deck and pitch using Upmetrics
+- [Pitch Deck Design Services](https://upmetrics.co/services/pitch-deck) — Place in: H2: Perfect your deck and pitch using Upmetrics
+- [Pitch deck examples hub](https://upmetrics.co/pitch-deck-examples) — Place in: intro (series context)
 
 **Original value-adds competitors can't match:**
-- A "what the deck promised vs. what actually happened" comparison table — built from the deck's own claims against 2026 outcomes.
-- Full verbatim slide transcription for all 8 slides (sourced from the original SlideShare upload).
-- The 2026 Salesforce/Fin acquisition context, absent from every competing page.
+- All 8 slide images reproduced with per-slide annotation and a bolded takeaway
+- A verified then-vs-now table (late 2011 vs. 2026) with each figure hyperlinked to its source
+- A "what the deck got wrong" section — honest critique, not a highlight reel
+- Cross-links to 4 sibling deck teardowns so the reader can compare pre-seed vs. later-stage decks
 
 **Expert / data angles:**
-- Name the seed investors the competitors omit: Biz Stone (Twitter co-founder) was the first outside investor; Naval Ravikant also backed the round.
-- Quote Eoghan McCabe's own framing from Intercom's 2016 post: raising $600K was *"a monumental task. And when I thought it could get us to profitability."*
-- Cite the Salesforce press release and CNBC coverage directly for the $3.6B figure.
+- Byline from Vinay Kevadiya (CEO, Upmetrics) — consistent with the rest of the series
+- Quote Eoghan McCabe's own SlideShare comment on the deck (sourced via Alexander Jarvis)
+- Reference Jason Fried's endorsement as the social-proof mechanism on the Progress slide
 
 ---
 
@@ -65,14 +62,14 @@ The binding constraint is **house-template consistency**, not competitor length.
 
 | Field | Details |
 |-------|---------|
-| Primary Persona | Pre-seed / seed-stage B2B SaaS founder, US-based, building their first investor deck |
+| Primary Persona | Pre-seed / seed-stage B2B SaaS founder preparing a first investor deck, plus pitch-deck researchers studying famous decks |
 | Geographic Focus | United States |
 | Funnel Stage | Awareness → Consideration |
-| Knowledge Level | Beginner to Intermediate — knows what a pitch deck is, has not raised before |
-| Pain Points | Believes a deck must look designed to be taken seriously; doesn't know how many slides is "right"; has little traction and thinks that disqualifies them; doesn't understand convertible note mechanics |
-| What They Want | Proof that a plain, short deck can raise real money — and a concrete structure they can copy |
+| Knowledge Level | Beginner to intermediate — knows what a pitch deck is, has not raised before |
+| Pain Points | Believes a deck must be long and polished to work; has little or no traction to show; unsure how much to ask for or how to justify it; doesn't know what a convertible note is |
+| What They Want | To see a real deck that worked, slide by slide, and understand *why* each slide did its job |
 
-**SERP Intent Breakdown** *(9 unique organic domains after deduplication)*:
+**SERP Intent Breakdown** (9 organic results after domain deduplication):
 
 | Intent Type | Pages in Top 10 | Percentage |
 |-------------|----------------|------------|
@@ -83,18 +80,18 @@ The binding constraint is **house-template consistency**, not competitor length.
 **How intent maps to our outline:**
 
 **Informational sections** (educate the reader):
-- H2: About Intercom (then vs. now) — company arc from 2011 startup to 2026 acquisition
-- H2: Detailed Intercom pitch deck analysis (slide-by-slide) — all 8 slides explained
-- H2: What the deck promised vs. what actually happened — original audit
+- H2: About Intercom (then vs. now) — establishes stakes and context
+- H2: Detailed Intercom pitch deck analysis (slide-by-slide) — the core payload, 8 H3s
+- H2: What the deck got wrong (and why it still worked) — honest critique
 
-**Commercial sections** (help the reader evaluate/decide):
-- H2: What did I like the most about this deck? — extracts copyable principles
-- H2: Where this deck would fall short today — helps the reader judge their own deck against 2026 standards
+**Commercial sections** (help the reader evaluate):
+- H2: What did I like the most about this deck? — transferable principles the reader can apply
+- H2: Frequently Asked Questions — convertible notes, slide counts, deck downloads
 
 **Transactional sections** (convert the reader):
-- H2: Perfect your deck and pitch using Upmetrics — product embed
+- H2: Perfect your deck and pitch using Upmetrics — single product section
 
-**Balance check:** Our outline is ~65% informational, ~28% commercial, ~7% transactional. This slightly over-indexes on informational versus the SERP's 56/44 split, which is deliberate — the two commercial-leaning results that outrank thin repositories (InkNarrates, Startups.com) win on analysis depth, not on commercial framing.
+**Balance check:** Our outline is ~72% informational, ~20% commercial, ~8% transactional. The SERP is 56/44/0. We over-index on informational deliberately — the four commercial results are thin template-funnel pages we have no interest in imitating, and our commercial value is delivered through the takeaways rather than a product listing.
 
 ---
 
@@ -105,59 +102,50 @@ The binding constraint is **house-template consistency**, not competitor length.
 | Keyword | US Volume | KD |
 |---------|-----------|-----|
 | intercom pitch deck | 70 | 4 |
-| intercom pitch deck pdf | 20 | No data |
-| intercom pitch deck template | 20 | No data |
+| intercom pitch deck pdf | 20 | n/a |
 | pitch deck examples | 7,100 | 0 |
 | successful pitch decks | 80 | 22 |
-| successful pitch deck examples | 70 | 43 |
-| convertible note | 2,900 | 0 |
-| what is a pitch deck presentation | 150 | 23 |
-| best pitch deck story | 90 | 46 |
-| famous pitch deck examples | 20 | No data |
+| business pitch deck examples | 40 | 43 |
 
 ### Supporting Keywords (use naturally throughout)
 
 | Keyword | US Volume |
 |---------|-----------|
+| convertible note | 2,900 |
 | business pitch example | 350 |
+| what is a pitch deck presentation | 150 |
 | corporate slide deck | 100 |
-| intercom pioneer | 90 |
-| customer base | 900 |
-| intercom vs | 60 |
-| pitch design | 50 |
-| business pitch deck examples | 40 |
+| best pitch deck story | 90 |
+| successful pitch deck examples | 70 |
+| famous pitch deck examples | 20 |
 
 ### LSI / Semantic Variations
-- seed funding, pre-seed round, 18-month runway, product-market fit
-- convertible note cap, angel investors, first outside investor
-- SaaS customer communication, in-app messaging, customer relationship management
-- team slide, problem slide, solution slide, market size slide, competition slide, traction slide, the ask slide
-- Eoghan McCabe, Des Traynor, Ciaran Lee, David Barrett, Biz Stone, Naval Ravikant
-- 8-slide deck, investor deck, fundraising deck, seed deck
+- pre-seed round
+- seed funding
+- investor deck
+- slide deck
+- market size slide
+- competitive landscape slide
+- traction slide
+- the ask slide
+- customer messaging platform
+- SaaS startup
 
-### Questions to Answer (from Ahrefs keywords, competitor gaps, and cluster patterns)
-- Where can I download the Intercom pitch deck?
-- Is 8 slides too few for a seed pitch deck?
-- What is a convertible note, and why did Intercom use one?
-- Can I use Intercom's pitch deck as a template for my own startup?
-- Did Intercom have any revenue when they pitched investors?
-- Do I need well-known investors for a simple deck to work?
-- Should my competition slide list this many companies?
+### Questions to Answer (from Ahrefs keywords, competitor gaps, reader-journey analysis)
+- Where can I find the Intercom pitch deck PDF?
+- How much did Intercom raise on this deck, and at what stage?
+- What is a convertible note and why did Intercom use one?
+- How many slides should a pre-seed deck have?
+- Did Intercom have traction when it pitched?
+- Is a 2011 deck still a useful model in 2026?
 
 ### GSC Low-Hanging-Fruit Keywords (already ranking)
 
-**None.** Upmetrics has **zero GSC impressions** for any query containing "intercom" over the last 90 days. This is a true greenfield keyword — there is nothing to reinforce or push up.
+**None available for this keyword.** GSC call 7 (modifier word `intercom`, 90 days) returned a single row — an unrelated LLM-style prompt query containing the substring "intercompany," attached to [/blog/what-is-cash-flow-forecasting](https://upmetrics.co/blog/what-is-cash-flow-forecasting), with 1 impression and 0 clicks. There is no existing Intercom-related search footprint on upmetrics.co.
 
-Cluster context instead (these are the sibling pages this article will sit alongside, not keywords to target here):
+GSC call 5 (`pitch deck`, 90 days) returned 25 rows, but **every one belongs to an existing sibling page** (`openai`, `stripe`, `doordash`, `canva`, `notion`, `tesla`, `perplexity`, `guy-kawasaki`, and others). Do **not** target those queries in this article — that would create cannibalization with pages that already rank in positions 1.5-8. This article should own `intercom pitch deck` and nothing else.
 
-| Query | Page | Position | Impressions (90d) | Clicks |
-|-------|------|----------|-------------------|--------|
-| openai pitch deck | /pitch-deck-examples/openai | 1.5 | 251 | 141 |
-| stripe pitch deck | /pitch-deck-examples/stripe | 4.3 | 341 | 90 |
-| canva pitch deck | /pitch-deck-examples/canva | 7.5 | 1,480 | 29 |
-| notion pitch deck | /pitch-deck-examples/notion | 6.2 | 305 | 25 |
-
-> **Data source:** GSC Phase 1A calls 5 and 7, 90-day range (2026-06-11 → 2026-09-09). The pattern shows branded `[company] pitch deck` queries reliably reach positions 1.5–8 on this template. That is the realistic expectation for this article.
+> **Data source:** GSC Phase 1A, calls 5 and 7 (90-day range, sc-domain:upmetrics.co).
 
 ---
 
@@ -166,69 +154,64 @@ Cluster context instead (these are the sibling pages this article will sit along
 > ⚠️ All competitor URLs are clickable — click to review each page for deeper understanding.
 
 1. **[Pos #1]** [Intercom's first pitch deck](https://www.intercom.com/blog/first-pitch-deck/)
-   - **Page type:** Brand-owned announcement post
-   - **Intent match:** ❌ No — excluded from word count (it's a 2016 announcement, not an analysis)
-   - **Word count (body only):** ~130 words
-   - **H2s:** 0 | **Strengths:** DR 91, first-party authority, hosts the canonical deck embed, carries a genuine founder quote | **Weaknesses:** Almost no content. No slide breakdown, no analysis, no context. Ranks purely on brand and being the source.
+   - **Page type:** Company blog post / primary source deck dump
+   - **Intent match:** ❌ No — excluded from word count (it is an announcement, not an analysis)
+   - **Word count (body only):** ~110 words
+   - **H2s:** 1 | **Strengths:** Primary source, DR 91, SlideShare embed of the real deck, authored by CEO Eoghan McCabe (Apr 8, 2016) | **Weaknesses:** No slide breakdown, no commentary, no rationale, no traction numbers, no FAQ. Ranks on authority alone.
 
-2. **[Pos #6]** [Intercom Pitch Deck Breakdown [Let's Explore What Worked]](https://www.inknarrates.com/post/intercom-pitch-deck)
-   - **Page type:** Analysis post (presentation agency)
-   - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~2,100 words
-   - **H2s:** 2 | **Strengths:** The only genuine slide-by-slide narrative in the SERP; clear thesis ("simplicity is a strategy"); covers all 8 slides thematically | **Weaknesses:** No slide images at all. No year, no investors, no valuation. Repeats "simplicity" to the point of filler. Claims the deck "worked" with zero evidence. No FAQ. Ranks at DR 18 — beatable on authority alone.
-
-3. **[Pos #7]** [Redesign of Intercoms First Pitch Deck](https://www.startups.com/articles/redesign-of-intercoms-first-pitch-deck)
-   - **Page type:** Design teardown
-   - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~475 words
-   - **H2s:** 8 (all-caps slide labels) | **Strengths:** Shows redesigned slide visuals; punchy "KILLER SLIDE!" verdicts on Team and Market; DR 73 | **Weaknesses:** Covers only 6 of 8 slides — omits the Title and the Ask entirely. Under 500 words. No funding detail, no investors. Never shows the originals beside the redesigns.
-
-4. **[Pos #10]** [Intercom pitch deck pre-seed convertible fundraise](https://www.alexanderjarvis.com/intercom-pitch-deck-pre-seed-convertible-fundraise/)
-   - **Page type:** Deck-collection entry with commentary
-   - **Intent match:** ✅ Yes
-   - **Word count (body only):** ~300 words
-   - **H2s:** 3 (rest are nav/footer) | **Strengths:** DR 70; correctly identifies the round as a convertible note and dates it to late 2011; notes total raised across all rounds ($115.75M) | **Weaknesses:** **All slide images are broken** — empty SVG placeholders. Only ~300 words. The URL promises convertible-note detail the page never delivers. No terms, no cap, no investor names.
-
-5. **[Pos #4]** [Intercom Pitch Deck](https://www.basetemplates.com/pitch-decks/intercom)
-   - **Page type:** Template lead-gen page
+2. **[Pos #4]** [Intercom Pitch Deck — BaseTemplates](https://www.basetemplates.com/pitch-decks/intercom)
+   - **Page type:** Deck-library listing / template sales funnel
    - **Intent match:** ❌ No — excluded from word count
-   - **Word count (body only):** ~90 words
-   - **H2s:** 2 | **Strengths:** Ranks at #4 on DR 55 with almost no content — evidence of how weak this SERP is | **Weaknesses:** No deck content, no slides, no analysis. States the year as 2012 and the amount as $241M — **both wrong for this deck** (it was late 2011, $600K; $241M is a later cumulative figure). Exists to sell a template.
+   - **Word count (body only):** ~80-100 words
+   - **H2s:** 2 | **Strengths:** Clean metadata table (B2B, SaaS, stage, amount) | **Weaknesses:** One thumbnail, zero analysis, no individual slides, factually wrong (says "2012, Seed, $241M" — conflates the 2011 pre-seed with lifetime funding). Exists to sell a $79 template.
 
-*Also present but not scraped:* [SlideShare](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417) (Pos #3, DR 92 — the raw deck, our primary source for slide text), plus PitchDeckHunt (#2), Slidebean (#8) and BestPitchDeck (#9) — all thin image repositories with no editorial content.
+3. **[Pos #6]** [Intercom Pitch Deck Breakdown [Let's Explore What Worked]](https://www.inknarrates.com/post/intercom-pitch-deck)
+   - **Page type:** Editorial breakdown (design agency blog)
+   - **Intent match:** ✅ Yes
+   - **Word count (body only):** ~1,800 words
+   - **H2s:** 3 (+10 H3s) | **Strengths:** The only genuine slide-by-slide on the SERP; strong thesis ("simplicity is strategy"); covers all 8 slides; published Aug 2025 (freshest) | **Weaknesses:** **Zero slide images** — pure text; no external sources or links to the actual deck; never dates the original deck (reader can't tell if it's 2011 or 2016); market figures presented without noting they're 15 years old; ends in an aggressive agency sales pitch; no FAQ. Only DR 18 — beatable on authority.
+
+4. **[Pos #7]** [Redesign of Intercoms First Pitch Deck](https://www.startups.com/articles/redesign-of-intercoms-first-pitch-deck)
+   - **Page type:** Design teardown / redesign critique (by Caya, Slidebean)
+   - **Intent match:** ✅ Yes
+   - **Word count (body only):** ~575 words
+   - **H2s:** 8 | **Strengths:** 6 slide screenshots; flags "killer slides" (Team, Market); honest that "traction wasn't a strength here" | **Weaknesses:** Only 6 of 8 slides covered; ~575 words is very thin; purely visual/design critique with no business substance — no unit economics, no investor rationale, no funding mechanics; dated ~Nov 2016 and never updated; no FAQ.
+
+5. **[Pos #10]** [Intercom pitch deck pre-seed convertible fundraise](https://www.alexanderjarvis.com/intercom-pitch-deck-pre-seed-convertible-fundraise/)
+   - **Page type:** Deck teardown blog (VC/financial-modeling consultant)
+   - **Intent match:** ✅ Yes
+   - **Word count (body only):** ~325 words
+   - **H2s:** 4 | **Strengths:** Best funding context on the SERP (pre-seed, $600K convertible, late 2011, Jason Fried endorsement); quotes McCabe's own SlideShare comment; credible author | **Weaknesses:** **No slide-by-slide breakdown at all**; deck not embedded or linked; the 7 slide images are broken SVG placeholders; no publication date; funding total ($115.75M) is roughly a decade out of date; no valuation cap disclosed; no FAQ.
 
 **Intent-matched word count benchmark:**
 
 | Stat | Value |
 |------|-------|
-| Intent-matched average | ~958 words |
-| Intent-matched median | ~475 words |
-| House-template benchmark (Canva, 12 slides) | ~2,100 words |
-| **Our target** | **2,500 — 2,800 words** |
+| Intent-matched average | ~900 words |
+| Intent-matched median | ~575 words |
+| Mechanical target (rule-derived) | 1,500 words (floor applied) |
+| **Our target** | **2,500 words (±10%) — series-consistency override, see Section 1** |
 
-> Note: Word counts above are content body only — navigation, sidebars, footers, CTAs, author bios, and comments excluded. Our target intentionally exceeds the competitor benchmark; see the word count rationale in Section 1.
+> Note: Word counts above are content body only — navigation, sidebars, footers, CTAs, author bios, and comments excluded. Two of the five scraped pages (Intercom's own blog, BaseTemplates) are excluded from the average because they are not analyses.
 
 ### Competitor Heading Map
 
-| Topic / Section | Intercom.com | InkNarrates | Startups.com | A. Jarvis | BaseTemplates | UGC | Ours |
-|----------------|----|----|----|----|----|-----|------|
-| Company background / then vs. now | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| Slide 1 — Title | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| Slide 2 — Team | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 3 — The problem | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 4 — The solution | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 5 — The market | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 6 — Landscape/competitors | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 7 — Progress | ❌ | ✅ | ✅ | ❌ | ❌ | — | ✅ Go deeper |
-| Slide 8 — What we're looking for | ❌ | ✅ | ❌ | ❌ | ❌ | — | ✅ Go deeper |
-| Verbatim slide text reproduced | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| Working slide images | ✅ (embed) | ❌ | ✅ (redesigns) | ❌ broken | ❌ | — | ✅ Table stakes |
-| Investors named | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| Convertible note mechanics explained | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
-| **Deck claims vs. actual outcome — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge** |
-| **2026 status: Fin rename + $3.6B Salesforce deal — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge** |
-| **Where the deck would fail today — GAP** | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ **Unique edge** |
-| FAQ section | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
+| Topic / Section | C1 Intercom | C2 BaseTempl. | C3 InkNarrates | C4 Startups.com | C5 A. Jarvis | UGC | Ours |
+|----------------|----|----|----|----|-----|-----|------|
+| Company context / then vs. now | ❌ | Partial | ❌ | ❌ | Partial | — | ✅ Go deeper — verified 2026 data |
+| Slide 1 — Team | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Table stakes |
+| Slide 2 — Problem | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Table stakes |
+| Slide 3 — Solution | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Table stakes |
+| Slide 4 — Market | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Improve — flag figures as 2011-era |
+| Slide 5 — Competition | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Table stakes |
+| Slide 6 — Progress / traction | ❌ | ❌ | ✅ | ✅ | ❌ | — | ✅ Go deeper — the no-traction angle |
+| Slide 7 — The ask | ❌ | ❌ | ✅ | ❌ | Partial | — | ✅ Improve — explain the note |
+| Slide 8 — Funding timeline | ❌ | ❌ | ✅ | ❌ | ❌ | — | ✅ Only we cover it properly |
+| Slide images shown | 1 | 1 | 0 | 6 | 0 (broken) | — | ✅ All 8 + hero |
+| Where to get the deck / PDF | ✅ | ❌ | ❌ | ✅ | ❌ | — | ✅ Answer in FAQ |
+| Convertible note explained — GAP | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge |
+| What the deck got wrong — GAP | ❌ | ❌ | ❌ | Partial | ❌ | — | ✅ Unique edge |
+| FAQ section — GAP | ❌ | ❌ | ❌ | ❌ | ❌ | — | ✅ Unique edge — 5 FAQs |
 | Upmetrics product section | — | — | — | — | — | — | ✅ Product value |
 
 ### UGC Insights — Reddit & Quora
@@ -245,65 +228,62 @@ Cluster context instead (these are the sibling pages this article will sit along
 
 | Visual Type | Competitor Avg | Our Minimum Target |
 |------------|---------------|-------------------|
-| Images | 2 | 11 |
+| Images | ~2 usable (6, 0, 0-broken) | 9 (8 slides + hero) |
 | Tables | 0 | 2 |
 | Videos | 0 | — |
-| Infographics | 0 | 1 |
-
-> The keyword's **only** SERP feature is an image pack. Two of the three intent-matched competitors show zero working slide images. This is the single most exploitable weakness in the SERP.
+| Infographics | 0 | 1 (optional) |
 
 **Required visuals (informed by competitor analysis):**
 
-1. **Type:** Slide screenshots (×8)
-   - **Description:** One clean screenshot of each original 2011 slide, in order. Source from the [SlideShare upload](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417).
-   - **Placement:** One directly under each Slide H3 in "Detailed Intercom pitch deck analysis"
-   - **Competitor insight:** Alexander Jarvis's images are broken and InkNarrates has none — working images alone beat two of three intent-matched competitors.
+1. **Type:** Slide screenshots (8)
+   - **Description:** One clean image per slide, in order, taken from the [SlideShare deck](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417). Each sits directly under its H3, above the analysis paragraphs.
+   - **Placement:** Under each H3 in "Detailed Intercom pitch deck analysis (slide-by-slide)"
+   - **Competitor insight:** Only 1 of 3 intent-matched competitors shows slide images at all, and the best-written one (Ink Narrates) shows none. This is the single biggest gap on the SERP.
 
-2. **Type:** Comparison table graphic
-   - **Description:** "What the deck promised vs. what actually happened" — three columns: Deck claim (2011) | Reality | Verdict
-   - **Placement:** Under H2 "What the deck promised vs. what actually happened"
-   - **Competitor insight:** Zero competitors use tables. This is the article's linkable asset.
-
-3. **Type:** Then vs. now stat strip
-   - **Description:** 2011 (4 founders, no revenue, $600K ask) → 2026 ($400M ARR, 30K customers, $3.6B Salesforce acquisition)
+2. **Type:** Comparison table — "Intercom then vs. now"
+   - **Description:** Two columns (Late 2011 | 2026) across rows for funding stage, amount raised, valuation, customers, ARR, team size. Every 2026 figure hyperlinked to its source.
    - **Placement:** Under H2 "About Intercom (then vs. now)"
 
-**Sections where competitors have visuals but we don't yet:**
-- None. We exceed every competitor on visual count in every section.
+3. **Type:** Summary table — the 8 slides at a glance
+   - **Description:** Slide number, slide name, one-line job it does. Gives skimmers the whole deck in one view.
+   - **Placement:** Directly before the first H3 in the slide-by-slide section
+
+**Sections where competitors have visuals but we don't yet:** None — we exceed every competitor on visuals.
 
 **Image alt text guidelines:**
-- Include the primary or a secondary keyword naturally — e.g., `Intercom pitch deck slide 3 — the problem slide listing SaaS customer relationship pain points`
-- Be descriptive of the actual slide content, not generic
+- Include the keyword naturally — e.g., `Intercom pitch deck slide 4 — market size projection`
+- Be descriptive of the actual slide content
 - Keep under 125 characters
+- **This matters more than usual here:** the only SERP feature on this keyword is an **image pack at position 5**, currently held by SlideShare and Startups.com. Well-labelled slide images are a real capture opportunity.
 
-**Featured image suggestion:** A split-frame hero — the plain 2011 Intercom title slide on the left, the 2026 Fin/Salesforce headline on the right, with "$600K → $3.6B" as the connecting caption.
+**Featured image suggestion:** The Intercom deck cover slide on a branded Upmetrics background, with a "$600K raised · 8 slides · 2011" overlay strip.
 
 ### B. Scannable Content Elements
 
 **Competitor Scannability Audit:**
 
-| Element | Intercom.com | InkNarrates | Startups.com | A. Jarvis | BaseTemplates |
+| Element | C1 Intercom | C2 BaseTempl. | C3 InkNarrates | C4 Startups.com | C5 A. Jarvis |
 |---------|----|----|----|----|-----|
 | TL;DR / summary box | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Key takeaway callouts | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Key takeaway callouts | ❌ | ❌ | ✅ | ❌ | ❌ |
 | Quick answer under H2s | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Comparison tables | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Comparison tables | ❌ | ✅ | ❌ | ❌ | ❌ |
 | Pro/con boxes | ❌ | ❌ | ❌ | ❌ | ❌ |
-| Step summaries | ❌ | ✅ | ❌ | ❌ | ❌ |
-| Stat highlight callouts | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Step summaries | ❌ | ❌ | ❌ | ❌ | ❌ |
+| Stat highlight callouts | ❌ | ✅ | ❌ | ❌ | ❌ |
 | Checklists | ❌ | ❌ | ❌ | ❌ | ❌ |
 
-**Competitors using scannable elements:** 1 of 5
+**Competitors using scannable elements:** 3 of 5 — and only superficially.
 
 **Recommended Scannable Elements For This Article:**
 
-1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: Right after the intro — Content: "8 slides. No design. $600K raised in late 2011. Acquired by Salesforce for $3.6B in 2026. Here's every slide."
-2. 📊 **Comparison Table** — Include: **Yes** — Placement: Under H2 "What the deck promised vs. what actually happened" — Format: Deck claim (2011) | What actually happened | Verdict
-3. ✅ **Checklist Summary** — Include: **No** — the Takeaway callouts already carry the actionable load
-4. 💡 **Key Takeaway Callout Boxes** — Include: **Yes** — Number: 8 (one per slide) — Placement: End of each Slide H3. This is mandatory house format — bold `Takeaway:` label + one sentence.
-5. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "About Intercom (then vs. now)" and "Where this deck would fall short today"
-6. 📈 **Stat Highlight / Data Callout** — Include: **Yes** — Number: 2 — Placement: the then/now strip in H2 1, and the $600K → $3.6B figure in H2 4
-7. ➕/➖ **Pro/Con Box** — Include: **No** — the "What I liked" and "Where it falls short" H2s serve this function in prose
+1. 📋 **TL;DR / Quick Summary Box** — Include: **Yes** — Placement: right after the intro — Content: 3 lines — what Intercom raised, how many slides, the one thing that made it work.
+2. 📊 **Comparison Table** — Include: **Yes** (×2) — Placement: "About Intercom (then vs. now)" and the 8-slides-at-a-glance table — Format: as specified in Section 6A.
+3. ✅ **Checklist Summary** — Include: **No** — the per-slide takeaways already do this job; a checklist would duplicate them.
+4. 💡 **Key Takeaway Callout Boxes** — Include: **Yes** — Number: 8 — Placement: one bolded `**Takeaway:**` line closing each slide H3, starting with an imperative verb (series house style).
+5. ⚡ **Quick Answer Block** — Include: **Yes** — Which H2s: "About Intercom (then vs. now)" (open with the raise amount and date in the first two sentences) and "What the deck got wrong (and why it still worked)".
+6. 📈 **Stat Highlight / Data Callout** — Include: **Yes** — Number: 3 — Placement: the $600K raise (About), the $21B→$93B market claim flagged as 2011-era (Slide 4), the ~$400M ARR today (About).
+7. ➕/➖ **Pro/Con Box** — Include: **No** — the "what I liked" and "what it got wrong" H2s serve this purpose in prose, consistent with the series.
 
 > Use WordPress built-in block options — no custom HTML or plugins.
 
@@ -313,21 +293,18 @@ Cluster context instead (these are the sibling pages this article will sit along
 
 | Field | Value |
 |-------|-------|
-| Featured Snippet Present | **No** |
-| Current Holder | None — no featured snippet exists for this keyword |
-| Snippet Format | N/A |
+| Featured Snippet Present | **No** — Ahrefs `serp_features` returns `["image"]` only |
+| Current Holder | None |
+| Snippet Format | n/a |
 
-**The only SERP feature for `intercom pitch deck` is an image pack.** Ahrefs `serp_features` returns `["image"]` and nothing else — no featured snippet, no People Also Ask, no video carousel.
+**To capture the snippet:**
+There is no featured snippet on this SERP to capture, and no PAA box. Do not contort the article chasing one. Instead:
 
-**What to optimize for instead — the image pack:**
-- Upload all 8 slide images as separate, properly named files (`intercom-pitch-deck-slide-3-problem.png`, not `image3.png`)
-- Write descriptive, keyword-bearing alt text on every slide image (see Section 6 guidelines)
-- Serve images at a consistent aspect ratio and at least 1200px wide
-- Place each image immediately under its Slide H3 so the surrounding text reinforces the image's topic
+- **Target the image pack at position 5** (currently [SlideShare](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417) and [Startups.com](https://www.startups.com/articles/redesign-of-intercoms-first-pitch-deck)). This is the only SERP feature available. Win it with 8 properly named, properly alt-texted, compressed slide images.
+- **Open the article with a direct-answer paragraph.** Place a 40-55 word answer to "what was in Intercom's pitch deck and how much did it raise?" in the first two sentences after the H1. If Google later generates a snippet for this query, this is what it will pull. It also serves AI Overview and LLM citation extraction, which is where a low-volume branded query like this earns disproportionate value.
 
-**Defensive snippet play:** Although no snippet exists today, one may appear once genuine analytical content ranks. Structure the answer to *"How many slides was Intercom's pitch deck?"* as a direct one-sentence paragraph in the opening of "Detailed Intercom pitch deck analysis" — e.g., *"Intercom's first pitch deck was eight slides: title, team, problem, solution, market, competitive landscape, progress, and the ask."* That sentence is snippet-shaped if Google ever generates one.
-
-**PAA (People Also Ask) Targets:** None exist for this keyword. All seven FAQ questions in Section 4 are sourced from Ahrefs keyword data, competitor gaps, and cluster patterns instead.
+**PAA (People Also Ask) Targets:**
+None — this keyword has no PAA box. The five FAQ questions in the writer doc were sourced from Ahrefs keyword data and reader-gap analysis instead, and are documented with their sources in Group 4.
 
 ---
 
@@ -337,20 +314,20 @@ Cluster context instead (these are the sibling pages this article will sit along
 
 | Option | Title | Characters |
 |--------|-------|-----------|
-| **Primary** | Intercom Pitch Deck That Raised $600K (8 Slides) | 47 chars |
-| Alt 1 | Intercom Pitch Deck: The 8 Slides That Raised $600K | 50 chars |
-| Alt 2 | Intercom Pitch Deck Breakdown: All 8 Slides Reviewed | 51 chars |
+| **Primary** | Intercom Pitch Deck: 8 Slides, $600K Raised (2011) | 50 chars |
+| Alt 1 | Intercom Pitch Deck Breakdown: All 8 Slides Reviewed | 51 chars |
+| Alt 2 | Intercom Pitch Deck: The Deck That Raised $600K | 46 chars |
 
-**Rules applied:** ✓ Primary keyword at the front ✓ Under 60 characters ✓ Includes a specific number and dollar figure ✓ Matches informational + branded intent ✓ Consistent with sibling cluster naming
+**Rules applied:** ✓ Primary keyword at the front ✓ Under 60 characters ✓ Includes numbers ($600K, 8 slides) ✓ Matches informational + branded intent ✓ Distinct from the H1
 
 ### Meta Description
 
 | Option | Description | Characters |
 |--------|------------|-----------|
-| **Primary** | See all 8 slides of Intercom's 2011 pitch deck that raised $600K — plus what the deck got right, what it missed, and what it means for your own raise. | 150 chars |
-| Alt | Intercom's first pitch deck was 8 plain slides — and it raised $600K. Here's the full slide-by-slide breakdown and what you can copy for your deck. | 146 chars |
+| **Primary** | See all 8 slides of Intercom's first pitch deck — the one that raised $600K in 2011 with almost no traction — reviewed slide by slide. | 133 chars |
+| Alt | Intercom raised $600K on 8 plain slides and no traction. Here's the full deck, reviewed slide by slide, and what still works today. | 130 chars |
 
-**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Value proposition and implied CTA ✓ Matches search intent ✓ Signals both the slides and the analysis
+**Rules applied:** ✓ Primary keyword included ✓ Under 155 characters ✓ Leads with the reader's payoff (see the slides) ✓ Matches search intent ✓ Uses the no-traction hook as the differentiator
 
 ---
 
@@ -358,65 +335,65 @@ Cluster context instead (these are the sibling pages this article will sit along
 
 ### Internal Links TO existing Upmetrics pages (from this new article)
 
-> Ranked by topical relevance first, GSC performance as tiebreaker.
+> Ranked by GSC clicks (90d, descending) where available. All 10 URLs verified live (HTTP 200) on 2026-09-09.
 
 | # | Page | GSC Clicks (90d) | GSC Position | Anchor Text | Place In Section | Context |
 |---|------|-----------------|-------------|-------------|-----------------|---------|
-| 1 | [Pitch Deck Team Slide Guide](https://upmetrics.co/blog/team-slide-pitch-deck) | — | — | "how to design a team slide" | H2: Detailed Intercom pitch deck analysis → Slide 2 | In the paragraph explaining why the founders led with credentials, after noting they sold Exceptional and Qwitter |
-| 2 | [Pitch Deck Competition Slide](https://upmetrics.co/blog/pitch-deck-competition-slide) | — | — | "competition slide" | H2: Detailed Intercom pitch deck analysis → Slide 6 | Directly after describing the four competitor categories Intercom listed |
-| 3 | [Stripe Pitch Deck](https://upmetrics.co/pitch-deck-examples/stripe) | 309 | 8.1 | "Stripe's pitch deck" | H2: What did I like the most about this deck? | When contrasting Intercom's plainness with another B2B SaaS deck that also won on substance |
-| 4 | [Should Your Pitch Deck Have 10 Slides? 15? or 20?](https://upmetrics.co/newsletter/should-your-pitch-deck-have-10-slides-15-or-20) | — | — | "how many slides your deck should have" | H2: Where this deck would fall short today | In the paragraph arguing 8 slides is below today's norm |
-| 5 | [What are Funding Rounds?](https://upmetrics.co/blog/funding-rounds) | — | — | "convertible note" | H2: Detailed Intercom pitch deck analysis → Slide 8 | On first use of "convertible note," immediately before explaining the 18-month runway |
-| 6 | [How to Get Funding from Angel Investors](https://upmetrics.co/blog/angel-investor-funding) | — | — | "angel investors" | H2: About Intercom (then vs. now) | In the sentence naming Biz Stone and Naval Ravikant as backers |
-| 7 | [What Investors Want to See in Pitch Decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | — | — | "what investors actually look for" | H2: What did I like the most about this deck? | In the closing paragraph, after summarising the deck's strengths |
-| 8 | [Buffer Pitch Deck](https://upmetrics.co/pitch-deck-examples/buffer) | — | — | "Buffer's deck" | H2: What the deck promised vs. what actually happened | When noting other founders who showed honest, unpolished numbers |
-| 9 | [OpenAI's Pitch Deck](https://upmetrics.co/pitch-deck-examples/openai) | 553 | 7.2 | "OpenAI's pitch deck" | H2: Where this deck would fall short today | When contrasting a 2011 deck against a modern one |
-| 10 | [AI Plan Generator](https://upmetrics.co/features/ai-plan-generator) | — | — | "build your plan and deck" | H2: Perfect your deck and pitch using Upmetrics | Standard product CTA placement — the only sales page in this list |
+| 1 | [Stripe Pitch Deck That Raised $4.5B](https://upmetrics.co/pitch-deck-examples/stripe) | 309 | 8.1 | "Stripe's pitch deck" | H2: What did I like the most about this deck? | In the paragraph contrasting pre-seed decks with later-stage decks — Stripe is the closest B2B SaaS comparison |
+| 2 | [OpenAI's Pitch Deck: Full Slide Review](https://upmetrics.co/pitch-deck-examples/openai) | 553 | 7.2 | "other famous pitch decks" | Intro | In the final intro sentence, pointing readers to the wider series |
+| 3 | [Pitch deck examples](https://upmetrics.co/pitch-deck-examples) | — (hub) | — | "pitch deck examples" | Intro | First paragraph — series context; this is the parent hub |
+| 4 | [Notion Pitch Deck: Raised $2M in Seed Round](https://upmetrics.co/pitch-deck-examples/notion) | 25 | 6.2 | "Notion's seed deck" | H2: Detailed analysis → Slide 6 (Progress) | Where you contrast Intercom's thin traction against a deck that had it |
+| 5 | [What Investors Want to See in Pitch Decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | — | — | "what investors want to see" | H2: What the deck got wrong (and why it still worked) | Second paragraph, after explaining why investors forgave the missing traction |
+| 6 | [How to Make a Pitch Deck](https://upmetrics.co/blog/how-to-make-pitch-deck) | — | — | "how to make a pitch deck" | H2: Perfect your deck and pitch using Upmetrics | Opening sentence of the section, before the product mention |
+| 7 | [AI Pitch Deck Generator](https://upmetrics.co/features/pitch-deck) | — | — | "AI pitch deck generator" | H2: Perfect your deck and pitch using Upmetrics | Product link — **use only one product link per paragraph** |
+| 8 | [Pitch Deck Design Services](https://upmetrics.co/services/pitch-deck) | — | — | "pitch deck design services" | H2: Perfect your deck and pitch using Upmetrics | Second paragraph of the section, as the done-for-you alternative |
+| 9 | [Pitch Deck Competition Slide](https://upmetrics.co/blog/pitch-deck-competition-slide) | — | — | "competition slide" | H2: Detailed analysis → Slide 5 (Competition) | Inline, on the phrase "competition slide," in the first paragraph |
+| 10 | [How to Design the Pitch Deck Team Slide](https://upmetrics.co/blog/team-slide-pitch-deck) | — | — | "team slide" | H2: Detailed analysis → Slide 1 (Team) | Inline, on the phrase "team slide," in the first paragraph |
 
-> **Sales/product page count: 1 of 10** — within the 2-page cap. The article stays educational.
+> **Sales/product page cap observed:** 2 (`/features/pitch-deck`, `/services/pitch-deck`) — both confined to the single Upmetrics section. No FreeTool or `/ai-tools/` pages selected; none were topically relevant.
 
 ### Internal Links FROM existing pages back to this new article
 
 | # | Page | Where to Add Link | Suggested Sentence |
 |---|------|------------------|-------------------|
-| 1 | [Stripe Pitch Deck](https://upmetrics.co/pitch-deck-examples/stripe) | In "What did I like the most about this deck?" | "For another B2B SaaS deck that won on substance over design, see the [Intercom pitch deck](https://upmetrics.co/pitch-deck-examples/intercom) →" |
-| 2 | [Should Your Pitch Deck Have 10 Slides? 15? or 20?](https://upmetrics.co/newsletter/should-your-pitch-deck-have-10-slides-15-or-20) | In the section arguing for fewer slides | "Intercom raised $600K on eight slides — [here's every one of them](https://upmetrics.co/pitch-deck-examples/intercom)." |
-| 3 | [Pitch Deck Competition Slide](https://upmetrics.co/blog/pitch-deck-competition-slide) | Near the examples section | "Intercom listed 15 competitors across four categories on a single slide — [see how it worked](https://upmetrics.co/pitch-deck-examples/intercom)." |
-| 4 | [What are Funding Rounds?](https://upmetrics.co/blog/funding-rounds) | In the convertible note explanation | "For a real example, Intercom's seed deck asked for a $600K convertible note — [see the ask slide](https://upmetrics.co/pitch-deck-examples/intercom)." |
+| 1 | [Pitch deck examples hub](https://upmetrics.co/pitch-deck-examples) | Deck listing grid | Add Intercom as a new card in the series grid — this is the primary equity path |
+| 2 | [Stripe Pitch Deck](https://upmetrics.co/pitch-deck-examples/stripe) | In the "what you can learn" closing section | "For a look at what a deck looks like *before* traction, see the [Intercom pitch deck →](https://upmetrics.co/pitch-deck-examples/intercom)" |
+| 3 | [Buffer Pitch Deck](https://upmetrics.co/pitch-deck-examples/buffer) | Closing section | "Intercom raised on a convertible note with a similar early-stage story — [read the breakdown →](https://upmetrics.co/pitch-deck-examples/intercom)" |
+| 4 | [What Investors Want to See in Pitch Decks](https://upmetrics.co/blog/what-investors-want-to-see-in-pitch-decks) | After the section on traction expectations | "Intercom raised $600K with almost no traction — [here's how the deck handled it →](https://upmetrics.co/pitch-deck-examples/intercom)" |
 
-**Hub/Pillar page:** [Pitch Deck Examples](https://upmetrics.co/pitch-deck-examples/) — this article serves as a spoke piece in the existing 18-page `pitch-deck` cluster.
+**Hub/Pillar page:** [Pitch deck examples](https://upmetrics.co/pitch-deck-examples) — this article is a **spoke** in the 18-post `/pitch-deck-examples/` cluster.
 
 ### External Sources to Cite
 
 | # | Source | URL | What to Reference |
 |---|--------|-----|------------------|
-| 1 | SlideShare (Eoghan McCabe's original upload) | [Intercom's first pitch deck](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417) | The canonical deck — source for all 8 slide images and verbatim text |
-| 2 | Intercom blog | [Intercom's first pitch deck](https://www.intercom.com/blog/first-pitch-deck/) | Eoghan McCabe's own quote about raising $600K being "a monumental task" |
-| 3 | Salesforce Newsroom | [Salesforce Signs Definitive Agreement to Acquire Fin](https://www.salesforce.com/news/press-releases/2026/06/15/salesforce-signs-definitive-agreement-to-acquire-fin/) | The $3.6B acquisition, June 15 2026 — primary source |
-| 4 | CNBC | [Salesforce to buy AI customer service platform Fin for $3.6 billion](https://www.cnbc.com/2026/06/15/salesforce-ai-customer-service-fin-acquistion.html) | Independent confirmation of the deal terms and Agentforce integration plan |
-| 5 | Forrester (as cited on Slide 5) | Cite in-text as "Forrester, as cited in the deck" | The $21B → $93B-by-2016 SaaS market forecast — attribute to the deck, and note it was the deck's own sourcing |
+| 1 | Intercom (primary source) | [Intercom's first pitch deck](https://www.intercom.com/blog/first-pitch-deck/) | The original deck post by Eoghan McCabe (Apr 8, 2016) — cite as the source of the deck itself |
+| 2 | SlideShare | [Intercom's first pitch deck](https://www.slideshare.net/slideshow/intercoms-first-pitch-deck/60630417) | The full 8-slide deck; also where McCabe's own retrospective comment sits |
+| 3 | Index Ventures | [Intercom announces $125M Series D](https://www.indexventures.com/perspectives/intercom-announces-125-million-series-d-round/) | Later-round funding context for the then-vs-now section |
+| 4 | TechCrunch | [Intercom raises $125 million](https://techcrunch.com/2018/03/27/intercom-raises-125-million-to-take-on-salesforce/) | Series D at a $1.275B valuation (Kleiner Perkins–led, Mar 2018) |
+| 5 | Sacra | [Intercom revenue, valuation & funding](https://sacra.com/c/intercom/) | Current ARR / valuation figures for the "now" column |
+| 6 | Contrary Research | [Intercom Business Breakdown & Founding Story](https://research.contrary.com/company/intercom) | Founding story and business model context |
 
-**Preferred source types:** Primary sources (the deck itself, company newsroom), established business press (CNBC), and the original research firm named on the slide.
+**Preferred source types:** primary company sources, the original deck, tier-1 tech press (TechCrunch), and named funding/market-data providers.
 
-> ⚠️ **NEVER link to direct competitors.** Blocked per `$COMPETITOR_DOMAINS`: liveplan.com, bizplan.com, enloop.com, planguru.com, growthink.com, bplans.com, planful.com, planbuilr.com, bizplanr.com.
->
-> ⚠️ **Additional do-not-link warning for this article:** The Startups.com teardown is republished at **bizplan.com/library/expert-advice/redesign-of-intercoms-first-pitch-deck** — bizplan.com is on the blocked list. Do not link to either URL. Also avoid linking to InkNarrates, Slidebean, BaseTemplates, PitchDeckHunt and BestPitchDeck — they are direct SERP competitors for this exact keyword.
+> ⚠️ **NEVER link to direct competitors:** liveplan.com, bizplan.com, enloop.com, planguru.com, growthink.com, bplans.com, planful.com, planbuilr.com, bizplanr.com.
+> ⚠️ **Also avoid linking to** slidebean.com, basetemplates.com, pitchdeckhunt.com, bestpitchdeck.com and inknarrates.com — these are the direct SERP rivals for this exact keyword.
 
 ### Linkable Asset Opportunities
 
 **🔗 Linkable Asset 1:**
-- **Section:** H2: What the deck promised vs. what actually happened
-- **Type:** Original analysis / reference table
-- **Description:** A three-column table auditing every claim the 2011 deck made — the $600K ask, the 18-month runway, the profitability plan, the $93B market forecast — against what actually occurred by 2026.
-- **Why it's linkable:** No page anywhere has audited this deck's claims against outcomes. It is citable by anyone writing about pitch decks, SaaS market forecasts, or the Salesforce/Fin deal.
-- **Writer instruction:** Build this so it stands alone. Someone should be able to screenshot just this table and have it make sense without the surrounding article.
+- **Section:** H2: Detailed Intercom pitch deck analysis (slide-by-slide)
+- **Type:** Complete annotated slide set
+- **Description:** All 8 slides of the Intercom deck, individually captured, captioned, and annotated with what each slide was doing — the only such set on the open web
+- **Why it's linkable:** The best-written competitor has no images; the best-illustrated has 6 of 8 slides and 575 words. Anyone writing about Intercom's deck will need a complete visual reference.
+- **Writer instruction:** Name and alt-text every image so it stands alone if someone hotlinks or cites a single slide.
 
 **🔗 Linkable Asset 2:**
-- **Section:** H2: Detailed Intercom pitch deck analysis (slide-by-slide)
-- **Type:** Complete reference set
-- **Description:** All 8 slides reproduced with working images and full transcribed text.
-- **Why it's linkable:** Currently the only complete, working reproduction outside SlideShare. Alexander Jarvis's version is broken; InkNarrates has no images at all.
-- **Writer instruction:** Transcribe the slide text accurately and completely — do not paraphrase. The verbatim text is the asset.
+- **Section:** H2: About Intercom (then vs. now)
+- **Type:** Reference table / verified data
+- **Description:** Late-2011 vs. 2026 comparison — funding stage, raise, valuation, customers, ARR — with each figure sourced and hyperlinked
+- **Why it's linkable:** Every competitor's Intercom funding data is stale or contradictory ($241M / $240.8M / $115.75M, wrong years, wrong stage). A correctly-dated, sourced table becomes the thing people cite.
+- **Writer instruction:** Hyperlink the number itself out to the source (series house style). Re-verify every figure the week of publication.
 
 ---
 
@@ -424,33 +401,34 @@ Cluster context instead (these are the sibling pages this article will sit along
 
 | Field | Value |
 |-------|-------|
-| YMYL Classification | YMYL-adjacent — startup fundraising affects financial decisions, but this is a historical case study, not financial advice |
-| EEAT Priority | Medium |
+| YMYL Classification | YMYL-adjacent — it touches startup fundraising, but it is a historical case study, not financial advice |
+| EEAT Priority | Medium-High |
 
 **Author requirements:**
-- Recommended profile: Someone who has built or reviewed investor decks — a startup advisor, founder, or the Upmetrics pitch team
-- Author bio should mention: hands-on pitch deck or fundraising experience
-- Byline visible: Yes — with photo, name, title, and 1-2 sentence bio
+- Recommended profile: founder or investor-facing operator who has built and pitched decks
+- Author bio should mention: direct experience reviewing pitch decks and working with early-stage founders
+- Byline visible: Yes — Vinay Kevadiya (Founder & CEO, Upmetrics), with photo, name, title and 1-2 sentence bio, consistent with the rest of the series
 
 **Experience signals (add to these sections):**
-- H2: What did I like the most about this deck? — First-person verdict, consistent with the house voice used across the cluster ("What did I like the most…")
-- H2: Where this deck would fall short today — First-person judgment on what a 2026 investor would push back on
+- H2: Detailed analysis — first-person judgment on each slide ("I like that they put the team first, because…"), matching series voice
+- H2: What the deck got wrong (and why it still worked) — first-person critique; say plainly what you would not copy
 
 **Expertise signals (add to these sections):**
-- H2: About Intercom (then vs. now) — Cite the Salesforce press release directly for the $3.6B figure
-- H2: Detailed Intercom pitch deck analysis → Slide 5 — Name Forrester as the deck's own source for the market figures, and note the deck cited a third party rather than asserting the number
-- H2: Detailed Intercom pitch deck analysis → Slide 8 — Explain convertible note mechanics accurately: it converts to equity at a later priced round, which is why a pre-revenue company could raise without setting a valuation
+- H2: About Intercom (then vs. now) — cite Sacra / TechCrunch / Index Ventures for funding and revenue figures
+- H2: Detailed analysis → Slide 4 (Market) — note that the $21B→$93B projection is a 2011-era forecast and say whether it held up
+- H2: Detailed analysis → Slide 6 (Progress) — reference Jason Fried's endorsement as the actual social-proof mechanism
 
 **Trust signals:**
-- Salesforce Newsroom (primary source) → use in H2: About Intercom (then vs. now)
-- CNBC → use in H2: What the deck promised vs. what actually happened
-- The original SlideShare deck → use throughout H2: Detailed Intercom pitch deck analysis
+- Intercom's own blog + SlideShare (primary sources) → use in intro and the slide-by-slide section
+- TechCrunch / Index Ventures → use in H2: About Intercom (then vs. now)
+- Sacra → use in H2: About Intercom (then vs. now)
 
 **Competitor EEAT comparison:**
-- 2 of 5 competitors have visible author bios
-- 1 of 5 competitors cite authoritative sources
-- 0 of 5 competitors include original data or analysis
-- **Our EEAT advantage:** We are the only page citing primary sources (Salesforce newsroom, the deck itself) and the only one performing original analysis. We are also the only page with correct facts — BaseTemplates publishes the wrong year (2012) and the wrong amount ($241M) for this deck.
+- 3 of 5 competitors have visible author bios (Intercom/McCabe, Startups.com/Caya, Alexander Jarvis)
+- 2 of 5 cite authoritative sources
+- 0 of 5 include original data
+- 2 of 5 show a clear publication date
+- **Our EEAT advantage:** named CEO byline + complete primary-source slide set + verified, sourced 2026 figures + visible publish/updated dates. No competitor has all four.
 
 ### Content Freshness & Maintenance
 
@@ -459,26 +437,23 @@ Cluster context instead (these are the sibling pages this article will sit along
 | Signal | Value |
 |--------|-------|
 | Competitors using year in title | 0 of 5 |
-| Competitors with "last updated" | 1 of 5 (Intercom.com shows April 8, 2016) |
-| Time-sensitive data in SERP results | **Yes — critically so** |
-
-**Why freshness matters unusually much here:** The subject company **renamed itself to Fin in May 2026** and **agreed to a $3.6B Salesforce acquisition in June 2026**. Every ranking page predates this. Any page that reflects the 2026 reality is materially more accurate than the entire current SERP, and that gap will only widen when the deal closes.
+| Competitors with "last updated" | 0 of 5 |
+| Time-sensitive data in SERP results | Yes — every competitor's funding/valuation data is stale |
 
 **Freshness strategy for this article:**
-- Include year in title: **No** — the siblings don't, and the article is about a 2011 artifact, not a current-year roundup
-- Include year in meta description: **No** — "2011" already appears, which anchors it correctly
-- Show "last updated" date: **Yes** — strongly recommended here given the pending acquisition
+- Include year in title: **No** — the deck is a fixed 2011 artifact and no competitor uses a year. A year in the title would date the article rather than the deck.
+- Include year in meta desc: **Yes** — "2011" identifies *the deck*, which is a genuine differentiator given competitors misdate it as 2012.
+- Show "last updated" date: **Yes** — this is our main freshness signal on a SERP where nobody has one.
 
 **Sections containing time-sensitive content:**
-- H2: About Intercom (then vs. now) — contains: current ARR ($400M), customer count (30K), the Fin rename, and the pending Salesforce acquisition — **Update trigger:** when the acquisition closes (Salesforce expects before the end of its Q4 FY2027), or if terms change
-- H2: What the deck promised vs. what actually happened — contains: the $3.6B exit figure — **Update trigger:** same as above
-
-> ⚠️ **Writer accuracy note:** The acquisition is *signed and announced*, not *completed*. Write it as "agreed to acquire" / "pending regulatory approval," never as "was acquired." Getting this wrong is the one factual error that would undercut the article's main advantage.
+- H2: About Intercom (then vs. now) — contains ARR, valuation, customer count, total funding — **Update trigger:** any new funding round, or every 6 months
+- H2: Detailed analysis → Slide 4 (Market) — contains the 2011 market projection and whether it held — **Update trigger:** annually
+- H2: Perfect your deck and pitch using Upmetrics — contains pricing ("plans starting from $14/month") — **Update trigger:** any pricing change
 
 **Recommended review schedule:**
 
 | Field | Value |
 |-------|-------|
-| SERP Volatility | Low — the top results have been stable for years and are mostly static repository pages |
-| First Review | 3 months from publish |
-| Reason | Not because the SERP is volatile, but because the Salesforce/Fin transaction is expected to close within the review window and the "then vs. now" section will need updating. |
+| SERP Volatility | Low — the top 4 have been stable for years and 3 of 5 competitors haven't been updated since 2016-2018 |
+| First Review | 6 months from publish |
+| Reason | Low SERP volatility, but Intercom's own numbers move fast (ARR went $382M → $400M in four months). The competitive position is safe; the facts are not. |

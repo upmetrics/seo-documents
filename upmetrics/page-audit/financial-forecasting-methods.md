@@ -56,11 +56,12 @@
 | 3 | **P1** | Meta | Rewrite title tag | Dev | Copy-paste from Title & Meta Copy block below | §5 |
 | 4 | **P1** | Meta | Rewrite meta description (currently 161 chars — 1 over limit) | Dev | Copy-paste from Title & Meta Copy block below | §5 |
 | 5 | **P1** | Investigation | Diff the 22 May 2026 revision against the April version in WordPress | SEO Team | Ranking fell from ~pos 12 to ~pos 55 in the same month the page was modified. Identify what was removed/changed and restore anything of value before re-publishing. | §3 |
-| 6 | **P2** | Technical | Add `Person` schema `jobTitle` + `sameAs` to strengthen author entity | Dev | Author bio, photo and Person schema already exist — only the credential properties are thin. | §8 |
-| 7 | **P2** | Internal Link | Add in-content link to [https://upmetrics.co/blog/chatgpt-for-financial-forecasting](https://upmetrics.co/blog/chatgpt-for-financial-forecasting) from the new AI-forecasting section | SEO Team | Anchor: `use ChatGPT for financial forecasting`. Page already linked from this article — confirmed live. | §7B |
-| 8 | **P2** | Internal Link | Add in-content link to [https://upmetrics.co/blog/budgeting-vs-forecasting](https://upmetrics.co/blog/budgeting-vs-forecasting) | SEO Team | Anchor: `budgeting vs. forecasting`. Keeps the "vs budgeting" comparison OFF this page to avoid new cannibalization. | §7B |
-| 9 | **P2** | Content Asset | Move the downloadable template CTA **inside** the content area | Dev | Both current template links sit outside `.blog-content-area`. Competitors C6 and C9 gate real downloads in-body. | §6 |
-| 10 | **P3** | Backlinks | Build referring domains — page has 3, SERP median is 34 | Link Builder | Target finance/SMB newsletters and accounting blogs. Note: Anaplan ranks #8 with only 4 refdomains, so this is a supporting action, not the blocker. | §7E |
+| 6 | **P1** | External Link / Accuracy | Replace the GASB citation — the page names the wrong standards body | Dev | The page states GAAP is "set by GASB". GASB sets GAAP for **state and local governments**; **FASB** sets it for private companies. Replace the link to [https://www.gasb.org/](https://www.gasb.org/) with [https://fasb.org/](https://fasb.org/) and correct the acronym in the sentence. | §8 |
+| 7 | **P2** | Technical | Add `Person` schema `jobTitle` + `sameAs` to strengthen author entity | Dev | Author bio, photo and Person schema already exist — only the credential properties are thin. | §8 |
+| 8 | **P2** | Internal Link | Add in-content link to [https://upmetrics.co/blog/chatgpt-for-financial-forecasting](https://upmetrics.co/blog/chatgpt-for-financial-forecasting) from the new AI-forecasting section | SEO Team | Anchor: `use ChatGPT for financial forecasting`. Page already linked from this article — confirmed live. | §7B |
+| 9 | **P2** | Internal Link | Add in-content link to [https://upmetrics.co/blog/budgeting-vs-forecasting](https://upmetrics.co/blog/budgeting-vs-forecasting) | SEO Team | Anchor: `budgeting vs. forecasting`. Keeps the "vs budgeting" comparison OFF this page to avoid new cannibalization. | §7B |
+| 10 | **P2** | Content Asset | Move the downloadable template CTA **inside** the content area | Dev | Both current template links sit outside `.blog-content-area`. Competitors C6 and C9 gate real downloads in-body. | §6 |
+| 11 | **P3** | Backlinks | Build referring domains — page has 3, SERP median is 34 | Link Builder | Target finance/SMB newsletters and accounting blogs. Note: Anaplan ranks #8 with only 4 refdomains, so this is a supporting action, not the blocker. | §7E |
 
 ### Title & Meta Copy (ready to copy-paste)
 
@@ -316,7 +317,7 @@ Every URL below is verified — each already appears either in the target page's
 
 | # | Anchor Text | Target URL | Issue | Fix |
 |---|------------|-----------|-------|-----|
-| 1 | `GASB` | [https://www.gasb.org/](https://www.gasb.org/) | **Audience mismatch.** GASB sets accounting standards for US *state and local governments*. On an article written for small business owners it is not a relevant authority, and it is the page's only genuine outbound citation. | Replace with an SMB-relevant authority (SBA, IRS, Federal Reserve small-business surveys, or SCORE). Specific replacement citations are specified per-section in the Content Update Brief. |
+| 1 | `GASB` | [https://www.gasb.org/](https://www.gasb.org/) | **Factually incorrect, not merely mismatched.** The page states GAAP is "set by GASB". GASB sets accounting standards for US *state and local governments*; **FASB** sets GAAP for private companies. The claim is wrong for this audience, and this is the page's only genuine outbound citation. See Section 8 → Factual Accuracy Errors. | Replace "GASB" with "FASB" and repoint the link to [https://fasb.org/](https://fasb.org/). Then add SMB-relevant supporting authorities (SBA, IRS, Federal Reserve small-business credit surveys, SCORE) — specified per-section in the Content Update Brief. |
 
 **No competitor-domain links found.** None of the outbound links point to any domain in `COMPETITOR_DOMAINS` (liveplan.com, bizplan.com, enloop.com, planguru.com, growthink.com, bplans.com, planful.com, planbuilr.com, bizplanr.com) — clean.
 
@@ -357,11 +358,22 @@ Read from `verified-facts.json`. **The author signals on this page are already s
 
 **Signals where the target page already matches or beats the SERP (no action):** author name present · author bio present · author photo present · publish date visible · last-updated date visible (2026-05-22) · `Person` + `Article` + `FAQPage` schema implemented · FAQ block present (6 questions).
 
+### Factual Accuracy Errors — verified, P1
+
+Two verifiable factual errors were found during content analysis. Both are on a finance page giving money advice to small business owners, which makes them materially more damaging than ordinary style issues.
+
+| # | Error | Exact quote from page | Location | Verification | Fix |
+|---|-------|----------------------|----------|--------------|-----|
+| 1 | **The worked regression example does not apply its own formula, and states the wrong answer.** | "Using the formula, a company would earn a revenue of $85,000 if they spent $10,000 on advertisements." | H3: 3. Simple linear regression: To forecast the impact of one variable on another | The page's own data table (July–November: $5k→$50k, $6k→$60k, $7k→$65k, $8k→$75k, $9k→$85k) yields a least-squares fit of **Y = 7,500 + 8.5X**. At X = $10,000 that gives **$92,500**. The stated $85,000 is simply November's revenue restated — the December row is left as "(?)" and the formula introduced two paragraphs earlier is never actually used. | Correct the figure to **$92,500** and show the substitution (7,500 + 8.5 × 10,000). Full rewrite instructions are in the Content Update Brief. |
+| 2 | **The page names the wrong accounting standards body.** | "Make sure that you follow the GAAP guidelines (generally accepted accounting principles) set by GASB while building assumptions for your forecast." | H3: 6. Market research method: To use consumer insights | **GASB** (Governmental Accounting Standards Board) sets GAAP for US **state and local governments**. **FASB** (Financial Accounting Standards Board) sets GAAP for private companies and nonprofits — i.e. the audience of this article. | Replace "GASB" with "FASB" and repoint the link to [https://fasb.org/](https://fasb.org/). See Master Action Table item 6. |
+
+Error 1 is the more serious of the two for E-E-A-T: a reader who follows along with the maths will find the article's only regression demonstration does not work. It also undercuts the immediately following line — "Now if you're a math wizard you can go on to calculate using the formula" — which invites exactly that check.
+
 ### Citation Audit
 
 | Citation | URL Status | Source Quality | Issue (if any) |
 |----------|-----------|---------------|----------------|
-| GASB | [https://www.gasb.org/](https://www.gasb.org/) — live | High authority, but for **government** accounting standards | Audience mismatch on an SMB-focused article. See 7D for the fix. |
+| GASB | [https://www.gasb.org/](https://www.gasb.org/) — live | High authority, but for **government** accounting standards | **Factually incorrect attribution** (see Factual Accuracy Errors item 2) *and* an audience mismatch on an SMB-focused article. See 7D and Master Action Table item 6. |
 
 This is the page's only genuine outbound citation. The remaining 4 external links are Upmetrics' own social profiles (YouTube, Facebook, X, LinkedIn), which carry no citation value.
 

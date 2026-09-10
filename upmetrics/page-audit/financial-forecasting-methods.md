@@ -67,13 +67,13 @@
 
 ```
 Title Tag (OLD): 6 Financial Forecasting Methods for Small Businesses - Upmetrics  (64 chars)
-Title Tag (NEW): 9 Financial Forecasting Methods for Small Businesses (2026)  (59 chars)
+Title Tag (NEW): 10 Financial Forecasting Methods for Small Businesses (2026)  (60 chars)
 
 Meta Description (OLD): Discover the top financial forecasting methods and choose the right one for your business. Read now and conduct accurate financial forecasting for your business.  (161 chars)
-Meta Description (NEW): Compare 9 financial forecasting methods for small businesses, from straight-line to AI-driven rolling forecasts, with worked examples and when to use each.  (155 chars)
+Meta Description (NEW): Compare 10 financial forecasting methods for small businesses, from straight-line to AI-driven rolling forecasts, with worked examples and when to use each.  (156 chars)
 ```
 
-**Why the new title works:** keeps the exact-match primary keyword in front position, retains the "for Small Businesses" qualifier that is the page's only real differentiator on this SERP (no top-10 result is written for SMBs), adds the year signal that the AI-Overview-cited HighRadius result already carries in its live title (`Financial Forecasting Models: 8 Types, Methods & Examples [2026]`), and drops the redundant "- Upmetrics" suffix to buy characters. The count rises from 6 to 9 to match the expanded method list defined in the Update Brief.
+**Why the new title works:** keeps the exact-match primary keyword in front position, retains the "for Small Businesses" qualifier that is the page's only real differentiator on this SERP (no top-10 result is written for SMBs), adds the year signal that the AI-Overview-cited HighRadius result already carries in its live title (`Financial Forecasting Models: 8 Types, Methods & Examples [2026]`), and drops the redundant "- Upmetrics" suffix to buy characters. The count rises from 6 to 10 to match the expanded method list defined in the Update Brief (six quantitative, two qualitative, two continuous).
 
 ---
 
@@ -184,7 +184,7 @@ Every one of these six queries earns impressions and **zero to one clicks**. The
 |---|-------|---------|-----|------------|
 | 1 | Meta description exceeds 160 characters | 161 chars — will truncate in SERP | See Section 2 Title & Meta Copy for rewrite | Truncated snippet, weaker CTR |
 | 2 | Title tag at upper bound and carries a redundant brand suffix | 64 chars, ends `- Upmetrics` | See Section 2 Title & Meta Copy for rewrite | Truncation risk; wasted characters that could carry a freshness or qualifier signal |
-| 3 | Title/H1 numeral will contradict the expanded content | Both say "6 ... Methods"; the Update Brief expands the list to 9 | Update both together when the content ships | A visible count mismatch is a trust and accuracy signal for both users and Google |
+| 3 | Title/H1 numeral will contradict the expanded content | Both say "6 ... Methods"; the Update Brief expands the list to 10 | Update both together when the content ships | A visible count mismatch is a trust and accuracy signal for both users and Google |
 | 4 | Downloadable assets sit outside the content area | Both template links (`/sample-business-plans`, `/download/business-plan-template`) are in nav/footer, `location: outside-content` | Place a relevant in-body download CTA (a forecasting template, not a business-plan template) | No in-content conversion asset; competitors C6 and C9 both gate real downloads in-body |
 | 5 | Only 1 genuine external citation on a 2,850-word finance article | GASB (nofollow) plus 4 social profile links | Add authoritative citations — see Section 8 | E-E-A-T deficit on a YMYL-adjacent finance topic |
 

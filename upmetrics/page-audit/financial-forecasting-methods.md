@@ -108,7 +108,7 @@ Meta Description (NEW): Compare 10 financial forecasting methods for small busin
 | types of forecasting | 971 | 1 | 12.8 | Requires an explicit **quantitative vs qualitative taxonomy** — used as a structural spine by C1, C3, C5 and C7, and absent from the target page. |
 | forecasting types | 789 | 1 | 12.0 | Same fix as above; these two queries are near-duplicates and should be served by one clearly-labelled section. |
 | forecasting methodologies | 106 | 0 | **5.2** | Already position 5 — closest to a page-1 win of any query. Low volume but a strong relevance signal. |
-| different forecasting methods | 78 | 0 | 10.2 | Directly served by widening the list from 6 to 9 methods. |
+| different forecasting methods | 78 | 0 | 10.2 | Directly served by widening the list from 6 to 10 methods. |
 | 4 basic types of forecasting | 64 | 0 | 9.7 | Matches NetSuite's "4 basic methods" framing — worth an explicit callout answering "what are the four main methods?" (also a live PAA question). |
 
 Every one of these six queries earns impressions and **zero to one clicks**. The cluster is impression-rich and click-poor because it never surfaces above the fold — the AI Overview plus 4 PAA questions push organic results down the page.

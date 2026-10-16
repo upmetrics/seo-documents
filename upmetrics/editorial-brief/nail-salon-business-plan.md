@@ -520,9 +520,9 @@
 | Section | Word Count | Paragraphs | Priority |
 |---------|-----------|------------|----------|
 | Introduction (how to use this sample) | ~170 | 4 short | 🔴 |
-| H2: Executive Summary | ~450 | 5 + table | 🔴 |
-| H2: Business Overview | ~420 | 4 + dated milestones | 🔴 |
-| H2: Market Analysis (incl. Target Customer Profile) | ~600 | 5–6 | 🔴 |
+| H2: Executive Summary | ~420 | 2 short + 2 bullet lists + table + ask | 🔴 |
+| H2: Business Overview | ~380 | lead-ins + bullets + dated milestones | 🔴 |
+| H2: Market Analysis (incl. Target Customer Profile) | ~520 | lead-ins + bullets | 🔴 |
 | H2: Competitive Analysis | ~380 | 3 + table | 🔴 |
 | H2: Services & Pricing | ~750 | 7 short H3s + price board | 🔴 |
 | H2: Booking, Rebooking & Client Retention | ~400 | 4 | 🔴 |
@@ -533,7 +533,7 @@
 | H2: Financial Plan | ~500 | 1–3 sentences per table + tables + 1 chart | 🔴 |
 | H2: Conclusion | ~150 | 2 | 🔴 |
 | FAQs (4 questions) | ~340 | — | 🟡 |
-| **TOTAL** | **~5,970** | | |
+| **TOTAL** | **~5,820** | | |
 
 ### The Outline
 
@@ -552,20 +552,26 @@
 ---
 
 #### H2: Executive Summary
-> ~450 words, 5 paragraphs + table | 🔴 MUST HAVE
-> 🎯 Our angle: Give the lender the whole salon on one page, starting with the owner and what clients get, and end with the ask.
+> ~420 words: 2 short paragraphs + 2 bullet lists + table + funding paragraph | 🔴 MUST HAVE
+> 🎯 Our angle: Give the lender the whole salon on one page, starting with the owner and what clients get, and end with the ask. Keep it scannable: short paragraphs, bold-label bullets, and the highlights table.
 > 🪝 Suggested hook: "Fernbright Nail Studio is a 10-station neighborhood nail salon opening in Ballantyne, in south Charlotte, on March 1, 2027, run by a licensed nail tech with 9 years behind the table and about 180 regular clients."
 > 🔗 Transition from previous: (first chapter of the plan — no transition needed)
-> 🚫 Avoid: Don't open with the funding request; it goes last. Don't list the whole service menu; give the price range only. Don't paste more than the Financial Highlights table here.
-> 📖 Reference: Reference 1's executive summary covers concept, location, owner, and funding in one block. Keep that flow in plain paragraphs, with Fernbright's real numbers.
+> 🚫 Avoid: Don't write the chapter as five or six paragraphs in a row; no paragraph longer than 3 sentences. Don't open with the funding request; it goes last. Don't list the whole service menu; give the price range only. Don't paste more than the Financial Highlights table here.
+> 📖 Reference: Reference 1's executive summary covers concept, location, owner, and funding in one block of prose. Keep its order but break it up: a short opening, two bullet lists, the table, then the ask.
 
-Cover, in this order:
-1. **The business:** manicures, pedicures, gel, dip powder, and soft-gel extensions at mid-market prices ($32–$88; $58 average ticket) in a 1,200 sq ft salon with 6 manicure tables and 4 pipeless pedicure chairs. Open seven days, with early-evening hours for people who work nearby. Opens Monday, March 1, 2027.
-2. **The owner:** Thao Bennett, licensed NC manicurist, 9 years in south Charlotte salons, the last 3 as lead tech at a busy SouthPark salon, where she trained 8 new techs and built a book of about 180 regulars. One or two lines.
-3. **The opportunity:** one sentence on Charlotte's growth: the city added 20,731 residents between July 2024 and July 2025, more than any other U.S. city, reaching 964,784 (link Charlotte Regional Business Alliance here, once). Then the local gap in one line: Ballantyne's office workers and residents choose between quick, inconsistent walk-in salons and upscale spas with $60–$75 gel manicures and long waits; few salons in between take online bookings for early-evening hours.
-4. **How it works:** Thao Bennett's regulars carry the first months; commission pay keeps labor in step with bookings; online booking, rebooking at checkout, and standing appointments bring clients back every 2–3 weeks.
-5. **Headline results:** revenue of $371,200 in Year 1, rising to $490,912 in Year 3. A pre-tax profit of $1,908 in Year 1 after $23,200 of one-time launch costs, then $35,339 and $49,819. Debt service coverage of 1.40× in Year 1 and 3.24× in Year 2.
-6. **The funding request (last):** $110,000 SBA 7(a) loan from Tessbrook Community Bank plus $40,000 owner equity, $150,000 total. Uses: $97,500 for build-out, pedicure chairs, stations, equipment, sign, and POS; $23,200 of one-time launch costs; $7,400 lease deposit; $3,200 prepaid insurance; and an $18,700 cash reserve.
+Write it in this shape and order:
+1. **Opening paragraph (2–3 sentences):** the hook above, then one sentence on what Fernbright does — manicures, pedicures, gel, dip powder, and soft-gel extensions at mid-market prices — for people who work and live in Ballantyne.
+2. **"Fernbright at a glance" — bold-label bullets, one line each:**
+   - **Services:** 9 services from $22 to $88; $58 average ticket after discounts.
+   - **Location:** 1,200 sq ft end unit in a grocery-anchored neighborhood center in Ballantyne, south Charlotte.
+   - **Salon:** 6 manicure tables with source-capture vents, 4 pipeless pedicure chairs.
+   - **Owner:** Thao Bennett, licensed NC manicurist; 9 years in south Charlotte salons, the last 3 as lead tech in SouthPark; trained 8 techs; about 180 regulars.
+   - **Team:** 4 full-time and 2 part-time techs on commission at opening.
+   - **Hours:** 7 days a week, to 7:30 PM on weekdays; opens Monday, March 1, 2027.
+3. **The opportunity (one short paragraph, 2 sentences):** Charlotte added 20,731 residents between July 2024 and July 2025, more than any other U.S. city, reaching 964,784 (link Charlotte Regional Business Alliance here, once). Ballantyne's office workers and residents choose between quick, inconsistent walk-in salons and upscale spas with $60–$75 gel manicures; few salons in between take online bookings for early-evening hours.
+4. **"How Fernbright fills its chairs" — three short bullets:** Thao Bennett's regulars carry the first months · commission pay keeps labor in step with bookings · online booking, rebooking at checkout, and standing appointments bring clients back every 2–3 weeks.
+5. **Financial highlights:** one sentence before the table — revenue of $371,200 in Year 1, rising to $490,912 in Year 3; a pre-tax profit of $1,908 in Year 1 after $23,200 of one-time launch costs, then $35,339 and $49,819; debt service coverage of 1.40× in Year 1 and 3.24× in Year 2. Then the Financial Highlights table.
+6. **The funding request (last):** one sentence — $110,000 SBA 7(a) loan from Tessbrook Community Bank plus $40,000 owner equity, $150,000 total — followed by a short use-of-funds list: $97,500 build-out, chairs, stations, equipment, sign, and POS · $23,200 one-time launch costs · $10,600 lease deposit and prepaid insurance · $18,700 cash reserve.
 
 > 🖼️ Visual: Render the **Financial Highlights** table (financial_highlights) from Section 6B here as a formatted data table. Alt text: "Fernbright Nail Studio financial highlights, Years 1 to 3."
 > 💡 ProTip: Pro Tip: If you are bringing your own clients, put the number in the executive summary. A lender reads an existing book of regulars as early revenue.
@@ -576,25 +582,41 @@ Cover, in this order:
 ---
 
 #### H2: Business Overview
-> ~420 words, 4 paragraphs + dated milestones | 🔴 MUST HAVE
+> ~380 words: short lead-ins + bullets under each H3 + milestone list | 🔴 MUST HAVE
 > 🎯 Our angle: Fernbright is a deliberately ordinary salon done well: mid-market prices, a menu clients already know, and a location chosen for weekday office traffic and weekend residents.
 > 🪝 Suggested hook: "Fernbright sells nothing unusual. Its clients come for a gel manicure that lasts three weeks, a pedicure chair that is clean every time, and an appointment that starts on time."
 > 🔗 Transition from previous: "Behind those numbers is a simple setup."
-> 🚫 Avoid: Don't list prices; those belong in Services & Pricing. Don't add a "What We Don't Offer" heading; state the scope in one sentence. Don't repeat the financials.
-> 📖 Reference: Reference 1's company overview gives the legal structure, location, and concept in one block. Keep it that short, and add why each choice keeps the salon busy.
+> 🚫 Avoid: Don't write any H3 as a single block of prose; each gets a one- or two-sentence lead-in and then bullets. Don't list prices; those belong in Services & Pricing. Don't add a "What We Don't Offer" heading. Don't repeat the financials.
+> 📖 Reference: Reference 1's company overview gives the legal structure, location, and concept in one paragraph. Split the same facts into labeled bullets so a lender can find each one.
 
-Add internal link "opening a nail salon" → https://upmetrics.co/blog/how-to-start-nail-salon-business in the sentence on Thao Bennett's decision to open her own salon.
+Open with the hook (2 sentences). Add internal link "opening a nail salon" → https://upmetrics.co/blog/how-to-start-nail-salon-business in a one-sentence line on why Thao Bennett is opening her own salon after 9 years at other people's tables.
 
 ##### H3: Ownership & Legal Structure
-> North Carolina single-member LLC formed December 2026, owned 100% by Thao Bennett, who invests $40,000 of personal savings and signs a personal guarantee on the SBA loan. Scope in one sentence: nail services only — no lashes, waxing, massage, or retail line.
+> Bold-label bullets, one line each:
+> - **Legal structure:** North Carolina single-member LLC, formed December 2026.
+> - **Ownership:** Thao Bennett, 100%; invests $40,000 of personal savings and personally guarantees the SBA loan.
+> - **Scope:** nail services only — no lashes, waxing, massage, or retail line.
 
 ##### H3: Location & Space
-> Ballantyne, in south Charlotte. A 1,200 sq ft end unit in a neighborhood shopping center with a grocery anchor, close to Ballantyne's office campus (about 250 companies, 4.5 million sq ft of office space — link the Ballantyne campus guide here) and the apartments and neighborhoods around it. Explain the choice in two sentences: the grocery anchor brings weekend residents, the offices bring weekday lunch-hour and after-5 PM clients, and the end unit gives window frontage and a sign facing the parking lot. Rent is $37/sq ft all-in ($3,700 a month), above Charlotte's $26.99 average asking rent, in a market with 3.4% vacancy (link the Matthews report here), which is why Fernbright signed for 10 years with a 5-year renewal option. Layout: 6 manicure tables with source-capture vents along one wall, 4 pipeless pedicure chairs on a raised platform at the back, a reception counter and polish wall at the front, and a back room for the autoclave, laundry, and supplies.
+> One lead-in sentence on why Ballantyne: the offices bring weekday lunch-hour and after-5 PM clients, and the grocery-anchored center brings weekend residents. Then bold-label bullets:
+> - **Area:** Ballantyne, south Charlotte, close to an office campus of about 250 companies and 4.5 million sq ft of office space (link the Ballantyne campus guide here), plus the apartments and neighborhoods around it.
+> - **Unit:** 1,200 sq ft end unit with window frontage and a sign facing the parking lot.
+> - **Lease:** $37/sq ft all-in ($3,700 a month), 10 years with a 5-year renewal option. Charlotte's average retail asking rent is $26.99 with 3.4% vacancy (link the Matthews report here), so Fernbright locked in a long term.
+> - **Layout:** reception counter and polish wall at the front; 6 vented manicure tables along one wall; 4 pipeless pedicure chairs on a raised platform at the back; back room for the autoclave, laundry, and supplies.
 
 ##### H3: Mission & Milestones
-> One-sentence mission (the same careful service on every visit, at a fair price, on time). Then a dated milestone line (not bullets of goals): November 2026 lease signed → January 2027 loan approved, build-out starts → February 2027 techs hired and trained, Board inspection, online booking opens February 15 → March 1, 2027 opening → May 2027 first Mother's Day and wedding season → February 2028 Year 1 closes at 6,400 visits and 150 online reviews → March 2028 seventh tech (part time) → March 2029 eighth tech (fifth full-time) → February 2030 Year 3 closes at 8,464 visits.
+> Mission in one line (the same careful service on every visit, at a fair price, on time). Then a dated bullet list, one line each:
+> - **November 2026:** lease signed
+> - **January 2027:** SBA loan approved; build-out starts
+> - **February 2027:** techs hired and trained; Board inspection; online booking opens February 15
+> - **March 1, 2027:** opening day
+> - **May 2027:** first Mother's Day and wedding season
+> - **February 2028:** Year 1 closes at 6,400 visits and 150 online reviews
+> - **March 2028:** seventh tech joins (part time)
+> - **March 2029:** eighth tech joins (fifth full-time)
+> - **February 2030:** Year 3 closes at 8,464 visits
 
-> 🖼️ Visual: Designed milestone timeline (horizontal, ~1200×300px) with the dates above. Lead into it with a bridge line ("The timeline below shows Fernbright's path from lease to Year 3:"). Alt text: "Fernbright Nail Studio milestones from lease signing in 2026 to Year 3."
+> 🖼️ Visual: Optional designed milestone timeline (horizontal, ~1200×300px) using the dates above, in place of the bullet list if the page has room. Lead into it with a bridge line ("The timeline below shows Fernbright's path from lease to Year 3:"). Alt text: "Fernbright Nail Studio milestones from lease signing in 2026 to Year 3."
 > 💡 ProTip: Pro Tip: Pick a site for when your clients are free, not only for foot traffic. Lunch hours and after-work slots fill a salon on weekdays.
 
 > 📣 **Upmetrics CTA (place after this chapter):** "Planning your own salon? Start your plan with the [Upmetrics AI business plan generator](https://upmetrics.co/ai-tools/free-ai-business-plan-generator), then change the details to fit your menu, your prices, and your team." (One product link only.)
@@ -602,31 +624,44 @@ Add internal link "opening a nail salon" → https://upmetrics.co/blog/how-to-st
 ---
 
 #### H2: Market Analysis
-> ~600 words, 5–6 paragraphs | 🔴 MUST HAVE
+> ~520 words: short lead-ins + bullets under each H3 | 🔴 MUST HAVE
 > 🎯 Our angle: Fernbright's market is not "women who get manicures"; it is people on a 2–3 week maintenance cycle who need a slot that fits their work week, close to where they work or live.
 > 🪝 Suggested hook: "Most of Fernbright's visits will come from clients who are back within three weeks of their last appointment."
 > 🔗 Transition from previous: "That setup depends on enough people nearby who keep their nails done on a schedule."
-> 🚫 Avoid: Don't open with market size or an industry revenue figure. Don't stack statistics: one national line, one city line, then the local picture. Don't fold the customer profile into a sentence; it gets its own H3. Don't write "According to…"
-> 📖 Reference: Reference 1 lists a target market and competitor counts with no method. Show how Fernbright sized its own area, and label it as Fernbright's estimate.
+> 🚫 Avoid: Don't write any H3 as a block of prose; use a one-sentence lead-in and bullets. Don't open with market size or an industry revenue figure. Don't stack statistics: one national line, one city line, then the local picture. Don't fold the customer profile into a sentence; it gets its own H3. Don't write "According to…"
+> 📖 Reference: Reference 1 lists a target market and competitor counts with no method. Show how Fernbright sized its own area, step by step in bullets, and label it as Fernbright's estimate.
+
+Open with the hook (one or two sentences), then the H3s.
 
 ##### H3: Industry Snapshot
-> Two lines. The national demand line, linked to the BLS: jobs for manicurists and pedicurists are projected to grow 9% from 2025 to 2035, much faster than the average for all jobs, as more people treat nail care as regular upkeep. The city line, unlinked (the link is in the Executive Summary): Charlotte added 20,731 residents in the year to July 2025, more than any other U.S. city. One plain sentence on what both mean for Fernbright: more people moving into south Charlotte, and a service people book again and again.
+> Two bullets, each with its meaning for Fernbright in the same line:
+> - **Steady national demand:** jobs for manicurists and pedicurists are projected to grow 9% from 2025 to 2035, much faster than average (link BLS here) — people treat nail care as regular upkeep, not a treat.
+> - **A fast-growing city:** Charlotte added 20,731 residents in the year to July 2025, more than any other U.S. city (unlinked; the link is in the Executive Summary) — more households moving into south Charlotte.
 
 ##### H3: Local Market: Ballantyne and South Charlotte
-> Show the size check a lender will make, labeled as Fernbright's planning estimate: within about 3 miles of the salon live roughly 60,000 people, and Ballantyne's campus adds daytime workers from about 250 companies. If about 1 in 5 adults nearby gets a professional manicure or pedicure at least monthly, that is roughly 9,000 regular clients within a short drive. Fernbright needs about 1,160 active clients in Year 1 (6,400 visits at about 5.5 visits each), including Thao Bennett's 180 regulars, so roughly 1 in 9 of the area's regular nail clients. Note the mix: new apartments and offices around Ballantyne's dining and retail district, established family neighborhoods nearby, and steady weekday traffic at the grocery-anchored center. (Writer: present the 60,000 and 1-in-5 figures as Fernbright's planning assumptions, not sourced facts.)
+> One lead-in line: "Fernbright sized its market from regular clients within a short drive." Then the size check as bullets, labeled as Fernbright's planning estimate:
+> - **People nearby:** about 60,000 residents within 3 miles, plus daytime workers from about 250 companies on Ballantyne's campus.
+> - **Regular nail clients:** if about 1 in 5 adults gets a professional manicure or pedicure at least monthly, that is roughly 9,000 regulars.
+> - **What Fernbright needs:** about 1,160 active clients in Year 1 (6,400 visits at about 5.5 each), including Thao Bennett's 180 regulars — roughly 1 in 9 of the area's regulars.
+> - **The mix:** new apartments and offices around Ballantyne's dining and retail district, established family neighborhoods nearby, and steady weekday traffic at the grocery-anchored center.
+> (Writer: present the 60,000 and 1-in-5 figures as Fernbright's planning assumptions, not sourced facts.)
 
 ##### H3: Trends Behind the Plan
-> Write as one short paragraph of plain prose (not bullets), tying each trend to a Fernbright choice: long-wear gel and soft-gel extensions keep clients on 2–3 week cycles (why the menu centers on gel, dip, and fills); clients expect to book online at night and pick their tech (online booking from day one); more clients ask about ventilation and cleaner products (source-capture vents and products made without toluene, formaldehyde, or DBP where available); and hybrid office schedules have shifted demand toward lunch hours and early evenings midweek (why Fernbright stays open to 7:30 PM on weekdays). No stats or links here.
+> Plain one-line bullets, each trend → the Fernbright choice it explains. No stats or links:
+> - Long-wear gel and soft-gel extensions keep clients on 2–3 week cycles → the menu centers on gel, dip, and fills.
+> - Clients book online at night and pick their tech → online booking for every service from day one.
+> - More clients ask about ventilation and cleaner products → source-capture vents and products made without toluene, formaldehyde, or DBP where available.
+> - Hybrid office schedules push demand to lunch hours and early evenings midweek → open to 7:30 PM on weekdays.
 
 ##### H3: Target Customer Profile
-> 🔴 MUST HAVE — a dedicated H3, not part of the market overview. Write each segment as a short paragraph with a bold lead-in (not bullets, not a table). For each give: who they are, what they need, when they book, and typical yearly spend:
-> **Office regulars** (25–55, working at Ballantyne's offices or nearby; about 45% of visits): gel or dip manicure every 2–3 weeks, booked at lunch or after 5 PM; want on-time appointments and the same tech each time; often hold a Fernbright Standing Appointment. Typical spend $900–$1,200 a year.
-> **Neighborhood residents** (30–65, living in Ballantyne and nearby south Charlotte; about 35% of visits): weekend manicures and pedicures, pedicure visits every 4–6 weeks in warm months, combos on Saturdays. Typical spend $400–$800 a year.
-> **Extension clients** (20–40; about 10% of visits): soft-gel extension sets and fills every 2–3 weeks; book the longest appointments and the most add-ons. Typical spend $1,300–$1,700 a year.
-> **Event and gift clients** (brides and wedding parties, prom, Mother's Day, holiday gift cards; about 10% of visits): book in groups, in May–June and December; many become regulars. Typical spend $90–$200 a visit.
+> 🔴 MUST HAVE — a dedicated H3, not part of the market overview. Use one bold-label bullet per segment, then two or three short sub-bullets (who · when they book · yearly spend). No paragraphs:
+> - **Office regulars** (about 45% of visits): 25–55, working at Ballantyne's offices or nearby · gel or dip every 2–3 weeks, at lunch or after 5 PM; want the same tech and an on-time start; often hold a Fernbright Standing Appointment · $900–$1,200 a year.
+> - **Neighborhood residents** (about 35%): 30–65, living in Ballantyne and nearby south Charlotte · weekend manicures and pedicures, pedicures every 4–6 weeks in warm months, Saturday combos · $400–$800 a year.
+> - **Extension clients** (about 10%): 20–40 · full sets and fills every 2–3 weeks; the longest appointments and the most add-ons · $1,300–$1,700 a year.
+> - **Event and gift clients** (about 10%): brides and wedding parties, prom, Mother's Day, holiday gift cards · book in groups in May–June and December; many become regulars · $90–$200 a visit.
 > Close with one line: the four groups share one need — a reliable slot that fits their week — which is why booking and rebooking get their own chapter.
 
-> 🖼️ Visual: None needed (segments are paragraphs).
+> 🖼️ Visual: None needed (segments are bullets).
 > 💡 ProTip: Pro Tip: Size your market by people who come back every few weeks, not everyone who has ever had a manicure. Regulars are where a salon's revenue comes from.
 
 ---
@@ -949,7 +984,7 @@ Write 1–3 sentences before each table, then render it exactly as given in Sect
 
 > Use WordPress built-in blocks only — no custom HTML or plugins.
 
-> **Table count:** 3 non-financial tables (competitors, marketing channels, hours & staffing) + the 10 Section 6B financial tables = 13. Target customers, services, booking, licenses, partners, and risks stay as paragraphs, H3s, or bullets.
+> **Table count:** 3 non-financial tables (competitors, marketing channels, hours & staffing) + the 10 Section 6B financial tables = 13. The Executive Summary, Business Overview, and Market Analysis use short lead-ins and bullets (at-a-glance facts, ownership, location, milestones, market sizing, trends, customer segments); services, booking, and risks stay as short paragraphs or H3s.
 
 ---
 

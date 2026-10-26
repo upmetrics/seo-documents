@@ -53,7 +53,7 @@
 
 **The team (mention only in Operations):** two part-time seasonal crew members in Year 1 (three to four by Year 3), all W-2 employees trained in tent installation, safe lifting and truck loading; a part-time seasonal warehouse and booking assistant from March 2028.
 
-**Timeline anchors (use consistently):** seven years at a suburban rental company (2019–2026) → LLC formed (November 2026) → warehouse lease signed (January 2027) → online booking opens (February 1, 2027) → loan closes; truck, trailer and equipment arrive; crew hired and trained (February 2027) → opens Monday, March 1, 2027 → Easter (March 28) and communion season (April–May) → graduation season (late May–June) → block parties and summer events (July–August) → fall festivals with heaters (September–October) → holiday parties, tent repairs and the inventory count (November–February) → Year 1 ends February 29, 2028 with $70,436 in cash → assistant hired and first inventory additions (March 2028) → second used box truck (March 2029) → Year 3 ends February 28, 2030 with $102,804.
+**Timeline anchors (use consistently):** seven years at a suburban rental company (2019–2026) → LLC formed (November 2026) → warehouse lease signed (January 2027) → online booking opens (February 1, 2027) → loan closes; truck, trailer and equipment arrive; crew hired and trained (February 2027) → opens Monday, March 1, 2027 → Easter (March 28) and communion season (April–May) → graduation season (late May–June) → block parties and summer events (July–August) → fall festivals with heaters (September–October) → holiday parties, tent repairs and the inventory count (November–February) → Year 1 ends February 29, 2028 with $76,098 in cash → assistant hired and first inventory additions (March 2028) → second used box truck (March 2029) → Year 3 ends February 28, 2030 with $106,864.
 
 **Equipment at launch (use in Rentals & Packages and Operations):**
 - **7 frame tents:** 3 × 20×20, 3 × 20×30, 1 × 20×40, with sidewalls, plus 8 commercial 10×10 pop-up canopies, weights, water barrels, stakes and ratchet straps
@@ -68,15 +68,15 @@
 
 ### Thesis Statement
 
-> A small party rental company makes money when its equipment goes out often, every order charges for the truck and the crew, and it rents what it rarely needs instead of buying it. Canopywell Party Rentals shows how a first-time owner in Northeast Philadelphia can start with seven tents and one truck, grow only as fast as the equipment is booked, and reach debt coverage of 2.13× in Year 2.
+> A small party rental company makes money when its equipment goes out often, every order charges for the truck and the crew, and it rents what it rarely needs instead of buying it. Canopywell Party Rentals shows how a first-time owner in Northeast Philadelphia can start with seven tents and one truck, grow only as fast as the equipment is booked, and reach debt coverage of 2.02× in Year 2.
 
 ### Key Messages
 
 1. **Equipment is the business, so how often it goes out is the number that matters.** Canopywell buys enough for a normal June weekend, not the busiest one, and adds chairs, tables, tents and a second truck only when a written buy rule says demand is there.
 2. **Every order pays for the truck and the crew.** Delivery, setup and pickup are about a fifth of revenue, and each package shows them on the quote. A backyard tent party keeps more per crew hour than any other order.
 3. **Sub-renting lets a small company say yes.** Dance floors, Chiavari chairs and big tents come from other rental companies at about 20–30% below their price. Owning one of these only pays after three to four bookings a year.
-4. **The seasons are planned, not hoped for.** May and June bring 35% of Year 1 revenue; November–February bring 10%. Spring deposits, a cash reserve and a part-time crew carry the winter, and cash never falls below $24,346.
-5. **The numbers are modest and honest.** Revenue $271,125 → $325,350 → $390,420; net income −$919 in Year 1 (including $17,800 of one-time costs), then $23,767 and $38,904; a stress test shows how much a rainy spring the loan can take.
+4. **The seasons are planned, not hoped for.** May and June bring 35% of Year 1 revenue; November–February bring 10%. Spring deposits, a cash reserve and a part-time crew carry the winter, and cash never falls below $33,867.
+5. **The numbers are modest and honest.** Revenue $271,125 → $325,350 → $390,420; net income −$1,365 in Year 1 (including $17,800 of one-time costs), then $22,585 and $38,548; a stress test shows how much a rainy spring the loan can take.
 
 ---
 
@@ -192,24 +192,49 @@
 
 ### External Links
 
-> **Data rule (business-plan-template-generator decisions 44, 76, 77, 80, 105):** outside data appears only in the Executive Summary and the market research, and each figure must change a decision in the plan. Rows 1–3 are the market figures. Rows 4–8 support Operations and the sub-renting section as plain facts, stated **without links** in the plan except row 7, which is linked once in the sub-renting H3. Rows 1–4 and 7–8 were read on the page on October 26, 2026.
+> **Data rule (business-plan-template-generator decisions 44, 76, 77, 80, 105):** outside data appears only in the Executive Summary and the market research, and each figure must change a decision in the plan. Rows 1–4 are the market figures. Rows 5–12 support Operations, the sub-renting section and the assumptions as plain facts, stated **without links** in the plan, except row 7, which is linked once in the sub-renting H3. Every row except row 9 was read on the page or in the file on October 26, 2026.
 
 | # | Source | URL | What to Reference |
 |---|------|-----|------------------|
-| 1 | Rental Equipment Register — "ARA's Latest Quarterly Forecast Projects Continuing Growth Through 2028" (August 24, 2026) | [RER](https://www.rermag.com/news-analysis/headline-news/article/55400064/aras-latest-quarterly-forecast-projects-continuing-growth-through-2028) | American Rental Association forecast: U.S. event rental revenue **+9.5% in 2026 to $6.2 billion**, then **+8.3% in 2027** and **+6.4% in 2028**. The 2026 figure is the Executive Summary's one linked figure; the 2027–2028 growth opens the Market Analysis data block (link again there once). What it changes: Canopywell enters a growing category, and its own forecast is built bottom-up from orders, not from a share of this market |
-| 2 | Census Reporter — Philadelphia, PA (ACS 2024 1-year) | [Census Reporter](https://censusreporter.org/profiles/16000US4260000-philadelphia-pa/) | Population **1,573,916**; **702,646 households**; 2.2 persons per household; median household income $60,521. Market Analysis data block and the market-size line. What it changes: a large base of hosts within the delivery zones, so 325 orders a year is a small share |
-| 3 | City of Philadelphia — "Applications are now open for Block Party Bonanza" (March 27, 2026) | [phila.gov](https://www.phila.gov/2026-03-27-applications-are-now-open-for-block-party-bonanza/) | Philadelphia250 supports **250 block parties** citywide in 2026 (May 23 – October 3), each starting with a Streets Department block party permit. Market Analysis data block. What it changes: block parties are a steady summer customer group, which is why the Block Party Bundle exists |
-| 4 | City of Philadelphia, L&I — Get a tent permit | [phila.gov](https://www.phila.gov/services/permits-violations-licenses/apply-for-a-permit/get-a-tent-permit/) | Permit required for **tents over 400 sq ft** (a 20×20 is exactly 400 sq ft, so it doesn't need one), canopies over 700 sq ft, and tents over 10×10 in a City park. **$126 per tent**, plus **$200** for setup on weekends or after 4 PM on weekdays. Installer needs a Business Income & Receipts Tax ID, a Commercial Activity License and a $1 million general liability certificate; fabric must meet NFPA 701. Applications reviewed within five business days. Operations → Permits and Delivery H3; plain statements |
-| 5 | Pennsylvania Department of Revenue — Sales, Use and Hotel Occupancy Tax | [revenue.pa.gov](https://www.revenue.pa.gov/TaxTypes/SUT/Pages/default.aspx) | Pennsylvania sales tax is 6%, with an extra 2% local tax in Philadelphia (8% total) and 1% in Allegheny County; rental of tangible personal property is taxable. Assumptions and Permits H3; plain statement, no link. Confirm the rental-delivery-charge treatment with the department or an accountant before publishing |
-| 6 | City of Philadelphia — Business Income & Receipts Tax (BIRT) | [phila.gov](https://www.phila.gov/services/business-self-employment/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/) | Every business operating in Philadelphia files BIRT and holds a Commercial Activity License. Permits H3; plain statement, no link (rates not used in the plan) |
+| 1 | Rental Equipment Register — "ARA's Latest Quarterly Forecast Projects Continuing Growth Through 2028" (August 24, 2026) | [RER](https://www.rermag.com/news-analysis/headline-news/article/55400064/aras-latest-quarterly-forecast-projects-continuing-growth-through-2028) | American Rental Association forecast: U.S. event rental revenue **+9.5% in 2026 to $6.2 billion**, then **+8.3% in 2027** and **+6.4% in 2028**. The 2026 figure is the Executive Summary's one linked figure; the 2027–2028 growth opens the Market Analysis data block (link again there once). What it changes: Canopywell enters a growing category, and its own forecast is built bottom-up from orders |
+| 2 | Census Reporter — Philadelphia, PA (ACS 2024 1-year) | [Census Reporter](https://censusreporter.org/profiles/16000US4260000-philadelphia-pa/) | Population **1,573,916**; **702,646 households**; 2.2 persons per household. Market Analysis data block. Also (same source, ACS 2020–2024 5-year, by PUMA): Northeast Philadelphia's three areas (Far Northeast, Central and Lower Northeast, North Delaware) total **424,376 people and 163,329 households**, used unlinked in the market-size line |
+| 3 | Pennsylvania Department of Education — Public high school graduates 2024–25 (by school, Excel) | [pa.gov (XLSX)](https://www.pa.gov/content/dam/copapwp-pagov/en/education/documents/data-and-reporting/graduates/graduates%20public%20by%20school%202024-25.xlsx) | 132,183 public high school graduates statewide; **Philadelphia County 12,316, Montgomery 9,152, Bucks 7,121** (about 28,600 in the three counties; Montgomery's count includes 194 from a statewide cyber charter). Market Analysis data block. What it changes: a dependable graduation-party peak every June |
+| 4 | City of Philadelphia — "Applications are now open for Block Party Bonanza" (March 27, 2026) | [phila.gov](https://www.phila.gov/2026-03-27-applications-are-now-open-for-block-party-bonanza/) | Philadelphia250 supports **250 block parties** citywide in 2026 (May 23 – October 3), each starting with a Streets Department block party permit. Market Analysis data block. What it changes: block parties are a steady summer customer group, which is why the Block Party Bundle exists |
+| 5 | City of Philadelphia, L&I — Get a tent permit | [phila.gov](https://www.phila.gov/services/permits-violations-licenses/apply-for-a-permit/get-a-tent-permit/) | Permit required for **tents over 400 sq ft** (a 20×20 is exactly 400 sq ft, so it doesn't need one), canopies over 700 sq ft, and tents over 10×10 in a City park. **$126 per tent**, plus **$200** for setup on weekends or after 4 PM on weekdays. Installer needs a Business Income & Receipts Tax ID, a Commercial Activity License and a $1 million general liability certificate (no contractor license listed); fabric must meet NFPA 701. Applications reviewed within five business days. Operations → Delivery and Permits H3s; plain statements |
+| 6 | Pennsylvania Department of Revenue — Sales, Use and Hotel Occupancy Tax | [pa.gov](https://www.pa.gov/agencies/revenue/resources/tax-types-and-information/sales-use-and-hotel-occupancy-tax) | 6% state sales tax plus 2% local tax in Philadelphia (8%); Bucks and Montgomery counties stay at 6%; the rental of tangible personal property is taxable. Assumptions and Permits H3; plain statement, no link. Delivery charges are treated as taxable (the "purchase price" definition allows no deduction for transport); confirm the treatment of setup labor with a CPA |
 | 7 | Texada Software — Re-Rental Transactions (help documentation) | [Texada](https://oc1.texadasoftware.com:8815/OpenClient/appResources/srm10/appHelp/source/rsrr01.htm) | When a rental firm rents equipment from another firm to fill an order, the lending firm usually gives about a **20–30% discount** off its regular rates; re-renting is meant for temporary demand, and steady demand is a reason to buy. Link once in the sub-renting H3 (paragraph 1) |
-| 8 | Reservety — Sub-Rental Margin Calculator | [Reservety](https://reservety.com/tools/party-event-rental/sub-rental-margin-calculator.html) | Party rental companies should aim for a **25–35% margin** on sub-rented items; below about 15% it is rarely worth the coordination and risk. Supports Canopywell's 25% assumption; don't cite in the plan (vendor tool) |
+| 8 | ARA Rental Management — "Building your tent inventory: Review all the factors before you leap" (March 19, 2026) | [ARA](https://news.ararental.org/building-your-tent-inventory-review-all-the-factors-before-you-leap) | A tent rental operator describes buying an item once he was **subrenting it five or six times a year**, and buying tents he expected to rent **10 to 15 times a year**. Supports Canopywell's buy rule (six or more sub-rented weekends) in the sub-renting H3; plain statement, no link |
+| 9 | Reservety — Sub-Rental Margin Calculator | [Reservety](https://reservety.com/tools/party-event-rental/sub-rental-margin-calculator.html) | Party rental companies should aim for a 25–35% margin on sub-rented items; below about 15% it is rarely worth the coordination and risk. Supports Canopywell's 25% assumption; don't cite in the plan (vendor tool; read through search results, not opened) |
+| 10 | U.S. Bureau of Labor Statistics — OEWS May 2025, Philadelphia-Camden-Wilmington metro | [BLS](https://www.bls.gov/oes/current/oes_37980.htm) | Laborers and freight, stock and material movers (hand): **median $20.89 an hour**; light truck drivers: median $21.99. Supports the crew wage ($20.50 an hour); plain statement in Crew and Staffing, no link. Pennsylvania's minimum wage is $7.25, and Philadelphia has no minimum wage for private employers |
+| 11 | Pennsylvania Department of Labor & Industry — UC tax yearly highlights (2026–2027) | [pa.gov](https://www.pa.gov/agencies/dli/resources/for-employers-and-educators/how-to-file/uc-tax/yearly-tax-highlights.html) | New non-construction employer unemployment rate **3.822%** on the first **$10,000** of each employee's wages. With FICA (7.65%) and federal unemployment (0.6% on the first $7,000), this supports the 10.5% payroll tax assumption for part-time seasonal crew; assumptions only |
+| 12 | City of Philadelphia — Business Income & Receipts Tax and Commercial Activity License | [phila.gov (BIRT)](https://www.phila.gov/services/payments-assistance-taxes/taxes/business-taxes/business-taxes-by-type/business-income-receipts-tax-birt/) | Every business operating in Philadelphia files BIRT (tax year 2025: 1.410 mills on gross receipts and 5.71% on net income; the $100,000 receipts exemption ended from tax year 2025) and holds a Commercial Activity License, which is free and doesn't need renewal. Permits H3; plain statements, no link |
 
 **Preferred source types:** .gov, .edu, established industry publications, original research, reputable news outlets.
 
 > **NEVER link to competitors:** liveplan.com, bizplan.com, enloop.com, planguru.com, growthink.com, bplans.com, planful.com, planbuilr.com, bizplanr.com. Also don't link planbuildr.com, the reference pages (profitableventure.com, reservety.com, the Rich Rentals PDF), or bizplanr.ai (the sister brand). Never name a real rental company, venue, caterer, church, school or landlord; describe competitors by type. Real places are fine as places (Northeast Philadelphia, Fox Chase, Mayfair, Bustleton, Bensalem, Levittown, Abington, Roosevelt Boulevard, Northeast Philadelphia Airport). Brands and platforms are fine where the plan needs them (Isuzu, Google Business Profile, Nextdoor, Instagram, Facebook).
 
-> **Checked but not used / estimates to confirm:** IBISWorld's party supply rental page could not be read (it returned a different industry), so no industry size figure from it is used. A 2026 Philadelphia block party permit total was not published; older counts (7,678 in 2008, 3,504 granted in 2019) are out of date and not used. Northeast Philadelphia flex rent: Philadelphia's average industrial asking rent was $11.87 per sq ft in Q2 2026 (Matthews, from CoStar); the plan's $35,200 a year (about $16 per sq ft all-in for a small unit) is an estimate to be replaced by a broker quote. Insurance ($14,200), the used box truck ($46,000) and the 30×60 tent ($16,500) are estimates; the 12×15 portable dance floor ($2,900) is based on a commercial 12×15 floor listed at $2,600 before shipping, and Chiavari chairs ($6,800 per 100 with cushions) on trade pricing of about $49–$69 a chair. Rental prices are set inside the ranges in Reference 2 and generic 2026 tent-price guides ($300–$800 for a 20×20). Don't cite sources for any of these.
+> **Checked but not used / how the estimates were set:**
+> - **Industry size:** IBISWorld puts U.S. party supply rental at $8.5 billion in 2026 with 9,849 businesses. It is left out so the plan doesn't carry two industry sizes with different definitions next to ARA's $6.2 billion.
+> - **Block party counts:** the newest full-year count is about 1,800 permits approved in 2021 (Billy Penn), too old to use.
+> - **Graduation spending:** NRF's 2026 graduation figure ($7.2 billion) is gift spending, not parties, so it isn't used.
+> - **Rent:** $35,200 a year is about $16 per sq ft all-in for a small unit. CBRE's Q1 2026 Philadelphia figures were $12.69 per sq ft NNN for R&D/flex and $11.72 for buildings under 100,000 sq ft, plus taxes, insurance and common charges. No Northeast Philadelphia submarket figure is published; replace with a broker quote.
+> - **Insurance:** $12,800 in Year 1 sits above MoneyGeek's September 2026 Pennsylvania averages for a party rental business (general liability $1,593, commercial auto $3,046 at minimum limits, property $2,848, workers' comp $1,216 per employee), because a box truck and tent installation cost more than the average.
+> - **Truck:** about $36,000 for a used 16-ft box truck with liftgate. Ryder's used Isuzu NPR listings (2018–2020) run $20,995–$29,788 before liftgate, tax and title.
+> - **Equipment:**
+>   - Frame tents: TentandTable 2026 sale prices of $1,500, $2,600 and $3,000 for a 20×20, 20×30 and 20×40, plus sidewalls.
+>   - Chairs and tables: Lifetime commercial folding chairs at $41–$50 retail, against about $30 at rental-trade volume; 6-ft tables $140–$200; 60-inch rounds $170–$250.
+>   - Dance floor: a commercial 12×15 floor listed at $2,600 before shipping.
+>   - Chiavari chairs: trade pricing of about $49–$69 a chair.
+>   - The 30×60 tent ($16,500) is an estimate.
+> - **Local rental prices:**
+>   - White folding chairs: $1.95 to $3.25.
+>   - 6-ft, 8-ft and 60-inch tables: $15 at one Philadelphia company.
+>   - Cloths: $12.50–$18.96.
+>   - 20×20 frame tent: $325 at one South Jersey company serving Philadelphia.
+>   - 20×40 tent: $550 there, and $1,000 with setup at a Philadelphia company.
+>   - Canopywell's prices sit inside these ranges.
+>
+> Don't cite sources for any of these.
 ## 6B. Financial Projections (Sample Business Plan)
 
 > These are the ACTUAL projections the writer must include in the Financial Plan chapter. All numbers are pre-calculated and internally consistent: every balance sheet balances, cash-flow ending cash equals balance-sheet cash each year, revenue equals orders × average ticket by order type, interest comes from the amortization schedule, and the Year 1 and Year 2 monthly cash paths end at the cash-flow figures (73/73 validation checks passed). Use these tables as-is. Do NOT change the math.
@@ -223,33 +248,33 @@
 | Orders (events served) | 325 | 390 | 468 |
 | Average order | $834 | $834 | $834 |
 | Total Revenue | $271,125 | $325,350 | $390,420 |
-| Gross Profit | $192,200 | $226,573 | $271,039 |
-| Net Income (Pre-Tax) | −$919 | $23,767 | $38,904 |
-| Ending Cash (February 28/29) | $70,436 | $97,414 | $102,804 |
+| Gross Profit | $188,222 | $221,799 | $265,311 |
+| Net Income (Pre-Tax) | −$1,365 | $22,585 | $38,548 |
+| Ending Cash (February 28/29) | $76,098 | $99,602 | $106,864 |
 
 ### Startup Costs
 
 | Expense | Amount | Treatment |
 |---------|--------|-----------|
-| Frame tents with sidewalls (3 × 20×20, 3 × 20×30, 1 × 20×40), 8 commercial 10×10 canopies, weights, water barrels, stakes and ratchet straps | $36,700 | Capitalized — depreciated over 5 years |
-| 700 white resin folding chairs, 40 six-foot and 20 eight-foot banquet tables, 30 sixty-inch round tables, 8 cocktail tables, chair and table carts | $31,840 | Capitalized — depreciated over 7 years |
+| Frame tents with sidewalls (3 × 20×20, 3 × 20×30, 1 × 20×40), 8 commercial 10×10 canopies, weights, water barrels, stakes and ratchet straps | $30,000 | Capitalized — depreciated over 5 years |
+| 700 white resin folding chairs, 40 six-foot and 20 eight-foot banquet tables, 30 sixty-inch round tables, 8 cocktail tables, chair and table carts | $40,300 | Capitalized — depreciated over 7 years |
 | 250 polyester tablecloths and runners in white, ivory, black and six colors | $4,000 | Capitalized — depreciated over 3 years |
 | 6 propane patio heaters with 12 tanks, 6 string-light kits, 2 inverter generators | $6,520 | Capitalized — depreciated over 5 years |
-| Used 16-ft box truck with liftgate (2021–2022, gas, non-CDL), incl. title, registration and sales tax | $46,000 | Capitalized — depreciated over 5 years |
+| Used 16-ft box truck with liftgate (about 2020, gas, non-CDL), incl. title, registration and sales tax | $36,000 | Capitalized — depreciated over 5 years |
 | 16-ft enclosed cargo trailer for tent loads (towed by the box truck) | $8,500 | Capitalized — depreciated over 5 years |
 | Pallet racking and shelving, linen bins, pallet jack, gas stake driver, ladders and hand tools | $9,900 | Capitalized — depreciated over 7 years |
 | Laptop, 2 tablets for load sheets and signatures, card reader, label printer | $3,000 | Capitalized — depreciated over 3 years |
-| First-year general liability and equipment insurance premium (paid at closing) | $14,200 | Prepaid expense — current asset, used up during Year 1 |
+| First-year general liability and equipment insurance premium (paid at closing) | $12,800 | Prepaid expense — current asset, used up during Year 1 |
 | Warehouse lease security deposit (two months' rent, refundable) | $5,900 | Long-term asset — stays on the balance sheet |
 | LLC formation, lease review and rental contract & damage-waiver terms (attorney) | $3,500 | Expensed in Year 1 |
 | Brand, website with online booking, product photos | $6,000 | Expensed in Year 1 |
 | Launch marketing (mailers, search ads, planner and venue visits, yard signs) | $6,000 | Expensed in Year 1 |
 | Crew hiring, tent-installation and lifting training, uniforms | $1,500 | Expensed in Year 1 |
 | Permits, licenses and registrations at opening | $800 | Expensed in Year 1 |
-| Working capital reserve (cash — carries the business through the spring ramp-up and its first winter) | $20,640 | Cash |
+| Working capital reserve (cash — carries the business through the spring ramp-up and its first winter) | $30,280 | Cash |
 | **Total Startup Costs** | **$205,000** | |
 
-> Rental inventory (tents, chairs, tables, linens, heaters and lighting) is $79,060, 39% of the budget; the truck and trailer that carry it are $54,500 (27%). Inventory is sized for a typical June weekend, not the busiest one: specialty items and overflow orders are sub-rented from other rental companies (see Sub-Rent or Buy).
+> Rental inventory (tents, chairs, tables, linens, heaters and lighting) is $80,820, 39% of the budget; the truck and trailer that carry it are $44,500 (22%). Inventory is sized for a typical June weekend, not the busiest one: specialty items and overflow orders are sub-rented from other rental companies (see Sub-Rent or Buy).
 
 ### Source of Funds
 
@@ -259,7 +284,7 @@
 | Owner equity (Marcus Ellery — savings) | $45,000 | 22% |
 | **Total Startup Capital** | **$205,000** | **100%** |
 
-> The loan is secured by the rental inventory, box truck and trailer ($146,460 at cost) plus Marcus's personal guarantee. Marcus's $45,000 is 22% of the project.
+> The loan is secured by the rental inventory, box truck and trailer ($138,220 at cost) plus Marcus's personal guarantee. Marcus's $45,000 is 22% of the project.
 
 ### Financial Assumptions
 
@@ -280,17 +305,17 @@
 | Delivery fuel (COGS) | $16, $18, $45, $18 per order (delivery and pickup trips, box truck about 10 miles a gallon): $6,225 / $7,470 / $8,964 |
 | Lost and broken items (COGS) | 1.5% of owned-equipment rental, net of what the waiver and customers cover: $2,700 / $3,240 / $3,888 |
 | Peak-weekend truck rental (COGS) | A second box truck rented for two days on 0 / 4 / 0 peak weekends at $420 each: $0 / $1,680 / $0 |
-| Crew wages (COGS) | Part-time seasonal crew at $19.00 / $19.75 / $20.50 an hour, paid only for hours worked on orders (loading, delivery, setup, pickup, cleaning): 2,400 / 2,880 / 3,456 hours, $45,600 / $56,880 / $70,848. Marcus works on most jobs and isn't counted here |
-| Payroll tax | 10.5% of wages: FICA 7.65%, federal unemployment, and Pennsylvania unemployment tax at the new-employer rate. Applied to crew wages (COGS) and salaries (Operating Expenses) separately |
+| Crew wages (COGS) | Part-time seasonal crew at $20.50 / $21.25 / $22.00 an hour, paid only for hours worked on orders (loading, delivery, setup, pickup, cleaning): 2,400 / 2,880 / 3,456 hours, $49,200 / $61,200 / $76,032. Marcus works on most jobs and isn't counted here |
+| Payroll tax | 10.5% of wages: FICA 7.65%, federal unemployment (0.6% on the first $7,000 per worker), and Pennsylvania unemployment tax at the 3.822% new-employer rate on the first $10,000 per worker. Applied to crew wages (COGS) and salaries (Operating Expenses) separately |
 | Owner salary (fixed, Operating Expenses) | Marcus Ellery $40,000 / $46,000 / $52,000, paid monthly |
 | Seasonal warehouse and booking assistant (Operating Expenses) | Part-time, March–October, from Year 2: $13,500 / $15,000 (Years 2 / 3) |
 | Warehouse rent | 2,200 sq ft flex unit, gross: $35,200 / $36,256 / $37,344 (3% a year escalation); 5-year lease with one 5-year option |
-| Insurance | General liability ($1 million per occurrence / $2 million aggregate, tent installation included), inland marine on the rental inventory, commercial auto for the box truck and trailer, workers' compensation: $14,200 / $14,900 / $18,800. Year 1 premium paid at closing (prepaid). Renewals on March 1 are paid 25% down and the rest in nine monthly installments (April–December) |
+| Insurance | General liability ($1 million per occurrence / $2 million aggregate, tent installation included), inland marine on the rental inventory, commercial auto for the box truck and trailer, workers' compensation: $12,800 / $13,400 / $16,600. Year 1 premium paid at closing (prepaid). Renewals on March 1 are paid 25% down and the rest in nine monthly installments (April–December) |
 | Truck upkeep | $4,800 / $5,200 / $8,400: registration, inspection, maintenance, tires, tolls (fuel is in COGS) |
 | Marketing (ongoing) | $10,000 / $10,500 / $11,000; heaviest February–May, before graduation season. The one-time launch spend is separate |
 | Repairs & maintenance | $2,500 / $3,200 / $4,000, rising as the inventory ages; most tent and frame repair is done November–February |
 | Card processing | 2.9% of revenue |
-| Sales tax | Rentals of tables, chairs and tents are taxable in Pennsylvania: 6% state + 2% Philadelphia local on events in the city, 6% in Bucks and Montgomery counties. Collected on top of the price and remitted; not revenue |
+| Sales tax | Rentals of tables, chairs and tents are taxable in Pennsylvania: 6% state + 2% Philadelphia local on events in the city, 6% in Bucks and Montgomery counties. Delivery charges are taxed with the rental. Collected on top of the price and remitted; not revenue |
 | Accounts receivable / payable / inventory for sale | None: customers pay by card before delivery; suppliers and sub-rentals are paid at pickup or by card; nothing is held for sale |
 | Lender | Brindlewood Bank (fictional) |
 | Loan amount / term | $160,000 term loan / 7 years (84 monthly payments), secured by the rental inventory, truck and trailer and Marcus's personal guarantee |
@@ -300,8 +325,8 @@
 | Interest expense (from amortization schedule) | Yr 1: $13,316; Yr 2: $11,737; Yr 3: $10,014 |
 | Principal repayment (from amortization schedule) | Yr 1: $17,332; Yr 2: $18,911; Yr 3: $20,634 |
 | Ending loan balance | Yr 1: $142,668; Yr 2: $123,757; Yr 3: $103,123 |
-| Depreciation | $27,840 / $29,680 / $40,320, straight-line, full first-year convention (see Depreciation Schedule) |
-| Capital spending | Paid from cash each March, only when the buy rule is met (see Equipment Capacity): Year 2 $9,200 (150 chairs, 15 tables, one 20×20 frame tent); Year 3 $15,200 (150 chairs, 20 tables, one 20×20 and one 20×30 frame tent) |
+| Depreciation | $25,708 / $27,588 / $37,148, straight-line, full first-year convention (see Depreciation Schedule) |
+| Capital spending | Paid from cash each March, only when the buy rule is met (see Equipment Capacity): Year 2 $9,400 (150 chairs, 15 tables, one 20×20 frame tent); Year 3 $13,800 (150 chairs, 20 tables, one 20×20 and one 20×30 frame tent) |
 | Income tax | Not shown — pre-tax results only (single-member LLC; profits pass through to the owner). Philadelphia's Business Income & Receipts Tax gross-receipts portion is in the licenses and local taxes line |
 
 ### Revenue by Order Type (supports the Rentals & Packages chapter)
@@ -330,10 +355,10 @@
 
 | Order type | Ticket | Direct costs (crew with payroll tax, cleaning, fuel, sub-rentals, breakage, card fees) | Left before fixed costs | Share kept | Crew hours | Kept per crew hour |
 |---|---|---|---|---|---|---|
-| Drop-off tables & chairs | $331 | $106 | $225 | 68% | 3 | $75 |
-| Backyard tent party | $1,078 | $307 | $771 | 72% | 9 | $86 |
-| Large event (multi-tent, linens, lighting) | $2,900 | $1,214 | $1,686 | 58% | 28 | $60 |
-| Block party & community order | $569 | $164 | $405 | 71% | 5 | $81 |
+| Drop-off tables & chairs | $331 | $111 | $220 | 66% | 3 | $73 |
+| Backyard tent party | $1,078 | $322 | $756 | 70% | 9 | $84 |
+| Large event (multi-tent, linens, lighting) | $2,900 | $1,260 | $1,640 | 57% | 28 | $59 |
+| Block party & community order | $569 | $173 | $396 | 70% | 5 | $79 |
 
 > **Reading the table:** large events bring the most dollars per order but the least per crew hour, because of sub-rentals and long installs; backyard tent parties are the best use of a Saturday. Drop-off orders are small, but they fill the truck between tent jobs.
 
@@ -369,9 +394,9 @@
 | Orders | 10 | 26 | 55 | 58 | 32 | 36 | 42 | 32 | 10 | 13 | 5 | 5 |
 | Revenue (events held) | $8,134 | $21,690 | $46,091 | $48,802 | $27,112 | $29,824 | $35,246 | $27,112 | $8,134 | $10,845 | $4,067 | $4,067 |
 | Cash collected (incl. deposits) | $18,704 | $32,882 | $41,739 | $44,450 | $28,978 | $29,202 | $29,029 | $23,382 | $7,201 | $9,291 | $5,373 | $9,103 |
-| Month-end cash | $24,346 | $37,920 | $52,891 | $69,946 | $78,641 | $86,592 | $92,494 | $95,584 | $88,637 | $82,982 | $75,129 | $70,436 |
+| Month-end cash | $33,867 | $47,123 | $61,418 | $77,756 | $86,053 | $93,567 | $98,952 | $101,643 | $94,578 | $88,763 | $80,851 | $76,098 |
 
-> **Reading the table:** May and June bring 35% of Year 1 revenue (graduations, communions, showers); November–February bring 10%. Cash bottoms out at $24,346 in March 2027, peaks at $95,584 in October 2027, and then falls through the winter to $70,436 on February 29, 2028 (the winter uses $25,147). Deposits for spring tent parties start arriving in January and soften the winter. Opening cash is $38,440; loan payments of $2,554.00 start in March 2027. February's figure equals Year 1 ending cash on the Cash Flow Statement. Year 2 dips to $59,473 in March 2028 after the March inventory purchase and insurance renewal, and ends February 2029 at $97,414.
+> **Reading the table:** May and June bring 35% of Year 1 revenue (graduations, communions, showers); November–February bring 10%. Cash bottoms out at $33,867 in March 2027, peaks at $101,643 in October 2027, and then falls through the winter to $76,098 on February 29, 2028 (the winter uses $25,545). Deposits for spring tent parties start arriving in January and soften the winter. Opening cash is $48,080; loan payments of $2,554.00 start in March 2027. February's figure equals Year 1 ending cash on the Cash Flow Statement. Year 2 dips to $65,167 in March 2028 after the March inventory purchase and insurance renewal, and ends February 2029 at $99,602.
 
 ### Rainy-Season Stress Test (Year 2 — supports the Risks chapter)
 
@@ -379,13 +404,13 @@
 
 | Scenario | Revenue | EBITDA | Debt coverage |
 |---|---|---|---|
-| Plan | $325,350 | $65,184 | 2.13× |
-| Revenue 10% lower | $292,815 | $43,470 | 1.42× |
-| Revenue 20% lower | $260,280 | $21,756 | 0.71× |
-| Revenue 30% lower | $227,745 | $43 | 0.00× |
-| Revenue 20% lower, with a quarter of the owner's salary deferred and marketing cut 30% | $260,280 | $37,614 | 1.23× |
+| Plan | $325,350 | $61,910 | 2.02× |
+| Revenue 10% lower | $292,815 | $40,674 | 1.33× |
+| Revenue 20% lower | $260,280 | $19,437 | 0.63× |
+| Revenue 30% lower | $227,745 | −$1,799 | −0.06× |
+| Revenue 20% lower, with a quarter of the owner's salary deferred and marketing cut 30% | $260,280 | $35,295 | 1.15× |
 
-> **Reading the table:** Year 2 coverage stays at 1.25× or above unless revenue falls more than 12.4%. A weaker year also delays the Year 3 inventory purchase ($15,200) under the buy rule, which protects cash.
+> **Reading the table:** Year 2 coverage stays at 1.25× or above unless revenue falls more than 11.1%. A weaker year also delays the Year 3 inventory purchase ($13,800) under the buy rule, which protects cash.
 
 ### Depreciation Schedule
 
@@ -393,18 +418,18 @@
 
 | Asset | Cost | Useful Life | Annual Dep. | Acc. Dep. Y1 | Net PP&E Y1 | Acc. Dep. Y2 | Net PP&E Y2 | Acc. Dep. Y3 | Net PP&E Y3 |
 |-------|------|-------------|-------------|--------------|-------------|--------------|-------------|--------------|-------------|
-| Frame tents & canopies | $36,700 | 5 years | $7,340 | $7,340 | $29,360 | $14,680 | $22,020 | $22,020 | $14,680 |
-| Chairs & tables | $31,840 | 7 years | $4,549 | $4,549 | $27,291 | $9,098 | $22,742 | $13,647 | $18,193 |
+| Frame tents & canopies | $30,000 | 5 years | $6,000 | $6,000 | $24,000 | $12,000 | $18,000 | $18,000 | $12,000 |
+| Chairs & tables | $40,300 | 7 years | $5,757 | $5,757 | $34,543 | $11,514 | $28,786 | $17,271 | $23,029 |
 | Linens | $4,000 | 3 years | $1,333 | $1,333 | $2,667 | $2,666 | $1,334 | $3,999 | $1 |
 | Heaters, lighting & power | $6,520 | 5 years | $1,304 | $1,304 | $5,216 | $2,608 | $3,912 | $3,912 | $2,608 |
-| Box truck | $46,000 | 5 years | $9,200 | $9,200 | $36,800 | $18,400 | $27,600 | $27,600 | $18,400 |
+| Box truck | $36,000 | 5 years | $7,200 | $7,200 | $28,800 | $14,400 | $21,600 | $21,600 | $14,400 |
 | Trailer | $8,500 | 5 years | $1,700 | $1,700 | $6,800 | $3,400 | $5,100 | $5,100 | $3,400 |
 | Warehouse racking & tools | $9,900 | 7 years | $1,414 | $1,414 | $8,486 | $2,828 | $7,072 | $4,242 | $5,658 |
 | Technology | $3,000 | 3 years | $1,000 | $1,000 | $2,000 | $2,000 | $1,000 | $3,000 | $0 |
-| Year 2 additions | $9,200 | 5 years | $1,840 | — | — | $1,840 | $7,360 | $3,680 | $5,520 |
-| Year 3 additions | $15,200 | 5 years | $3,040 | — | — | — | — | $3,040 | $12,160 |
-| Second box truck (Year 3) | $38,000 | 5 years | $7,600 | — | — | — | — | $7,600 | $30,400 |
-| **TOTAL** | **$208,860** | — | **$27,840 / $29,680 / $40,320** | **$27,840** | **$118,620** | **$57,520** | **$98,140** | **$97,840** | **$111,020** |
+| Year 2 additions | $9,400 | 5 years | $1,880 | — | — | $1,880 | $7,520 | $3,760 | $5,640 |
+| Year 3 additions | $13,800 | 5 years | $2,760 | — | — | — | — | $2,760 | $11,040 |
+| Second box truck (Year 3) | $34,000 | 5 years | $6,800 | — | — | — | — | $6,800 | $27,200 |
+| **TOTAL** | **$195,420** | — | **$25,708 / $27,588 / $37,148** | **$25,708** | **$112,512** | **$53,296** | **$94,324** | **$90,444** | **$104,976** |
 
 ### Income Statement (P&L)
 
@@ -421,17 +446,17 @@
 | Delivery fuel | 6,225 | 7,470 | 8,964 |
 | Lost & broken items | 2,700 | 3,240 | 3,888 |
 | Peak-weekend truck rental | 0 | 1,680 | 0 |
-| Crew wages | 45,600 | 56,880 | 70,848 |
-| Payroll tax on crew wages (10.5%) | 4,788 | 5,972 | 7,439 |
-| **Total Cost of Rentals** | **78,925** | **98,777** | **119,381** |
-| **Gross Profit** | **192,200** | **226,573** | **271,039** |
-| Gross Margin | 70.9% | 69.6% | 69.4% |
+| Crew wages | 49,200 | 61,200 | 76,032 |
+| Payroll tax on crew wages (10.5%) | 5,166 | 6,426 | 7,983 |
+| **Total Cost of Rentals** | **82,903** | **103,551** | **125,109** |
+| **Gross Profit** | **188,222** | **221,799** | **265,311** |
+| Gross Margin | 69.4% | 68.2% | 68.0% |
 | **Operating Expenses** | | | |
 | Owner salary (Marcus Ellery) | 40,000 | 46,000 | 52,000 |
 | Seasonal warehouse & booking assistant (part-time, March–October, from Year 2) | – | 13,500 | 15,000 |
 | Payroll tax on salaries (10.5%) | 4,200 | 6,248 | 7,035 |
 | Warehouse rent (2,200 sq ft flex unit, gross) | 35,200 | 36,256 | 37,344 |
-| Insurance (general liability, equipment, commercial auto, workers' comp) | 14,200 | 14,900 | 18,800 |
+| Insurance (general liability, equipment, commercial auto, workers' comp) | 12,800 | 13,400 | 16,600 |
 | Truck upkeep (registration, maintenance, tires, tolls) | 4,800 | 5,200 | 8,400 |
 | Marketing (search ads, Google Business Profile, social, mailers, planner referrals) | 10,000 | 10,500 | 11,000 |
 | Rental booking software, accounting software & website hosting | 4,200 | 4,300 | 4,400 |
@@ -447,45 +472,45 @@
 | Launch marketing (mailers, search ads, planner and venue visits, yard signs) (one-time) | 6,000 | – | – |
 | Crew hiring, tent-installation and lifting training, uniforms (one-time) | 1,500 | – | – |
 | Permits, licenses and registrations at opening (one-time) | 800 | – | – |
-| **Total Operating Expenses** | **151,963** | **161,389** | **181,801** |
-| **EBITDA** | **40,237** | **65,184** | **89,238** |
-| Depreciation | 27,840 | 29,680 | 40,320 |
-| **EBIT** | **12,397** | **35,504** | **48,918** |
+| **Total Operating Expenses** | **150,563** | **159,889** | **179,601** |
+| **EBITDA** | **37,659** | **61,910** | **85,710** |
+| Depreciation | 25,708 | 27,588 | 37,148 |
+| **EBIT** | **11,951** | **34,322** | **48,562** |
 | Interest expense | 13,316 | 11,737 | 10,014 |
-| **Net Income (Pre-Tax)** | **(919)** | **23,767** | **38,904** |
+| **Net Income (Pre-Tax)** | **(1,365)** | **22,585** | **38,548** |
 
-> **Note:** The five one-time startup expenses ($17,800) appear in Year 1 only; without them Year 1 would show a pre-tax result of $16,881. Depreciation ($27,840 in Year 1) is the largest non-cash cost: equipment rental is a business of owning things that wear out. Pre-tax results only.
+> **Note:** The five one-time startup expenses ($17,800) appear in Year 1 only; without them Year 1 would show a pre-tax result of $16,435. Depreciation ($25,708 in Year 1) is the largest non-cash cost: equipment rental is a business of owning things that wear out. Pre-tax results only.
 
 ### Cash Flow Statement
 
 | | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |-|-----------|-----------|-----------|
-| Beginning Cash | 38,440 | 70,436 | 97,414 |
+| Beginning Cash | 48,080 | 76,098 | 99,602 |
 | **Operating Activities** | | | |
-| Net income (pre-tax) | (919) | 23,767 | 38,904 |
-| Depreciation (non-cash) | 27,840 | 29,680 | 40,320 |
-| Change in prepaid insurance | 14,200 | 0 | 0 |
+| Net income (pre-tax) | (1,365) | 22,585 | 38,548 |
+| Depreciation (non-cash) | 25,708 | 27,588 | 37,148 |
+| Change in prepaid insurance | 12,800 | 0 | 0 |
 | Change in customer deposits | 8,207 | 1,642 | 0 |
-| **Net Cash from Operations** | **49,328** | **55,089** | **79,224** |
+| **Net Cash from Operations** | **45,350** | **51,815** | **75,696** |
 | **Investing Activities** | | | |
-| Capital expenditures (inventory additions) | 0 | (9,200) | (53,200) |
-| **Net Cash from Investing** | **0** | **(9,200)** | **(53,200)** |
+| Capital expenditures (inventory additions) | 0 | (9,400) | (47,800) |
+| **Net Cash from Investing** | **0** | **(9,400)** | **(47,800)** |
 | **Financing Activities** | | | |
 | Loan principal repayment | (17,332) | (18,911) | (20,634) |
 | **Net Cash from Financing** | **(17,332)** | **(18,911)** | **(20,634)** |
-| **Net Change in Cash** | **31,996** | **26,978** | **5,390** |
-| **Ending Cash** | **70,436** | **97,414** | **102,804** |
+| **Net Change in Cash** | **28,018** | **23,504** | **7,262** |
+| **Ending Cash** | **76,098** | **99,602** | **106,864** |
 
-> **Validation:** Ending cash each year matches the Cash line on the balance sheet ($70,436 / $97,414 / $102,804). The Year 1 prepaid change is the insurance premium paid at closing and used up in Year 1. Customer deposits rise when spring bookings grow. No receivables, payables or inventory held for sale.
+> **Validation:** Ending cash each year matches the Cash line on the balance sheet ($76,098 / $99,602 / $106,864). The Year 1 prepaid change is the insurance premium paid at closing and used up in Year 1. Customer deposits rise when spring bookings grow. No receivables, payables or inventory held for sale.
 
 ### Opening Balance Sheet (at Launch, March 1, 2027)
 
 | Assets | Amount ($) |
 |--------|-----------|
-| Cash (working capital reserve $20,640 + one-time expense float $17,800) | 38,440 |
-| Prepaid insurance (first-year premium) | 14,200 |
+| Cash (working capital reserve $30,280 + one-time expense float $17,800) | 48,080 |
+| Prepaid insurance (first-year premium) | 12,800 |
 | Lease security deposit | 5,900 |
-| Gross PP&E (rental inventory, box truck, trailer, racking and tools, technology) | 146,460 |
+| Gross PP&E (rental inventory, box truck, trailer, racking and tools, technology) | 138,220 |
 | **Total Assets** | **205,000** |
 
 | Liabilities & Equity | Amount ($) |
@@ -500,11 +525,11 @@
 
 | Assets | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
-| Cash | 70,436 | 97,414 | 102,804 |
+| Cash | 76,098 | 99,602 | 106,864 |
 | Prepaid insurance | 0 | 0 | 0 |
 | Lease security deposit | 5,900 | 5,900 | 5,900 |
-| Net PP&E | 118,620 | 98,140 | 111,020 |
-| **Total Assets** | **194,956** | **201,454** | **219,724** |
+| Net PP&E | 112,512 | 94,324 | 104,976 |
+| **Total Assets** | **194,510** | **199,826** | **217,740** |
 
 | Liabilities | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |------------|-----------|-----------|-----------|
@@ -515,26 +540,26 @@
 | Equity | Year 1 ($) | Year 2 ($) | Year 3 ($) |
 |--------|-----------|-----------|-----------|
 | Paid-in capital | 45,000 | 45,000 | 45,000 |
-| Retained earnings (cumulative net income) | (919) | 22,848 | 61,752 |
-| **Owner's Equity** | **44,081** | **67,848** | **106,752** |
+| Retained earnings (cumulative net income) | (1,365) | 21,220 | 59,768 |
+| **Owner's Equity** | **43,635** | **66,220** | **104,768** |
 
-> **Validation:** Total Assets = Total Liabilities + Owner's Equity every year ($194,956 / $201,454 / $219,724). Net PP&E = prior year − depreciation + the March inventory additions ($9,200 in Year 2, $53,200 in Year 3). Year 2–3 insurance installments are paid inside the fiscal year, so no prepaid or payable remains on February 28.
+> **Validation:** Total Assets = Total Liabilities + Owner's Equity every year ($194,510 / $199,826 / $217,740). Net PP&E = prior year − depreciation + the March inventory additions ($9,400 in Year 2, $47,800 in Year 3). Year 2–3 insurance installments are paid inside the fiscal year, so no prepaid or payable remains on February 28.
 
 ### Break-Even Analysis
 
 | Item | Value |
 |------|-------|
-| Annual fixed costs (Year 2 operating expenses excluding card fees; no one-time items; depreciation excluded) | $151,954 |
+| Annual fixed costs (Year 2 operating expenses excluding card fees; no one-time items; depreciation excluded) | $150,454 |
 | Average revenue per order (Year 2) | $834.23 |
-| Variable cost per order (crew with payroll tax, sub-rentals, cleaning, fuel, breakage, peak truck rental, card fees) | $277.47 |
-| **Contribution margin per order** | **$556.76 (66.7%)** |
-| **Break-even orders per year** | **273** (about 5.2 a week averaged over the year) |
-| **Break-even revenue (annual, Year 2 basis, before depreciation and interest)** | **$227,681** |
-| Orders needed to also cover loan payments ($30,648 a year) | 328 ($273,603 of revenue) |
+| Variable cost per order (crew with payroll tax, sub-rentals, cleaning, fuel, breakage, peak truck rental, card fees) | $289.71 |
+| **Contribution margin per order** | **$544.52 (65.3%)** |
+| **Break-even orders per year** | **276** (about 5.3 a week averaged over the year) |
+| **Break-even revenue (annual, Year 2 basis, before depreciation and interest)** | **$230,501** |
+| Orders needed to also cover loan payments ($30,648 a year) | 333 ($277,455 of revenue) |
 
-> **Validation:** Break-even orders = $151,954 ÷ $556.76 = 273, and 273 × $834.23 = $227,681, which is 70% of Year 2 revenue. The fixed costs include Marcus's $46,000 salary, so break-even means the owner is paid. Year 2 plans 390 orders, above both lines.
+> **Validation:** Break-even orders = $150,454 ÷ $544.52 = 276, and 276 × $834.23 = $230,501, which is 71% of Year 2 revenue. The fixed costs include Marcus's $46,000 salary, so break-even means the owner is paid. Year 2 plans 390 orders, above both lines.
 
-> **Lender view — debt service coverage (EBITDA ÷ $30,648 annual debt service):** Year 1 1.31× as reported (1.89× before one-time startup costs); Year 2 2.13×; Year 3 2.91×, against the 1.25× many lenders look for. Month-end cash never falls below $24,346 (March 2027).
+> **Lender view — debt service coverage (EBITDA ÷ $30,648 annual debt service):** Year 1 1.23× as reported (1.81× before one-time startup costs); Year 2 2.02×; Year 3 2.80×, against the 1.25× many lenders look for. Month-end cash never falls below $33,867 (March 2027).
 ---
 ---
 
@@ -570,7 +595,7 @@
 - Never name a real rental company, venue, caterer, landlord, school or church. Real places are fine as places. Brands are fine where the plan needs them (Isuzu, Google Business Profile, Instagram, Facebook, Nextdoor, The Knot).
 - NO banned AI terms (see Appendix).
 
-**Facts that must stay identical everywhere:** Canopywell Party Rentals · a 2,200 sq ft flex warehouse unit with a roll-up door and loading area in a light-industrial area near Northeast Philadelphia Airport, a few minutes from Roosevelt Boulevard (U.S. 1) · service area: Northeast Philadelphia, Lower Bucks County and eastern Montgomery County, in three delivery zones · owner Marcus Ellery (36), first-time owner, seven years at a suburban Philadelphia tent and event rental company (crew member, crew lead, then operations coordinator) · opens Monday, March 1, 2027; fiscal year March–February (Year 1 = March 2027 – February 2028) · four order types: drop-off tables & chairs ($331), backyard tent party ($1,078), large event ($2,900), block party & community order ($569); average order $834; prices flat for three years · orders 325 / 390 / 468 · revenue $271,125 / $325,350 / $390,420 · net income −$919 / $23,767 / $38,904 · ending cash (end of February) $70,436 / $97,414 / $102,804 · cash low $24,346 in March 2027 · $160,000 7-year term loan from Brindlewood Bank (8.75%, $2,554.00/month) + $45,000 owner equity = $205,000 · 10% damage waiver on every order · 30% deposit on tent and large-event orders · launch inventory: 7 frame tents (3 × 20×20, 3 × 20×30, 1 × 20×40), 8 canopies, 700 chairs, 98 tables, 250 linens, 6 heaters · one used 16-ft box truck with liftgate + a 16-ft enclosed trailer; a second used box truck in Year 3 · crew $19.00 / $19.75 / $20.50 an hour, 2,400 crew hours in Year 1 · owner salary $40,000 / $46,000 / $52,000 · seasonal warehouse and booking assistant from Year 2 · break-even 273 orders a year ($227,681) · DSCR 1.31× / 2.13× / 2.91× (1.89× in Year 1 before one-time costs) · buy rule: add inventory when a peak weekend would use more than 90% of what's owned, or when an item was sub-rented on six or more weekends in a season.
+**Facts that must stay identical everywhere:** Canopywell Party Rentals · a 2,200 sq ft flex warehouse unit with a roll-up door and loading area in a light-industrial area near Northeast Philadelphia Airport, a few minutes from Roosevelt Boulevard (U.S. 1) · service area: Northeast Philadelphia, Lower Bucks County and eastern Montgomery County, in three delivery zones · owner Marcus Ellery (36), first-time owner, seven years at a suburban Philadelphia tent and event rental company (crew member, crew lead, then operations coordinator) · opens Monday, March 1, 2027; fiscal year March–February (Year 1 = March 2027 – February 2028) · four order types: drop-off tables & chairs ($331), backyard tent party ($1,078), large event ($2,900), block party & community order ($569); average order $834; prices flat for three years · orders 325 / 390 / 468 · revenue $271,125 / $325,350 / $390,420 · net income −$1,365 / $22,585 / $38,548 · ending cash (end of February) $76,098 / $99,602 / $106,864 · cash low $33,867 in March 2027 · $160,000 7-year term loan from Brindlewood Bank (8.75%, $2,554.00/month) + $45,000 owner equity = $205,000 · 10% damage waiver on every order · 30% deposit on tent and large-event orders · launch inventory: 7 frame tents (3 × 20×20, 3 × 20×30, 1 × 20×40), 8 canopies, 700 chairs, 98 tables, 250 linens, 6 heaters · one used 16-ft box truck with liftgate + a 16-ft enclosed trailer; a second used box truck in Year 3 · crew $20.50 / $21.25 / $22.00 an hour, 2,400 crew hours in Year 1 · owner salary $40,000 / $46,000 / $52,000 · seasonal warehouse and booking assistant from Year 2 · break-even 276 orders a year ($230,501) · DSCR 1.23× / 2.02× / 2.80× (1.81× in Year 1 before one-time costs) · buy rule: add inventory when a peak weekend would use more than 90% of what's owned, or when an item was sub-rented on six or more weekends in a season.
 
 ### Section Priority Labels
 
@@ -622,8 +647,8 @@ Cover, in this order:
 2. **Why now (one linked figure):** U.S. event rental revenue is forecast to grow 9.5% in 2026, to $6.2 billion (External Links row 1; link once). One plain line on what it means: people are spending on gatherings again, and most of that spending goes to local companies that can deliver on a Saturday morning.
 3. **Who rents and how Canopywell competes (two sentences):** families hosting graduations, birthdays, communions and showers; block parties, churches and community groups; and caterers and planners who need a reliable rental partner. It competes on on-time delivery, clean equipment, clear prices with delivery shown up front, and tents installed by a trained crew.
 4. **Owner, in two lines:** Marcus Ellery spent seven years at a suburban Philadelphia tent and event rental company, moving from crew member to crew lead to operations coordinator, where he built load sheets, scheduled crews and arranged sub-rentals with other companies. Then one vision sentence (e.g., to be the rental company Northeast Philadelphia families call first for every graduation and block party).
-5. **Headline results:** 325 orders in Year 1 at a $834 average order; revenue $271,125 → $390,420; net income −$919 in Year 1 (after $17,800 of one-time costs), then $23,767 and $38,904; debt coverage 2.13× in Year 2. One sentence on the seasons: the plan holds a $20,640 cash reserve, and month-end cash never falls below $24,346.
-6. **Funding (last):** "a $160,000, 7-year term loan from Brindlewood Bank at 8.75% interest," plus $45,000 of Marcus's savings, $205,000 in all. Use of funds in one sentence: $79,060 of rental inventory, $54,500 for the box truck and trailer, $12,900 for racking, tools and technology, $20,100 of prepaid insurance and the lease deposit, $17,800 of launch costs, and a $20,640 working capital reserve.
+5. **Headline results:** 325 orders in Year 1 at a $834 average order; revenue $271,125 → $390,420; net income −$1,365 in Year 1 (after $17,800 of one-time costs), then $22,585 and $38,548; debt coverage 2.02× in Year 2. One sentence on the seasons: the plan holds a $30,280 cash reserve, and month-end cash never falls below $33,867.
+6. **Funding (last):** "a $160,000, 7-year term loan from Brindlewood Bank at 8.75% interest," plus $45,000 of Marcus's savings, $205,000 in all. Use of funds in one sentence: $80,820 of rental inventory, $44,500 for the box truck and trailer, $12,900 for racking, tools and technology, $18,700 of prepaid insurance and the lease deposit, $17,800 of launch costs, and a $30,280 working capital reserve.
 
 Lead into the chart with a bridge line, e.g., "Here is how revenue builds over the first three years:".
 > [Visual brief: Stacked area chart, Years 1–3, revenue by order type. Drop-off tables & chairs $49,650 / $59,580 / $71,496; backyard tent parties $134,750 / $161,700 / $194,040; large events $72,500 / $87,000 / $104,400; block party & community orders $14,225 / $17,070 / $20,484. Total printed above each year: $271,125, $325,350, $390,420.]
@@ -667,10 +692,11 @@ Bonus Read: [What Lenders & Investors Look for in a Business Plan](https://upmet
 > 🔗 Transition from previous: "Canopywell's service area is dense with the kind of households that host at home."
 > 🚫 Avoid: The data opens the chapter, before any H3 (decision 118), big to small: industry → local households → local celebrations. Each figure gets one plain "what it means" line. No "According to…". No social-media or forum figures. Don't repeat the Executive Summary's 9.5% figure; use the 2027–2028 growth from row 1 instead. Don't use a two-column data table (the last plan did); use short paragraphs. Don't estimate how many households rent party equipment (no source).
 
-Open with the data in **three short paragraphs** (about 40–50 words each), each one figure plus one plain line on what it means for Canopywell:
-> 1. **Industry:** event rental revenue is expected to keep growing after 2026, by 8.3% in 2027 and 6.4% in 2028 (External Links row 1; link once here). What it means: demand for rented tents, tables and chairs is still rising, so a new local company is entering a growing category, not fighting over a shrinking one.
-> 2. **Local households:** Philadelphia has about 702,600 households and 1.57 million people (2024; External Links row 2; link once). Households average 2.2 people, and many live in rowhouses and twins with small yards, driveways and blocks that close for a party. What it means: lots of hosts within a short drive, and many need a tent that stands on pavement with weights instead of stakes.
-> 3. **Local celebrations:** Philadelphia's block parties are a city custom, run through Streets Department permits, and in 2026 the city backed 250 extra block parties for its 250th-anniversary celebrations (External Links row 3; link once). What it means: every summer, neighborhood groups need chairs, tables and canopies at low prices, which is the Block Party Bundle.
+Open with the data in **four short paragraphs** (about 40 words each), big to small, each one figure plus one plain line on what it means for Canopywell:
+> 1. **Industry:** event rental revenue is expected to keep growing after 2026, by 8.3% in 2027 and 6.4% in 2028 (External Links row 1; link once here). What it means: demand for rented tents, tables and chairs is still rising, so a new local company is entering a growing category.
+> 2. **Local households:** Philadelphia has about 702,600 households and 1.57 million people (2024; External Links row 2; link once). What it means: a large base of hosts within a short drive. Much of Northeast Philadelphia is rowhouses and twins with small yards and driveways, so many tents stand on pavement with weights instead of stakes.
+> 3. **Graduations:** public high schools in Philadelphia, Bucks and Montgomery counties graduated about 28,600 students in 2024–25 (12,316 in Philadelphia, 9,152 in Montgomery, 7,121 in Bucks; External Links row 3; link once). What it means: graduation parties fill late May and June every year, which is why the Backyard Tent Party is built for 40–60 guests.
+> 4. **Block parties:** block parties are a Philadelphia custom run through Streets Department permits, and in 2026 the city backed 250 extra block parties for its 250th-anniversary celebrations (External Links row 4; link once). What it means: every summer, neighborhood groups need chairs, tables and canopies at low prices, which is the Block Party Bundle.
 
 ##### H3: When Demand Peaks
 > ~170 words, prose + a calendar visual. Party rental in Philadelphia follows the school and church calendar and the weather. Spring brings First Communions and baptisms (April–May), Mother's Day and showers; late May and June are graduation season, the busiest weeks of the year; summer is block parties, birthdays and family reunions; September and October bring fall festivals, church events and outdoor parties with heaters; November and December bring indoor holiday parties that need tables, chairs and linens but no tents; January and February are quiet. In Year 1, May and June bring 35% of revenue, and November–February 10%. One sentence on what it changes: Canopywell buys inventory for a normal June weekend, sub-rents for the busiest ones, and plans its cash around a slow winter (see Operations and the Financial Plan).
@@ -683,7 +709,7 @@ Open with the data in **three short paragraphs** (about 40–50 words each), eac
 > 2. **Block parties and neighborhood groups:** block captains and civic associations that close a street for a day in summer and need 40–80 chairs, tables and a few canopies at a low price. They book in spring and often come back every year.
 > 3. **Churches, schools and community organizations:** parishes, PTAs, youth leagues and nonprofits running picnics, festivals, fundraisers and graduations, often on the same weekends every year. They need clear invoices, a certificate of insurance and a tent permit handled for them.
 > 4. **Caterers, planners and small venues:** event professionals who need a reliable partner for tents, tables and linens on short notice. Fewer orders, but larger ones, booked months ahead and repeated all season.
-> Close with the market-size line (spec requirement), using the data block: Canopywell needs about 325 orders in Year 1, about 12 on a busy June weekend. Philadelphia alone has about 702,600 households, so 325 orders is roughly one order for every 2,200 households in the city, before counting Lower Bucks and eastern Montgomery counties, churches, schools and trade accounts. The plan needs a small share of a large local market, not a big one.
+> Close with the market-size line (spec requirement), using the data block: Canopywell needs about 325 orders in Year 1, about 12 on a busy June weekend. Northeast Philadelphia alone, Canopywell's Zone 1 core, has about 163,000 households and 424,000 people (2020–2024 Census estimates; plain statement, no link). 325 orders a year is about one order for every 500 of those households, before counting the rest of the city, Lower Bucks and eastern Montgomery counties, churches, schools and trade accounts. The plan needs a small share of a large local market.
 
 ##### H3: Competition
 > ~280 words + positioning map. Prose, not a table (the last plans used tables or numbered paragraphs). Label every competitor type **Direct** or **Indirect** (decision 78). No "Competitive Advantage" heading. Never name a real company.
@@ -771,9 +797,9 @@ Learn More: [How to Forecast Revenue: Step-by-Step Guide + Example](https://upme
 ##### H3: Crew and Staffing
 > ~160 words. One lead-in line, then **short bullets** (the previous H3 is prose):
 > - **Marcus Ellery, owner (full-time, all year):** sales, quotes, scheduling and load sheets; drives the truck and leads tent installs on most weekends.
-> - **Part-time crew (two in Year 1, three to four by Year 3, March–October):** $19.00 an hour in Year 1 ($19.75 and $20.50 after), paid for hours worked on orders: loading, delivery, setup, pickup and cleaning; about 15–25 hours a week each in season, plus a few winter holiday orders.
+> - **Part-time crew (two in Year 1, three to four by Year 3, March–October):** $20.50 an hour in Year 1 ($21.25 and $22.00 after), paid for hours worked on orders: loading, delivery, setup, pickup and cleaning; about 15–25 hours a week each in season, plus a few winter holiday orders.
 > - **Seasonal warehouse and booking assistant (from Year 2, March–October, about 20 hours a week):** answers calls and messages, confirms orders, checks returns in and runs cleaning days, so Marcus can spend more time on trade accounts.
-> One closing line: crew hours total 2,400 in Year 1 and 3,456 by Year 3; every crew member is trained on tent installation, lifting and truck loading before the first job, and the crew lead holds a valid driver's license for the box truck (no commercial license needed under 26,001 pounds).
+> One closing line: crew hours total 2,400 in Year 1 and 3,456 by Year 3; the $20.50 rate sits close to the Philadelphia-area median for hand laborers ($20.89 an hour in May 2025) and well above Pennsylvania's $7.25 minimum, which matters for keeping trained crew from one season to the next (plain statement, no link); every crew member is trained on tent installation, lifting and truck loading before the first job, and the crew lead holds a valid driver's license for the box truck (no commercial license needed under 26,001 pounds).
 
 ##### H3: Cleaning, Repairs and Inventory Tracking
 > ~170 words, prose (the previous H3 is a list). Every item comes back to the warehouse before it goes out again: chairs and tables are wiped and checked for cracks, tent tops are cleaned and dried before they're folded (a wet tent left folded mildews), and linens go to a commercial laundry and come back pressed. Damaged items are tagged in the booking software and pulled until they're fixed or replaced. The software also keeps a rental count for every item type, so Marcus knows which tents, tables and linens earn their space. Tent fabric and frame repairs wait for the winter months. One sentence on the damage waiver: the 10% waiver covers accidental damage, while lost items and misuse are charged at replacement cost.
@@ -784,17 +810,17 @@ Learn More: [How to Forecast Revenue: Step-by-Step Guide + Example](https://upme
 > Paragraph 2, why it's smarter at the start: it lets a small company say yes to large orders without buying equipment it would use a few times a year. A Full Event Setup with a dance floor brings in about $2,900; the sub-rented items are a small part of it, and the rest is Canopywell's own tents, tables, chairs, delivery and setup. Saying no to the dance floor often means losing the whole order. It also keeps cash in the business: a 30×60 tent costs about $16,500 to buy, money Canopywell needs for its first winter.
 > Paragraph 3, the trade-off: Canopywell keeps less on a sub-rented item than on its own equipment, the other company's gear must be checked as carefully as its own, and on the busiest weekends the items may not be available, so Marcus books sub-rentals as soon as an order is confirmed.
 > Lead into the table with a bridge line, e.g., "Here is how the numbers compare for three items Canopywell sub-rents:". Render the **Sub-Rent or Buy** table from Section 6B.
-> Closing paragraph, the buy rule: owning only pays once an item is booked about three to four times a year, and only if the next season looks the same. So Canopywell buys an item after it has been sub-rented on six or more weekends in a season, and buys more of its core items (chairs, tables, 20×20 and 20×30 tents) when a peak weekend would use more than 90% of what it owns. Year 1 sub-rentals are 5.1% of revenue.
+> Closing paragraph, the buy rule: owning only pays once an item is booked about three to four times a year, and only if the next season looks the same. So Canopywell buys an item after it has been sub-rented on six or more weekends in a season, and buys more of its core items (chairs, tables, 20×20 and 20×30 tents) when a peak weekend would use more than 90% of what it owns. One plain line that this is how established operators decide too: one tent rental owner describes buying an item once he was subrenting it five or six times a year (plain statement, no link; External Links row 8). Year 1 sub-rentals are 5.1% of revenue.
 
 Bonus Read: [How to Plan Major Purchases for Small Business (Without Hurting Cashflow)](https://upmetrics.co/blog/purchase-planning-for-small-businesses) (end of this H3, pale-blue box)
 
 ##### H3: Getting Through the Winter
-> ~150 words, prose. From November to February, Canopywell earns about 10% of its revenue and still pays rent, insurance, the loan and Marcus's salary. Four things carry it: (1) indoor holiday parties, church dinners and office events that rent tables, chairs, linens and heaters without tents; (2) the crew is part-time and seasonal, so winter labor is only what holiday orders need; (3) tent and frame repairs, cleaning and the inventory count happen in January, when there's time; (4) spring deposits: tent and large-event customers pay 30% when they book, and graduation bookings start arriving in January. The plan also starts with a $20,640 cash reserve, and the cash chart in the Financial Plan shows the winter dip. One sentence: the business still uses about $25,100 of cash from November through February in Year 1.
+> ~150 words, prose. From November to February, Canopywell earns about 10% of its revenue and still pays rent, insurance, the loan and Marcus's salary. Four things carry it: (1) indoor holiday parties, church dinners and office events that rent tables, chairs, linens and heaters without tents; (2) the crew is part-time and seasonal, so winter labor is only what holiday orders need; (3) tent and frame repairs, cleaning and the inventory count happen in January, when there's time; (4) spring deposits: tent and large-event customers pay 30% when they book, and graduation bookings start arriving in January. The plan also starts with a $30,280 cash reserve, and the cash chart in the Financial Plan shows the winter dip. One sentence: the business still uses about $25,500 of cash from November through February in Year 1.
 
 Learn More: [12 Cash Flow Problems Every Business Faces (And How to Fix Each One)](https://upmetrics.co/blog/cash-flow-problems) (alternate guide link; use only if the writer drops one of the others)
 
 ##### H3: Permits, Licenses and Insurance
-> ~140 words. Plain **prose in two short paragraphs** (recent plans used a numbered filing list and bullets), plain statements, no links. Paragraph 1, what Canopywell holds: a Pennsylvania LLC; a Philadelphia Commercial Activity License and Business Income & Receipts Tax account; a Pennsylvania sales tax license (rentals are taxed at 8% in Philadelphia and 6% in the suburbs, collected on top of the price); registration for the box truck and trailer. Paragraph 2, tents and insurance: the City of Philadelphia requires a permit from L&I for any tent over 400 sq ft ($126 a tent, plus $200 for weekend setup; the installer must hold a Commercial Activity License, a BIRT account and $1 million of liability coverage, and tent fabric must meet the NFPA 701 flame standard); L&I reviews applications within five business days, so Canopywell files at least two weeks ahead, and suburban townships have their own rules, so Canopywell checks the customer's address when it quotes and files the permit for the customer. Insurance: general liability of $1 million per occurrence and $2 million aggregate, inland marine coverage on the equipment, commercial auto for the truck and trailer, and workers' compensation ($14,200 in Year 1); venues and churches get a certificate of insurance with each order.
+> ~140 words. Plain **prose in two short paragraphs** (recent plans used a numbered filing list and bullets), plain statements, no links. Paragraph 1, what Canopywell holds: a Pennsylvania LLC; a Philadelphia Commercial Activity License (free) and a Business Income & Receipts Tax account (filed every year; there is no small-business exemption); a Pennsylvania sales tax license (rentals and delivery charges are taxed at 8% in Philadelphia and 6% in the suburbs, collected on top of the price); registration for the box truck and trailer. Paragraph 2, tents and insurance: the City of Philadelphia requires a permit from L&I for any tent over 400 sq ft ($126 a tent, plus $200 for weekend setup; the installer must hold a Commercial Activity License, a BIRT account and $1 million of liability coverage, and tent fabric must meet the NFPA 701 flame standard); L&I reviews applications within five business days, so Canopywell files at least two weeks ahead, and suburban townships have their own rules, so Canopywell checks the customer's address when it quotes and files the permit for the customer. Insurance: general liability of $1 million per occurrence and $2 million aggregate, inland marine coverage on the equipment, commercial auto for the truck and trailer, and workers' compensation ($12,800 in Year 1); venues and churches get a certificate of insurance with each order.
 
 > 💡 ProTip: Pro Tip: Before you buy a piece of specialty equipment, count how many times you sub-rented it last season. If it's fewer than six weekends, keep renting it.
 
@@ -809,7 +835,7 @@ Learn More: [12 Cash Flow Problems Every Business Faces (And How to Fix Each One
 
 ##### H3: Startup Costs
 > Render **startup_costs**.
-> [Visual brief: Donut chart of the $205,000 startup budget: rental inventory $79,060; box truck and trailer $54,500; racking, tools and technology $12,900; working capital reserve $20,640; launch costs $17,800; prepaid insurance and lease deposit $20,100. Center label: "$205,000."]
+> [Visual brief: Donut chart of the $205,000 startup budget: rental inventory $80,820; box truck and trailer $44,500; racking, tools and technology $12,900; working capital reserve $30,280; launch costs $17,800; prepaid insurance and lease deposit $18,700. Center label: "$205,000."]
 
 ##### H3: Source of Funds
 > Render **source_of_funds**.
@@ -827,28 +853,28 @@ Learn More: [What Are Business Plan Assumptions?](https://upmetrics.co/blog/busi
 
 ##### H3: Projected Profit & Loss
 > Render **income_statement**.
-> [Visual brief: 100% stacked column chart, Years 1–3, "Where each revenue dollar goes": cost of rentals (29%, 30%, 31%), operating expenses (56%, 50%, 47%), depreciation and interest (15%, 13%, 13%), pre-tax profit (-0%, 7%, 10%).]
+> [Visual brief: 100% stacked column chart, Years 1–3, "Where each revenue dollar goes": cost of rentals (31%, 32%, 32%), operating expenses (56%, 49%, 46%), depreciation and interest (14%, 12%, 12%), pre-tax profit (-1%, 7%, 10%).]
 
 > 📣 **Upmetrics tip (place here, after the P&L visual brief):** a short, general prompt to use the [Upmetrics financial forecasting tool](https://upmetrics.co/features/financial-forecasting) to build the reader's own projections from order counts, average order and crew hours, worded fresh. One product link only.
 
 ##### H3: Projected Balance Sheet
 > Render **opening_balance_sheet** and **balance_sheet**.
-> [Visual brief: Line chart, opening and Years 1–3, three lines: total assets ($205,000, $194,956, $201,454, $219,724), term loan balance ($160,000, $142,668, $123,757, $103,123), owner's equity ($45,000, $44,081, $67,848, $106,752).]
+> [Visual brief: Line chart, opening and Years 1–3, three lines: total assets ($205,000, $194,510, $199,826, $217,740), term loan balance ($160,000, $142,668, $123,757, $103,123), owner's equity ($45,000, $43,635, $66,220, $104,768).]
 
 ##### H3: Projected Cash Flow
 > Render **cash_flow**, then the **Year 1 month-end cash** chart (render the monthly table as a chart only).
-> [Visual brief: Column chart of Year 1 month-end cash, March 2027 to February 2028: Mar $24,346, Apr $37,920, May $52,891, Jun $69,946, Jul $78,641, Aug $86,592, Sep $92,494, Oct $95,584, Nov $88,637, Dec $82,982, Jan $75,129, Feb $70,436. Shade November–February and label it "Winter: $25,100 used." Label the March 2027 low ($24,346).]
-> One sentence under the chart (the one allowed exception): cash climbs from spring to October, then the winter months use about $25,100, softened by deposits for spring tent parties.
+> [Visual brief: Column chart of Year 1 month-end cash, March 2027 to February 2028: Mar $33,867, Apr $47,123, May $61,418, Jun $77,756, Jul $86,053, Aug $93,567, Sep $98,952, Oct $101,643, Nov $94,578, Dec $88,763, Jan $80,851, Feb $76,098. Shade November–February and label it "Winter: $25,500 used." Label the March 2027 low ($33,867).]
+> One sentence under the chart (the one allowed exception): cash climbs from spring to October, then the winter months use about $25,500, softened by deposits for spring tent parties.
 
 Bonus Read: [How to Read a Cash Flow Statement](https://upmetrics.co/blog/how-to-read-cash-flow-statement) (below the monthly cash chart, pale-blue box)
 
 ##### H3: Break-Even Analysis
 > Render **break_even**.
-> [Visual brief: Break-even chart, Year 2. X-axis: orders a year, 0 to 450. Revenue line from $0 rising $834.23 an order. Total cost line starting at $151,954 fixed costs, rising $277.47 an order. Lines cross at 273 orders ($227,681). Loss area left of the crossing, profit area right. A dotted marker at the Year 2 plan, 390 orders.]
+> [Visual brief: Break-even chart, Year 2. X-axis: orders a year, 0 to 450. Revenue line from $0 rising $834.23 an order. Total cost line starting at $150,454 fixed costs, rising $289.71 an order. Lines cross at 276 orders ($230,501). Loss area left of the crossing, profit area right. A dotted marker at the Year 2 plan, 390 orders.]
 
 ##### H3: Loan Repayment and Debt Coverage
-> Render a small table (Year | Interest | Principal | Ending balance | EBITDA | Debt coverage) from Section 6B: Year 1 $13,316 / $17,332 / $142,668 / $40,237 / 1.31×; Year 2 $11,737 / $18,911 / $123,757 / $65,184 / 2.13×; Year 3 $10,014 / $20,634 / $103,123 / $89,238 / 2.91×. One sentence under it (the one allowed exception): Year 1 coverage is 1.89× before one-time startup costs.
-> [Visual brief: Dot plot of debt coverage by year (1.31×, 2.13×, 2.91×) with a dashed vertical line at 1.25× labeled "Typical lender minimum."]
+> Render a small table (Year | Interest | Principal | Ending balance | EBITDA | Debt coverage) from Section 6B: Year 1 $13,316 / $17,332 / $142,668 / $37,659 / 1.23×; Year 2 $11,737 / $18,911 / $123,757 / $61,910 / 2.02×; Year 3 $10,014 / $20,634 / $103,123 / $85,710 / 2.80×. One sentence under it (the one allowed exception): Year 1 coverage is 1.81× before one-time startup costs.
+> [Visual brief: Dot plot of debt coverage by year (1.23×, 2.02×, 2.80×) with a dashed vertical line at 1.25× labeled "Typical lender minimum."]
 
 ---
 
@@ -859,9 +885,9 @@ Bonus Read: [How to Read a Cash Flow Statement](https://upmetrics.co/blog/how-to
 > 🔗 Transition from previous: (last chapter; open plainly with the hook)
 > 🚫 Avoid: Don't use a risk table or numbered bold-label risk paragraphs (the last two plans did); use the stress table plus bold-label bullets. No outside figures. No "Most of our risks come from…". Don't hide the stress result.
 
-Open with one line, then render the **Rainy-Season Stress Test** table from Section 6B. One sentence under it: Year 2 coverage stays at 1.25× unless revenue falls more than 12.4%, and a weaker year also delays the Year 3 purchases under the buy rule.
+Open with one line, then render the **Rainy-Season Stress Test** table from Section 6B. One sentence under it: Year 2 coverage stays at 1.25× unless revenue falls more than 11.1%, and a weaker year also delays the Year 3 purchases under the buy rule.
 Then **five bold-label bullets**, one or two sentences each:
-- **A rainy spring or a weak graduation season:** most costs that grow with orders (crew hours, sub-rentals, cleaning, fuel) fall when orders fall; the $20,640 reserve, deposits on spring bookings and purchases that wait for the buy rule protect cash.
+- **A rainy spring or a weak graduation season:** most costs that grow with orders (crew hours, sub-rentals, cleaning, fuel) fall when orders fall; the $30,280 reserve, deposits on spring bookings and purchases that wait for the buy rule protect cash.
 - **A tent failure in high wind:** every tent is staked or ballasted to the maker's specification by a trained crew, Marcus won't install above the wind limit, and general liability insurance covers what's left.
 - **Damaged or lost equipment:** the 10% damage waiver, replacement charges for losses, and inspection of every item on return; a small budget for breakage is already in the cost of rentals.
 - **Sold-out weekends:** sub-rental partners, a second rented truck on peak weekends, and the buy rule that adds chairs, tables and tents as demand grows.
@@ -876,18 +902,18 @@ Bonus Read: [Business Contingency Plan: Step-by-Step Guide](https://upmetrics.co
 > 4 FAQs. None of these questions is answered directly in the plan chapters above.
 
 **Q1:** How much does it cost to start a party rental business?
-**A1:** Say that this sample needs $205,000 for a company with seven frame tents, 700 chairs, 98 tables and a used box truck, and that most of it is equipment: $79,060 of rental inventory and $54,500 for the truck and trailer. Explain that the rest covers racking and tools, insurance, launch costs and a $20,640 working capital reserve for the first spring and winter. Mention that a garage-based table-and-chair business can start for far less, but can't install tents, carry commercial insurance or take large orders. Suggest checking local warehouse rents and equipment prices with a [Small Business Development Center](https://upmetrics.co/blog/small-business-development-centers-sbdc).
+**A1:** Say that this sample needs $205,000 for a company with seven frame tents, 700 chairs, 98 tables and a used box truck, and that most of it is equipment: $80,820 of rental inventory and $44,500 for the truck and trailer. Explain that the rest covers racking and tools, insurance, launch costs and a $30,280 working capital reserve for the first spring and winter. Mention that a garage-based table-and-chair business can start for far less, but can't install tents, carry commercial insurance or take large orders. Suggest checking local warehouse rents and equipment prices with a [Small Business Development Center](https://upmetrics.co/blog/small-business-development-centers-sbdc).
 **Source:** Section 6B + Reference 2 + editorial judgment
 **Why not in main content:** The plan states Canopywell's costs; this answers the general question readers bring from search.
 
 **Q2:** Is a party rental business profitable?
-**A2:** Explain that it can be once the equipment goes out often enough to cover the warehouse, insurance, the truck and the owner's pay. In this sample, each order keeps about $557 after crew wages, sub-rentals, cleaning, fuel and card fees, and break-even is about 273 orders a year; Year 2 plans 390. Explain the method: add up yearly fixed costs, then divide by what each order leaves after its direct costs. Add that charging separately for delivery and setup is what keeps small orders profitable.
+**A2:** Explain that it can be once the equipment goes out often enough to cover the warehouse, insurance, the truck and the owner's pay. In this sample, each order keeps about $545 after crew wages, sub-rentals, cleaning, fuel and card fees, and break-even is about 276 orders a year; Year 2 plans 390. Explain the method: add up yearly fixed costs, then divide by what each order leaves after its direct costs. Add that charging separately for delivery and setup is what keeps small orders profitable.
 **Source:** Section 6B (break-even, per-order economics) + editorial judgment
 **Why not in main content:** The plan gives Canopywell's numbers; this explains the method for readers.
 
 **Q3:** What licenses and insurance does a party rental business need?
 **A3:** List what most owners need: a registered business (the steps to [form an LLC](https://upmetrics.co/blog/how-to-form-an-llc)), a local business license, a sales tax license (rentals of tables, chairs and tents are taxable in many states), vehicle registration, and tent permits where the city or township requires them, often for tents over 400 sq ft. Insurance usually includes general liability, coverage for the equipment, commercial auto and workers' compensation once there are employees. Mention that venues often ask for a certificate of insurance before delivery.
-**Source:** External Links rows 4–6 + Operations chapter + editorial judgment
+**Source:** External Links rows 5, 6 and 12 + Operations chapter + editorial judgment
 **Why not in main content:** The plan covers Canopywell's Philadelphia setup; this gives the general answer for readers elsewhere.
 
 **Q4:** How do I adapt this sample plan for my own party rental business?
@@ -926,7 +952,7 @@ Bonus Read: [Business Contingency Plan: Step-by-Step Guide](https://upmetrics.co
 
 ### Formatting Elements
 
-1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after the introduction — Content: business (tent, table and chair rental with delivery and setup in Northeast Philadelphia), ask ($160,000 term loan from Brindlewood Bank + $45,000 owner savings), packages ($331 to $2,900), Year 1–3 revenue ($271,125 / $325,350 / $390,420), Year 1 result and cash low (−$919; $24,346 in March 2027), Year 2 debt coverage (2.13×).
+1. 📋 **TL;DR / Quick Summary Box** — Include: Yes — Placement: right after the introduction — Content: business (tent, table and chair rental with delivery and setup in Northeast Philadelphia), ask ($160,000 term loan from Brindlewood Bank + $45,000 owner savings), packages ($331 to $2,900), Year 1–3 revenue ($271,125 / $325,350 / $390,420), Year 1 result and cash low (−$1,365; $33,867 in March 2027), Year 2 debt coverage (2.02×).
 2. 💡 **ProTip Callout Boxes** — Include: Yes — Number: 1 per chapter where the outline gives one.
 3. 📈 **Data Callout / Stat Highlight** — Include: Yes — Number: 2 — Placement: Market Analysis ("May and June: 35% of Year 1 revenue"), Operations → sub-renting ("Owning a specialty item pays only after 3–4 bookings a year").
 4. ✅ **Checklist Summary** — Include: No (licenses are prose this time).
@@ -953,7 +979,7 @@ Bonus Read: [Business Contingency Plan: Step-by-Step Guide](https://upmetrics.co
 - **Sub-renting with real numbers.** None of the references explains it. Canopywell shows what it keeps on a sub-rented dance floor, Chiavari chairs and a 30×60 tent against owning them, and the point where buying pays (about three to four bookings a year).
 - **Inventory sized by a rule, not a wish list.** A peak-weekend capacity table and a written buy rule tie every chair, table and tent purchase to how busy the equipment is.
 - **Orders that pay for the truck and the crew.** Four order types with tickets that show delivery, setup and the waiver, and a table of what each order keeps per crew hour.
-- **Seasons told straight.** May and June bring 35% of revenue; the winter uses $25,100 of cash, softened by spring deposits, with a cash low of $24,346.
+- **Seasons told straight.** May and June bring 35% of revenue; the winter uses $25,500 of cash, softened by spring deposits, with a cash low of $33,867.
 - **Real local rules.** Philadelphia's 400 sq ft tent permit rule and Pennsylvania sales tax on rentals shape the packages and the quotes.
 
 ---
